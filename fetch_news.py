@@ -2,8 +2,8 @@
 """
 科技新闻每日抓取脚本
 来源：AI/互联网/大厂相关 RSS 订阅
-输出：~/Plan/news/YYYY-MM-DD.md
-日志：~/Plan/news/news_log.txt
+输出：~/my_repos/news/ai/YYYY-MM-DD.md
+日志：~/my_repos/news/ai/news_log.txt
 """
 import feedparser
 import datetime
@@ -32,7 +32,7 @@ def fetch_feed(url):
         return {"entries": [], "_fetch_error": str(e)}
 
 TODAY = datetime.date.today().isoformat()
-NEWS_DIR = os.path.expanduser("~/Plan/news")
+NEWS_DIR = os.path.expanduser("~/my_repos/news/ai")
 OUTPUT_FILE = os.path.join(NEWS_DIR, f"{TODAY}.md")
 LOG_FILE = os.path.join(NEWS_DIR, "news_log.txt")
 
