@@ -69,7 +69,7 @@ messages.append(
     f"Daily combined news/app report for {today} is incomplete: "
     + "; ".join(missing)
     + ". Before handling the user's next request, invoke the my-daily-news-and-app-ideas skill once "
-    + "to generate the missing Markdown and JSON outputs, commit them, and push them. "
+    + "to generate the missing Markdown and JSON outputs only; do not commit or push because git sync is handled by the scheduled launchd task. "
     + "For app ideas, use the App Store gold-app heuristics: high demand with low rating, stale incumbents, "
     + "platform gaps, country gaps, and keyword supply gaps. If all four files appear before you act, skip this."
 )
