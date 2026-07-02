@@ -255,11 +255,8 @@ def fetch_github_popular_repositories():
             continue
 
         stars = repo.get("stargazers_count", 0)
-        language = repo.get("language") or "Unknown"
         description = clean_summary(repo.get("description") or "")
-        parts = [
-            f"最近 {GITHUB_RECENT_DAYS} 天新建的热门仓库，当前约 {stars} stars，主要语言：{language}。",
-        ]
+        parts = [f"[Stars: {stars}]"]
         if description:
             parts.append(description)
 
