@@ -72,6 +72,7 @@ messages.append(
     + "to generate the missing Markdown and JSON outputs only; do not commit or push because git sync is handled by the scheduled launchd task. "
     + "Before writing final news or app outputs, dedupe against previous dates: use `python3 ~/my_repos/news/fetch_news.py --seen-keys news` for tech-news article/project/post keys, "
     + "and `python3 ~/my_repos/news/fetch_news.py --seen-keys app` for prior app-idea titles/source keys; skip repeats instead of carrying them into the new report. "
+    + "Use `APP` as the source name for app-related generated items/signals. "
     + "For app ideas, use the App Store gold-app heuristics: high demand with low rating, stale incumbents, "
     + "platform gaps, country gaps, and keyword supply gaps. If all four files appear before you act, skip this."
 )

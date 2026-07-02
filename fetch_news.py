@@ -346,8 +346,8 @@ def fetch_zhihu_hot_posts_from_rss():
 
 def add_external_sources(results, seen_keys):
     external_sources = [
-        ("GitHub 热门项目", fetch_github_popular_repositories),
-        ("知乎热门帖子", fetch_zhihu_hot_posts),
+        ("Github", fetch_github_popular_repositories),
+        ("Zhihu", fetch_zhihu_hot_posts),
     ]
     for source_name, fetcher in external_sources:
         try:
