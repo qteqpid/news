@@ -1,172 +1,98 @@
-{
-  "date": "2026-06-29",
-  "title": "科技新闻 2026-06-29",
-  "generated_at": "2026-06-29T03:14:58Z",
-  "sources": [
-    "TechCrunch",
-    "CNBC",
-    "Forbes",
-    "The Straits Times",
-    "36氪",
-    "量子位",
-    "雷峰网",
-    "搜狐",
-    "Shacknews",
-    "Hunted Space",
-    "AI Funding"
-  ],
-  "categories": [
-    {
-      "id": "ai-models",
-      "name": "AI / 大模型动态",
-      "items": [
-        {
-          "title": "OpenAI GPT-5.6 发布节奏受安全审查影响",
-          "summary": "TechCrunch 与 AP 报道称，OpenAI 将 GPT-5.6 Sol 的早期访问限制在部分合作伙伴范围内，原因是美国政府要求进行网络安全相关审查。前沿模型发布正在从“产品节奏”变成“能力、政策与安全边界”共同决定的流程。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-          "published_at": "2026-06-25",
-          "tags": ["AI", "OpenAI", "Policy"]
-        },
-        {
-          "title": "OpenAI 与 Anthropic 的竞争进入政策约束阶段",
-          "summary": "TechCrunch 评论指出，近期 Anthropic Mythos / Fable 与 OpenAI GPT-5.6 的访问限制，显示政府审批正在影响顶级模型的公开发布。对企业客户来说，模型可用性和合规确定性会成为采购时的重要变量。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-          "published_at": "2026-06-26",
-          "tags": ["AI", "Anthropic", "OpenAI", "Regulation"]
-        },
-        {
-          "title": "企业 AI 支出从“堆 token”转向效率约束",
-          "summary": "CNBC 报道，部分企业客户正在重新审视 OpenAI、Anthropic 等服务的 token 成本，开源模型和更高效的云厂商方案成为替代选项。AI 供应商的竞争焦点正从单纯能力领先扩展到成本、延迟和可控性。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-          "published_at": "2026-06-26",
-          "tags": ["AI", "Enterprise", "Cost"]
-        },
-        {
-          "title": "Anthropic 起诉中国大模型团队的争议继续发酵",
-          "summary": "雷峰网报道，Anthropic 针对阿里相关模型蒸馏的指控引发行业讨论。围绕训练数据、模型蒸馏、跨境竞争与证据标准的争议，可能成为大模型商业化阶段的新常态。",
-          "source": "雷峰网",
-          "url": "https://www.leiphone.com/category/yanxishe/vzVNtknYIRqTX0Wv.html",
-          "published_at": "2026-06-26",
-          "tags": ["AI", "Anthropic", "Model distillation", "China"]
-        }
-      ]
-    },
-    {
-      "id": "big-tech",
-      "name": "大科技公司动态",
-      "items": [
-        {
-          "title": "Micron 被市场视为 AI 内存短缺周期的核心受益者",
-          "summary": "TechCrunch 报道称，华尔街正在把 Micron 视为继 Nvidia 后的 AI 受益标的之一，背后是 HBM、DRAM 与数据中心内存需求紧张。AI 基建瓶颈正在从 GPU 扩展到内存、封装、电力和数据中心供应链。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-          "published_at": "2026-06-28",
-          "tags": ["AI infrastructure", "Micron", "Memory"]
-        },
-        {
-          "title": "Ford 因 AI 质量管理不足重新请回资深工程师",
-          "summary": "TechCrunch 报道，Ford 重新聘用 350 名资深工程师，以弥补 AI 和自动化质量系统未能达到预期的问题。这是一个典型信号：工业场景中的 AI 需要专家经验、流程治理和反馈闭环，而不是简单替代人。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-          "published_at": "2026-06-28",
-          "tags": ["AI", "Ford", "Manufacturing"]
-        },
-        {
-          "title": "印度支付网络把 AI 视为下一阶段增长基础设施",
-          "summary": "TechCrunch 报道，NPCI 负责人认为 AI 将参与印度数字支付下一阶段增长，包括获客、风控、欺诈检测与信贷。AI 正在从聊天助手进入高频金融基础设施，但监管、隐私和误判责任会同步放大。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-          "published_at": "2026-06-27",
-          "tags": ["AI", "Fintech", "India"]
-        },
-        {
-          "title": "空间数据中心愿景遭到 SoftBank 质疑",
-          "summary": "TechCrunch 报道，SoftBank 创始人孙正义对 Elon Musk 的轨道 AI 数据中心设想提出质疑，认为短期内地面数据中心建设更关键。AI 算力竞争仍受成本、延迟、发射能力和能源供给约束，科幻式基础设施叙事需要商业验证。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-          "published_at": "2026-06-27",
-          "tags": ["AI infrastructure", "SoftBank", "SpaceX"]
-        }
-      ]
-    },
-    {
-      "id": "capital-funding",
-      "name": "资本与融资",
-      "items": [
-        {
-          "title": "Firmus 与 Nvidia 在印尼 Batam 推进 AI 数据中心",
-          "summary": "The Straits Times 报道，澳大利亚 AI 初创公司 Firmus 计划与 Nvidia 在 Batam 建设数据中心，公司此前在 Nvidia 支持的融资中估值约 55 亿美元。东南亚正在成为 AI 算力与能源布局的新竞争区域。",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/companies-markets/ai-start-up-firmus-to-build-data-centre-in-batam-with-nvidia",
-          "published_at": "2026-06-29",
-          "tags": ["AI infrastructure", "Nvidia", "Data center"]
-        },
-        {
-          "title": "OpenAI 与 Anthropic IPO 预期继续影响 AI 资本市场",
-          "summary": "Forbes 报道，OpenAI 可能把 IPO 时间推迟至 2027，同时 Anthropic Mythos 访问政策也被纳入投资者讨论。前沿 AI 公司的上市路径将同时受到收入增长、推理成本、监管审查和模型发布节奏影响。",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/sandycarter/2026/06/28/openai-eyes-2027-ipo-delay-as-washington-clears-anthropics-mythos-5/",
-          "published_at": "2026-06-28",
-          "tags": ["AI", "IPO", "OpenAI", "Anthropic"]
-        },
-        {
-          "title": "AI 融资追踪显示基础设施与智能体仍是资金密集方向",
-          "summary": "AI Funding 的 2026 年交易追踪显示，AI 投资仍集中在基础设施、金融科技、企业智能体和模型服务层。资金继续流向可直接降低推理成本、提升自动化效率或绑定企业工作流的公司。",
-          "source": "AI Funding",
-          "url": "https://aifunding.me/deals",
-          "published_at": "2026-06-29",
-          "tags": ["AI", "Funding", "Agents"]
-        },
-        {
-          "title": "中国 AI 资本叙事从概念转向产业落地",
-          "summary": "36氪对 2026 年 AI 产业展望指出，资本正在更关注 AI 应用落地、生态协同和商业闭环，而不是单纯“炫技”。国产大模型、具身智能和端侧 AI 的融资逻辑，正在从模型能力转向场景收入。",
-          "source": "36氪",
-          "url": "https://www.36kr.com/p/3621864767980544",
-          "published_at": "2026-01-03",
-          "tags": ["AI", "China", "Funding"]
-        }
-      ]
-    },
-    {
-      "id": "industry-events",
-      "name": "行业与企业事件",
-      "items": [
-        {
-          "title": "中国 AI 行业出现“数据、模型、资本”叠加信号",
-          "summary": "搜狐科技观察称，2026 年 6 月中国 AI 产业出现数据基座、模型能力和资本筛选同时推进的趋势。对创业公司来说，单点模型能力越来越难构成壁垒，行业数据、垂直工作流和分发渠道更关键。",
-          "source": "搜狐",
-          "url": "https://www.sohu.com/a/1036676099_122440928",
-          "published_at": "2026-06",
-          "tags": ["AI", "China", "Industry"]
-        },
-        {
-          "title": "视觉世界模型路线受到更多关注",
-          "summary": "量子位报道，视启未来围绕 Grounding DINO、DINO-X 和隐空间世界模型继续布局，强调 object-centric、action-aligned 与 causality-driven 的视觉原生路线。物理 AI 的竞争正在从“看见”转向“理解对象、预测结果和支持规划”。",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/06/428790.html",
-          "published_at": "2026-06-04",
-          "tags": ["AI", "World model", "Robotics"]
-        },
-        {
-          "title": "Google 母公司 Alphabet 将进入道指的消息继续发酵",
-          "summary": "Shacknews 报道，Alphabet 将取代 Verizon 进入道琼斯工业平均指数。该调整反映科技平台和 AI 云基础设施企业在美国核心股指中的权重进一步提升。",
-          "source": "Shacknews",
-          "url": "https://www.shacknews.com/article/149767/google-googl-replacing-verizon-vz-dow-jones",
-          "published_at": "2026-06-24",
-          "tags": ["Alphabet", "Markets", "Big tech"]
-        },
-        {
-          "title": "AI 工具供给过密，垂直场景成为差异化关键",
-          "summary": "Product Hunt 与 AI 月度榜单显示，AI 代理、创作者工具、表格和幻灯片插件持续密集发布。通用 AI 应用竞争趋于拥挤，能否绑定具体岗位、数据源和复购场景，将决定产品留存。",
-          "source": "Hunted Space",
-          "url": "https://hunted.space/top-products/2026/June/artificial-intelligence",
-          "published_at": "2026-06",
-          "tags": ["AI apps", "Product Hunt", "Agents"]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "OpenAI GPT-5.6 发布节奏受安全审查影响",
+    "summary": "TechCrunch 与 AP 报道称，OpenAI 将 GPT-5.6 Sol 的早期访问限制在部分合作伙伴范围内，原因是美国政府要求进行网络安全相关审查。前沿模型发布正在从“产品节奏”变成“能力、政策与安全边界”共同决定的流程。",
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "OpenAI 与 Anthropic 的竞争进入政策约束阶段",
+    "summary": "TechCrunch 评论指出，近期 Anthropic Mythos / Fable 与 OpenAI GPT-5.6 的访问限制，显示政府审批正在影响顶级模型的公开发布。对企业客户来说，模型可用性和合规确定性会成为采购时的重要变量。",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "企业 AI 支出从“堆 token”转向效率约束",
+    "summary": "CNBC 报道，部分企业客户正在重新审视 OpenAI、Anthropic 等服务的 token 成本，开源模型和更高效的云厂商方案成为替代选项。AI 供应商的竞争焦点正从单纯能力领先扩展到成本、延迟和可控性。",
+    "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+    "source": "CNBC"
+  },
+  {
+    "title": "Anthropic 起诉中国大模型团队的争议继续发酵",
+    "summary": "雷峰网报道，Anthropic 针对阿里相关模型蒸馏的指控引发行业讨论。围绕训练数据、模型蒸馏、跨境竞争与证据标准的争议，可能成为大模型商业化阶段的新常态。",
+    "url": "https://www.leiphone.com/category/yanxishe/vzVNtknYIRqTX0Wv.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Micron 被市场视为 AI 内存短缺周期的核心受益者",
+    "summary": "TechCrunch 报道称，华尔街正在把 Micron 视为继 Nvidia 后的 AI 受益标的之一，背后是 HBM、DRAM 与数据中心内存需求紧张。AI 基建瓶颈正在从 GPU 扩展到内存、封装、电力和数据中心供应链。",
+    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Ford 因 AI 质量管理不足重新请回资深工程师",
+    "summary": "TechCrunch 报道，Ford 重新聘用 350 名资深工程师，以弥补 AI 和自动化质量系统未能达到预期的问题。这是一个典型信号：工业场景中的 AI 需要专家经验、流程治理和反馈闭环，而不是简单替代人。",
+    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "印度支付网络把 AI 视为下一阶段增长基础设施",
+    "summary": "TechCrunch 报道，NPCI 负责人认为 AI 将参与印度数字支付下一阶段增长，包括获客、风控、欺诈检测与信贷。AI 正在从聊天助手进入高频金融基础设施，但监管、隐私和误判责任会同步放大。",
+    "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "空间数据中心愿景遭到 SoftBank 质疑",
+    "summary": "TechCrunch 报道，SoftBank 创始人孙正义对 Elon Musk 的轨道 AI 数据中心设想提出质疑，认为短期内地面数据中心建设更关键。AI 算力竞争仍受成本、延迟、发射能力和能源供给约束，科幻式基础设施叙事需要商业验证。",
+    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Firmus 与 Nvidia 在印尼 Batam 推进 AI 数据中心",
+    "summary": "The Straits Times 报道，澳大利亚 AI 初创公司 Firmus 计划与 Nvidia 在 Batam 建设数据中心，公司此前在 Nvidia 支持的融资中估值约 55 亿美元。东南亚正在成为 AI 算力与能源布局的新竞争区域。",
+    "url": "https://www.straitstimes.com/business/companies-markets/ai-start-up-firmus-to-build-data-centre-in-batam-with-nvidia",
+    "source": "The Straits Times"
+  },
+  {
+    "title": "OpenAI 与 Anthropic IPO 预期继续影响 AI 资本市场",
+    "summary": "Forbes 报道，OpenAI 可能把 IPO 时间推迟至 2027，同时 Anthropic Mythos 访问政策也被纳入投资者讨论。前沿 AI 公司的上市路径将同时受到收入增长、推理成本、监管审查和模型发布节奏影响。",
+    "url": "https://www.forbes.com/sites/sandycarter/2026/06/28/openai-eyes-2027-ipo-delay-as-washington-clears-anthropics-mythos-5/",
+    "source": "Forbes"
+  },
+  {
+    "title": "AI 融资追踪显示基础设施与智能体仍是资金密集方向",
+    "summary": "AI Funding 的 2026 年交易追踪显示，AI 投资仍集中在基础设施、金融科技、企业智能体和模型服务层。资金继续流向可直接降低推理成本、提升自动化效率或绑定企业工作流的公司。",
+    "url": "https://aifunding.me/deals",
+    "source": "AI Funding"
+  },
+  {
+    "title": "中国 AI 资本叙事从概念转向产业落地",
+    "summary": "36氪对 2026 年 AI 产业展望指出，资本正在更关注 AI 应用落地、生态协同和商业闭环，而不是单纯“炫技”。国产大模型、具身智能和端侧 AI 的融资逻辑，正在从模型能力转向场景收入。",
+    "url": "https://www.36kr.com/p/3621864767980544",
+    "source": "36氪"
+  },
+  {
+    "title": "中国 AI 行业出现“数据、模型、资本”叠加信号",
+    "summary": "搜狐科技观察称，2026 年 6 月中国 AI 产业出现数据基座、模型能力和资本筛选同时推进的趋势。对创业公司来说，单点模型能力越来越难构成壁垒，行业数据、垂直工作流和分发渠道更关键。",
+    "url": "https://www.sohu.com/a/1036676099_122440928",
+    "source": "搜狐"
+  },
+  {
+    "title": "视觉世界模型路线受到更多关注",
+    "summary": "量子位报道，视启未来围绕 Grounding DINO、DINO-X 和隐空间世界模型继续布局，强调 object-centric、action-aligned 与 causality-driven 的视觉原生路线。物理 AI 的竞争正在从“看见”转向“理解对象、预测结果和支持规划”。",
+    "url": "https://www.qbitai.com/2026/06/428790.html",
+    "source": "量子位"
+  },
+  {
+    "title": "Google 母公司 Alphabet 将进入道指的消息继续发酵",
+    "summary": "Shacknews 报道，Alphabet 将取代 Verizon 进入道琼斯工业平均指数。该调整反映科技平台和 AI 云基础设施企业在美国核心股指中的权重进一步提升。",
+    "url": "https://www.shacknews.com/article/149767/google-googl-replacing-verizon-vz-dow-jones",
+    "source": "Shacknews"
+  },
+  {
+    "title": "AI 工具供给过密，垂直场景成为差异化关键",
+    "summary": "Product Hunt 与 AI 月度榜单显示，AI 代理、创作者工具、表格和幻灯片插件持续密集发布。通用 AI 应用竞争趋于拥挤，能否绑定具体岗位、数据源和复购场景，将决定产品留存。",
+    "url": "https://hunted.space/top-products/2026/June/artificial-intelligence",
+    "source": "Hunted Space"
+  }
+]

@@ -1,165 +1,98 @@
-{
-  "date": "2026-06-30",
-  "title": "科技新闻 2026-06-30",
-  "generated_at": "2026-06-29T23:15:52Z",
-  "sources": [
-    "TechCrunch",
-    "Google Blog",
-    "Appfigures",
-    "Hunted Space"
-  ],
-  "categories": [
-    {
-      "id": "ai-models",
-      "name": "AI / 大模型动态",
-      "items": [
-        {
-          "title": "Google 将 Gemini 个性化图像生成功能向美国用户免费开放",
-          "summary": "TechCrunch 报道称，Gemini 的个性化图像生成能力正在向美国符合条件的用户开放，用户可基于个人上下文生成更贴近自身风格的图片。消费级 AI 的竞争重点继续从“能不能生成”转向“能不能理解个人偏好”，同时也会放大隐私、授权和默认数据使用边界的问题。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/27/geminis-personalized-ai-image-generation-is-now-free-for-us-users/",
-          "published_at": "2026-06-27",
-          "tags": ["AI", "Google", "Gemini", "Personalization"]
-        },
-        {
-          "title": "Anthropic 与加州政府达成 Claude 折扣合作",
-          "summary": "TechCrunch 报道，Anthropic 与加州州长 Newsom 团队达成合作，让加州政府部门以半价使用 Claude。前沿模型公司正在把政府和公共部门当作企业级增长渠道，但采购、数据边界、审计和责任归属会成为落地门槛。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/27/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-          "published_at": "2026-06-27",
-          "tags": ["AI", "Anthropic", "Claude", "Government"]
-        },
-        {
-          "title": "Cursor 推出移动端，用手机调度代码智能体",
-          "summary": "TechCrunch 报道，Cursor 推出移动 app，让开发者可以在离开 IDE 时继续给代码智能体下达任务、查看进展和处理反馈。AI 编程工具正在从编辑器插件扩展为跨设备工作流，核心竞争会落到任务可靠性、代码审查闭环和权限控制。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/26/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-          "published_at": "2026-06-26",
-          "tags": ["AI", "Developer tools", "Cursor", "Coding agents"]
-        },
-        {
-          "title": "TIDAL 收紧 AI 音乐变现规则",
-          "summary": "TechCrunch 报道，TIDAL 正在打击 AI 音乐滥用，并切断相关内容的变现路径。音乐平台正在从“识别 AI 内容”进入“决定哪些 AI 内容可以赚钱”的阶段，创作者权益、相似声线和平台分发规则会继续成为争议焦点。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/26/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-          "published_at": "2026-06-26",
-          "tags": ["AI", "Music", "Creator economy", "Policy"]
-        }
-      ]
-    },
-    {
-      "id": "big-tech",
-      "name": "大科技公司动态",
-      "items": [
-        {
-          "title": "韩国科技巨头承诺投入逾 5500 亿美元缓解内存短缺",
-          "summary": "TechCrunch 报道，韩国大型科技企业计划投入超过 5500 亿美元，应对 AI 带来的内存和半导体供应压力。AI 基础设施瓶颈正从 GPU 扩展到 HBM、DRAM、先进封装、电力和数据中心建设。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-          "published_at": "2026-06-29",
-          "tags": ["AI infrastructure", "Memory", "Semiconductors", "Korea"]
-        },
-        {
-          "title": "WhatsApp 开始让用户预留用户名",
-          "summary": "TechCrunch 报道，WhatsApp 正在推进用户名预留能力，目标是让用户未来可以不依赖手机号完成身份展示和添加。对 Meta 来说，这既是隐私改进，也是把即时通讯身份层从电话号码迁移到平台账号的长期动作。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/",
-          "published_at": "2026-06-29",
-          "tags": ["Meta", "WhatsApp", "Privacy", "Identity"]
-        },
-        {
-          "title": "Apple / Google / Meta 的 AI 分发优势继续体现在应用榜单",
-          "summary": "美国 iPhone 免费榜中，ChatGPT、Google Gemini、Meta AI、Claude 等 AI 助手持续靠前，说明通用 AI 入口仍在抢占移动端默认使用习惯。大平台的优势不只是模型能力，也包括系统级分发、账号体系和订阅转化路径。",
-          "source": "Appfigures",
-          "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-apps",
-          "published_at": "2026-06-29",
-          "tags": ["AI apps", "Mobile", "Big tech", "Distribution"]
-        },
-        {
-          "title": "AI 个人化能力正在嵌入照片、消息和生产力入口",
-          "summary": "Google Gemini 的个性化图像生成、WhatsApp 用户名和 Cursor 移动端都指向同一趋势：AI 产品不再只是单点工具，而是在身份、内容、代码和协作入口中获得上下文。用户体验会更顺滑，但权限、隐私解释和可撤销机制会成为产品信任的关键。",
-          "source": "Google Blog",
-          "url": "https://blog.google/products/gemini/gemini-image-generation-personalization/",
-          "published_at": "2026-06-27",
-          "tags": ["AI", "Personalization", "Privacy", "Productivity"]
-        }
-      ]
-    },
-    {
-      "id": "capital-funding",
-      "name": "资本与融资",
-      "items": [
-        {
-          "title": "Chamath Palihapitiya 参与的 AI 编程公司完成 1.35 亿美元 A 轮融资",
-          "summary": "TechCrunch 报道，Chamath Palihapitiya 参与的 AI coding startup 完成 1.35 亿美元 A 轮融资，并由其出任 CEO。AI 编程赛道继续获得高估值资金支持，但企业采购会更关注代码质量、合规、成本和与现有开发流程的整合。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup/",
-          "published_at": "2026-06-29",
-          "tags": ["AI", "Funding", "Developer tools", "Coding agents"]
-        },
-        {
-          "title": "AI Arena 从排行榜产品长成 1 亿美元业务",
-          "summary": "TechCrunch 报道，AI Arena 这类模型评测和排行榜基础设施已经成为规模化业务。随着企业模型选择从“看发布会”转向“看真实任务表现”，评测平台、基准数据和可复现测试会成为 AI 采购链条的一部分。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/29/ai-arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-          "published_at": "2026-06-29",
-          "tags": ["AI", "Benchmarking", "Evaluation", "Enterprise"]
-        },
-        {
-          "title": "AI 录音硬件 Pocket 完成 1100 万美元融资",
-          "summary": "TechCrunch 报道，Pocket 这类 AI note-taking device 获得 1100 万美元融资，延续了“随身采集 + 自动整理 + 个人知识库”的硬件叙事。机会在于低摩擦输入，但风险是隐私、录音合法性和与手机原生能力的差异化。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-to-build-ai-note-taking-devices/",
-          "published_at": "2026-06-29",
-          "tags": ["AI hardware", "Funding", "Notes", "Consumer"]
-        },
-        {
-          "title": "Omen AI 获融资，用数据中心冷却优化切入 AI 基建",
-          "summary": "TechCrunch 报道，Omen AI 计划用 AI 优化数据中心冷却和水资源管理。AI 基建投资正在向“降低运行成本”的环节外溢，电力、散热、水资源和运维自动化会成为下一阶段基础设施创业主题。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-          "published_at": "2026-06-29",
-          "tags": ["AI infrastructure", "Data centers", "Cooling", "Funding"]
-        }
-      ]
-    },
-    {
-      "id": "industry-events",
-      "name": "行业与企业事件",
-      "items": [
-        {
-          "title": "机器人手公司解决 Tesla 商业秘密诉讼并宣布 1100 万美元融资",
-          "summary": "TechCrunch 报道，一家机器人手公司与 Tesla 就商业秘密诉讼达成和解，同时宣布获得 1100 万美元融资。具身智能从实验室走向产业化时，人才流动、商业秘密、供应链和专利边界会更频繁地进入法律战场。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/27/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-          "published_at": "2026-06-27",
-          "tags": ["Robotics", "Tesla", "Legal", "Funding"]
-        },
-        {
-          "title": "Product Hunt AI 供给继续密集，通用 AI app 更难突围",
-          "summary": "2026 年 6 月 Product Hunt AI 分类出现大量新品，涵盖智能体、文档、开发者工具、内容生成和自动化插件。创业机会仍在，但泛 AI 工具的同质化已经很高，垂直场景、分发渠道和专有工作流比“又一个聊天框”更重要。",
-          "source": "Hunted Space",
-          "url": "https://hunted.space/top-products/2026/June/artificial-intelligence",
-          "published_at": "2026-06",
-          "tags": ["AI apps", "Product Hunt", "Startups", "Agents"]
-        },
-        {
-          "title": "AI 音乐平台规则进入商业化治理阶段",
-          "summary": "TIDAL 对 AI 音乐变现的限制显示，内容平台正在把 AI 生成内容纳入收入分配、版权识别和推荐规则。未来创作者平台需要同时回答“是否标注 AI”“是否允许变现”“相似声线如何处理”三个问题。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/26/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-          "published_at": "2026-06-26",
-          "tags": ["AI", "Music", "Copyright", "Creator platforms"]
-        },
-        {
-          "title": "应用榜单显示 AI 助手、直播娱乐和赛事工具同时抢占移动入口",
-          "summary": "Appfigures 美国 iPhone 榜单中，ChatGPT、Gemini、Claude、Peacock、Kalshi 等应用靠前，说明 AI、视频和体育事件正在共同带动下载需求。对独立开发者来说，短期机会往往不在通用助手，而在围绕热点事件和高频任务做轻量工具。",
-          "source": "Appfigures",
-          "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-apps",
-          "published_at": "2026-06-29",
-          "tags": ["Mobile apps", "AI", "Sports", "Streaming"]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "Google 将 Gemini 个性化图像生成功能向美国用户免费开放",
+    "summary": "TechCrunch 报道称，Gemini 的个性化图像生成能力正在向美国符合条件的用户开放，用户可基于个人上下文生成更贴近自身风格的图片。消费级 AI 的竞争重点继续从“能不能生成”转向“能不能理解个人偏好”，同时也会放大隐私、授权和默认数据使用边界的问题。",
+    "url": "https://techcrunch.com/2026/06/27/geminis-personalized-ai-image-generation-is-now-free-for-us-users/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic 与加州政府达成 Claude 折扣合作",
+    "summary": "TechCrunch 报道，Anthropic 与加州州长 Newsom 团队达成合作，让加州政府部门以半价使用 Claude。前沿模型公司正在把政府和公共部门当作企业级增长渠道，但采购、数据边界、审计和责任归属会成为落地门槛。",
+    "url": "https://techcrunch.com/2026/06/27/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Cursor 推出移动端，用手机调度代码智能体",
+    "summary": "TechCrunch 报道，Cursor 推出移动 app，让开发者可以在离开 IDE 时继续给代码智能体下达任务、查看进展和处理反馈。AI 编程工具正在从编辑器插件扩展为跨设备工作流，核心竞争会落到任务可靠性、代码审查闭环和权限控制。",
+    "url": "https://techcrunch.com/2026/06/26/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "TIDAL 收紧 AI 音乐变现规则",
+    "summary": "TechCrunch 报道，TIDAL 正在打击 AI 音乐滥用，并切断相关内容的变现路径。音乐平台正在从“识别 AI 内容”进入“决定哪些 AI 内容可以赚钱”的阶段，创作者权益、相似声线和平台分发规则会继续成为争议焦点。",
+    "url": "https://techcrunch.com/2026/06/26/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "韩国科技巨头承诺投入逾 5500 亿美元缓解内存短缺",
+    "summary": "TechCrunch 报道，韩国大型科技企业计划投入超过 5500 亿美元，应对 AI 带来的内存和半导体供应压力。AI 基础设施瓶颈正从 GPU 扩展到 HBM、DRAM、先进封装、电力和数据中心建设。",
+    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "WhatsApp 开始让用户预留用户名",
+    "summary": "TechCrunch 报道，WhatsApp 正在推进用户名预留能力，目标是让用户未来可以不依赖手机号完成身份展示和添加。对 Meta 来说，这既是隐私改进，也是把即时通讯身份层从电话号码迁移到平台账号的长期动作。",
+    "url": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apple / Google / Meta 的 AI 分发优势继续体现在应用榜单",
+    "summary": "美国 iPhone 免费榜中，ChatGPT、Google Gemini、Meta AI、Claude 等 AI 助手持续靠前，说明通用 AI 入口仍在抢占移动端默认使用习惯。大平台的优势不只是模型能力，也包括系统级分发、账号体系和订阅转化路径。",
+    "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-apps",
+    "source": "Appfigures"
+  },
+  {
+    "title": "AI 个人化能力正在嵌入照片、消息和生产力入口",
+    "summary": "Google Gemini 的个性化图像生成、WhatsApp 用户名和 Cursor 移动端都指向同一趋势：AI 产品不再只是单点工具，而是在身份、内容、代码和协作入口中获得上下文。用户体验会更顺滑，但权限、隐私解释和可撤销机制会成为产品信任的关键。",
+    "url": "https://blog.google/products/gemini/gemini-image-generation-personalization/",
+    "source": "Google Blog"
+  },
+  {
+    "title": "Chamath Palihapitiya 参与的 AI 编程公司完成 1.35 亿美元 A 轮融资",
+    "summary": "TechCrunch 报道，Chamath Palihapitiya 参与的 AI coding startup 完成 1.35 亿美元 A 轮融资，并由其出任 CEO。AI 编程赛道继续获得高估值资金支持，但企业采购会更关注代码质量、合规、成本和与现有开发流程的整合。",
+    "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "AI Arena 从排行榜产品长成 1 亿美元业务",
+    "summary": "TechCrunch 报道，AI Arena 这类模型评测和排行榜基础设施已经成为规模化业务。随着企业模型选择从“看发布会”转向“看真实任务表现”，评测平台、基准数据和可复现测试会成为 AI 采购链条的一部分。",
+    "url": "https://techcrunch.com/2026/06/29/ai-arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "AI 录音硬件 Pocket 完成 1100 万美元融资",
+    "summary": "TechCrunch 报道，Pocket 这类 AI note-taking device 获得 1100 万美元融资，延续了“随身采集 + 自动整理 + 个人知识库”的硬件叙事。机会在于低摩擦输入，但风险是隐私、录音合法性和与手机原生能力的差异化。",
+    "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-to-build-ai-note-taking-devices/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Omen AI 获融资，用数据中心冷却优化切入 AI 基建",
+    "summary": "TechCrunch 报道，Omen AI 计划用 AI 优化数据中心冷却和水资源管理。AI 基建投资正在向“降低运行成本”的环节外溢，电力、散热、水资源和运维自动化会成为下一阶段基础设施创业主题。",
+    "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "机器人手公司解决 Tesla 商业秘密诉讼并宣布 1100 万美元融资",
+    "summary": "TechCrunch 报道，一家机器人手公司与 Tesla 就商业秘密诉讼达成和解，同时宣布获得 1100 万美元融资。具身智能从实验室走向产业化时，人才流动、商业秘密、供应链和专利边界会更频繁地进入法律战场。",
+    "url": "https://techcrunch.com/2026/06/27/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Product Hunt AI 供给继续密集，通用 AI app 更难突围",
+    "summary": "2026 年 6 月 Product Hunt AI 分类出现大量新品，涵盖智能体、文档、开发者工具、内容生成和自动化插件。创业机会仍在，但泛 AI 工具的同质化已经很高，垂直场景、分发渠道和专有工作流比“又一个聊天框”更重要。",
+    "url": "https://hunted.space/top-products/2026/June/artificial-intelligence",
+    "source": "Hunted Space"
+  },
+  {
+    "title": "AI 音乐平台规则进入商业化治理阶段",
+    "summary": "TIDAL 对 AI 音乐变现的限制显示，内容平台正在把 AI 生成内容纳入收入分配、版权识别和推荐规则。未来创作者平台需要同时回答“是否标注 AI”“是否允许变现”“相似声线如何处理”三个问题。",
+    "url": "https://techcrunch.com/2026/06/26/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "应用榜单显示 AI 助手、直播娱乐和赛事工具同时抢占移动入口",
+    "summary": "Appfigures 美国 iPhone 榜单中，ChatGPT、Gemini、Claude、Peacock、Kalshi 等应用靠前，说明 AI、视频和体育事件正在共同带动下载需求。对独立开发者来说，短期机会往往不在通用助手，而在围绕热点事件和高频任务做轻量工具。",
+    "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-apps",
+    "source": "Appfigures"
+  }
+]

@@ -1,188 +1,92 @@
-{
-  "date": "2026-07-01",
-  "generated_at": "2026-07-01T00:50:16Z",
-  "summary": [
-    "最值得跟进：Action Keyboard Studio、Agent Approval Inbox、World Cup Matchday Fixer。",
-    "主要趋势：AI agent 正从独立聊天框进入键盘、手机、社交平台和企业交付流程；但独立开发者更适合做“审批、提醒、纠错、轻量替代”这种低运营切口。",
-    "风险提醒：agent 平台会快速挤压泛工具；赛事和申请季机会有时间窗口；低评分榜单只能说明痛点线索，MVP 前必须抓最新评论验证具体抱怨。"
-  ],
-  "sources_checked": [
-    {
-      "name": "TechCrunch / Acti",
-      "notes": "Acti 把 AI agent 放进 iOS 和 Android 键盘，支持跨 app 使用和自然语言快捷动作，说明“输入法即 AI 入口”正在被创业团队验证。",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
-    },
-    {
-      "name": "TechCrunch / OpenClaw mobile",
-      "notes": "OpenClaw 推出 Android 和 iOS app，把移动端做成 AI agent 的控制和审批入口。",
-      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/"
-    },
-    {
-      "name": "Apple App Store US charts",
-      "notes": "美国 iPhone 榜显示 Trump Accounts、Kalshi、ChatGPT、Peacock 等靠前，AI、体育事件、视频和政府/金融热点共同拉动下载。",
-      "url": "https://apps.apple.com/us/iphone/charts"
-    },
-    {
-      "name": "Appfigures US iOS Top Apps",
-      "notes": "Appfigures 提供美国 iPhone 免费、付费、畅销榜追踪，可作为后续验证关键词和品类热度的入口。",
-      "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-overall"
-    },
-    {
-      "name": "FIFA World Cup 2026 App Store",
-      "notes": "官方世界杯 app 评分约 2.3/5，评论集中提到登录、设置和票务访问问题，显示高热赛事下存在轻量替代或辅助工具机会。",
-      "url": "https://apps.apple.com/us/app/fifa-world-cup-2026/id6476561442"
-    },
-    {
-      "name": "HotSchedules Android / AppBrain",
-      "notes": "HotSchedules Android 为付费下载，下载量约 150 万、评分约 3.42，排班和换班是强刚需但员工端体验仍有摩擦。",
-      "url": "https://www.appbrain.com/app/hotschedules/com.tdr3.hs.android"
-    },
-    {
-      "name": "HN Show HN / Trace",
-      "notes": "Trace 主打 Mac 本地会议转录、会中标记和隐私，说明会议纪要市场仍有“无 bot、离线、本地处理”的反向定位。",
-      "url": "https://news.ycombinator.com/item?id=48521236"
-    },
-    {
-      "name": "Product Hunt AI Agents",
-      "notes": "Product Hunt AI agents 分类强调语音、客户自动化、工作流执行和运营类 agent，说明泛 agent 供给已变拥挤。",
-      "url": "https://www.producthunt.com/categories/ai-agents"
-    },
-    {
-      "name": "Common App reviews",
-      "notes": "Common App 移动端承载大学申请流程，但用户评论和第三方评论页仍显示移动申请体验存在可改进空间。",
-      "url": "https://justuseapp.com/en/app/1533688509/common-app/reviews"
-    }
-  ],
-  "ideas": [
-    {
-      "title": "Action Keyboard Studio：可配置的 AI 动作键盘",
-      "source_signal": [
-        "Acti 把 AI agent 放进手机键盘，解决用户在不同 app 间切换找 AI 帮忙的问题。",
-        "Product Hunt AI agents 供给很拥挤，但键盘入口仍是早期。"
-      ],
-      "gold_type": ["平台缺口", "关键词供给缺口", "跨 app 高频入口"],
-      "target_user": "重度移动办公用户、创作者、客服、销售、跨境电商运营、留学生。",
-      "pain": "用户在 WhatsApp、邮件、Instagram、Slack、X、小红书等 app 中反复复制文本给 AI，再复制回来，流程割裂且容易泄露上下文。",
-      "mvp": ["系统键盘", "自定义动作按钮", "改写", "翻译", "总结", "礼貌回复", "销售跟进模板", "本地敏感词遮罩", "剪贴板上下文", "常用 tone preset"],
-      "monetization": "$4.99/月 Pro；一次性模板包；团队共享 prompt workspace。",
-      "difficulty": "中",
-      "score": 8.8,
-      "why_now": "AI 入口正在从聊天 app 下沉到系统输入层；大厂会做通用体验，独立开发者可以先做职业人群模板和隐私解释。",
-      "risks": ["iOS 第三方键盘权限和体验限制", "用户对键盘隐私高度敏感", "Acti 等先发产品可能抢占认知"],
-      "next_research": ["抓取 AI keyboard、rewrite keyboard、translator keyboard 的 App Store 前 20 个结果", "验证 iOS 第三方键盘完整访问权限对转化率的影响"]
-    },
-    {
-      "title": "Agent Approval Inbox：手机上的 AI agent 审批台",
-      "source_signal": [
-        "OpenClaw 移动端把手机变成 agent 控制中心。",
-        "X 推出 MCP Server，更多平台会开放给 agent 调用。",
-        "用户真正缺的是“哪些动作需要我批准”的统一收件箱。"
-      ],
-      "gold_type": ["平台缺口", "强需求新工作流", "泛 agent 生态的基础设施小切口"],
-      "target_user": "使用 Claude Code、OpenClaw、n8n、Zapier、GitHub Actions、个人自动化脚本的开发者和独立创业者。",
-      "pain": "agent 会在电脑、服务器、Slack、GitHub、日历和邮件里发起动作，用户需要在手机上快速看上下文、批准、拒绝或延后，而不是打开多个工具。",
-      "mvp": ["Webhook 收件箱", "action card", "Approve / Reject / Snooze", "风险级别", "命令预览", "GitHub / Slack / email 深链", "本地通知", "审计日志导出"],
-      "monetization": "个人 $5/月；团队 $8/席/月；self-hosted license。",
-      "difficulty": "中",
-      "score": 8.7,
-      "why_now": "agent 执行能力变强后，瓶颈会从“能不能做”变成“人如何安全介入”；审批层比做完整 agent 更轻，也更容易与多个工具共存。",
-      "risks": ["需要集成生态", "安全责任边界敏感", "若 agent 平台内置审批能力，独立产品空间会变窄"],
-      "next_research": ["先支持 GitHub issue/comment、Slack slash command、generic webhook 三个入口", "在 HN/Reddit 自动化社区测试是否愿意付费"]
-    },
-    {
-      "title": "World Cup Matchday Fixer：世界杯票务、登录、提醒辅助工具",
-      "source_signal": [
-        "官方 FIFA World Cup 2026 app 评分约 2.3/5，评论提到登录、设置和票务访问问题。",
-        "美国榜单里 Kalshi、Peacock 等体育和直播相关 app 靠前，世界杯带来确定流量。"
-      ],
-      "gold_type": ["高需求低评分", "强时效关键词", "官方 app 体验摩擦"],
-      "target_user": "去现场看球的游客、家庭、临时球迷、跨城市旅行观赛人群。",
-      "pain": "用户不一定要另一个官方 app，只想确认票务入口、开球时间、场馆路线、天气、停车、提醒、同伴集合和异常处理清单。",
-      "mvp": ["比赛收藏", "本地时区提醒", "票务入口 checklist", "场馆离线信息", "酒店/停车/交通链接", "同行人共享清单", "比赛日倒计时"],
-      "monetization": "$4.99 城市包；广告-free Pro；旅行 affiliate。",
-      "difficulty": "中",
-      "score": 8.5,
-      "why_now": "赛事窗口明确，官方 app 低评分暴露了临场焦虑；避开赛事直播和商标侵权，做“matchday utility”更适合独立开发者。",
-      "risks": ["时效短", "商标和数据授权边界", "过度依赖 App Store 搜索流量"],
-      "next_research": ["抓取 FIFA app 最近 100 条差评分类", "验证 world cup tickets app not working、world cup schedule reminder 搜索量和竞争"]
-    },
-    {
-      "title": "ShiftSnap：排班截图识别与换班提醒",
-      "source_signal": [
-        "HotSchedules Android 是付费 app，下载量约 150 万、评分约 3.42。",
-        "排班、换班和工资估算是服务业员工高频刚需。"
-      ],
-      "gold_type": ["高需求低评分", "平台体验差异", "成熟 B2B 工具员工端缺口"],
-      "target_user": "餐饮、零售、咖啡店、酒吧、健身房的一线员工。",
-      "pain": "员工只想知道什么时候上班、能不能换班、预计工资多少、今天和谁同班，但企业排班系统经常重管理端、轻个人提醒。",
-      "mvp": ["排班截图 OCR", "自动生成日历", "工资估算", "换班消息模板", "同事联系方式", "上班前交通和天气提醒"],
-      "monetization": "$2.99/月个人 Pro；门店 $19/月轻团队版。",
-      "difficulty": "中",
-      "score": 8.0,
-      "why_now": "不必替代排班 SaaS，可从截图识别和个人提醒切入，MVP 小且痛点明确。",
-      "risks": ["截图格式分散", "协作功能可能遇到冷启动", "部分员工付费意愿有限"],
-      "next_research": ["访谈 10 个服务业员工", "收集 30 张排班截图测试 OCR", "分析 HotSchedules / When I Work / 7shifts 差评"]
-    },
-    {
-      "title": "Private Meeting Clipper：本地会议纪要与会中重点标记",
-      "source_signal": [
-        "HN Show HN 的 Trace 主打本地转录和会中标记。",
-        "Product Hunt AI agents 和会议工具供给拥挤，隐私和无 bot 是可差异化方向。"
-      ],
-      "gold_type": ["隐私差异化", "平台体验缺口", "成熟需求再切分"],
-      "target_user": "顾问、律师、销售、产品经理、创始人、做客户访谈的人。",
-      "pain": "云端会议 bot 会让客户不舒服，NDA 场景不能上传音频；普通录音又很难在会后找到关键片段。",
-      "mvp": ["Mac 菜单栏录音", "快捷键标记重点", "本地转录", "Markdown 摘要", "按客户/项目归档", "导出到 Notion/Google Docs"],
-      "monetization": "一次性 $19.99；团队 BYOK 版；专业摘要模板包。",
-      "difficulty": "中",
-      "score": 7.8,
-      "why_now": "会议纪要需求已被教育，但反 bot、反云端和本地 AI 处理成为新的购买理由。",
-      "risks": ["转录准确率", "系统音频权限", "与成熟会议工具竞争"],
-      "next_research": ["抓取 Otter、Read AI、Fireflies 差评中的 privacy、bot、auto join", "先做 Mac-only 版本"]
-    },
-    {
-      "title": "ApplyFlow Mini：大学申请 deadline 与材料检查",
-      "source_signal": [
-        "Common App 移动端承担申请提交，但评论页显示移动申请体验仍有投诉。",
-        "中国高考志愿类产品证明“升学决策 + 家庭付费”有强需求。"
-      ],
-      "gold_type": ["国家差异", "季节性刚需", "高焦虑家庭付费", "关键词供给缺口"],
-      "target_user": "美国 10-12 年级学生、家长、国际学生家庭、小型升学顾问。",
-      "pain": "学生和家长不是缺提交入口，而是缺“今天该完成什么、哪份材料缺了、deadline 会不会错过”的低焦虑执行表。",
-      "mvp": ["学校 shortlist", "deadline 日历", "essay 版本 tracker", "推荐信提醒", "材料 checklist", "Common App 深链", "AI 只做检查和规划，不代写"],
-      "monetization": "申请季 $39.99；家庭 $9.99/月；顾问端 $15/学生。",
-      "difficulty": "中高",
-      "score": 7.7,
-      "why_now": "申请季有明确时间窗口；独立开发者可先避开院校推荐，做 deadline + checklist 这种低合规风险功能。",
-      "risks": ["教育建议责任边界", "学校数据维护", "获客季节性强"],
-      "next_research": ["访谈 10 个 11 年级家庭", "对比 Common App、Scoir、Niche、BigFuture 的差评", "落地页测试 college application checklist app"]
-    }
-  ],
-  "trend_signals": [
-    "Agent 从聊天框走向键盘、移动端审批、MCP 工具调用和企业交付，新的用户界面机会在“中间层”。",
-    "官方赛事 app 评分低但需求高，短期工具可以只解决提醒、票务 checklist、路线和同伴协作。",
-    "成熟刚需品类如排班、大学申请、会议纪要仍有机会，但切口要小，最好绕开完整平台替代。",
-    "隐私、本地处理、无 bot、无广告、一次性付费仍是对抗 SaaS 订阅疲劳的有效定位。",
-    "AI 产品供给越来越多，独立开发者要优先找高频窄任务、低评分竞品和明确关键词，而不是做泛 AI app。"
-  ],
-  "follow_up": [
-    "AI keyboard iOS",
-    "translator keyboard AI",
-    "rewrite keyboard",
-    "OpenClaw mobile reviews",
-    "agent approval app",
-    "MCP server mobile notification",
-    "FIFA World Cup 2026 app reviews",
-    "world cup tickets app not working",
-    "world cup schedule reminder",
-    "HotSchedules Android reviews",
-    "shift schedule screenshot OCR",
-    "shift swap app",
-    "offline meeting transcription Mac",
-    "AI meeting notes privacy",
-    "bot-free meeting notes",
-    "college application checklist app",
-    "Common App reviews",
-    "college deadline tracker"
-  ]
-}
+[
+  {
+    "title": "Action Keyboard Studio：可配置的 AI 动作键盘",
+    "summary": "用户在 WhatsApp、邮件、Instagram、Slack、X、小红书等 app 中反复复制文本给 AI，再复制回来，流程割裂且容易泄露上下文。\n\n为什么现在: AI 入口正在从聊天 app 下沉到系统输入层；大厂会做通用体验，独立开发者可以先做职业人群模板和隐私解释。\n\n评分: 8.8",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "Agent Approval Inbox：手机上的 AI agent 审批台",
+    "summary": "agent 会在电脑、服务器、Slack、GitHub、日历和邮件里发起动作，用户需要在手机上快速看上下文、批准、拒绝或延后，而不是打开多个工具。\n\n为什么现在: agent 执行能力变强后，瓶颈会从“能不能做”变成“人如何安全介入”；审批层比做完整 agent 更轻，也更容易与多个工具共存。\n\n评分: 8.7",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "World Cup Matchday Fixer：世界杯票务、登录、提醒辅助工具",
+    "summary": "用户不一定要另一个官方 app，只想确认票务入口、开球时间、场馆路线、天气、停车、提醒、同伴集合和异常处理清单。\n\n为什么现在: 赛事窗口明确，官方 app 低评分暴露了临场焦虑；避开赛事直播和商标侵权，做“matchday utility”更适合独立开发者。\n\n评分: 8.5",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "ShiftSnap：排班截图识别与换班提醒",
+    "summary": "员工只想知道什么时候上班、能不能换班、预计工资多少、今天和谁同班，但企业排班系统经常重管理端、轻个人提醒。\n\n为什么现在: 不必替代排班 SaaS，可从截图识别和个人提醒切入，MVP 小且痛点明确。\n\n评分: 8.0",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "Private Meeting Clipper：本地会议纪要与会中重点标记",
+    "summary": "云端会议 bot 会让客户不舒服，NDA 场景不能上传音频；普通录音又很难在会后找到关键片段。\n\n为什么现在: 会议纪要需求已被教育，但反 bot、反云端和本地 AI 处理成为新的购买理由。\n\n评分: 7.8",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "ApplyFlow Mini：大学申请 deadline 与材料检查",
+    "summary": "学生和家长不是缺提交入口，而是缺“今天该完成什么、哪份材料缺了、deadline 会不会错过”的低焦虑执行表。\n\n为什么现在: 申请季有明确时间窗口；独立开发者可先避开院校推荐，做 deadline + checklist 这种低合规风险功能。\n\n评分: 7.7",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "TechCrunch / Acti",
+    "summary": "Acti 把 AI agent 放进 iOS 和 Android 键盘，支持跨 app 使用和自然语言快捷动作，说明“输入法即 AI 入口”正在被创业团队验证。",
+    "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "TechCrunch / OpenClaw mobile",
+    "summary": "OpenClaw 推出 Android 和 iOS app，把移动端做成 AI agent 的控制和审批入口。",
+    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "Apple App Store US charts",
+    "summary": "美国 iPhone 榜显示 Trump Accounts、Kalshi、ChatGPT、Peacock 等靠前，AI、体育事件、视频和政府/金融热点共同拉动下载。",
+    "url": "https://apps.apple.com/us/iphone/charts",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "Appfigures US iOS Top Apps",
+    "summary": "Appfigures 提供美国 iPhone 免费、付费、畅销榜追踪，可作为后续验证关键词和品类热度的入口。",
+    "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-overall",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "FIFA World Cup 2026 App Store",
+    "summary": "官方世界杯 app 评分约 2.3/5，评论集中提到登录、设置和票务访问问题，显示高热赛事下存在轻量替代或辅助工具机会。",
+    "url": "https://apps.apple.com/us/app/fifa-world-cup-2026/id6476561442",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "HotSchedules Android / AppBrain",
+    "summary": "HotSchedules Android 为付费下载，下载量约 150 万、评分约 3.42，排班和换班是强刚需但员工端体验仍有摩擦。",
+    "url": "https://www.appbrain.com/app/hotschedules/com.tdr3.hs.android",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "HN Show HN / Trace",
+    "summary": "Trace 主打 Mac 本地会议转录、会中标记和隐私，说明会议纪要市场仍有“无 bot、离线、本地处理”的反向定位。",
+    "url": "https://news.ycombinator.com/item?id=48521236",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "Product Hunt AI Agents",
+    "summary": "Product Hunt AI agents 分类强调语音、客户自动化、工作流执行和运营类 agent，说明泛 agent 供给已变拥挤。",
+    "url": "https://www.producthunt.com/categories/ai-agents",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "Common App reviews",
+    "summary": "Common App 移动端承载大学申请流程，但用户评论和第三方评论页仍显示移动申请体验存在可改进空间。",
+    "url": "https://justuseapp.com/en/app/1533688509/common-app/reviews",
+    "source": "APP SIGNAL"
+  }
+]

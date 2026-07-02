@@ -1,198 +1,104 @@
-{
-  "date": "2026-06-29",
-  "generated_at": "2026-06-29T03:14:58Z",
-  "summary": [
-    "最值得跟进：世界杯轻量观赛与同行程助手、美国大学申请 AI Copilot、本地隐私会议纪要。",
-    "主要趋势：大型体育事件正在带动榜单，AI 助手继续占据效率榜，垂类刚需应用里仍有“下载量高但体验差”的缺口。",
-    "风险提醒：不要只从单一榜单判断需求；世界杯和升学季都是强时效机会，MVP 必须在 1-2 周内验证搜索量和获客成本。"
-  ],
-  "sources_checked": [
-    {
-      "name": "Apple App Store US Top Free",
-      "notes": "2026-06-29 附近，美国 iPhone 免费榜前列包括 Love Island USA、Kalshi: Trade the World Cup、ChatGPT、Peacock、Netflix Game Controller 等，说明直播娱乐、赛事交易、AI 助手都在抢榜。",
-      "url": "https://apps.apple.com/us/iphone/charts"
-    },
-    {
-      "name": "Appfigures US iOS Top Apps",
-      "notes": "美国 iPhone Top Apps 小时级更新，Kalshi、ChatGPT、Peacock、FOX One、Claude 等进入前列。",
-      "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-apps"
-    },
-    {
-      "name": "FIFA World Cup 2026 App Store",
-      "notes": "官方 FIFA World Cup 2026 app 在 iOS Sports 榜 #2，但评分约 2.2/5，评论集中在慢、混乱、赛程入口不直观。",
-      "url": "https://apps.apple.com/us/app/fifa-world-cup-2026/id6476561442"
-    },
-    {
-      "name": "FIFA World Cup 2026 Google Play / AppBrain",
-      "notes": "Android 侧约 5M+ 下载、2.1 星；AppBrain 显示近期下载约 4.5M、评分约 1.94、Sports #1。",
-      "url": "https://play.google.com/store/apps/details?id=com.fifa.tournament / https://www.appbrain.com/app/fifa-world-cup-2026%E2%84%A2/com.fifa.tournament"
-    },
-    {
-      "name": "Product Hunt 今日新产品",
-      "notes": "2026-06-29 今日榜包含 Dotient、Lyto、Supra Player、Aurora Notch、Basedash for Excel、Group Subscriptions by beehiiv、Folio AI、LockIn MCP、AI Slide Editor、Papermark Agents 等，AI 代理、创作者工具、Excel/Slides 插件仍密集。",
-      "url": "https://tophub.today/n/LBwdG0jePx"
-    },
-    {
-      "name": "Product Hunt AI 月榜",
-      "notes": "2026 年 6 月 Product Hunt AI 分类有大量产品发布，AI 工具供给很密，需要做强垂类和分发，而不是泛 AI app。",
-      "url": "https://hunted.space/top-products/2026/June/artificial-intelligence"
-    },
-    {
-      "name": "Hacker News Show HN",
-      "notes": "Trace 作为“离线 Mac 会议转录，可会中标记重点”的 Show HN 进入 2026-06-14 至 2026-06-20 周榜，隐私、本地、不中断会议是明确卖点。",
-      "url": "https://news.ycombinator.com/item?id=48521236 / https://www.daemonology.net/hn-weekly-show/2026-06.html"
-    },
-    {
-      "name": "Google Play Productivity",
-      "notes": "Google Play Productivity 页中，AI 助手、PDF、Office、云盘、DWG/CAD 工具同时出现；其中 Link to Windows 3.8、DWG FastView 3.6、PDF Reader Point 3.8，显示成熟工具仍有体验弱项。",
-      "url": "https://play.google.com/store/apps/category/PRODUCTIVITY?hl=en"
-    },
-    {
-      "name": "HotSchedules",
-      "notes": "Android 版 HotSchedules 为 $2.99、1M+ 下载、3.4 星、24.9K 评论；iOS 版为 Business 榜 #1、4.6 星、67K 评分，存在平台体验差异。",
-      "url": "https://play.google.com/store/apps/details?id=com.tdr3.hs.android / https://apps.apple.com/us/app/hotschedules/id294934058"
-    },
-    {
-      "name": "中国 App Store / 高考 AI",
-      "notes": "中国 iPhone 榜里红果短剧、抖音商城、抖省省靠前；夸克“高考选志愿”在中国工具榜 #1，4.3 星、约 63 万评分，并宣称累计服务超 1.6 亿考生和家长。",
-      "url": "https://appfigures.com/top-apps/ios-app-store/china/iphone/top-overall / https://apps.apple.com/cn/app/%E5%A4%B8%E5%85%8B-%E9%AB%98%E8%80%83%E9%80%89%E5%BF%97%E6%84%BF/id1160172628"
-    },
-    {
-      "name": "美国大学申请 app",
-      "notes": "Appshunter 显示 Common App 在 College Applications 关键词下领先，但评分约 3.1/5；Google Play 也把大学申请列为独立编辑专题。",
-      "url": "https://appshunter.io/ios/topics/college-applications / https://play.google.com/store/apps/editorial?id=mc_apps_editorial_catess_college_applications_fcp"
-    }
-  ],
-  "ideas": [
-    {
-      "title": "World Cup Lite：轻量赛程、提醒、同行程助手",
-      "source_signal": [
-        "官方 FIFA World Cup 2026 app 在 iOS Sports 榜 #2，但评分约 2.2。",
-        "Google Play 约 5M+ 下载但约 2.1 星。",
-        "美国免费榜同时出现 Kalshi、FOX One、Peacock 等世界杯相关应用。"
-      ],
-      "gold_type": ["高需求低评分", "强时效关键词供给缺口", "官方 app 功能重但核心路径差"],
-      "target_user": "在美国看世界杯的球迷、游客、家庭、临时观赛人群。",
-      "pain": "只想快速看赛程、分组、开球时间、转播入口、提醒和场馆/酒吧观赛地点，却被官方 app 的票务、奖励、活动、广告化入口干扰。",
-      "mvp": ["收藏球队", "本地时区赛程", "一键添加日历", "赛前/开球/比分推送", "小组出线模拟器", "官方票务与直播入口深链", "16 个主办城市离线交通和观赛清单"],
-      "monetization": "$4.99 一次性 Pro；城市观赛指南包；酒吧/活动 affiliate；不做博彩交易。",
-      "difficulty": "中",
-      "score": 9.0,
-      "why_now": "世界杯正在进行，官方 app 低评分但下载量极高，需求已被验证；轻量工具可以通过 App Store Search、TikTok/Threads 球迷内容、Reddit 足球社区快速测试。",
-      "risks": ["时效窗口短", "比赛数据源、商标、转播权和 FIFA 标识需要规避", "比分推送稳定性要求高"],
-      "next_research": ["验证关键词 world cup schedule 2026、world cup bracket、world cup live scores 的 App Store 竞争", "抓取官方 app 最新 1 星评论，抽取前 20 个高频抱怨"]
-    },
-    {
-      "title": "ApplyMap：美国大学申请 AI 路线图",
-      "source_signal": [
-        "中国夸克“高考选志愿”在工具榜 #1 且评价量大。",
-        "阿里、腾讯、百度、字节都在高考志愿填报上投入 AI Agent。",
-        "美国 Common App 在 college applications 关键词下领先但评分约 3.1。"
-      ],
-      "gold_type": ["国家差异", "高需求低评分", "季节性刚需"],
-      "target_user": "美国 10-12 年级学生、家长、独立升学顾问、国际学生家庭。",
-      "pain": "大学筛选、材料清单、推荐信、essay 版本、奖学金和截止日期分散；Common App 负责提交，不负责把家庭从“该做什么”带到“今天做什么”。",
-      "mvp": ["学生画像", "院校 shortlist", "deadline 日历", "Common App 活动列表整理", "essay 版本管理", "推荐信提醒", "奖学金匹配", "AI counselor 只做规划和检查，不代写"],
-      "monetization": "家庭订阅 $9.99/月；申请季 $39.99 套餐；顾问端座席费。",
-      "difficulty": "中高",
-      "score": 8.5,
-      "why_now": "中国市场已经证明“升学决策 + AI + 家长焦虑”可以形成强需求；美国现有移动端体验偏提交工具和资料库，低评分说明仍有体验缺口。",
-      "risks": ["教育建议合规和责任边界", "AI 代写可能伤害信任", "学校数据和奖学金数据需要稳定来源"],
-      "next_research": ["访谈 10 个 11 年级家庭", "比较 Common App、Scoir、Niche、BigFuture 的评论", "做一个只覆盖 deadline + activity list + essay tracker 的落地页测转化"]
-    },
-    {
-      "title": "Private Meeting Clipper：本地会议纪要 + 会中重点标记",
-      "source_signal": [
-        "HN Show HN 的 Trace 主打离线 Mac 转录和会中标记。",
-        "Meetily 类产品强调 100% local transcription、无 bot、可离线、隐私合规。",
-        "Product Hunt/HN 对 AI 会议工具仍有热度。"
-      ],
-      "gold_type": ["平台体验缺口", "隐私差异化", "泛 AI 工具拥挤下的垂类切口"],
-      "target_user": "顾问、律师、产品经理、销售、创始人、小团队管理者。",
-      "pain": "云端会议 bot 侵入感强、被客户拒绝、NDA 场景不能上传音频；普通录音后又难以回看重点。",
-      "mvp": ["Mac/iOS 本地录音", "快捷键标记重点", "本地转录", "摘要模板", "会后导出到 Markdown/Notion/Google Docs", "按客户或项目归档"],
-      "monetization": "个人版 $8/月；团队 BYOK/本地模型包 $15/席/月；一次性离线 Pro。",
-      "difficulty": "中",
-      "score": 8.0,
-      "why_now": "会议纪要已经被教育完成，但用户开始对 bot、隐私和噪音反感；Apple Silicon 和本地模型让“可接受准确率 + 本地处理”更现实。",
-      "risks": ["转录准确率和电量消耗", "跨平台音频采集权限", "企业市场需要合规证明"],
-      "next_research": ["抓取 Read AI/Otter/Fireflies 差评里的 bot、privacy、calendar auto-join 关键词", "先做 Mac 菜单栏版本，用 HN/Indie Hackers 测试"]
-    },
-    {
-      "title": "ShiftSwap Mini：餐饮员工换班与提醒层",
-      "source_signal": [
-        "HotSchedules Android 版 1M+ 下载但 3.4 星，且是付费 app。",
-        "iOS 版 Business 榜 #1、评分较高。",
-        "员工排班软件榜单和替代品列表长期存在。"
-      ],
-      "gold_type": ["高需求低评分", "平台差异", "成熟 B2B 工具的员工端体验缺口"],
-      "target_user": "餐厅、咖啡店、酒吧、零售门店的一线员工和店长。",
-      "pain": "员工只想知道“我什么时候上班、谁能换班、工资大概多少、今天谁一起上班”，但企业排班系统往往重管理端、员工端慢或复杂。",
-      "mvp": ["读取/手动录入班表", "换班请求模板", "同事通讯录", "工资估算", "日历同步", "店长审批截图流", "不替代企业系统，先做员工个人层"],
-      "monetization": "员工个人 Pro $2.99/月；门店轻量团队版 $19/月；与排班系统做导入插件。",
-      "difficulty": "中",
-      "score": 7.5,
-      "why_now": "HotSchedules 在付费、下载、榜单和低评分上同时证明了需求和痛点；从员工个人工具切入，比直接做完整排班 SaaS 小得多。",
-      "risks": ["企业系统数据导入难", "如果没有自动同步，留存会受影响", "门店协作需要网络效应"],
-      "next_research": ["访谈 10 个餐饮/零售员工", "测试“截图识别班表 + 日历提醒”的单功能", "分析 HotSchedules Android 最近差评"]
-    },
-    {
-      "title": "FieldCAD Lite：现场 DWG 查看、标注、PDF 报告",
-      "source_signal": [
-        "Google Play Productivity 中 DWG FastView 评分约 3.6。",
-        "iOS 侧 DWG/CAD 查看器存在但多为大而全。",
-        "PlanInspect 等新产品主打 iPhone/iPad 原生、打开 DWG、测量、标注、现场备注和 PDF 报告。"
-      ],
-      "gold_type": ["低评分高刚需", "垂类工作流缺口", "移动端专业工具轻量化"],
-      "target_user": "装修队、施工现场负责人、地产维修、消防/电气/暖通承包商。",
-      "pain": "现场只需要打开图纸、量尺寸、圈问题、拍照备注、发 PDF 报告，不需要完整 CAD 编辑器。",
-      "mvp": ["DWG/DXF/PDF 导入", "图层开关", "测距", "照片钉点", "手写标注", "一键生成问题清单 PDF", "iCloud/Google Drive 文件夹同步"],
-      "monetization": "$9.99/月专业版；项目包一次性购买；小团队共享空间。",
-      "difficulty": "中高",
-      "score": 7.5,
-      "why_now": "CAD 大厂工具重，通用查看器评分和体验一般；iPad/iPhone 已经足够做现场“查看 + 标注 + 报告”的窄工作流。",
-      "risks": ["DWG 解析兼容性难", "专业用户对精度敏感", "获客渠道需要进入施工/设计社区"],
-      "next_research": ["只支持 PDF + 截图标注做最小验证", "找 5 个承包商看是否愿为 PDF 报告功能付费"]
-    },
-    {
-      "title": "Clean PDF Mobile：无广告 PDF 阅读、签字、表格填写",
-      "source_signal": [
-        "Google Play Productivity 里 PDF/Office 工具长期靠前。",
-        "同页可见 PDF Reader Point 3.8、PDF Reader Zone 4.0 等低评分结果。",
-        "Android PDF reader 榜单和替代品文章持续更新。"
-      ],
-      "gold_type": ["关键词需求高", "低评分供给", "信任和隐私差异化"],
-      "target_user": "学生、自由职业者、房东租客、小企业主、需要签字回传文件的普通用户。",
-      "pain": "PDF app 广告重、权限多、订阅吓人；用户只想打开、搜索、签名、填表、压缩、回传。",
-      "mvp": ["本地 PDF 阅读", "签名", "表单填写", "压缩", "合并/拆分", "无账号", "本地 OCR 作为 Pro 功能"],
-      "monetization": "一次性 $14.99；OCR/批处理订阅；教育折扣。",
-      "difficulty": "中",
-      "score": 6.8,
-      "why_now": "需求很稳，但竞争极拥挤；机会在“干净、轻、一次性买断、隐私清楚”的定位。",
-      "risks": ["获客关键词竞价贵", "PDF 编辑边界复杂", "iOS/Android 原生文件系统差异"],
-      "next_research": ["App Store 搜索 pdf signer、fill pdf form、pdf compress，统计前 20 个结果标题和评分", "验证一次性买断定价"]
-    }
-  ],
-  "trend_signals": [
-    "世界杯正在把观赛、直播、预测市场、赛程和体育新闻类 app 推上榜；官方应用低评分给轻量工具留下短窗口。",
-    "AI app 仍是头部流量入口：ChatGPT、Gemini、Claude、Meta AI 在榜单中反复出现，但 Product Hunt 侧 AI 供给过密，必须做垂直场景。",
-    "中国榜单体现两个可外溢模式：短剧/互动娱乐，以及高考志愿这类“高风险决策 + 家长付费 + AI 辅助”的季节性刚需。",
-    "成熟生产力垂类仍有金子：排班、DWG/CAD、PDF 这些老需求有下载和收入，但移动端体验仍不稳定。",
-    "“本地、隐私、无 bot、无广告、一次性买断”是对抗大厂和 SaaS 订阅疲劳的可测试定位。"
-  ],
-  "follow_up": [
-    "world cup schedule 2026 app",
-    "world cup bracket app",
-    "FIFA World Cup app reviews",
-    "college application planner app",
-    "Common App reviews",
-    "AI college counselor app",
-    "AI meeting notes privacy",
-    "offline meeting transcription Mac",
-    "Read AI alternatives",
-    "HotSchedules Android reviews",
-    "employee shift swap app",
-    "DWG viewer iPad field markup",
-    "PDF signer no ads Android"
-  ]
-}
+[
+  {
+    "title": "World Cup Lite：轻量赛程、提醒、同行程助手",
+    "summary": "只想快速看赛程、分组、开球时间、转播入口、提醒和场馆/酒吧观赛地点，却被官方 app 的票务、奖励、活动、广告化入口干扰。\n\n为什么现在: 世界杯正在进行，官方 app 低评分但下载量极高，需求已被验证；轻量工具可以通过 App Store Search、TikTok/Threads 球迷内容、Reddit 足球社区快速测试。\n\n评分: 9.0",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "ApplyMap：美国大学申请 AI 路线图",
+    "summary": "大学筛选、材料清单、推荐信、essay 版本、奖学金和截止日期分散；Common App 负责提交，不负责把家庭从“该做什么”带到“今天做什么”。\n\n为什么现在: 中国市场已经证明“升学决策 + AI + 家长焦虑”可以形成强需求；美国现有移动端体验偏提交工具和资料库，低评分说明仍有体验缺口。\n\n评分: 8.5",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "Private Meeting Clipper：本地会议纪要 + 会中重点标记",
+    "summary": "云端会议 bot 侵入感强、被客户拒绝、NDA 场景不能上传音频；普通录音后又难以回看重点。\n\n为什么现在: 会议纪要已经被教育完成，但用户开始对 bot、隐私和噪音反感；Apple Silicon 和本地模型让“可接受准确率 + 本地处理”更现实。\n\n评分: 8.0",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "ShiftSwap Mini：餐饮员工换班与提醒层",
+    "summary": "员工只想知道“我什么时候上班、谁能换班、工资大概多少、今天谁一起上班”，但企业排班系统往往重管理端、员工端慢或复杂。\n\n为什么现在: HotSchedules 在付费、下载、榜单和低评分上同时证明了需求和痛点；从员工个人工具切入，比直接做完整排班 SaaS 小得多。\n\n评分: 7.5",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "FieldCAD Lite：现场 DWG 查看、标注、PDF 报告",
+    "summary": "现场只需要打开图纸、量尺寸、圈问题、拍照备注、发 PDF 报告，不需要完整 CAD 编辑器。\n\n为什么现在: CAD 大厂工具重，通用查看器评分和体验一般；iPad/iPhone 已经足够做现场“查看 + 标注 + 报告”的窄工作流。\n\n评分: 7.5",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "Clean PDF Mobile：无广告 PDF 阅读、签字、表格填写",
+    "summary": "PDF app 广告重、权限多、订阅吓人；用户只想打开、搜索、签名、填表、压缩、回传。\n\n为什么现在: 需求很稳，但竞争极拥挤；机会在“干净、轻、一次性买断、隐私清楚”的定位。\n\n评分: 6.8",
+    "url": "",
+    "source": "APP IDEA"
+  },
+  {
+    "title": "Apple App Store US Top Free",
+    "summary": "2026-06-29 附近，美国 iPhone 免费榜前列包括 Love Island USA、Kalshi: Trade the World Cup、ChatGPT、Peacock、Netflix Game Controller 等，说明直播娱乐、赛事交易、AI 助手都在抢榜。",
+    "url": "https://apps.apple.com/us/iphone/charts",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "Appfigures US iOS Top Apps",
+    "summary": "美国 iPhone Top Apps 小时级更新，Kalshi、ChatGPT、Peacock、FOX One、Claude 等进入前列。",
+    "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-apps",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "FIFA World Cup 2026 App Store",
+    "summary": "官方 FIFA World Cup 2026 app 在 iOS Sports 榜 #2，但评分约 2.2/5，评论集中在慢、混乱、赛程入口不直观。",
+    "url": "https://apps.apple.com/us/app/fifa-world-cup-2026/id6476561442",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "FIFA World Cup 2026 Google Play / AppBrain",
+    "summary": "Android 侧约 5M+ 下载、2.1 星；AppBrain 显示近期下载约 4.5M、评分约 1.94、Sports #1。",
+    "url": "https://play.google.com/store/apps/details?id=com.fifa.tournament / https://www.appbrain.com/app/fifa-world-cup-2026%E2%84%A2/com.fifa.tournament",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "Product Hunt 今日新产品",
+    "summary": "2026-06-29 今日榜包含 Dotient、Lyto、Supra Player、Aurora Notch、Basedash for Excel、Group Subscriptions by beehiiv、Folio AI、LockIn MCP、AI Slide Editor、Papermark Agents 等，AI 代理、创作者工具、Excel/Slides 插件仍密集。",
+    "url": "https://tophub.today/n/LBwdG0jePx",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "Product Hunt AI 月榜",
+    "summary": "2026 年 6 月 Product Hunt AI 分类有大量产品发布，AI 工具供给很密，需要做强垂类和分发，而不是泛 AI app。",
+    "url": "https://hunted.space/top-products/2026/June/artificial-intelligence",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "Hacker News Show HN",
+    "summary": "Trace 作为“离线 Mac 会议转录，可会中标记重点”的 Show HN 进入 2026-06-14 至 2026-06-20 周榜，隐私、本地、不中断会议是明确卖点。",
+    "url": "https://news.ycombinator.com/item?id=48521236 / https://www.daemonology.net/hn-weekly-show/2026-06.html",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "Google Play Productivity",
+    "summary": "Google Play Productivity 页中，AI 助手、PDF、Office、云盘、DWG/CAD 工具同时出现；其中 Link to Windows 3.8、DWG FastView 3.6、PDF Reader Point 3.8，显示成熟工具仍有体验弱项。",
+    "url": "https://play.google.com/store/apps/category/PRODUCTIVITY?hl=en",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "HotSchedules",
+    "summary": "Android 版 HotSchedules 为 $2.99、1M+ 下载、3.4 星、24.9K 评论；iOS 版为 Business 榜 #1、4.6 星、67K 评分，存在平台体验差异。",
+    "url": "https://play.google.com/store/apps/details?id=com.tdr3.hs.android / https://apps.apple.com/us/app/hotschedules/id294934058",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "中国 App Store / 高考 AI",
+    "summary": "中国 iPhone 榜里红果短剧、抖音商城、抖省省靠前；夸克“高考选志愿”在中国工具榜 #1，4.3 星、约 63 万评分，并宣称累计服务超 1.6 亿考生和家长。",
+    "url": "https://appfigures.com/top-apps/ios-app-store/china/iphone/top-overall / https://apps.apple.com/cn/app/%E5%A4%B8%E5%85%8B-%E9%AB%98%E8%80%83%E9%80%89%E5%BF%97%E6%84%BF/id1160172628",
+    "source": "APP SIGNAL"
+  },
+  {
+    "title": "美国大学申请 app",
+    "summary": "Appshunter 显示 Common App 在 College Applications 关键词下领先，但评分约 3.1/5；Google Play 也把大学申请列为独立编辑专题。",
+    "url": "https://appshunter.io/ios/topics/college-applications / https://play.google.com/store/apps/editorial?id=mc_apps_editorial_catess_college_applications_fcp",
+    "source": "APP SIGNAL"
+  }
+]

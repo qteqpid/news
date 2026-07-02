@@ -1,167 +1,98 @@
-{
-  "date": "2026-07-01",
-  "title": "科技新闻 2026-07-01",
-  "generated_at": "2026-07-01T00:50:16Z",
-  "sources": [
-    "The Verge",
-    "MIT Technology Review",
-    "Ars Technica",
-    "TechCrunch",
-    "36氪",
-    "少数派"
-  ],
-  "categories": [
-    {
-      "id": "ai-models",
-      "name": "AI / 大模型动态",
-      "items": [
-        {
-          "title": "Anthropic 推出 Claude Sonnet 5，主打更便宜的智能体执行",
-          "summary": "TechCrunch 报道，Claude Sonnet 5 强化了推理、工具调用、软件编码和知识工作能力，并以低于旗舰模型的成本切入企业智能体场景。模型竞争正在从单次对话能力转向“能否稳定、便宜地跑长任务”，这会直接影响代码、办公和运营自动化产品的边际成本。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-          "published_at": "2026-06-30",
-          "tags": ["AI", "Anthropic", "Claude", "Agents"]
-        },
-        {
-          "title": "Anthropic 发布 Claude Science，瞄准制药和科研工作流",
-          "summary": "MIT Technology Review 报道，Anthropic 在面向药企高管、biotech 创始人和研究人员的活动上发布 Claude Science。前沿模型公司开始把行业工作流包装成产品，而不是只发布通用模型，这意味着“模型能力 + 领域数据 + 合规流程”会成为科研 AI 的竞争焦点。",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-          "published_at": "2026-06-30",
-          "tags": ["AI", "Science", "Anthropic", "Biotech"]
-        },
-        {
-          "title": "Google NotebookLM 推出 TikTok 风格 AI 短视频摘要",
-          "summary": "The Verge 报道，NotebookLM 新增 AI Clips，可把用户研究资料转成短视频式摘要。知识管理工具正在从文本摘要扩展到多模态复述，适合移动端快速消费，但也会考验引用准确性、上下文保真和学术场景的可追溯性。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-          "published_at": "2026-06-30",
-          "tags": ["AI", "Google", "NotebookLM", "Video"]
-        },
-        {
-          "title": "Google 发布更快、更便宜的 Nano Banana 2 Lite 图像生成器",
-          "summary": "TechCrunch 报道，Google 正在升级图像生成产品，让生成更快且成本更低。图像生成的差异化正在从“质量展示”走向“可规模化嵌入创作者工具”，成本下降会让更多小型 app 把图片生成做成后台能力。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-          "published_at": "2026-06-30",
-          "tags": ["AI", "Google", "Image generation", "Creators"]
-        }
-      ]
-    },
-    {
-      "id": "big-tech",
-      "name": "大科技公司动态",
-      "items": [
-        {
-          "title": "OpenAI 预告 Codex 相关硬件",
-          "summary": "The Verge 报道，OpenAI 发布视频预告，将在 7 月 15 日推出与 Codex 有关的新设备。AI 编程产品开始探索更靠近开发者工作流的专用入口，值得关注它究竟是输入设备、工作站周边，还是用于任务监控和协作的硬件形态。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-          "published_at": "2026-06-30",
-          "tags": ["OpenAI", "Codex", "Hardware", "Developer tools"]
-        },
-        {
-          "title": "Amazon 组建 10 亿美元 AI 前部署工程师组织",
-          "summary": "TechCrunch 报道，Amazon 推出 10 亿美元规模的 FDE 组织，延续 OpenAI、Anthropic 等公司用工程团队贴近客户落地 AI 的打法。AI 商业化正在从卖 API 变成“模型 + 交付 + 流程改造”，这对云厂商和咨询服务都会产生挤压。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-          "published_at": "2026-06-30",
-          "tags": ["Amazon", "AI", "Enterprise", "FDE"]
-        },
-        {
-          "title": "X 推出 MCP Server，方便 AI 工具接入平台能力",
-          "summary": "TechCrunch 报道，X 正在提供 MCP Server，让 AI 工具更容易使用其平台能力。随着 MCP 成为智能体连接外部工具的通用接口，社交平台、开发者平台和企业 SaaS 都会开始争夺“被智能体调用”的默认位置。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-          "published_at": "2026-06-30",
-          "tags": ["X", "MCP", "AI tools", "Agents"]
-        },
-        {
-          "title": "Tesla 在 Austin 测试无踏板、无方向盘 Cybercab",
-          "summary": "TechCrunch 报道，Tesla 开始在 Austin 测试没有踏板和方向盘的 Cybercab。自动驾驶叙事进入更高监管风险阶段，车辆形态本身会迫使监管、保险、远程接管和事故责任机制更早接受市场检验。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
-          "published_at": "2026-06-30",
-          "tags": ["Tesla", "Autonomous driving", "Cybercab", "Transportation"]
-        }
-      ]
-    },
-    {
-      "id": "capital-funding",
-      "name": "资本与融资",
-      "items": [
-        {
-          "title": "Etched 估值达 50 亿美元，并称 AI 芯片系统已获 10 亿美元订单",
-          "summary": "TechCrunch 报道，Nvidia 竞争者 Etched 已获得 10 亿美元合同订单，产品面向前沿模型推理集群。AI 基建投资继续向推理成本和能效倾斜，芯片创业公司的机会在于围绕特定模型结构做深度优化，但客户验证和量产交付仍是最大风险。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-          "published_at": "2026-06-30",
-          "tags": ["AI chips", "Etched", "Nvidia", "Funding"]
-        },
-        {
-          "title": "DeepMind 前 poker AI 团队创办的 EquiLibre 估值超 5 亿美元",
-          "summary": "TechCrunch 报道，三位前 DeepMind 研究者创办的 EquiLibre Technologies 正在为量化对冲基金开发 AI 系统，估值已超过 5 亿美元。AI 人才和强化学习能力继续向金融交易迁移，但可持续优势会取决于真实市场收益、风控和合规边界。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-          "published_at": "2026-06-30",
-          "tags": ["AI", "Finance", "DeepMind", "Quant"]
-        },
-        {
-          "title": "Realta Fusion 宣称首次从聚变反应中直接发电",
-          "summary": "TechCrunch 报道，Realta Fusion 表示其已从等离子体中直接取电，成为聚变商业化路径上的重要技术里程碑。深科技融资仍会被 AI 抢走关注，但能源约束正在反过来影响 AI 基建，聚变、储能和电网创新会获得更强战略溢价。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
-          "published_at": "2026-06-30",
-          "tags": ["Fusion", "Energy", "Climate tech", "Infrastructure"]
-        },
-        {
-          "title": "谱星航天 9 个月完成两轮数亿元融资",
-          "summary": "36氪报道，光学载荷与微纳卫星系统解决方案公司谱星航天连续完成天使+、Pre-A 两轮融资，累计规模数亿元。遥感和微纳卫星正与 AI 数据处理结合，低空、应急、农业和城市治理会成为商业化落点。",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3875120747942913?f=rss",
-          "published_at": "2026-07-01",
-          "tags": ["Space", "Satellite", "Funding", "Remote sensing"]
-        }
-      ]
-    },
-    {
-      "id": "industry-events",
-      "name": "行业与企业事件",
-      "items": [
-        {
-          "title": "TIDAL 将不再向 AI 生成音乐支付版税，但暂不全面禁止",
-          "summary": "The Verge 报道，TIDAL 更新 AI 音乐政策，计划识别、标注并限制 AI 内容变现。音乐平台正在从内容检测进入收入分配治理阶段，创作者权益、相似声线和平台推荐权重会成为长期争议点。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-          "published_at": "2026-06-30",
-          "tags": ["AI music", "TIDAL", "Creator economy", "Policy"]
-        },
-        {
-          "title": "Notion 关闭受 Skiff 影响的邮件 app，转向 AI agent 跑 inbox",
-          "summary": "Ars Technica 报道，Notion 将关闭相关 email app，并表示会全面投入用 agents 管理收件箱。生产力工具的重心正在从“替你组织信息”转向“替你执行信息处理”，但用户对自动归档、代回复和权限边界的信任仍需要慢慢建立。",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-          "published_at": "2026-06-30",
-          "tags": ["Notion", "Email", "Agents", "Productivity"]
-        },
-        {
-          "title": "Netflix 在 Willy Wonka 真人秀中使用 AI 生成 Gene Wilder 声音",
-          "summary": "The Verge 报道，Netflix 新节目预告确认使用 AI 生成的 Gene Wilder 声音。影视娱乐行业正在把 AI 复刻声音推向主流发行，授权、遗产管理和观众接受度会决定这类技术能否从噱头变成稳定制作流程。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-          "published_at": "2026-06-30",
-          "tags": ["AI voice", "Netflix", "Entertainment", "Rights"]
-        },
-        {
-          "title": "AI 浏览器遭遇新攻击，提示词环境可能被诱导失守",
-          "summary": "Ars Technica 报道，新的攻击展示了 AI 浏览器可能被诱导进入错误上下文，从而绕过原有安全边界。浏览器智能体连接账号、网页和支付场景后，安全问题不再只是提示词注入，而是用户真实权限被模型错误执行。",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-          "published_at": "2026-06-30",
-          "tags": ["Security", "AI browsers", "Prompt injection", "Agents"]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "Anthropic 推出 Claude Sonnet 5，主打更便宜的智能体执行",
+    "summary": "TechCrunch 报道，Claude Sonnet 5 强化了推理、工具调用、软件编码和知识工作能力，并以低于旗舰模型的成本切入企业智能体场景。模型竞争正在从单次对话能力转向“能否稳定、便宜地跑长任务”，这会直接影响代码、办公和运营自动化产品的边际成本。",
+    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic 发布 Claude Science，瞄准制药和科研工作流",
+    "summary": "MIT Technology Review 报道，Anthropic 在面向药企高管、biotech 创始人和研究人员的活动上发布 Claude Science。前沿模型公司开始把行业工作流包装成产品，而不是只发布通用模型，这意味着“模型能力 + 领域数据 + 合规流程”会成为科研 AI 的竞争焦点。",
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "Google NotebookLM 推出 TikTok 风格 AI 短视频摘要",
+    "summary": "The Verge 报道，NotebookLM 新增 AI Clips，可把用户研究资料转成短视频式摘要。知识管理工具正在从文本摘要扩展到多模态复述，适合移动端快速消费，但也会考验引用准确性、上下文保真和学术场景的可追溯性。",
+    "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+    "source": "The Verge"
+  },
+  {
+    "title": "Google 发布更快、更便宜的 Nano Banana 2 Lite 图像生成器",
+    "summary": "TechCrunch 报道，Google 正在升级图像生成产品，让生成更快且成本更低。图像生成的差异化正在从“质量展示”走向“可规模化嵌入创作者工具”，成本下降会让更多小型 app 把图片生成做成后台能力。",
+    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "OpenAI 预告 Codex 相关硬件",
+    "summary": "The Verge 报道，OpenAI 发布视频预告，将在 7 月 15 日推出与 Codex 有关的新设备。AI 编程产品开始探索更靠近开发者工作流的专用入口，值得关注它究竟是输入设备、工作站周边，还是用于任务监控和协作的硬件形态。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+    "source": "The Verge"
+  },
+  {
+    "title": "Amazon 组建 10 亿美元 AI 前部署工程师组织",
+    "summary": "TechCrunch 报道，Amazon 推出 10 亿美元规模的 FDE 组织，延续 OpenAI、Anthropic 等公司用工程团队贴近客户落地 AI 的打法。AI 商业化正在从卖 API 变成“模型 + 交付 + 流程改造”，这对云厂商和咨询服务都会产生挤压。",
+    "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "X 推出 MCP Server，方便 AI 工具接入平台能力",
+    "summary": "TechCrunch 报道，X 正在提供 MCP Server，让 AI 工具更容易使用其平台能力。随着 MCP 成为智能体连接外部工具的通用接口，社交平台、开发者平台和企业 SaaS 都会开始争夺“被智能体调用”的默认位置。",
+    "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Tesla 在 Austin 测试无踏板、无方向盘 Cybercab",
+    "summary": "TechCrunch 报道，Tesla 开始在 Austin 测试没有踏板和方向盘的 Cybercab。自动驾驶叙事进入更高监管风险阶段，车辆形态本身会迫使监管、保险、远程接管和事故责任机制更早接受市场检验。",
+    "url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Etched 估值达 50 亿美元，并称 AI 芯片系统已获 10 亿美元订单",
+    "summary": "TechCrunch 报道，Nvidia 竞争者 Etched 已获得 10 亿美元合同订单，产品面向前沿模型推理集群。AI 基建投资继续向推理成本和能效倾斜，芯片创业公司的机会在于围绕特定模型结构做深度优化，但客户验证和量产交付仍是最大风险。",
+    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "DeepMind 前 poker AI 团队创办的 EquiLibre 估值超 5 亿美元",
+    "summary": "TechCrunch 报道，三位前 DeepMind 研究者创办的 EquiLibre Technologies 正在为量化对冲基金开发 AI 系统，估值已超过 5 亿美元。AI 人才和强化学习能力继续向金融交易迁移，但可持续优势会取决于真实市场收益、风控和合规边界。",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Realta Fusion 宣称首次从聚变反应中直接发电",
+    "summary": "TechCrunch 报道，Realta Fusion 表示其已从等离子体中直接取电，成为聚变商业化路径上的重要技术里程碑。深科技融资仍会被 AI 抢走关注，但能源约束正在反过来影响 AI 基建，聚变、储能和电网创新会获得更强战略溢价。",
+    "url": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "谱星航天 9 个月完成两轮数亿元融资",
+    "summary": "36氪报道，光学载荷与微纳卫星系统解决方案公司谱星航天连续完成天使+、Pre-A 两轮融资，累计规模数亿元。遥感和微纳卫星正与 AI 数据处理结合，低空、应急、农业和城市治理会成为商业化落点。",
+    "url": "https://36kr.com/p/3875120747942913?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "TIDAL 将不再向 AI 生成音乐支付版税，但暂不全面禁止",
+    "summary": "The Verge 报道，TIDAL 更新 AI 音乐政策，计划识别、标注并限制 AI 内容变现。音乐平台正在从内容检测进入收入分配治理阶段，创作者权益、相似声线和平台推荐权重会成为长期争议点。",
+    "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+    "source": "The Verge"
+  },
+  {
+    "title": "Notion 关闭受 Skiff 影响的邮件 app，转向 AI agent 跑 inbox",
+    "summary": "Ars Technica 报道，Notion 将关闭相关 email app，并表示会全面投入用 agents 管理收件箱。生产力工具的重心正在从“替你组织信息”转向“替你执行信息处理”，但用户对自动归档、代回复和权限边界的信任仍需要慢慢建立。",
+    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "source": "Ars Technica"
+  },
+  {
+    "title": "Netflix 在 Willy Wonka 真人秀中使用 AI 生成 Gene Wilder 声音",
+    "summary": "The Verge 报道，Netflix 新节目预告确认使用 AI 生成的 Gene Wilder 声音。影视娱乐行业正在把 AI 复刻声音推向主流发行，授权、遗产管理和观众接受度会决定这类技术能否从噱头变成稳定制作流程。",
+    "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+    "source": "The Verge"
+  },
+  {
+    "title": "AI 浏览器遭遇新攻击，提示词环境可能被诱导失守",
+    "summary": "Ars Technica 报道，新的攻击展示了 AI 浏览器可能被诱导进入错误上下文，从而绕过原有安全边界。浏览器智能体连接账号、网页和支付场景后，安全问题不再只是提示词注入，而是用户真实权限被模型错误执行。",
+    "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "source": "Ars Technica"
+  }
+]
