@@ -12,6 +12,7 @@ import os
 import json
 import re
 import ssl
+import urllib.parse
 import urllib.request
 
 # feedparser doesn't use urllib.request.urlopen directly, so we pre-fetch the
@@ -35,6 +36,7 @@ TODAY = datetime.date.today().isoformat()
 NEWS_DIR = os.path.expanduser("~/my_repos/news/ai")
 OUTPUT_FILE = os.path.join(NEWS_DIR, f"{TODAY}.md")
 LOG_FILE = os.path.join(NEWS_DIR, "news_log.txt")
+GITHUB_RECENT_DAYS = 14
 
 FEEDS = [
     # AI 专项
@@ -74,6 +76,192 @@ def clean_summary(summary):
     summary = re.sub(r'(查看全文|阅读全文)\s*$', '', summary).strip()
     return summary
 
+def fetch_json(url, headers=None):
+    request_headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        "Accept": "application/json",
+    }
+    if headers:
+        request_headers.update(headers)
+    req = urllib.request.Request(url, headers=request_headers)
+    with urllib.request.urlopen(req, timeout=15, context=_ssl_ctx) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+def format_date(value):
+    if not value:
+        return ""
+    if isinstance(value, (int, float)):
+        try:
+            return datetime.datetime.fromtimestamp(value).date().isoformat()
+        except (OverflowError, OSError, ValueError):
+            return ""
+    return str(value)[:10]
+
+def canonical_external_id(url):
+    if not url:
+        return ""
+    parsed = urllib.parse.urlparse(url)
+    host = parsed.netloc.lower()
+    path = parsed.path.strip("/")
+
+    github_match = re.match(r"^([^/]+)/([^/]+)", path)
+    if host == "github.com" and github_match:
+        owner, repo = github_match.groups()
+        return f"github:{owner.lower()}/{repo.lower()}"
+
+    if host.endswith("zhihu.com"):
+        question_match = re.search(r"(?:^|/)question/(\d+)", path)
+        if question_match:
+            return f"zhihu:question:{question_match.group(1)}"
+        article_match = re.search(r"(?:^|/)p/(\d+)", path)
+        if article_match:
+            return f"zhihu:article:{article_match.group(1)}"
+
+    normalized_path = re.sub(r"/+$", "", parsed.path)
+    return urllib.parse.urlunparse((parsed.scheme.lower(), host, normalized_path, "", "", ""))
+
+def load_seen_external_ids():
+    seen = set()
+    if not os.path.isdir(NEWS_DIR):
+        return seen
+
+    github_pattern = re.compile(r"https?://github\.com/[\w.-]+/[\w.-]+")
+    zhihu_patterns = [
+        re.compile(r"https?://(?:www\.)?zhihu\.com/question/\d+(?:/answer/\d+)?"),
+        re.compile(r"https?://zhuanlan\.zhihu\.com/p/\d+"),
+    ]
+
+    for filename in os.listdir(NEWS_DIR):
+        if not (filename.endswith(".md") or filename.endswith(".json")):
+            continue
+        if filename.startswith(TODAY):
+            continue
+        path = os.path.join(NEWS_DIR, filename)
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                content = f.read()
+        except OSError:
+            continue
+
+        for pattern in [github_pattern, *zhihu_patterns]:
+            for match in pattern.findall(content):
+                external_id = canonical_external_id(match)
+                if external_id:
+                    seen.add(external_id)
+    return seen
+
+def filter_unseen_external_items(items, seen_ids):
+    filtered = []
+    for item in items:
+        external_id = item.get("dedupe_id") or canonical_external_id(item.get("link", ""))
+        if not external_id or external_id in seen_ids:
+            continue
+        seen_ids.add(external_id)
+        filtered.append(item)
+    return filtered
+
+def fetch_github_popular_repositories():
+    since = (datetime.date.today() - datetime.timedelta(days=GITHUB_RECENT_DAYS)).isoformat()
+    query = f"created:>={since} stars:>=10"
+    params = urllib.parse.urlencode({
+        "q": query,
+        "sort": "stars",
+        "order": "desc",
+        "per_page": "25",
+    })
+    data = fetch_json(
+        f"https://api.github.com/search/repositories?{params}",
+        headers={"Accept": "application/vnd.github+json"},
+    )
+
+    items = []
+    for repo in data.get("items", []):
+        full_name = repo.get("full_name", "").strip()
+        link = repo.get("html_url", "").strip()
+        if not full_name or not link:
+            continue
+
+        stars = repo.get("stargazers_count", 0)
+        language = repo.get("language") or "Unknown"
+        description = clean_summary(repo.get("description") or "")
+        parts = [
+            f"最近 {GITHUB_RECENT_DAYS} 天新建的热门仓库，当前约 {stars} stars，主要语言：{language}。",
+        ]
+        if description:
+            parts.append(description)
+
+        items.append({
+            "title": full_name,
+            "link": link,
+            "summary": " ".join(parts),
+            "published": format_date(repo.get("created_at")),
+            "dedupe_id": canonical_external_id(link),
+        })
+    return items[:8]
+
+def zhihu_public_url(target):
+    target_type = target.get("type", "")
+    target_id = target.get("id")
+    question = target.get("question") if isinstance(target.get("question"), dict) else {}
+    question_id = question.get("id")
+
+    if question_id and target_type == "answer" and target_id:
+        return f"https://www.zhihu.com/question/{question_id}/answer/{target_id}"
+    if question_id:
+        return f"https://www.zhihu.com/question/{question_id}"
+    if target_type == "article" and target_id:
+        return f"https://zhuanlan.zhihu.com/p/{target_id}"
+    return target.get("url", "")
+
+def fetch_zhihu_hot_posts():
+    data = fetch_json(
+        "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30&desktop=true",
+        headers={
+            "Referer": "https://www.zhihu.com/hot",
+            "X-Requested-With": "fetch",
+        },
+    )
+
+    items = []
+    for entry in data.get("data", []):
+        target = entry.get("target") if isinstance(entry.get("target"), dict) else {}
+        question = target.get("question") if isinstance(target.get("question"), dict) else {}
+        title = (question.get("title") or target.get("title") or entry.get("title") or "").strip()
+        link = zhihu_public_url(target).strip()
+        if not title or not link:
+            continue
+
+        detail = clean_summary(entry.get("detail_text") or "")
+        excerpt = clean_summary(target.get("excerpt") or target.get("excerpt_new") or "")
+        summary_parts = []
+        if detail:
+            summary_parts.append(detail)
+        if excerpt:
+            summary_parts.append(excerpt)
+
+        items.append({
+            "title": title,
+            "link": link,
+            "summary": " ".join(summary_parts)[:200],
+            "published": format_date(question.get("created") or target.get("created_time")),
+            "dedupe_id": canonical_external_id(link),
+        })
+    return items[:8]
+
+def add_external_sources(results):
+    seen_ids = load_seen_external_ids()
+    external_sources = [
+        ("GitHub 热门项目", fetch_github_popular_repositories),
+        ("知乎热门帖子", fetch_zhihu_hot_posts),
+    ]
+    for source_name, fetcher in external_sources:
+        try:
+            items = filter_unseen_external_items(fetcher(), seen_ids)
+        except Exception:
+            items = []
+        if items:
+            results[source_name] = items
+
 def fetch_all():
     results = {}
     for source_name, url in FEEDS:
@@ -96,6 +284,7 @@ def fetch_all():
                 results[source_name] = items[:8]
         except Exception as e:
             results[source_name] = [{"title": f"抓取失败: {e}", "link": "", "summary": "", "published": ""}]
+    add_external_sources(results)
     return results
 
 def write_report(results):
