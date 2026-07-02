@@ -34,6 +34,7 @@ def fetch_feed(url):
 
 TODAY = datetime.date.today().isoformat()
 NEWS_DIR = os.path.expanduser("~/my_repos/news/ai")
+APP_DIR = os.path.expanduser("~/my_repos/news/app")
 OUTPUT_FILE = os.path.join(NEWS_DIR, f"{TODAY}.md")
 LOG_FILE = os.path.join(NEWS_DIR, "news_log.txt")
 GITHUB_RECENT_DAYS = 14
@@ -81,6 +82,19 @@ def clean_summary(summary):
     summary = re.sub(r'(查看全文|阅读全文)\s*$', '', summary).strip()
     return summary
 
+def normalize_title_id(title):
+    title = clean_summary(str(title or "")).lower()
+    title = re.sub(r"https?://\S+", "", title)
+    title = re.sub(r"[^\w\u4e00-\u9fff]+", "", title)
+    if len(title) < 6:
+        return ""
+    return f"title:{title[:140]}"
+
+def extract_urls(text):
+    if not text:
+        return []
+    return re.findall(r"https?://[^\s)\]>'\"]+", str(text))
+
 def fetch_json(url, headers=None):
     request_headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
@@ -122,48 +136,102 @@ def canonical_external_id(url):
         if article_match:
             return f"zhihu:article:{article_match.group(1)}"
 
+    tracking_params = {"f", "from", "ref", "source", "spm", "utm_campaign", "utm_content", "utm_medium", "utm_source", "utm_term"}
+    query = urllib.parse.parse_qsl(parsed.query, keep_blank_values=True)
+    query = [(key, value) for key, value in query if key.lower() not in tracking_params and not key.lower().startswith("utm_")]
+    normalized_query = urllib.parse.urlencode(query, doseq=True)
     normalized_path = re.sub(r"/+$", "", parsed.path)
-    return urllib.parse.urlunparse((parsed.scheme.lower(), host, normalized_path, "", "", ""))
+    return urllib.parse.urlunparse((parsed.scheme.lower(), host, normalized_path, "", normalized_query, ""))
 
-def load_seen_external_ids():
+def item_dedupe_keys(title="", link=""):
+    keys = set()
+    links = extract_urls(link) or ([link] if link else [])
+    title_id = normalize_title_id(title)
+    for candidate in links:
+        external_id = canonical_external_id(candidate)
+        if external_id:
+            keys.add(external_id)
+    if title_id:
+        keys.add(title_id)
+    return keys
+
+def add_history_keys_from_json(value, seen):
+    if isinstance(value, dict):
+        link = value.get("url") or value.get("link") or ""
+        title = value.get("title") or ""
+        if link:
+            seen.update(item_dedupe_keys("", link))
+        if title and any(key in value for key in ("summary", "source", "source_signal", "pain", "mvp", "url", "link")):
+            seen.update(item_dedupe_keys(title, link))
+        for child in value.values():
+            add_history_keys_from_json(child, seen)
+    elif isinstance(value, list):
+        for child in value:
+            add_history_keys_from_json(child, seen)
+
+def add_history_keys_from_markdown(content, seen):
+    linked_title_pattern = re.compile(r"\*\*\[([^\]]+)\]\((https?://[^)]+)\)\*\*")
+    bold_title_pattern = re.compile(r"^-\s+\*\*([^*]+)\*\*[：:]", re.MULTILINE)
+    app_idea_pattern = re.compile(r"^###\s+\d+\.\s+(.+)$", re.MULTILINE)
+
+    for title, link in linked_title_pattern.findall(content):
+        seen.update(item_dedupe_keys(title, link))
+    for title in bold_title_pattern.findall(content):
+        seen.update(item_dedupe_keys(title, ""))
+    for title in app_idea_pattern.findall(content):
+        seen.update(item_dedupe_keys(title, ""))
+    for link in extract_urls(content):
+        seen.update(item_dedupe_keys("", link))
+
+def load_seen_item_keys(history_dir, current_date=TODAY):
     seen = set()
-    if not os.path.isdir(NEWS_DIR):
+    if not os.path.isdir(history_dir):
         return seen
 
-    github_pattern = re.compile(r"https?://github\.com/[\w.-]+/[\w.-]+")
-    zhihu_patterns = [
-        re.compile(r"https?://(?:www\.)?zhihu\.com/question/\d+(?:/answer/\d+)?"),
-        re.compile(r"https?://zhuanlan\.zhihu\.com/p/\d+"),
-    ]
-
-    for filename in os.listdir(NEWS_DIR):
+    for filename in os.listdir(history_dir):
         if not (filename.endswith(".md") or filename.endswith(".json")):
             continue
-        if filename.startswith(TODAY):
+        if filename.startswith(current_date):
             continue
-        path = os.path.join(NEWS_DIR, filename)
+        path = os.path.join(history_dir, filename)
         try:
             with open(path, "r", encoding="utf-8") as f:
                 content = f.read()
         except OSError:
             continue
 
-        for pattern in [github_pattern, *zhihu_patterns]:
-            for match in pattern.findall(content):
-                external_id = canonical_external_id(match)
-                if external_id:
-                    seen.add(external_id)
+        if filename.endswith(".json"):
+            try:
+                add_history_keys_from_json(json.loads(content), seen)
+            except json.JSONDecodeError:
+                add_history_keys_from_markdown(content, seen)
+        else:
+            add_history_keys_from_markdown(content, seen)
     return seen
 
-def filter_unseen_external_items(items, seen_ids):
+def load_seen_news_item_keys(current_date=TODAY):
+    return load_seen_item_keys(NEWS_DIR, current_date)
+
+def load_seen_app_item_keys(current_date=TODAY):
+    return load_seen_item_keys(APP_DIR, current_date)
+
+def load_seen_external_ids():
+    return load_seen_news_item_keys()
+
+def filter_unseen_items(items, seen_keys):
     filtered = []
     for item in items:
-        external_id = item.get("dedupe_id") or canonical_external_id(item.get("link", ""))
-        if not external_id or external_id in seen_ids:
+        keys = item_dedupe_keys(item.get("title", ""), item.get("link", ""))
+        if item.get("dedupe_id"):
+            keys.add(item["dedupe_id"])
+        if not keys or keys & seen_keys:
             continue
-        seen_ids.add(external_id)
+        seen_keys.update(keys)
         filtered.append(item)
     return filtered
+
+def filter_unseen_external_items(items, seen_ids):
+    return filter_unseen_items(items, seen_ids)
 
 def fetch_github_popular_repositories():
     since = (datetime.date.today() - datetime.timedelta(days=GITHUB_RECENT_DAYS)).isoformat()
@@ -276,15 +344,14 @@ def fetch_zhihu_hot_posts_from_rss():
             return items[:8]
     return []
 
-def add_external_sources(results):
-    seen_ids = load_seen_external_ids()
+def add_external_sources(results, seen_keys):
     external_sources = [
         ("GitHub 热门项目", fetch_github_popular_repositories),
         ("知乎热门帖子", fetch_zhihu_hot_posts),
     ]
     for source_name, fetcher in external_sources:
         try:
-            items = filter_unseen_external_items(fetcher(), seen_ids)
+            items = filter_unseen_items(fetcher(), seen_keys)
         except Exception:
             items = []
         if items:
@@ -292,6 +359,7 @@ def add_external_sources(results):
 
 def fetch_all():
     results = {}
+    seen_keys = load_seen_news_item_keys()
     for source_name, url in FEEDS:
         try:
             feed = fetch_feed(url)
@@ -302,17 +370,18 @@ def fetch_all():
                 summary = clean_summary(entry.get("summary", ""))[:200]
                 published = entry.get("published", "")[:16]
                 if is_relevant(title, summary):
-                    items.append({
+                    candidate = {
                         "title": title,
                         "link": link,
                         "summary": summary.strip(),
                         "published": published,
-                    })
+                    }
+                    items.extend(filter_unseen_items([candidate], seen_keys))
             if items:
                 results[source_name] = items[:8]
         except Exception as e:
             results[source_name] = [{"title": f"抓取失败: {e}", "link": "", "summary": "", "published": ""}]
-    add_external_sources(results)
+    add_external_sources(results, seen_keys)
     return results
 
 def write_report(results):
@@ -339,6 +408,19 @@ def log_done(total):
         f.write(f"{TODAY} done ({total} items)\n")
 
 if __name__ == "__main__":
+    import sys
+
+    if len(sys.argv) >= 2 and sys.argv[1] == "--seen-keys":
+        scope = sys.argv[2] if len(sys.argv) >= 3 else "news"
+        if scope == "app":
+            keys = load_seen_app_item_keys()
+        elif scope in ("news", "ai"):
+            keys = load_seen_news_item_keys()
+        else:
+            raise SystemExit("usage: fetch_news.py --seen-keys [news|app]")
+        print(json.dumps(sorted(keys), ensure_ascii=False, indent=2))
+        raise SystemExit(0)
+
     # Check if feedparser is available
     try:
         import feedparser
