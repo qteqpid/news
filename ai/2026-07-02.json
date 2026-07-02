@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-02",
+  "title": "科技新闻 2026-07-02",
+  "generated_at": "2026-07-02T07:55:00+08:00",
+  "sources": [
+    "The Verge",
+    "MIT Technology Review",
+    "Ars Technica",
+    "TechCrunch",
+    "36kr",
+    "Sspai"
+  ],
+  "categories": [
+    {
+      "id": "ai-models",
+      "name": "AI / 大模型动态",
+      "items": [
+        {
+          "title": "Google NotebookLM adds TikTok-style AI clips",
+          "summary": "Google NotebookLM is adding short AI-generated video clips for catching up on research notes. The feature points to a broader shift from text summaries toward lightweight multimodal review experiences.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+          "published_at": "2026-07-01",
+          "tags": [
+            "AI",
+            "NotebookLM",
+            "Google"
+          ]
+        },
+        {
+          "title": "Anthropic announces Claude Science",
+          "summary": "Anthropic introduced Claude Science as a flagship product for pharmaceutical, biotech, and research workflows. The launch continues the trend of model vendors packaging vertical AI products rather than only selling general chat interfaces.",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "published_at": "2026-06-30",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Science"
+          ]
+        },
+        {
+          "title": "LLM groupthink becomes a product problem",
+          "summary": "MIT Technology Review covered startup efforts to push large language models out of repetitive consensus patterns. The signal is that evaluation and diversity of reasoning are becoming product differentiators, not only research concerns.",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+          "published_at": "2026-07-01",
+          "tags": [
+            "AI",
+            "LLM",
+            "Evaluation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-tech",
+      "name": "大科技公司动态",
+      "items": [
+        {
+          "title": "Apple Hide My Email bug reportedly exposed real addresses",
+          "summary": "A researcher claims an Apple Hide My Email bug may have exposed users' real email addresses. The report is a reminder that privacy features need continuous adversarial testing, especially when they become default account-protection habits.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+          "published_at": "2026-07-01",
+          "tags": [
+            "Apple",
+            "Privacy",
+            "Security"
+          ]
+        },
+        {
+          "title": "WhatsApp usernames raise impersonation concerns",
+          "summary": "WhatsApp usernames are intended to improve privacy, but early criticism centers on impersonation safeguards. The launch shows how identity systems can trade phone-number privacy for new trust and verification problems.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+          "published_at": "2026-07-01",
+          "tags": [
+            "Meta",
+            "WhatsApp",
+            "Privacy"
+          ]
+        },
+        {
+          "title": "Apple entry-level MacBook Pro may get a redesign",
+          "summary": "The Verge reported that Apple is working on a revamped entry-level MacBook Pro. If launched, it would continue Apple's effort to better separate entry professional laptops from iPad Pro and higher-end MacBook Pro lines.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+          "published_at": "2026-07-01",
+          "tags": [
+            "Apple",
+            "MacBook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "capital",
+      "name": "资本与融资",
+      "items": [
+        {
+          "title": "Together AI raises $800M at $8.3B valuation",
+          "summary": "Together AI raised a large round as demand continues for AI cloud infrastructure and open-model hosting. Neocloud providers remain one of the most capital-intensive but strategically important layers of the AI stack.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+          "published_at": "2026-07-01",
+          "tags": [
+            "AI Infrastructure",
+            "Funding",
+            "Neocloud"
+          ]
+        },
+        {
+          "title": "Bending Spoons surges after IPO",
+          "summary": "Bending Spoons rose sharply on its first trading day after an $18B IPO. Its acquire-and-rebuild model remains a useful benchmark for consumer subscription software and mature SaaS asset turnarounds.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+          "published_at": "2026-07-01",
+          "tags": [
+            "IPO",
+            "SaaS",
+            "Consumer Apps"
+          ]
+        },
+        {
+          "title": "Chinese AI hardware and robotics startups report new financing",
+          "summary": "36kr reported multiple early-stage financings across robotics joints, silicon photonics, smart glasses, AI drug discovery, and fusion. The pattern suggests capital is clustering around AI-enabled hard-tech rather than pure software only.",
+          "source": "36kr",
+          "url": "https://36kr.com/",
+          "published_at": "2026-07-02",
+          "tags": [
+            "China",
+            "Robotics",
+            "Hard Tech"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "industry-events",
+      "name": "行业与企业事件",
+      "items": [
+        {
+          "title": "AI browser security concerns intensify",
+          "summary": "Ars Technica highlighted another attack pattern against AI browsers, where model context manipulation can weaken guardrails. The news reinforces that browser agents need stronger isolation, provenance checks, and user-visible trust boundaries.",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+          "published_at": "2026-06-30",
+          "tags": [
+            "Security",
+            "AI Browser",
+            "Agents"
+          ]
+        },
+        {
+          "title": "Tidal changes AI-generated music royalty policy",
+          "summary": "Tidal says it will not pay royalties on AI-generated music while avoiding a complete ban. Music platforms are moving toward policy differentiation between human artists, AI-assisted works, and fully synthetic tracks.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+          "published_at": "2026-07-01",
+          "tags": [
+            "Music",
+            "AI Content",
+            "Policy"
+          ]
+        },
+        {
+          "title": "Physical console games continue shifting toward digital",
+          "summary": "The Verge reported growing signs that PlayStation and Xbox physical disc production is winding down. This creates preservation, ownership, and resale concerns while also opening demand for collection tracking and rights-management tools.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
+          "published_at": "2026-07-01",
+          "tags": [
+            "Gaming",
+            "Digital Ownership",
+            "Preservation"
+          ]
+        }
+      ]
+    }
+  ]
+}
