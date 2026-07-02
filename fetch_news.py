@@ -37,6 +37,11 @@ NEWS_DIR = os.path.expanduser("~/my_repos/news/ai")
 OUTPUT_FILE = os.path.join(NEWS_DIR, f"{TODAY}.md")
 LOG_FILE = os.path.join(NEWS_DIR, "news_log.txt")
 GITHUB_RECENT_DAYS = 14
+RSSHUB_BASE_URL = os.environ.get("RSSHUB_BASE_URL", "").rstrip("/")
+ZHIHU_HOT_RSS_URLS = [
+    f"{RSSHUB_BASE_URL}/zhihu/hot" if RSSHUB_BASE_URL else "",
+    "https://rsshub.rssforever.com/zhihu/hot",
+]
 
 FEEDS = [
     # AI 专项
@@ -214,13 +219,16 @@ def zhihu_public_url(target):
     return target.get("url", "")
 
 def fetch_zhihu_hot_posts():
-    data = fetch_json(
-        "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30&desktop=true",
-        headers={
-            "Referer": "https://www.zhihu.com/hot",
-            "X-Requested-With": "fetch",
-        },
-    )
+    try:
+        data = fetch_json(
+            "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30&desktop=true",
+            headers={
+                "Referer": "https://www.zhihu.com/hot",
+                "X-Requested-With": "fetch",
+            },
+        )
+    except Exception:
+        return fetch_zhihu_hot_posts_from_rss()
 
     items = []
     for entry in data.get("data", []):
@@ -247,6 +255,26 @@ def fetch_zhihu_hot_posts():
             "dedupe_id": canonical_external_id(link),
         })
     return items[:8]
+
+def fetch_zhihu_hot_posts_from_rss():
+    for url in [candidate for candidate in ZHIHU_HOT_RSS_URLS if candidate]:
+        feed = fetch_feed(url)
+        items = []
+        for entry in feed.entries[:30]:
+            title = entry.get("title", "").strip()
+            link = entry.get("link", "").strip()
+            if not title or not link:
+                continue
+            items.append({
+                "title": title,
+                "link": link,
+                "summary": clean_summary(entry.get("summary", ""))[:200],
+                "published": entry.get("published", "")[:16],
+                "dedupe_id": canonical_external_id(link),
+            })
+        if items:
+            return items[:8]
+    return []
 
 def add_external_sources(results):
     seen_ids = load_seen_external_ids()
