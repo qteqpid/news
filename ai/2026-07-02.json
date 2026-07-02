@@ -1,181 +1,897 @@
 {
   "date": "2026-07-02",
-  "title": "科技新闻 2026-07-02",
-  "generated_at": "2026-07-02T08:09:58+08:00",
+  "title": "科技新闻日报 2026-07-02",
+  "generated_at": "2026-07-02T13:55:08+08:00",
   "sources": [
-    "The Verge",
-    "MIT Tech Review",
-    "Ars Technica",
+    "AI News - The Verge",
+    "MIT Tech Review - AI",
     "TechCrunch",
+    "The Verge",
     "36氪",
-    "Solidot"
+    "少数派",
+    "量子位",
+    "雷峰网",
+    "钛媒体",
+    "IT之家",
+    "Solidot",
+    "爱范儿",
+    "Github",
+    "Zhihu"
   ],
   "categories": [
     {
-      "id": "ai-models",
-      "name": "AI / 大模型动态",
+      "id": "ai-news-the-verge",
+      "name": "AI News - The Verge",
       "items": [
         {
-          "title": "Google NotebookLM 推出 AI 短视频摘要",
-          "summary": "NotebookLM 增加类似短视频的信息摘要形态，把研究笔记压缩成更容易快速浏览的视频片段。这说明 AI 笔记产品正在从“问答/摘要”走向更强的多模态内容再表达。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-          "published_at": "2026-07-01",
-          "tags": [
-            "AI",
-            "NotebookLM",
-            "Google"
-          ]
+          "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+          "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controllin...",
+          "source": "AI News - The Verge",
+          "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+          "published_at": "",
+          "tags": []
         },
         {
-          "title": "Anthropic 推出 Claude Science",
-          "summary": "Anthropic 面向制药、生命科学和科研场景发布 Claude Science，继续把大模型能力包装成垂直行业产品。科研工作流成为大模型公司争夺高价值用户的新入口。",
-          "source": "MIT Tech Review",
-          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-          "published_at": "2026-06-30",
-          "tags": [
-            "AI",
-            "Anthropic",
-            "Science"
-          ]
+          "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+          "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 ...",
+          "source": "AI News - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+          "published_at": "",
+          "tags": []
         },
         {
-          "title": "LLM “群体思维”问题引发创业机会",
-          "summary": "MIT Tech Review 关注大模型在随机性、答案分布和推理多样性上的趋同问题，有创业公司尝试让模型跳出“群体思维”。这类问题会影响头脑风暴、研究探索和多代理协作的真实价值。",
-          "source": "MIT Tech Review",
+          "title": "Libby will filter out AI content, kind of",
+          "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated...",
+          "source": "AI News - The Verge",
+          "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Meet the lawyer who beat Elon Musk — twice",
+          "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI in...",
+          "source": "AI News - The Verge",
+          "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Lawmakers want to ban AI companies from selling your health data",
+          "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information ...",
+          "source": "AI News - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+          "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in ce...",
+          "source": "AI News - The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "mit-tech-review-ai",
+      "name": "MIT Tech Review - AI",
+      "items": [
+        {
+          "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+          "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number betwee...",
+          "source": "MIT Tech Review - AI",
           "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-          "published_at": "2026-07-01",
-          "tags": [
-            "AI",
-            "LLM",
-            "Evaluation"
-          ]
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor...",
+          "source": "MIT Tech Review - AI",
+          "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+          "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explor...",
+          "source": "MIT Tech Review - AI",
+          "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "The Download: AI “coworkers” and stratospheric internet",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor...",
+          "source": "MIT Tech Review - AI",
+          "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Agriculture is ready for AI, but its data isn’t",
+          "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investin...",
+          "source": "MIT Tech Review - AI",
+          "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Building tech in the world’s secret R&D hub",
+          "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim ...",
+          "source": "MIT Tech Review - AI",
+          "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "AI agents are not your “coworkers”",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir...",
+          "source": "MIT Tech Review - AI",
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Agent confidence on the technical frontier",
+          "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI...",
+          "source": "MIT Tech Review - AI",
+          "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+          "published_at": "",
+          "tags": []
         }
       ]
     },
     {
-      "id": "big-tech",
-      "name": "大科技公司动态",
+      "id": "techcrunch",
+      "name": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI 预告 Codex 相关硬件",
-          "summary": "OpenAI 预告 7 月 15 日发布与 Codex 有关的设备，外界关注 AI 编程工具是否会从纯软件走向专用硬件形态。若成立，开发者工作流可能出现新的输入和协作终端。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-          "published_at": "2026-07-01",
-          "tags": [
-            "OpenAI",
-            "Codex",
-            "Hardware"
-          ]
-        },
-        {
-          "title": "Notion 关闭 Skiff 相关邮件应用，转向 AI agent 收件箱",
-          "summary": "Ars Technica 报道 Notion 正把邮箱方向押注在 agent 自动处理上，而不是传统独立邮件客户端。这反映生产力软件正在从“工具集合”转向“代理执行”。",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-          "published_at": "2026-06-30",
-          "tags": [
-            "Notion",
-            "Email",
-            "Agent"
-          ]
-        },
-        {
-          "title": "WhatsApp 用户名功能引发冒名风险讨论",
-          "summary": "TechCrunch 报道 WhatsApp 用户名机制尚未全面推出就出现冒名担忧。隐私产品的身份系统一旦迁移到用户名，会同时带来可发现性和信任成本。",
+          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+          "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft ...",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
-          "published_at": "2026-07-01",
-          "tags": [
-            "Meta",
-            "WhatsApp",
-            "Privacy"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "capital",
-      "name": "资本与融资",
-      "items": [
-        {
-          "title": "Together AI 融资 8 亿美元，估值升至 83 亿美元",
-          "summary": "这家 AI neocloud 公司继续受益于开源模型托管和推理基础设施需求。AI 基建融资热度仍集中在算力、模型部署和企业级推理服务。",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
-          "published_at": "2026-07-01",
-          "tags": [
-            "AI Infrastructure",
-            "Funding",
-            "Neocloud"
-          ]
+          "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+          "published_at": "",
+          "tags": []
         },
         {
-          "title": "Bending Spoons 上市首日大涨",
-          "summary": "TechCrunch 报道 Bending Spoons 以收购并重塑老牌互联网产品的模式获得资本市场认可。Evernote、Eventbrite 等成熟品牌被重新运营，显示“老产品 + 新 AI/订阅运营”的整合路线仍有想象空间。",
+          "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+          "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest....",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+          "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Mee...",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
-          "published_at": "2026-07-01",
-          "tags": [
-            "IPO",
-            "SaaS",
-            "Consumer Apps"
-          ]
+          "published_at": "",
+          "tags": []
         },
         {
-          "title": "国内 AI 芯片与机器人企业继续融资",
-          "summary": "36氪报道清华系芯片企业、北航机器人团队等完成新融资。中国硬科技融资重点仍围绕 AI 算力瓶颈、机器人关节和具身智能基础能力展开。",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3877057215393793?f=rss",
-          "published_at": "2026-07-02",
-          "tags": [
-            "China",
-            "AI Chips",
-            "Robotics"
-          ]
+          "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+          "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lesso...",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "WhatsApp usernames are already raising impersonation red flags",
+          "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation....",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+          "summary": "Research appears to reveal a bug that could render the feature effectively useless....",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+          "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wan...",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+          "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund a...",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+          "published_at": "",
+          "tags": []
         }
       ]
     },
     {
-      "id": "industry-events",
-      "name": "行业与企业事件",
+      "id": "the-verge",
+      "name": "The Verge",
       "items": [
         {
-          "title": "AI 浏览器安全风险继续暴露",
-          "summary": "Ars Technica 报道新的攻击方式可诱导 AI 浏览器进入错误上下文并绕过防护。浏览器 agent 需要面对网页内容注入、指令混淆和权限边界等更复杂的安全问题。",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-          "published_at": "2026-06-30",
-          "tags": [
-            "Security",
-            "AI Browser",
-            "Agents"
-          ]
-        },
-        {
-          "title": "Tidal 调整 AI 生成音乐版税政策",
-          "summary": "Tidal 表示不会直接禁止 AI 音乐，但将限制 AI 生成音乐获得版税。音乐平台正在尝试在创作者保护、内容供给和 AI 标记之间寻找可执行规则。",
+          "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
+          "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half o...",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-          "published_at": "2026-07-01",
-          "tags": [
-            "Music",
-            "AI Content",
-            "Policy"
-          ]
+          "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+          "published_at": "",
+          "tags": []
         },
         {
-          "title": "Godot 拒绝接受 AI 生成代码",
-          "summary": "Solidot 报道 Godot 基金会修订贡献政策，禁止 AI 署名代码和 AI agent 提交 PR。开源社区正在更明确地区分“AI 辅助开发”和“不可审计的 AI 代提交”。",
+          "title": "The funeral for PlayStation discs has begun",
+          "summary": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Xbox’s ‘reset’: all the news about Microsoft’s looming layoffs and studio closures",
+          "summary": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-pr...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Elon Musk denies a report about SpaceX’s AI phone prototype",
+          "summary": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The ...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
+          "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
+          "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving ...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "My favorite Kindle alternative is $30 off after a recent price increase",
+          "summary": "Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today’s deal effectively erases that hike. T...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "36氪",
+      "name": "36氪",
+      "items": [
+        {
+          "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
+          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳可立点科技有限公司（以下简称“可立点科技”）近日完成战略融资，由力合科创领投，江苏中科智能科学技术应用研究院旗下平台跟投。本轮融资将主要用于产品研发迭代、核心团队建设及商业化落地推进。 可立...",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3877863381741577?f=rss",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
+          "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，聚焦通用空中智能的硅羽科技（SPARO）半年内已连续完成四轮数亿元融资，在种子轮耀途资本之后，锦秋基金、阿里巴巴、弘毅投资、普洛斯隐山资本、云时资本相继入局。资金用途方面，现阶段融资将主要⽤于扩充关键岗位...",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3877830625046535?f=rss",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "36氪首发丨北大博士量子团队获高瓴创投领投，国内唯一实现纳开温区量子计算机工程化",
+          "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，国内首家nK级中性原子量子计算机公司——纳开启元（北京）量子科技有限公司（下称“「纳开量子」”）近期已完成首轮数千万元融资，由高瓴创投（GL Ventures）领投，英诺、长石、飞图三家机构跟投。所募资金...",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3877814169530630?f=rss",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "专访美图 CEO 吴欣鸿：做 AI 产品，是一场难以提前策划的游戏",
+          "summary": "访谈｜周鑫雨 兰杰 文｜周鑫雨 编辑｜张雨忻 截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。 航线所经之地，是美...",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3877112973733895?f=rss",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "8点1氪丨宾利低至27万，二手豪华燃油车价格大跳水；Anthropic回应暗藏代码检测中国用户；寒武纪市值一日蒸发700亿",
+          "summary": "今日热点导览 OpenAI据悉迎来重大技术突破：系统优化使模型推理成本减半 苹果首次上架iPhone16e官翻机，仅有黑色与白色可选 国内航线燃油附加费7月5日起大幅下调 巴菲特“断供”盖茨基金会 董明珠喊话股东：家电不换成格力，凭什么要分...",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3877746956611847?f=rss",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+          "summary": "文｜周鑫雨 编辑｜张雨忻 《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。 故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。 这个...",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3877109751803904?f=rss",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
+          "summary": "硬氪获悉，近期，航墨科技完成由中投万方、三贤科技、北航天汇、诚美资本、三合投资、常州金控的近亿元天使轮投资，德太资本担任长期战略融资顾问，此次融资主要用来产品研发和市场推广。 航墨科技成立于2022年，是一家专注于智能变刚度关节技术及消费级...",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3877060559433984?f=rss",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
+          "summary": "硬氪获悉，硅基光子企业「灵动芯光」正式宣布完成数千万元天使++轮融资，本轮融资由磐霖资本领投、同方投资与深天使合作的子基金汇泽天诚跟投。 此次募集的资金将全部聚焦于芯片间光互联核心技术研发与产品落地，重点推进 SmartComb多波长密波光...",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3877057215393793?f=rss",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "少数派",
+      "name": "少数派",
+      "items": [
+        {
+          "title": "派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等",
+          "summary": "Gmail Live 进入测试阶段、大我推出 B251 PRO 显示器等。...",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111861",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "派早报：Google 推出 Eclipsa Video 视频标准等",
+          "summary": "Anthropic 发布 Claude Sonnet 5 和 Claude Science，Google 发布 Nano Banana 2 Lite 和 Gemini Omni Flash 等。...",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111773",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机",
+          "summary": "前言创业不易，硬件创业更难，尤其是AI硬件创业更是难上加难。难也意味着门槛。在滚滚而来的AI大势之下，门内的景色金光闪闪，首先要做的是迈过这个门槛。准确地说，我的硬件项目正式研发到投产经历了108天。 ......",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111706",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "量子位",
+      "name": "量子位",
+      "items": [
+        {
+          "title": "AI眼镜不再依赖手机！这次真要单飞了",
+          "summary": "AI时代自己的操作系统来了...",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/441491.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "OceanBase湖库一体，重新定义AI数据库",
+          "summary": "一套技术栈实现离在线统一...",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/441386.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
+          "summary": "Taste，决定天花板。...",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/441246.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
+          "summary": "OpenSquilla 上线后数周内 GitHub star 增至数千量级...",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/441240.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
+          "summary": "共同推进物理AI前沿技术探索。...",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/441237.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了",
+          "summary": "重写“AI如何反复推演世界”...",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/441225.html",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "雷峰网",
+      "name": "雷峰网",
+      "items": [
+        {
+          "title": "从生成到交付，音视频 Agent 要有生产级开发套件",
+          "summary": "过去足球赛场上的高光瞬间回顾，往往需要剪辑师回看素材，找到进球、庆祝、慢动作回放和观众反应，再切片、包装、加字幕，最后分发到不同平台。链路长，人工重，能不能接到热点爆发的流量，考验的是人的经验和手速。现在这条链路被拆开重组，开始由模型和工具...",
+          "source": "雷峰网",
+          "url": "https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」",
+          "summary": "6月30日，Anthropic和OpenAI同时在AI4S赛道投下了各自的筹码。Anthropic发布了科研智能体工作台Claude Science，明确表态“不依赖新模型”，通过工作流整合现有能力来承包科学家的日常研究流程。OpenAI推...",
+          "source": "雷峰网",
+          "url": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "ICML 2026前瞻：投稿翻倍背后，机器学习正在换挡",
+          "summary": "首尔见，ICML见，新方向见。 作者丨吴思梦 编辑丨岑 峰 7月6日–11日，第43届国际机器学习大会（ICML 2026）将首次落地韩国首尔COEX会展中心举行，会议主题为“Machine Learning for the Real Wo...",
+          "source": "雷峰网",
+          "url": "https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "曝美国最强AI公司暗藏针对中国的「监视代码」，已持续3个月；优必选CEO：珍惜做牛马的时光，20年后全是机器人干活；iPhone17价格将迎调整",
+          "summary": "要闻提示1.美国最强AI公司被曝暗藏针对中国的“监视代码”，官方回应：将在更新中删除2.优必选CEO：珍惜做牛马的时光吧，20年后全是机器人干活3.小米人事调整：中国区总裁王晓雁不再兼任销售运营一部总经理，陈幕楠接任4.山姆砍单多个苹果涨价...",
+          "source": "雷峰网",
+          "url": "https://www.leiphone.com/category/zaobao/8xIKNxdh5DASn0Tj.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "物理 AI 到来，移动网络该如何进化？",
+          "summary": "过去一年，几乎所有人都在追问同一个问题： AI 大模型还能变得多聪明？Agent、多模态、端侧部署，构成了 AI 产业最热闹的叙事。但当 AI 开始进入眼镜、汽车、机器人、摄像头这些物理载体，开始在道路、工厂、家庭和人类交互之后，我们发现，...",
+          "source": "雷峰网",
+          "url": "https://www.leiphone.com/category/industrynews/CpoGYmsPl9BAuO0W.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "即梦AI携创作者亮相法国昂西动画节，3000份全球投稿勾勒AI动画创作新图景",
+          "summary": "2026年6月23日，法国昂西国际动画电影节期间，由即梦AI与Dreamina AI主办的“AI动画国际峰会”在MIFA市场举行。这场以“技术与艺术的融合”为主题的峰会，汇聚了来自全球的获奖创作者、资深动画制片人与行业专家，通过作品展映与深...",
+          "source": "雷峰网",
+          "url": "https://www.leiphone.com/category/industrynews/uUmZypOBARMHYx3W.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Reddit 上爆出大猛料，Claude 为何封号中国用户又快又准？",
+          "summary": "Claude Code 负责人已回应：只是为了防止模型蒸馏！ 作者丨樊天骄 编辑丨郑佳美 昨天，一个 Reddit 大佬逆向了一下 Claude Code，发现为了防止中国用户，Anthropic 居然在最近更新的 Claude Code ...",
+          "source": "雷峰网",
+          "url": "https://www.leiphone.com/category/ai/rzmbSvqty7wRNC3N.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "感知、控制与数据：ICRA 2026 中国企业报告的三个交汇点",
+          "summary": "感知要融合，操作要柔顺，数据、模型要闭环。 作者丨向欣 编辑丨岑峰 雷峰网：6 月初的维也纳，除了展馆里的机器人演示区始终人头攒动，各类技术论坛同样座无虚席。在 ICRA 2026 期间，速腾聚创、帕西尼感知、光轮智能、智元机器人、天机智能...",
+          "source": "雷峰网",
+          "url": "https://www.leiphone.com/category/robot/lfPVjqvr7wegDtRI.html",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "钛媒体",
+      "name": "钛媒体",
+      "items": [
+        {
+          "title": "瑞士生物科技企业metaLead研发金属结合短肽技术，选择性清除体内病理性金属 | 瑞士创新100强",
+          "summary": "突破现有疗法在金属结合选择性上的关键局限。...",
+          "source": "钛媒体",
+          "url": "https://www.tmtpost.com/8049871.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "蒸馏战争全面开打：从Meta封堵Claude与Codex开始",
+          "summary": "蒸馏已从技术灰色地带，演变为AI巨头间的全方位博弈。...",
+          "source": "钛媒体",
+          "url": "https://www.tmtpost.com/8048728.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "AI营销“引擎”已就位，但企业的“燃油泵”准备好了么？",
+          "summary": "把AI当成同事，远比把AI当成工具复杂得多。...",
+          "source": "钛媒体",
+          "url": "https://www.tmtpost.com/8049807.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "精打细算的AI时代到来了",
+          "summary": "前沿人工智能和\"日常\"（\"everyday\"）人工智能的使用，正在出现分化的迹象。...",
+          "source": "钛媒体",
+          "url": "https://www.tmtpost.com/8049799.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "蓝箭航天IPO：207亿一级估值，750亿二级预期——谁的定价更接近真相？",
+          "summary": "一家年收入5000万、亏损17亿的公司，估值分歧高达550亿。一级市场207亿，IPO隐含750亿——谁在定价，谁在买单？朱雀三号的回收试验与科创板的多轮问询，将决定这场太空故事的中国式结局。...",
+          "source": "钛媒体",
+          "url": "https://www.tmtpost.com/8049822.html",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "踩着物理AI的风口，Momenta冲刺IPO",
+          "summary": "新能源的下半场来了。...",
+          "source": "钛媒体",
+          "url": "https://www.tmtpost.com/8049748.html",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "it之家",
+      "name": "IT之家",
+      "items": [
+        {
+          "title": "逾 7500 人洞察：瑞银称苹果 Siri AI 吸引力下降，24% 愿为其升级 iPhone",
+          "summary": "IT之家 7 月 2 日消息，科技媒体 Wccftech 昨日（7 月 1 日）发布博文，报道称瑞银证据实验室（UBS Evidence Lab）最新研究表明，愿意为 Siri AI 和 Apple Intelligence 提前换机的受访...",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/0/971/528.htm",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "承认影响 Win11 用户效率后，微软转头宣传 Copilot 按键具备主角能量",
+          "summary": "IT之家 7 月 2 日消息，科技媒体 Windows Latest 今天（7 月 2 日）发布博文，报道称微软于 6 月 29 日在 Facebook、Instagram 和 X 社交平台发布新文案，称 Copilot 专属按键具备“主角...",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/0/971/521.htm",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "乔布斯 1976 年签名支票拍卖中：票面 10 美元，目前最高报价约 2.2 万美元",
+          "summary": "IT之家 7 月 2 日消息，科技媒体 AppleInsider 今天（7 月 2 日）发布博文，报道称 RR 拍卖行上线 1 张史蒂夫 · 乔布斯（Steve Jobs）签名支票，票面价值 10 美元，IT之家发稿前最新拍卖价格为 219...",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/0/971/517.htm",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "消息称美团内部全面限用豆包大模型，此前曾限用阿里云 Qwen",
+          "summary": "7 月 2 日，据大厂日爆消息，美团内部下发通知，开始限制使用豆包大模型了。通知显示，所有业务团队需完成现有豆包相关业务自查，并规划迁移至 LongCat、DeepSeek 等模型，无法从火山引擎豆包大模型迁移的，需要提交原因 + 必要性说...",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/0/971/515.htm",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "谷歌解释安卓 Halo：定位 AI 智能体交互中枢，状态栏配专属席位",
+          "summary": "IT之家 7 月 2 日消息，谷歌开发者官方 YouTube 账号昨日（7 月 1 日）发布视频，在视频（总时长约 40 分钟）约 30 分钟处，详细介绍了安卓 Halo 系统功能。相关介绍在视频约 30 分钟（具体为 1788 秒）处IT...",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/0/971/511.htm",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Cloudflare 细化网络爬虫屏蔽管理，将默认禁止 AI 代理与训练爬虫访问广告页面",
+          "summary": "IT之家 7 月 2 日消息，互联网基础服务企业 Cloudflare 当地时间 1 日宣布细化网络爬虫屏蔽管理，根据其行为对爬虫机器人赋予搜索、代理（智能体）、训练等一系列标签，并计划在 2026 年 9 月 15 日默认禁止 AI 代理...",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/0/971/510.htm",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "极氪 OTA 7.2 更新发布：40 项新增功能，18 项体验优化",
+          "summary": "IT之家 7 月 2 日消息，极氪今日官宣多款车型迎来 OTA 7.2 更新，带来 40 项新增功能、18 项体验优化，主要包括：懂你又懂路的超级 Eva丝滑类人的千里浩瀚 G-ASD 4.0流畅便捷的 Zeekr AI OS 7适用车型：...",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/0/971/505.htm",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "SK 海力士官宣韩国清州 M17 NAND 晶圆厂 80 万亿韩元建设投资",
+          "summary": "IT之家 7 月 2 日消息，SK 海力士 CEO 郭鲁正当地时间今日在韩国忠清南道牙山市公布了企业在忠清地区 100 万亿韩元投资计划的细节。这 100 万亿韩元中将有 20 万亿韩元用于清州 P&T7 先进封装设施。这座占地面积 23 ...",
+          "source": "IT之家",
+          "url": "https://www.ithome.com/0/971/500.htm",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "solidot",
+      "name": "Solidot",
+      "items": [
+        {
+          "title": "瑞典法院判决 Google 向比价网站赔偿 15 亿美元",
+          "summary": "瑞典法院以 Google 在搜索结果中偏袒自家购物服务为由判决它向比价网站 PriceRunner 赔偿约 15 亿美元（143 亿瑞典克朗）。这是瑞典法院在反垄断诉讼中判处的最高金额罚款，但远低于 PriceRunner 寻求的 780 ...",
+          "source": "Solidot",
+          "url": "https://www.solidot.org/story?sid=84734",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Godot 拒绝接受 AI 生成的代码",
+          "summary": "开源项目都面临 AI 代码越来越多的问题，现在负责开发开源游戏引擎 Godot 的基金会宣布修订贡献者政策，禁止递交 AI 署名的代码和 AI 智能体提交的 pull request，以及在人与人之间的沟通中禁止 AI 生成文本——机器翻译...",
           "source": "Solidot",
           "url": "https://www.solidot.org/story?sid=84732",
-          "published_at": "2026-07-02",
-          "tags": [
-            "Open Source",
-            "AI Code",
-            "Policy"
-          ]
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "研究人员将干细胞转化为人类初级卵母细胞",
+          "summary": "美国生物科技创业公司 Conception 宣布成功诱导干细胞转化为人类初级卵母细胞，称这是一项重大的科学进步。科学家已在小鼠身上实现了利用干细胞制造卵子。研究人员首先将小鼠皮肤细胞转化为“诱导多能干细胞”（iPSC），然后转化为可用的卵子...",
+          "source": "Solidot",
+          "url": "https://www.solidot.org/story?sid=84730",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "微软发布 WSL 容器的预览版",
+          "summary": "微软发布了 Windows Subsystem for Linux (WSL)容器的公开预览版本。容器已成为现代开发的基础部分——从云原生应用、AI工作负载到测试和部署流水线。WSL 容器通过提供一个内置的、企业级的方式，在 Windows...",
+          "source": "Solidot",
+          "url": "https://www.solidot.org/story?sid=84726",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "为什么我们需要睡眠",
+          "summary": "为什么动物需要睡眠？发表在《Brain Medicine》期刊上的一篇综述认为，关于睡眠的诸多困惑，源自将三个概念混为一谈，作者认为睡眠最恰当的理解，既非休息，亦非打扫，而是一种系统层面的韧性机制，使这具约由 860 亿个神经元构成的网络，...",
+          "source": "Solidot",
+          "url": "https://www.solidot.org/story?sid=84725",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "美国政府解除对 Claude Fable 5 和 Mythos 5 模型的出口限制",
+          "summary": "Anthropic 周二宣布美国商务部已解除对 Claude Fable 5 和 Mythos 5 模型的出口限制，该公司将于周三恢复提供对其新模型的访问。美国政府是在 6 月中旬以国家安全理由下令禁止外国公民访问 Anthropic 最先...",
+          "source": "Solidot",
+          "url": "https://www.solidot.org/story?sid=84724",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Claude Code 会悄悄检查用户的系统时区是否是中国",
+          "summary": "Claude Code 被发现会悄悄检查用户的系统时区和是否来自中国 AI 公司。对 Claude Code（2.1.196）的本地二进制文件的分析发现，它会检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，以及是...",
+          "source": "Solidot",
+          "url": "https://www.solidot.org/story?sid=84723",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "数据中心碳排放比预想的严重",
+          "summary": "Allianz Trade 公布的一份报告显示，数据中心对气候构成的危害比此前预想的更为严重。报告指出，此前人们低估了数字基础设施对气候的影响。除非采取适当措施，否则随着人工智能应用的激增，由算力需求引发的碳排放量将急剧上升。该研究估算，2...",
+          "source": "Solidot",
+          "url": "https://www.solidot.org/story?sid=84721",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "爱范儿",
+      "name": "爱范儿",
+      "items": [
+        {
+          "title": "ChatGPT 这些翻车回答，居然是 Meta 找外包干的",
+          "summary": "美其名曰是安全测试...",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670735?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+          "summary": ". 6 月车企成绩单出炉：零跑交付破 9 万台，蔚小双双站上 4 万大关 · 松下计划三年投入约 5000 亿日元，转向 AI 基础设施业务 · 97 年大模型专家孙天祥加入百度，任基础模型研发部负责人...",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670732?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "大规模封号后，Claude 突然发布更便宜的新模型",
+          "summary": "Anthropic 想用 Claude 讲一个更大的故事...",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670577?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "从疯狂翻表到群里直接@AI：飞书来了个新同事，把脏活累活全包了",
+          "summary": "住在表格里的智能体...",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670632?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "早报｜苹果iPhone 18 Pro大规模泄露/SK海力士启动赴美IPO/Claude Sonnet 5正式上线",
+          "summary": "· WPS 回应 C 盘占用争议 · 网易 CC 直播 8 月 31 日停止运营 · 寒武纪盘中市值突破 1 万亿元...",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670629?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "刚刚，Codex 首款硬件曝光",
+          "summary": "AI 务实与祛魅...",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670396?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+          "summary": "· 北大与 DeepSeek 发布大模型推理加速框架 DSpark · 马斯克：SpaceXAI 今年每月将推出全新模型 · 智元第 15000 台通用具身机器人精灵 G2 量产下线...",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670360?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "github",
+      "name": "Github",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "summary": "最近 14 天新建的热门仓库，当前约 12876 stars，主要语言：Python。 Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing....",
+          "source": "Github",
+          "url": "https://github.com/baidu/Unlimited-OCR",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "deepseek-ai/DeepSpec",
+          "summary": "最近 14 天新建的热门仓库，当前约 5791 stars，主要语言：Python。 DeepSpec: a full-stack codebase for training and evaluating speculative decod...",
+          "source": "Github",
+          "url": "https://github.com/deepseek-ai/DeepSpec",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "zhongerxin/Cowart",
+          "summary": "最近 14 天新建的热门仓库，当前约 3626 stars，主要语言：JavaScript。...",
+          "source": "Github",
+          "url": "https://github.com/zhongerxin/Cowart",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "bikini/exploitarium",
+          "summary": "最近 14 天新建的热门仓库，当前约 3304 stars，主要语言：Python。 A single archive of public exploit PoCs and vulnerability research writeups. ...",
+          "source": "Github",
+          "url": "https://github.com/bikini/exploitarium",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "bozhouDev/codex-orange-book",
+          "summary": "最近 14 天新建的热门仓库，当前约 2506 stars，主要语言：HTML。 Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）...",
+          "source": "Github",
+          "url": "https://github.com/bozhouDev/codex-orange-book",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "Yu9191/wloc",
+          "summary": "最近 14 天新建的热门仓库，当前约 2415 stars，主要语言：JavaScript。 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令...",
+          "source": "Github",
+          "url": "https://github.com/Yu9191/wloc",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "baairon/torlink",
+          "summary": "最近 14 天新建的热门仓库，当前约 2347 stars，主要语言：TypeScript。 A sleek, zero-setup torrent finder and downloader that lives right in you...",
+          "source": "Github",
+          "url": "https://github.com/baairon/torlink",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "cloudflare/security-audit-skill",
+          "summary": "最近 14 天新建的热门仓库，当前约 2186 stars，主要语言：JavaScript。 A coding-agent skill for multi-phase security audits with independently v...",
+          "source": "Github",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "published_at": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "zhihu",
+      "name": "Zhihu",
+      "items": [
+        {
+          "title": "机器人伴侣价格 11.98 万至 99 万，不同价格之间有啥区别？定价合理吗？你看好它的市场前景吗？",
+          "summary": "729 万热度 优必选旗下消费级品牌优世界（UWORLD）在6月30日年度全球发布会上正式推出U1系列全尺寸超仿生人形机器人，全渠道订单量已突破1.1万台。 公司称，这是目前全球唯一具备规模化量产能力的全尺寸超仿生人形机器人产品，并力争于今...",
+          "source": "Zhihu",
+          "url": "https://www.zhihu.com/question/2055620022316131446",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "世界杯淘汰赛德国与巴拉圭比赛看台出现大量空座，具体原因是什么，对此你怎么看？",
+          "summary": "641 万热度 [图片]...",
+          "source": "Zhihu",
+          "url": "https://www.zhihu.com/question/2055271796257939479",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "怎么看待「小米辟谣」正式上线？这一举动可能会为小米带来哪些影响？",
+          "summary": "501 万热度 小米集团官方辟谣阵地「小米辟谣」正式上线！ 感谢社会各界和米粉长期以来对小米集团的关心及爱护，向大家汇报一下，「小米辟谣」官方辟谣阵地今天在中央网信办违法和不良信息举报中心的指导下，正式上线了。 目前「小米辟谣」已正式开通官...",
+          "source": "Zhihu",
+          "url": "https://www.zhihu.com/question/2055340835823212244",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "两年前借给朋友9000块钱，说用半年就还我，到现在不提。前天又说借2万元，我犹豫不决，还能借给他吗？",
+          "summary": "274 万热度 两年前我他说的就用半年时间，后来不提这事，我也暗示过他还钱，可他总是避开话题。现在又提出借2万，我心里直打鼓，不借这朋友肯定做不成了，借吧我对他没有信心...",
+          "source": "Zhihu",
+          "url": "https://www.zhihu.com/question/2053746045843137993",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "女子跑步 4 年从不拉伸，小腿肌肉严重挛缩成硬块，绷紧时像「铁板」，真的和拉伸有关吗？",
+          "summary": "208 万热度 广东一女子自曝坚持跑步4年却从没认真拉伸，结果小腿肌肉严重挛缩成硬块，绷紧时像铁板一样。提醒：跑步不拉伸，腿粗又伤身。跑后多留5分钟，用泡沫轴或简单压腿，拉伸一下，拯救小腿肌群，不让汗水白流，不让腿“废”掉。网友：怕什么来什...",
+          "source": "Zhihu",
+          "url": "https://www.zhihu.com/question/2054902602291318842",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "博士明明比本科难毕业的多，为什么很多人仍认为“金本银硕铜博”？",
+          "summary": "162 万热度...",
+          "source": "Zhihu",
+          "url": "https://www.zhihu.com/question/5587850354",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "曝西安一商户负责人被罚千万后在商场坠亡，当地通报「已开展调查」，具体怎么回事？可能涉及哪些法律问题？",
+          "summary": "160 万热度 7月2日，雁塔区联合调查处置工作专班发布情况通报，内容如下： 网传“西安一商场发生人员坠楼”，经核实情况属实。2026年7月1日12时10分左右，一男子在赛格商场坠亡，坠楼者为赛格商场某商户负责人。经公安部门现场勘查、调查走...",
+          "source": "Zhihu",
+          "url": "https://www.zhihu.com/question/2055985658947006841",
+          "published_at": "",
+          "tags": []
+        },
+        {
+          "title": "福建安溪龙须殿被曝遭紫雷劈中，这种雷威力有多大？周围有那么多比它高的建筑，为什么就它偏偏被雷击中？",
+          "summary": "160 万热度 安溪的一座庙，龙须殿，被紫雷劈了，里里外外全部劈坏，不劈旁边的高压塔，不劈旁边高大铜铁香塔，不劈周边的高楼，就劈它 媒体报道： 6月24日晚上8点多，雷电天气中，福建泉州安溪城厢仙苑村龙须殿起火，大火熊熊燃烧。 消防接警后赶...",
+          "source": "Zhihu",
+          "url": "https://www.zhihu.com/question/2055683206213361694",
+          "published_at": "",
+          "tags": []
         }
       ]
     }
