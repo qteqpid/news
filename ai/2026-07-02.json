@@ -1,14 +1,14 @@
 {
   "date": "2026-07-02",
   "title": "科技新闻 2026-07-02",
-  "generated_at": "2026-07-02T07:55:00+08:00",
+  "generated_at": "2026-07-02T08:09:58+08:00",
   "sources": [
     "The Verge",
-    "MIT Technology Review",
+    "MIT Tech Review",
     "Ars Technica",
     "TechCrunch",
-    "36kr",
-    "Sspai"
+    "36氪",
+    "Solidot"
   ],
   "categories": [
     {
@@ -16,8 +16,8 @@
       "name": "AI / 大模型动态",
       "items": [
         {
-          "title": "Google NotebookLM adds TikTok-style AI clips",
-          "summary": "Google NotebookLM is adding short AI-generated video clips for catching up on research notes. The feature points to a broader shift from text summaries toward lightweight multimodal review experiences.",
+          "title": "Google NotebookLM 推出 AI 短视频摘要",
+          "summary": "NotebookLM 增加类似短视频的信息摘要形态，把研究笔记压缩成更容易快速浏览的视频片段。这说明 AI 笔记产品正在从“问答/摘要”走向更强的多模态内容再表达。",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
           "published_at": "2026-07-01",
@@ -28,9 +28,9 @@
           ]
         },
         {
-          "title": "Anthropic announces Claude Science",
-          "summary": "Anthropic introduced Claude Science as a flagship product for pharmaceutical, biotech, and research workflows. The launch continues the trend of model vendors packaging vertical AI products rather than only selling general chat interfaces.",
-          "source": "MIT Technology Review",
+          "title": "Anthropic 推出 Claude Science",
+          "summary": "Anthropic 面向制药、生命科学和科研场景发布 Claude Science，继续把大模型能力包装成垂直行业产品。科研工作流成为大模型公司争夺高价值用户的新入口。",
+          "source": "MIT Tech Review",
           "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
           "published_at": "2026-06-30",
           "tags": [
@@ -40,9 +40,9 @@
           ]
         },
         {
-          "title": "LLM groupthink becomes a product problem",
-          "summary": "MIT Technology Review covered startup efforts to push large language models out of repetitive consensus patterns. The signal is that evaluation and diversity of reasoning are becoming product differentiators, not only research concerns.",
-          "source": "MIT Technology Review",
+          "title": "LLM “群体思维”问题引发创业机会",
+          "summary": "MIT Tech Review 关注大模型在随机性、答案分布和推理多样性上的趋同问题，有创业公司尝试让模型跳出“群体思维”。这类问题会影响头脑风暴、研究探索和多代理协作的真实价值。",
+          "source": "MIT Tech Review",
           "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
           "published_at": "2026-07-01",
           "tags": [
@@ -58,20 +58,32 @@
       "name": "大科技公司动态",
       "items": [
         {
-          "title": "Apple Hide My Email bug reportedly exposed real addresses",
-          "summary": "A researcher claims an Apple Hide My Email bug may have exposed users' real email addresses. The report is a reminder that privacy features need continuous adversarial testing, especially when they become default account-protection habits.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+          "title": "OpenAI 预告 Codex 相关硬件",
+          "summary": "OpenAI 预告 7 月 15 日发布与 Codex 有关的设备，外界关注 AI 编程工具是否会从纯软件走向专用硬件形态。若成立，开发者工作流可能出现新的输入和协作终端。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
           "published_at": "2026-07-01",
           "tags": [
-            "Apple",
-            "Privacy",
-            "Security"
+            "OpenAI",
+            "Codex",
+            "Hardware"
           ]
         },
         {
-          "title": "WhatsApp usernames raise impersonation concerns",
-          "summary": "WhatsApp usernames are intended to improve privacy, but early criticism centers on impersonation safeguards. The launch shows how identity systems can trade phone-number privacy for new trust and verification problems.",
+          "title": "Notion 关闭 Skiff 相关邮件应用，转向 AI agent 收件箱",
+          "summary": "Ars Technica 报道 Notion 正把邮箱方向押注在 agent 自动处理上，而不是传统独立邮件客户端。这反映生产力软件正在从“工具集合”转向“代理执行”。",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+          "published_at": "2026-06-30",
+          "tags": [
+            "Notion",
+            "Email",
+            "Agent"
+          ]
+        },
+        {
+          "title": "WhatsApp 用户名功能引发冒名风险讨论",
+          "summary": "TechCrunch 报道 WhatsApp 用户名机制尚未全面推出就出现冒名担忧。隐私产品的身份系统一旦迁移到用户名，会同时带来可发现性和信任成本。",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
           "published_at": "2026-07-01",
@@ -79,17 +91,6 @@
             "Meta",
             "WhatsApp",
             "Privacy"
-          ]
-        },
-        {
-          "title": "Apple entry-level MacBook Pro may get a redesign",
-          "summary": "The Verge reported that Apple is working on a revamped entry-level MacBook Pro. If launched, it would continue Apple's effort to better separate entry professional laptops from iPad Pro and higher-end MacBook Pro lines.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
-          "published_at": "2026-07-01",
-          "tags": [
-            "Apple",
-            "MacBook"
           ]
         }
       ]
@@ -99,8 +100,8 @@
       "name": "资本与融资",
       "items": [
         {
-          "title": "Together AI raises $800M at $8.3B valuation",
-          "summary": "Together AI raised a large round as demand continues for AI cloud infrastructure and open-model hosting. Neocloud providers remain one of the most capital-intensive but strategically important layers of the AI stack.",
+          "title": "Together AI 融资 8 亿美元，估值升至 83 亿美元",
+          "summary": "这家 AI neocloud 公司继续受益于开源模型托管和推理基础设施需求。AI 基建融资热度仍集中在算力、模型部署和企业级推理服务。",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
           "published_at": "2026-07-01",
@@ -111,8 +112,8 @@
           ]
         },
         {
-          "title": "Bending Spoons surges after IPO",
-          "summary": "Bending Spoons rose sharply on its first trading day after an $18B IPO. Its acquire-and-rebuild model remains a useful benchmark for consumer subscription software and mature SaaS asset turnarounds.",
+          "title": "Bending Spoons 上市首日大涨",
+          "summary": "TechCrunch 报道 Bending Spoons 以收购并重塑老牌互联网产品的模式获得资本市场认可。Evernote、Eventbrite 等成熟品牌被重新运营，显示“老产品 + 新 AI/订阅运营”的整合路线仍有想象空间。",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
           "published_at": "2026-07-01",
@@ -123,15 +124,15 @@
           ]
         },
         {
-          "title": "Chinese AI hardware and robotics startups report new financing",
-          "summary": "36kr reported multiple early-stage financings across robotics joints, silicon photonics, smart glasses, AI drug discovery, and fusion. The pattern suggests capital is clustering around AI-enabled hard-tech rather than pure software only.",
-          "source": "36kr",
-          "url": "https://36kr.com/",
+          "title": "国内 AI 芯片与机器人企业继续融资",
+          "summary": "36氪报道清华系芯片企业、北航机器人团队等完成新融资。中国硬科技融资重点仍围绕 AI 算力瓶颈、机器人关节和具身智能基础能力展开。",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3877057215393793?f=rss",
           "published_at": "2026-07-02",
           "tags": [
             "China",
-            "Robotics",
-            "Hard Tech"
+            "AI Chips",
+            "Robotics"
           ]
         }
       ]
@@ -141,8 +142,8 @@
       "name": "行业与企业事件",
       "items": [
         {
-          "title": "AI browser security concerns intensify",
-          "summary": "Ars Technica highlighted another attack pattern against AI browsers, where model context manipulation can weaken guardrails. The news reinforces that browser agents need stronger isolation, provenance checks, and user-visible trust boundaries.",
+          "title": "AI 浏览器安全风险继续暴露",
+          "summary": "Ars Technica 报道新的攻击方式可诱导 AI 浏览器进入错误上下文并绕过防护。浏览器 agent 需要面对网页内容注入、指令混淆和权限边界等更复杂的安全问题。",
           "source": "Ars Technica",
           "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
           "published_at": "2026-06-30",
@@ -153,8 +154,8 @@
           ]
         },
         {
-          "title": "Tidal changes AI-generated music royalty policy",
-          "summary": "Tidal says it will not pay royalties on AI-generated music while avoiding a complete ban. Music platforms are moving toward policy differentiation between human artists, AI-assisted works, and fully synthetic tracks.",
+          "title": "Tidal 调整 AI 生成音乐版税政策",
+          "summary": "Tidal 表示不会直接禁止 AI 音乐，但将限制 AI 生成音乐获得版税。音乐平台正在尝试在创作者保护、内容供给和 AI 标记之间寻找可执行规则。",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
           "published_at": "2026-07-01",
@@ -165,15 +166,15 @@
           ]
         },
         {
-          "title": "Physical console games continue shifting toward digital",
-          "summary": "The Verge reported growing signs that PlayStation and Xbox physical disc production is winding down. This creates preservation, ownership, and resale concerns while also opening demand for collection tracking and rights-management tools.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
-          "published_at": "2026-07-01",
+          "title": "Godot 拒绝接受 AI 生成代码",
+          "summary": "Solidot 报道 Godot 基金会修订贡献政策，禁止 AI 署名代码和 AI agent 提交 PR。开源社区正在更明确地区分“AI 辅助开发”和“不可审计的 AI 代提交”。",
+          "source": "Solidot",
+          "url": "https://www.solidot.org/story?sid=84732",
+          "published_at": "2026-07-02",
           "tags": [
-            "Gaming",
-            "Digital Ownership",
-            "Preservation"
+            "Open Source",
+            "AI Code",
+            "Policy"
           ]
         }
       ]
