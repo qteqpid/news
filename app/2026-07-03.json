@@ -1,0 +1,56 @@
+[
+  {
+    "title": "FeeLens Travel Hidden Fee Scanner",
+    "summary": "用户在机票、酒店和旅行 App 结账页看到税费、服务费、清洁费、保险和会员折扣时，很难判断最终价格是否被暗中抬高。为什么现在: Hopper 因隐藏费用和 dark pattern 与 FTC 达成 3500 万美元和解，说明旅行预订价格透明度仍是高痛点；独立 App 可以从截图识别和清单提醒切入。评分: 8.6。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Mini Game Night Studio",
+    "summary": "家庭、朋友和团建场景想要快速生成轻量互动小游戏，但通用 AI 工具缺少现成规则、计分、投屏和分享流程。为什么现在: Meta 推出可生成和分享互动小游戏的 Pocket，验证“vibe-coded mini games”正在进入消费场景；独立开发者可以避开通用平台，专注聚会和本地多人体验。评分: 8.3。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Crew Checklist Cam",
+    "summary": "小团队的现场检查、设备巡检和安全确认常靠纸表、群聊和照片，问题难以闭环。为什么现在: MIT Tech Review 关注 AI 在风机等工业场景的运维价值，同时 Wisk Aero 软件安全争议提醒“检查流程可追溯”是刚需；MVP 可做照片转检查项、本地模板和异常追踪。评分: 7.9。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "AI Spend Friction Meter",
+    "summary": "个人开发者和小团队用多个 AI 服务时，很难知道一次任务到底花了多少钱、哪些调用可缓存、哪些 prompt 造成浪费。为什么现在: Google、Amazon 的 AI 基建成本和碳排压力成为新闻焦点，企业和个人都会从“能用 AI”进入“精算 AI 成本”阶段；小工具可从手动账本和 API usage 导入做起。评分: 7.7。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "FTC Dark Pattern Watchlist",
+    "summary": "消费者和小商家看到订阅、旅行、金融、票务页面时，不知道哪些设计可能构成误导或合规风险。为什么现在: Hopper 隐藏费用和 dark pattern 和解给了明确案例，移动端可做“截图标注 + 风险解释 + 取消路径记录”的轻量工具。评分: 7.4。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch / Hopper FTC settlement",
+    "summary": "Hopper 将支付 3500 万美元解决 FTC 关于隐藏费用和误导性 dark pattern 的指控，旅行预订价格透明度是 FeeLens 和 Dark Pattern Watchlist 的直接信号。",
+    "url": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch / Meta Pocket mini games",
+    "summary": "Meta 悄悄推出 Pocket，用 AI 生成并分享互动小游戏，说明轻量游戏生成正从开发者工具进入普通用户娱乐入口。",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "source": "APP"
+  },
+  {
+    "title": "MIT Technology Review / Operational AI",
+    "summary": "MIT Technology Review 连续关注 AI 在运营卓越和风机运行中的应用，提示“把现场流程变成可追踪清单”的移动工具机会。",
+    "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch / AI infrastructure cost signal",
+    "summary": "Google 和 Amazon 的 AI 成本、能源与净零压力成为新闻，说明 AI 使用的成本可视化和节流工具会越来越有价值。",
+    "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+    "source": "APP"
+  }
+]
