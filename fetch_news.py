@@ -275,6 +275,7 @@ def fetch_github_popular_repositories():
 def zhihu_public_url(target):
     target_type = target.get("type", "")
     target_id = target.get("id")
+    api_url = target.get("url", "")
     question = target.get("question") if isinstance(target.get("question"), dict) else {}
     question_id = question.get("id")
 
@@ -282,14 +283,19 @@ def zhihu_public_url(target):
         return f"https://www.zhihu.com/question/{question_id}/answer/{target_id}"
     if question_id:
         return f"https://www.zhihu.com/question/{question_id}"
+    if target_type == "question" and target_id:
+        return f"https://www.zhihu.com/question/{target_id}"
     if target_type == "article" and target_id:
         return f"https://zhuanlan.zhihu.com/p/{target_id}"
+    api_question_match = re.search(r"/questions/(\d+)", api_url)
+    if api_question_match:
+        return f"https://www.zhihu.com/question/{api_question_match.group(1)}"
     return target.get("url", "")
 
 def fetch_zhihu_hot_posts():
     try:
         data = fetch_json(
-            "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30&desktop=true",
+            "https://api.zhihu.com/topstory/hot-lists/total?limit=30&reverse_order=0",
             headers={
                 "Referer": "https://www.zhihu.com/hot",
                 "X-Requested-With": "fetch",
@@ -328,7 +334,7 @@ def fetch_zhihu_hot_posts_from_rss():
     for url in [candidate for candidate in ZHIHU_HOT_RSS_URLS if candidate]:
         feed = fetch_feed(url)
         items = []
-        for entry in feed.entries[:30]:
+        for entry in feed.get("entries", [])[:30]:
             title = entry.get("title", "").strip()
             link = entry.get("link", "").strip()
             if not title or not link:
