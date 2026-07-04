@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Watchlist Lifeboat",
+    "summary": "重度追剧用户的观看历史、评分、收藏和提醒分散在多个平台里，一旦 TV Time 这类服务关闭，数据迁移会立刻变成强痛点。为什么现在: TV Time 将于 2026 年 7 月 15 日关闭，用户会搜索替代和导出方案；MVP 可从 CSV/截图导入、本地进度和导出做起。评分: 8.5。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Human Inventor Logbook",
+    "summary": "使用 AI 辅助研发和创作的人，很难回溯哪些关键想法来自人、哪些只是 AI 整理或扩写。为什么现在: 日本最高法院裁决 AI 不能作为专利发明人，AI 辅助发明需要更清晰的人类贡献记录；独立 App 可以做本地时间线、证据快照和 PDF 导出。评分: 8.2。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Android System Change Explainer",
+    "summary": "Android 用户看到系统更新后新增服务、权限或后台组件时，不知道它们的用途、风险和是否能关闭。为什么现在: Android Developer Verifier 争议说明平台安全机制需要更透明的解释层；MVP 可做组件扫描、权限变化记录和普通人能读懂的说明卡。评分: 7.9。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Live Event Remote Hub",
+    "summary": "家庭和朋友在直播、赛事、互动节目或串流游戏场景里，需要临时管理多个 App 入口、提醒、投屏和参与规则。为什么现在: 美国 iPhone 榜单前列同时出现 Netflix Game Controller、Kalshi、Peacock、ChatGPT 等实时参与型 App，说明活动驱动下载很强；独立开发者可做跨平台活动控制台。评分: 7.6。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Local Work Replay",
+    "summary": "知识工作者一天内的网页、文件、会议、代码和 AI 对话分散在各处，事后很难复盘决策过程。为什么现在: Product Hunt productivity 方向出现本地优先上下文捕捉和桌面自动化产品，HN 也出现 AI agent 任务队列工具；本地隐私版工作时间线有差异化空间。评分: 7.5。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Appfigures US iOS Top Apps",
+    "summary": "美国 iPhone 免费榜前列出现 Netflix Game Controller、Kalshi、Peacock、ChatGPT，直播娱乐、赛事预测和 AI 助手同时抢占移动入口。",
+    "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-apps",
+    "source": "APP"
+  },
+  {
+    "title": "Apple App Store US charts",
+    "summary": "Apple 榜单同样显示 Netflix Game Controller、Kalshi、ChatGPT、Peacock 等应用位居前列，节日和大型赛事放大了“实时参与”型 App 需求。",
+    "url": "https://apps.apple.com/us/iphone/charts",
+    "source": "APP"
+  },
+  {
+    "title": "Product Hunt productivity",
+    "summary": "Product Hunt 近期 productivity 方向强调本地优先的上下文捕捉、桌面自动化和 AI 工作流。",
+    "url": "https://www.producthunt.com/categories/productivity",
+    "source": "APP"
+  },
+  {
+    "title": "Hacker News Show HN",
+    "summary": "Show HN 里出现 TaskPeace 这类面向 AI coding agents 的任务队列产品，开发者开始需要 agent 协作的轻量操作层。",
+    "url": "https://news.ycombinator.com/show",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch / TV Time shutdown",
+    "summary": "TV Time 将于 7 月 15 日关闭，母公司转向企业 AI，暴露出消费者数据迁移和替代工具机会。",
+    "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+    "source": "APP"
+  },
+  {
+    "title": "Solidot / AI inventor ruling",
+    "summary": "日本最高法院裁决 AI 不能被列为专利申请发明人，AI 辅助创作需要更清晰的人类贡献记录。",
+    "url": "https://www.solidot.org/story?sid=84748",
+    "source": "APP"
+  },
+  {
+    "title": "Solidot / Android Developer Verifier",
+    "summary": "F-Droid 对 Android Developer Verifier 的批评说明，普通用户很难理解系统级安全服务、权限变化和平台控制。",
+    "url": "https://www.solidot.org/story?sid=84740",
+    "source": "APP"
+  }
+]

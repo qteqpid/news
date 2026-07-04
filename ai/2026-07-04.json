@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Anthropic wants to develop its own drugs",
+    "summary": "Anthropic 在 AI for Science 活动上公布 Claude Science，定位为面向生命科学研究的 AI workbench。它把 Claude 从通用助手推进到药物发现和科研流程中，说明大模型公司正在争夺高价值垂直行业入口。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+    "summary": "Midjourney 展示了其医疗扫描设备的幕后视频，但外界仍缺少足够证据判断产品是否真实可用。AI 公司进入医疗硬件后，验证、监管和临床可信度会比演示效果更关键。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "The only AI glossary you’ll need this year",
+    "summary": "TechCrunch 梳理了 2026 年常见 AI 术语，覆盖 hallucination、agent 等用户和投资人频繁遇到的概念。AI 产品进入大众市场后，术语教育本身也变成降低使用门槛的一部分。",
+    "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "summary": "Meta 内部会议中，扎克伯格据称承认 AI agent 进展慢于预期。这给当下的 agent 热潮降了一点温，说明从演示到稳定生产力仍有工程和体验距离。",
+    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-hed-hoped/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "生数科技发布 Vidu S1，推动视频生成迈向“实时交互”新时代",
+    "summary": "生数科技发布 Vidu S1，强调实时交互式视频生成能力。视频大模型正在从单次生成素材，继续向可编辑、可控制、可交互的创作流程演进。",
+    "url": "https://www.leiphone.com/category/industrynews/6GlFzI5hMwcfRoGZ.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8",
+    "summary": "IT之家援引媒体报道称，Claude Fable 5 重上架后有用户反馈能力下降和频繁回退。模型安全护栏与用户体验之间的权衡，仍是高端模型商业化的一条主线。",
+    "url": "https://www.ithome.com/0/972/477.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "summary": "TechCrunch 报道称，Sam Altman 提议 OpenAI 向美国主权财富基金捐赠 5% 股权。若该设想推进，AI 头部公司的治理和国家利益绑定会成为新的政策焦点。",
+    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The browser wars aren’t about search anymore",
+    "summary": "TechCrunch 盘点了挑战 Chrome 和 Safari 的新一代浏览器。浏览器竞争已经从默认搜索入口，转向 AI、隐私、工作流和跨设备体验。",
+    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+    "summary": "TV Time 将于 7 月 15 日关闭，母公司 Whip Media 转向企业 AI 业务。消费者工具在母公司战略转向时容易被牺牲，也给数据迁移和替代工具留下窗口。",
+    "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+    "summary": "Amazon 更新了 2023 款 Fire HD 10，将内存提升到 4GB。低价平板继续通过小幅硬件升级维持生命周期，反映入门设备市场仍看重成本和可用性。",
+    "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+    "source": "The Verge"
+  },
+  {
+    "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
+    "summary": "Jon Prosser 正式回应 Apple 针对 iOS 泄露事件的诉讼，并将责任推给另一名被告。围绕未发布产品信息的泄露、取证和责任边界，继续是 Apple 生态内容产业的高压线。",
+    "url": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
+    "source": "The Verge"
+  },
+  {
+    "title": "阿里巴巴禁止员工使用 Claude Code",
+    "summary": "Solidot 报道称，阿里巴巴因安全和后门担忧，要求员工停止使用 Anthropic 的 Claude Code，并转向自家编程平台。大公司在 AI 编程工具上开始强调供应链、数据流向和模型依赖控制。",
+    "url": "https://www.solidot.org/story?sid=84751",
+    "source": "Solidot"
+  },
+  {
+    "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
+    "summary": "36氪关注袁进辉新公司成立不到三年即冲刺港股 IPO 的进展。AI 创业公司密集进入资本市场，招股书正在成为观察收入质量和商业化速度的重要窗口。",
+    "url": "https://36kr.com/p/3879814941437956?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+    "summary": "智能两轮出行企业 OMOWAY 连续完成 A 轮和 A+ 轮融资，单轮金额均为数千万美元。印尼电摩场景显示，新能源和智能出行的区域市场仍有高增长机会。",
+    "url": "https://36kr.com/p/3877990989819909?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
+    "summary": "启航氢能完成新一轮融资，资金用于电氢耦合关键装备和离网制氢技术研发。AI 之外，能源基础设施和新型装备仍在吸引地方资本和产业资本。",
+    "url": "https://36kr.com/p/3879274157928449?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+    "summary": "TechCrunch 报道 Jack Selby 通过亚利桑那网络获得 Etched 等热门初创公司的股权机会。AI 芯片和热门创业项目的融资竞争中，人脉和非传统渠道仍然能放大资本优势。",
+    "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "日本最高法院裁决 AI 不能被列为专利申请的发明人",
+    "summary": "日本最高法院维持下级法院判决，认为专利申请的发明人必须是自然人。AI 辅助发明会继续增长，但知识产权制度仍要求明确人的创造性贡献。",
+    "url": "https://www.solidot.org/story?sid=84748",
+    "source": "Solidot"
+  },
+  {
+    "title": "来自 Google 的 Android 恶意程序",
+    "summary": "Solidot 援引 F-Droid 警告称，Google 向 Android 设备推送的 Android Developer Verifier 被其视为恶意程序。围绕系统级安全服务、平台控制权和用户知情权的争议，仍会影响 Android 生态信任。",
+    "url": "https://www.solidot.org/story?sid=84740",
+    "source": "Solidot"
+  },
+  {
+    "title": "IT早报 0704：大疆和影石在国内互相起诉专利侵权",
+    "summary": "IT之家早报提到，大疆和影石围绕智能相机产品在国内互诉专利侵权。影像硬件竞争进入成熟期后，专利和供应链壁垒会比单点功能更重要。",
+    "url": "https://www.ithome.com/0/972/470.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "AI基础设施的下一个千亿市场，为何藏在网络里？",
+    "summary": "雷峰网指出，DPU 和网络能力正在成为 AI 基础设施中的关键环节。算力扩张不只依赖 GPU，数据中心互联和网络调度可能成为下一轮基础设施竞争点。",
+    "url": "https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "场景至上，实效为王：NAVIAI 人形机器人多领域应用场景领跑",
+    "summary": "雷峰网报道 NAVIAI 人形机器人在工业、服务、教育和数据采集等场景落地。人形机器人叙事正在从通用炫技转向具体场景、可复用平台和商业闭环。",
+    "url": "https://www.leiphone.com/category/industrynews/CBx8Wb28sANFCEO5.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "谷歌为什么做不好「AI 编程」？",
+    "summary": "雷峰网讨论 Google 在 AI coding 领域声量不足的原因。即便底层模型能力强，开发者工具仍需要产品节奏、生态入口和工作流深度。",
+    "url": "https://www.leiphone.com/category/industrynews/Sq0Kbi3YMIFYEPXn.html",
+    "source": "雷峰网"
+  }
+]
