@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Meeting Shortcut Layer",
+    "summary": "频繁开会的用户在 Zoom、Meet、Teams、Slack Huddles 之间切换时，静音、摄像头、窗口切换和加入会议快捷键不统一。为什么现在: Dune 这类硬件新品验证了会议控制痛点，但软件版更轻、更便宜；MVP 可做 Mac 菜单栏、全局快捷键和 iPhone/Watch 遥控。评分: 8.4。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "AI Tool Policy Gate",
+    "summary": "小团队不断试用 AI IDE、agent、插件和 CLI，却很难知道哪些工具会上传代码、保存 prompt 或违反客户合同。为什么现在: 阿里禁用 Claude Code 让企业 AI 工具准入成为显性问题；MVP 可做本地扫描、风险卡、allow/deny policy 和审计导出。评分: 8.2。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Temporary App Cleanup",
+    "summary": "用户为赛事、节目、聚会或临时互动下载多个 App，活动结束后常忘记清理通知、订阅、账户授权和日历提醒。为什么现在: App Store 榜单显示 Netflix Game Controller、Love Island USA、Kalshi、Peacock、TikTok Pro - Events 等活动型 App 集中冲榜；MVP 可做到期提醒和清理清单。评分: 8.0。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Creator Provenance Notebook",
+    "summary": "创作者被怀疑使用 AI 时，很难拿出不暴露隐私的创作过程证据，平台管理员也不想只依赖检测器分数。为什么现在: 同人社区围绕 AI 检测和误伤出现冲突；MVP 可做本地写作时间线、版本快照和可隐藏正文的证明导出。评分: 7.8。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Vibe Game QA Kit",
+    "summary": "文本生成的互动小游戏可能有死局、规则不清、敏感内容、难度失衡或无法复现的问题，创作者发布前需要轻量检查。为什么现在: Meta Pocket 把文本生成小游戏推向普通用户；MVP 可做测试清单、年龄适配标签、可访问性检查和问题报告。评分: 7.6。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Appfigures US iOS Top Overall",
+    "summary": "美国 iPhone 总榜前列包括 Netflix Game Controller、Love Island USA、Kalshi、Peacock、ChatGPT、Claude、Gemini、TikTok Pro - Events 等，活动型下载与 AI 助手同时占据入口。",
+    "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-overall",
+    "source": "APP"
+  },
+  {
+    "title": "Appshunter Top Free Apps",
+    "summary": "Appshunter 显示榜首为 Netflix Game Controller，Kalshi、Love Island USA、Peacock、ChatGPT 也在前列；榜单更新时间为 2026-07-04 20:45 UTC。",
+    "url": "https://appshunter.io/charts/free",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch Dune",
+    "summary": "Project Mirage 的 Dune 是 MacBook 外接三键设备，可按前台 App 改变功能，并主打会议静音、摄像头和窗口控制。",
+    "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch Alibaba Claude Code",
+    "summary": "阿里据称从 7 月 10 日起禁止员工在工作中使用 Claude Code，并把它归为高风险软件。",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch Midjourney lawsuit",
+    "summary": "Midjourney 在版权诉讼中要求 Hollywood 片方披露其自身 AI 使用方式，AI 证据披露将影响创作团队和法务协作。",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "source": "APP"
+  },
+  {
+    "title": "The Verge fanfiction AI",
+    "summary": "同人社区围绕生成式 AI 检测和指控出现冲突，创作者需要更可信的创作过程证明。",
+    "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch Meta Pocket",
+    "summary": "Meta quietly launched Pocket，用户可以用文本提示生成并分享互动小游戏。",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "source": "APP"
+  },
+  {
+    "title": "Product Hunt AI agents",
+    "summary": "Product Hunt 的 AI agents 页面显示近期产品偏向跨 App 上下文、主动任务捕捉、摘要、工作流清理和 agent 可靠性基础设施。",
+    "url": "https://www.producthunt.com/categories/ai-agents",
+    "source": "APP"
+  },
+  {
+    "title": "Hacker News Show HN",
+    "summary": "Show HN 近期出现 Kontext：一键把 AI 聊天的完整上下文迁移到另一个 AI。",
+    "url": "https://hn.lncln.io/show",
+    "source": "APP"
+  }
+]
