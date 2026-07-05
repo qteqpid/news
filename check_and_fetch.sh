@@ -86,7 +86,7 @@ messages.append(
     + "; ".join(missing)
     + ". Before handling the user's next request, invoke the my-daily-news-and-app-ideas skill once if news/app Markdown or JSON outputs are missing, "
     + "and run `python3 ~/my_repos/news/fetch_reddit.py` if the Reddit JSON is missing. "
-    + "If fetch_reddit.py reports that no Reddit browser export exists, first run `cd ~/my_repos/reddit-app-idea-miner && python3 scripts/collect_routes.py --browser chrome`, then rerun fetch_reddit.py; "
+    + "fetch_reddit.py only reads browser exports and does not call the Reddit JSON API directly; if no Reddit browser export exists, first run `cd ~/my_repos/reddit-app-idea-miner && python3 scripts/collect_routes.py --browser chrome --hydrate-details`, then rerun fetch_reddit.py; "
     + "do not commit or push because git sync is handled by the scheduled launchd task. "
     + "Before writing final news or app outputs, dedupe against previous dates: use `python3 ~/my_repos/news/fetch_news.py --seen-keys news` for tech-news article/project/post keys, "
     + "and `python3 ~/my_repos/news/fetch_news.py --seen-keys app` for prior app-idea titles/source keys; skip repeats instead of carrying them into the new report. "

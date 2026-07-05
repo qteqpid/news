@@ -173,21 +173,9 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         action="store_true",
         help="Do not auto-use the latest miner export",
     )
-    parser.add_argument(
-        "--allow-reddit-api",
-        action="store_true",
-        help="Allow direct Reddit JSON API requests when no browser export is available",
-    )
     parser.add_argument("--sample", action="store_true", help="Use miner sample posts; no network")
     parser.add_argument("--max-items", type=int, default=30, help="Maximum flat JSON items to write")
     parser.add_argument("--min-score", type=float, help="Minimum miner opportunity score")
-    parser.add_argument("--subreddits", nargs="+", help="Override miner subreddit list")
-    parser.add_argument("--search-phrases", nargs="+", help="Override miner search phrases")
-    parser.add_argument("--time-filter", choices=["hour", "day", "week", "month", "year", "all"])
-    parser.add_argument("--limit", type=int, help="Per-request Reddit limit when not using exports")
-    parser.add_argument("--delay", type=float, default=0.8, help="Request delay when not using exports")
-    parser.add_argument("--timeout", type=int, default=20, help="Per-request timeout when not using exports")
-    parser.add_argument("--user-agent", help="Reddit User-Agent, or REDDIT_USER_AGENT from environment")
     parser.add_argument("--quiet", action="store_true", help="Suppress miner progress logs")
     return parser.parse_args(argv)
 
@@ -206,28 +194,20 @@ def main(argv: list[str]) -> int:
     if not args.sample and not browser_exports and not args.no_export_fallback:
         browser_exports = existing_json_exports(miner_root, args.date)[:1]
 
-    if not args.sample and not browser_exports and not args.allow_reddit_api:
+    if not args.sample and not browser_exports:
         export_path = miner_root / "exports" / f"reddit-route-export-{args.date}.json"
         raise SystemExit(
-            "No Reddit browser export found, and direct Reddit JSON requests are blocked often enough "
-            "that fetch_reddit.py will not use them by default.\n"
+            "No Reddit browser export found. fetch_reddit.py only reads browser exports; "
+            "it does not call the Reddit JSON API directly.\n"
             "First collect with a real browser, then run this script again:\n"
             f"  cd {miner_root}\n"
-            f"  python3 scripts/collect_routes.py --browser chrome --output {export_path}\n"
+            f"  python3 scripts/collect_routes.py --browser chrome --hydrate-details --output {export_path}\n"
             f"  python3 {Path(__file__).resolve()}\n"
-            "If you explicitly want to try the Reddit JSON API anyway, add --allow-reddit-api."
         )
 
     miner_args = SimpleNamespace(
         sample=args.sample,
         browser_export=[str(path) for path in browser_exports] or None,
-        user_agent=args.user_agent,
-        subreddits=args.subreddits,
-        search_phrases=args.search_phrases,
-        time_filter=args.time_filter,
-        limit=args.limit,
-        timeout=args.timeout,
-        delay=args.delay,
         quiet=args.quiet,
     )
 
