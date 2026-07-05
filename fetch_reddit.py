@@ -131,13 +131,12 @@ def format_summary(signal: Any) -> str:
     matched = "、".join(signal.matched_signals)
     source = f"r/{post.subreddit}"
     engagement = f"{post.score} upvotes、{post.num_comments} comments"
+    excerpt = clean_text(post.selftext or post.title, 240)
     parts = [
-        f"{source} 的帖子显示「{signal.signal_type}」信号，互动为 {engagement}，命中：{matched}。",
-        f"MVP：{clean_text(signal.mvp, 120)}",
-        f"风险：{clean_text(signal.risk, 90)}",
-        f"评分：{signal.opportunity_score}/10。",
+        f"帖子内容：{excerpt}",
+        f"信号：{source}，{engagement}，类型：{signal.signal_type}，命中：{matched}，评分：{signal.opportunity_score}/10。",
     ]
-    return clean_text(" ".join(parts), 360)
+    return clean_text(" ".join(parts), 420)
 
 
 def to_flat_items(signals: list[Any], max_items: int, seen_keys: set[str]) -> list[dict[str, str]]:
