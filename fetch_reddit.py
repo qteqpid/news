@@ -133,8 +133,8 @@ def format_summary(signal: Any) -> str:
     engagement = f"{post.score} upvotes、{post.num_comments} comments"
     excerpt = clean_text(post.selftext or post.title, 240)
     parts = [
-        f"帖子内容：{excerpt}",
-        f"信号：{source}，{engagement}，类型：{signal.signal_type}，命中：{matched}，评分：{signal.opportunity_score}/10。",
+        f"{excerpt}，{engagement}",
+        f"，类型：{signal.signal_type}，评分：{signal.opportunity_score}/10。",
     ]
     return clean_text(" ".join(parts), 420)
 
