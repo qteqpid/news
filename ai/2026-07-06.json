@@ -1,0 +1,98 @@
+[
+  {
+    "title": "富裕家庭把 AI 带进课堂",
+    "summary": "The Verge 关注 Alpha、Forge Prep 等面向富裕家庭的 AI 学校，核心卖点是让 AI 承担部分教学和个性化练习。这说明 AI 教育的早期商业化仍可能先从高价私校和小班实验开始，但效果、监督和公平性会持续被质疑。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "source": "The Verge"
+  },
+  {
+    "title": "Google 用建国者广告推广 Workspace AI",
+    "summary": "Google 新广告设想美国建国者用 Docs、Meet 和 Gemini 协作起草《独立宣言》。这类营销把 AI 从工具能力包装成日常协作基础设施，也容易引发历史场景 AI 化的反感。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "source": "The Verge"
+  },
+  {
+    "title": "AI 个性化记忆带来偏见风险",
+    "summary": "钛媒体讨论 AI 越了解用户，越可能形成“人格茧房”和带偏见的理解。长期记忆会提升助手体验，但也会把隐私、纠错、偏见和用户可控性推到产品设计中心。",
+    "url": "https://www.tmtpost.com/8053185.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "AI 应用层商业化进入淘汰期",
+    "summary": "钛媒体认为 AI 应用层仍处在融资驱动阶段，未来会转向利润和成本控制。对于创业公司来说，推理成本、留存和明确付费场景比套壳速度更关键。",
+    "url": "https://www.tmtpost.com/8053021.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "阿里内部禁用 Claude Code 继续发酵",
+    "summary": "36氪早报再次提到阿里内部全面禁用 Claude Code 的消息。AI 编程工具正在进入企业准入、代码外传、模型供应商和内部工具替代的合规讨论。",
+    "url": "https://36kr.com/p/3880629882679301?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "Meta 将下线 Llama API 公共预览版",
+    "summary": "IT之家报道称 Meta 将于 2026 年 7 月 6 日下线 Llama API 公共预览版。模型平台的试验性 API 生命周期正在变短，开发者需要更重视迁移、供应商锁定和降级方案。",
+    "url": "https://www.ithome.com/0/972/864.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Amazon 将停止接收 Mechanical Turk 新客户",
+    "summary": "TechCrunch 报道 Amazon Mechanical Turk 将停止接受新客户，这可能标志着老牌众包微任务平台进入收缩阶段。受影响团队需要寻找替代方案、导出流程和重新评估人工标注成本。",
+    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Bending Spoons 走向公众视野",
+    "summary": "TechCrunch 梳理 AOL、Vimeo 等产品背后的 Bending Spoons，指出这家公司虽然服务过大量用户，但品牌认知仍较低。它的扩张路径体现了成熟互联网资产被整合、重组和再商业化的趋势。",
+    "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Meta 数据中心施工废水引发用水污染清理",
+    "summary": "IT之家报道称 Meta 数据中心建设承包商被认定为怀俄明州夏延市再生水系统污染源。AI 数据中心扩张不只消耗电力，也会把水资源、施工和环境治理推到公众视野。",
+    "url": "https://www.ithome.com/0/972/667.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "忆生科技获数亿元天使轮融资",
+    "summary": "36氪报道港大教授创立的机器人记忆系统公司忆生科技完成数亿元天使轮融资。具身智能创业正在从单点控制能力转向长期记忆、场景理解和机器人“大脑”基础设施。",
+    "url": "https://36kr.com/p/3882365879005186?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "光象科技完成数亿元天使融资",
+    "summary": "36氪报道清华车辆学院师兄弟创立的具身智能公司光象科技已完成数亿元天使融资，并将落地汽车产业。资本仍在押注能与具体产业闭环结合的机器人模型公司。",
+    "url": "https://36kr.com/p/3882364132077577?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "影智 XBOT 完成两轮数亿元融资",
+    "summary": "36氪报道小米前高管唐沐创立的餐饮具身机器人公司影智 XBOT 连续完成两轮融资。餐饮场景因任务标准化、用工成本和连锁渠道，仍是服务机器人最受关注的落地入口之一。",
+    "url": "https://36kr.com/p/3882361033322755?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "壁仞科技拟募资约 70 亿港元",
+    "summary": "IT之家报道称壁仞科技上市半年后开启配售，拟募资约 70 亿港元，用于下一代 GPGPU 产品商业化和生产。国产 AI 芯片公司仍在通过资本市场补充高强度研发和产能资金。",
+    "url": "https://www.ithome.com/0/972/865.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "千帆星座增至 238 颗",
+    "summary": "IT之家报道我国成功发射千帆星座组网卫星，平板卫星堆叠规模首次提升至一箭 20 星。低轨通信星座正在进入更高频组网阶段。",
+    "url": "https://www.ithome.com/0/972/856.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "ReactOS 已能运行 Half-Life 2",
+    "summary": "Solidot 报道 ReactOS 宣布在游戏兼容性上取得进展，可运行经典游戏 Half-Life 2。这个开源 Windows 兼容项目仍在以长期、渐进方式推进 NT 生态兼容。",
+    "url": "https://www.solidot.org/story?sid=84759",
+    "source": "Solidot"
+  },
+  {
+    "title": "电子秤作弊产业链被曝光",
+    "summary": "IT之家援引央视财经报道违规电子秤隐秘产销链，称加装芯片可随意改重量。传统行业的计量设备也正在面临软硬件结合的监管挑战。",
+    "url": "https://www.ithome.com/0/972/851.htm",
+    "source": "IT之家"
+  }
+]

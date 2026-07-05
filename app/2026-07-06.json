@@ -1,0 +1,80 @@
+[
+  {
+    "title": "CrowdTask Exit Kit",
+    "summary": "依赖 Mechanical Turk 或类似平台的小团队需要迁移任务模板、质检规则、报酬记录和历史结果。为什么现在: Amazon Mechanical Turk 停止接受新客户，而 iTunes 搜索 microtask/crowdsource 主要返回通用任务管理工具，迁移工具供给薄。评分: 8.5。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "API Sunset Radar",
+    "summary": "小型开发团队常常直到客户报错才发现 API 或服务即将下线，缺少供应商生命周期和迁移提醒。为什么现在: Meta Llama API 公共预览版下线，Mechanical Turk 停止接收新客户，AI 平台和试验性 API 变化加速。评分: 8.3。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Family AI Tutor Ledger",
+    "summary": "家长很难知道 AI 家教如何教学、记住了孩子什么，以及是否形成偏见标签。为什么现在: AI 学校开始面向高付费家庭扩张，AI 个性化记忆也暴露信任和监督问题。评分: 8.0。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Event Screen Companion Binder",
+    "summary": "用户为赛事、真人秀、串流游戏和直播活动同时打开多个 App，入口和提醒分散。为什么现在: 美区免费榜出现 Netflix Game Controller、Kalshi、Peacock、Love Island USA 等事件娱乐和第二屏 App。评分: 7.8。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Short Drama Localization Scout",
+    "summary": "短剧出海团队需要判断题材、标题、字幕和付费点是否适合目标国家，但轻量工具供给不足。为什么现在: 美区免费榜出现 DramaWave，中国区免费榜有红果短剧和红果漫剧，短剧形态在不同市场同时靠前。评分: 7.6。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch Mechanical Turk",
+    "summary": "Amazon Mechanical Turk 将停止接受新客户，老牌微任务平台进入收缩期，依赖人工标注和众包流程的团队会需要迁移、备份和替代方案。",
+    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "source": "APP"
+  },
+  {
+    "title": "IT之家 Meta Llama API",
+    "summary": "Meta 将于 2026-07-06 下线 Llama API 公共预览版，说明试验性模型 API 的生命周期可能很短。",
+    "url": "https://www.ithome.com/0/972/864.htm",
+    "source": "APP"
+  },
+  {
+    "title": "The Verge AI schools",
+    "summary": "富裕家庭开始尝试 AI 学校和 AI 辅助教学，小班、私校和家庭教育可能是 AI 教育工具的早期付费场景。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "source": "APP"
+  },
+  {
+    "title": "钛媒体 AI memory",
+    "summary": "AI 个性化记忆越强，越可能形成偏见理解和人格茧房，用户需要可查看、可修正、可导出的记忆管理层。",
+    "url": "https://www.tmtpost.com/8053185.html",
+    "source": "APP"
+  },
+  {
+    "title": "Apple iTunes US Top Free",
+    "summary": "美区免费榜前列包括 Netflix Game Controller、Kalshi、Peacock、Love Island USA、Google Maps、DramaWave、Meta AI，事件娱乐、预测市场、AI 助手和短剧同时冲榜。",
+    "url": "https://itunes.apple.com/us/rss/topfreeapplications/limit=20/json",
+    "source": "APP"
+  },
+  {
+    "title": "Apple iTunes CN Top Free",
+    "summary": "中国区免费榜前列包括抖音商城、红果短剧、抖省省、红果漫剧、闲鱼、58同城、剪映，电商、本地生活和短剧内容强势。",
+    "url": "https://itunes.apple.com/cn/rss/topfreeapplications/limit=20/json",
+    "source": "APP"
+  },
+  {
+    "title": "Android-vs-iOS comparison",
+    "summary": "Android 公开榜单页本次抓取超时，今日无法验证 Android 侧排行；可确认的 iOS 信号显示美国短剧 App DramaWave 与中国红果短剧/漫剧同时靠前，短剧形态有跨市场迹象。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "iTunes Search microtask",
+    "summary": "microtask crowdsource 在美区 iTunes 搜索结果主要返回通用任务管理工具，未看到强势的众包迁移或标注流程移动端工具。",
+    "url": "https://itunes.apple.com/search?term=microtask+crowdsource&country=us&entity=software&limit=10",
+    "source": "APP"
+  }
+]
