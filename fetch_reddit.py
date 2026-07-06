@@ -29,6 +29,7 @@ DEFAULT_REDDIT_DIR = NEWS_ROOT / "reddit"
 DEFAULT_MINER_ROOT = Path(
     os.environ.get("REDDIT_APP_IDEA_MINER_DIR", "~/my_repos/reddit-app-idea-miner")
 ).expanduser()
+DEFAULT_DAILY_ROUTES = "config/routes_daily.json"
 
 
 def clean_text(value: str, max_len: int | None = None) -> str:
@@ -88,6 +89,15 @@ def collect_fresh_export(
     date: str,
     browser: str,
     hydrate_details: bool,
+    routes: str | None,
+    page_wait: float,
+    scrolls: int,
+    scroll_delay: float,
+    route_delay: float,
+    max_detail_posts: int,
+    detail_wait: float,
+    rate_limit_wait: float,
+    rate_limit_retries: int,
 ) -> Path:
     export_path = miner_root / "exports" / f"reddit-route-export-{date}.json"
     command = [
@@ -97,7 +107,25 @@ def collect_fresh_export(
         browser,
         "--output",
         str(export_path),
+        "--page-wait",
+        str(page_wait),
+        "--scrolls",
+        str(scrolls),
+        "--scroll-delay",
+        str(scroll_delay),
+        "--route-delay",
+        str(route_delay),
+        "--max-detail-posts",
+        str(max_detail_posts),
+        "--detail-wait",
+        str(detail_wait),
+        "--rate-limit-wait",
+        str(rate_limit_wait),
+        "--rate-limit-retries",
+        str(rate_limit_retries),
     ]
+    if routes:
+        command.extend(["--routes", str((miner_root / routes).resolve() if not Path(routes).is_absolute() else Path(routes))])
     if hydrate_details:
         command.append("--hydrate-details")
 
@@ -195,6 +223,19 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     )
     parser.add_argument("--collect-browser", choices=("safari", "chrome"), default="chrome")
     parser.add_argument(
+        "--collector-routes",
+        default=DEFAULT_DAILY_ROUTES,
+        help="Routes file for fresh browser collection, relative to the miner root unless absolute",
+    )
+    parser.add_argument("--collector-page-wait", type=float, default=8.0)
+    parser.add_argument("--collector-scrolls", type=int, default=2)
+    parser.add_argument("--collector-scroll-delay", type=float, default=3.5)
+    parser.add_argument("--collector-route-delay", type=float, default=10.0)
+    parser.add_argument("--collector-max-detail-posts", type=int, default=20)
+    parser.add_argument("--collector-detail-wait", type=float, default=7.0)
+    parser.add_argument("--collector-rate-limit-wait", type=float, default=600.0)
+    parser.add_argument("--collector-rate-limit-retries", type=int, default=1)
+    parser.add_argument(
         "--no-hydrate-details",
         action="store_true",
         help="Collect route pages without opening post detail pages",
@@ -226,6 +267,15 @@ def main(argv: list[str]) -> int:
                     date=args.date,
                     browser=args.collect_browser,
                     hydrate_details=not args.no_hydrate_details,
+                    routes=args.collector_routes,
+                    page_wait=args.collector_page_wait,
+                    scrolls=args.collector_scrolls,
+                    scroll_delay=args.collector_scroll_delay,
+                    route_delay=args.collector_route_delay,
+                    max_detail_posts=args.collector_max_detail_posts,
+                    detail_wait=args.collector_detail_wait,
+                    rate_limit_wait=args.collector_rate_limit_wait,
+                    rate_limit_retries=args.collector_rate_limit_retries,
                 )
             ]
 
@@ -234,9 +284,9 @@ def main(argv: list[str]) -> int:
         raise SystemExit(
             f"No Reddit browser export found for {args.date}. fetch_reddit.py no longer reuses stale exports; "
             "it must analyze a fresh dated browser export for each day.\n"
-            "Collect with a real browser, then run this script again:\n"
+            "Collect with a conservative daily browser sweep, then run this script again:\n"
             f"  cd {miner_root}\n"
-            f"  python3 scripts/collect_routes.py --browser chrome --hydrate-details --output {export_path}\n"
+            f"  python3 scripts/collect_routes.py --browser chrome --routes {DEFAULT_DAILY_ROUTES} --page-wait 8 --scrolls 2 --scroll-delay 3.5 --route-delay 10 --hydrate-details --max-detail-posts 20 --detail-wait 7 --rate-limit-wait 600 --rate-limit-retries 1 --output {export_path}\n"
             f"  python3 {Path(__file__).resolve()}\n"
         )
 
