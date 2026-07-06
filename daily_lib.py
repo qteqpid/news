@@ -36,7 +36,7 @@ def load_source_configs(sources: list[str] | None = None, root: Path = ROOT) -> 
         if selected and config.get("name") not in selected:
             continue
         configs.append(config)
-    return configs
+    return sorted(configs, key=lambda config: (int(config.get("order", 100)), config.get("name", "")))
 
 
 def check_artifact(spec: dict[str, Any], date: str, root: Path = ROOT) -> CheckResult:

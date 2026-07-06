@@ -1,0 +1,58 @@
+[
+  {
+    "title": "deepseek-ai/DeepSpec",
+    "link": "https://github.com/deepseek-ai/DeepSpec",
+    "summary": "[Stars: 6321] DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+    "published": "2026-06-26",
+    "dedupe_id": "github:deepseek-ai/deepspec"
+  },
+  {
+    "title": "bikini/exploitarium",
+    "link": "https://github.com/bikini/exploitarium",
+    "summary": "[Stars: 3737] A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "published": "2026-06-23",
+    "dedupe_id": "github:bikini/exploitarium"
+  },
+  {
+    "title": "baairon/torlink",
+    "link": "https://github.com/baairon/torlink",
+    "summary": "[Stars: 3188] A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+    "published": "2026-06-25",
+    "dedupe_id": "github:baairon/torlink"
+  },
+  {
+    "title": "Yu9191/wloc",
+    "link": "https://github.com/Yu9191/wloc",
+    "summary": "[Stars: 3142] 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+    "published": "2026-06-24",
+    "dedupe_id": "github:yu9191/wloc"
+  },
+  {
+    "title": "bozhouDev/codex-orange-book",
+    "link": "https://github.com/bozhouDev/codex-orange-book",
+    "summary": "[Stars: 2678] Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+    "published": "2026-06-23",
+    "dedupe_id": "github:bozhoudev/codex-orange-book"
+  },
+  {
+    "title": "elder-plinius/T3MP3ST",
+    "link": "https://github.com/elder-plinius/T3MP3ST",
+    "summary": "[Stars: 2613] autonomous red teaming platform; multi-agent offensive-security meta-harness",
+    "published": "2026-07-02",
+    "dedupe_id": "github:elder-plinius/t3mp3st"
+  },
+  {
+    "title": "Krishnagangwal/CS-Fundamentals",
+    "link": "https://github.com/Krishnagangwal/CS-Fundamentals",
+    "summary": "[Stars: 1700] Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+    "published": "2026-06-28",
+    "dedupe_id": "github:krishnagangwal/cs-fundamentals"
+  },
+  {
+    "title": "Younesfdj/gitfut",
+    "link": "https://github.com/Younesfdj/gitfut",
+    "summary": "[Stars: 1625] Your GitHub stats, turned into a World-Cup-style player card",
+    "published": "2026-06-24",
+    "dedupe_id": "github:younesfdj/gitfut"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "github",
+  "order": 10,
+  "description": "Daily popular GitHub repository signals.",
+  "outputs": [
+    {
+      "path": "{root}/github/{date}.json",
+      "type": "json_array",
+      "min_items": 1,
+      "allowed_keys": ["title", "link", "summary", "published", "dedupe_id"]
+    }
+  ],
+  "steps": [
+    {
+      "name": "fetch",
+      "type": "command",
+      "command": ["python3", "{root}/fetch_github.py", "--date", "{date}"]
+    }
+  ]
+}
