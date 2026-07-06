@@ -7,7 +7,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from daily_lib import default_date, render_prompt, run_command, should_skip_step, source_by_name
+from daily_lib import check_source, default_date, render_prompt, run_command, should_skip_step, source_by_name
 
 
 def main() -> int:
@@ -18,6 +18,10 @@ def main() -> int:
     args = parser.parse_args()
 
     source = source_by_name(args.source)
+    if check_source(source, args.date)["complete"]:
+        print(f"SKIP:{args.source}:complete")
+        return 0
+
     matches = [step for step in source.get("steps", []) if step.get("name") == args.step]
     if not matches:
         raise SystemExit(f"Unknown step for {args.source}: {args.step}")

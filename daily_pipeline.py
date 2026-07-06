@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import shlex
 import sys
 from pathlib import Path
 
@@ -75,10 +76,12 @@ def cmd_hook_context(args: argparse.Namespace) -> int:
         bad = [check["path"] for check in source["checks"] if not check["ok"]]
         missing.append(f"{source['name']} ({', '.join(bad)})")
 
+    source_args = "".join(f" --source {shlex.quote(source)}" for source in args.source or [])
+    run_command_text = f"python3 ~/my_repos/news/daily_pipeline.py run --date {shlex.quote(args.date)}{source_args}"
     message = (
         f"Daily report pipeline for {args.date} is incomplete: "
         + "; ".join(missing)
-        + ". Before handling the user's next request, run `python3 ~/my_repos/news/daily_pipeline.py run`. "
+        + f". Before handling the user's next request, run `{run_command_text}`. "
         + "The pipeline owns source checks, fetch steps, validation, and skip behavior. "
         + "If it prints MODEL_STEP, follow the emitted prompt exactly, then rerun the same pipeline command. "
         + "Do not commit or push because scheduled sync handles publication."
