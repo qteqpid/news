@@ -1,6 +1,6 @@
 #!/bin/bash
 # Codex SessionStart hook: if today's reports are missing, inject one-time
-# startup instructions for Codex to run the combined daily news/app-ideas skill.
+# startup instructions for Codex to run only the missing daily report processes.
 
 set -u
 
@@ -81,19 +81,37 @@ if needs_app:
 if needs_reddit:
     missing.append(f"daily Reddit app-idea output ({reddit_json})")
 
+processes = []
+if needs_news:
+    processes.append(
+        "AI process: first re-check that both tech-news outputs are still missing or incomplete. "
+        "If either is missing, run `python3 ~/my_repos/news/fetch_news.py --seen-keys news` for prior article/project/post keys, "
+        "then run the AI news fetch/organize process and write only `news/ai/YYYY-MM-DD.md` and `news/ai/YYYY-MM-DD.json`. "
+        "Skip repeats from prior dates."
+    )
+if needs_app:
+    processes.append(
+        "App process: first re-check that both app outputs are still missing or incomplete. "
+        "If either is missing, run `python3 ~/my_repos/news/fetch_news.py --seen-keys app` for prior app-idea titles/source keys, "
+        "then run only the app inspiration gather/organize process and write only `news/app/YYYY-MM-DD.md` and `news/app/YYYY-MM-DD.json`. "
+        "Use `APP` as the source name for app-related generated items/signals, and apply the App Store gold-app heuristics: high demand with low rating, stale incumbents, platform gaps, country gaps, and keyword supply gaps."
+    )
+if needs_reddit:
+    processes.append(
+        "Reddit process: first re-check that the Reddit JSON is still missing or incomplete. "
+        "If it is missing, run `python3 ~/my_repos/news/fetch_reddit.py`. "
+        "fetch_reddit.py only reads browser exports and does not call the Reddit JSON API directly; if no Reddit browser export exists, first run `cd ~/my_repos/reddit-app-idea-miner && python3 scripts/collect_routes.py --browser chrome --hydrate-details`, then rerun fetch_reddit.py. "
+        "The Reddit output must be a flat JSON array under `news/reddit/YYYY-MM-DD.json` with only title, summary, url, and source fields."
+    )
+
 messages.append(
-    f"Daily combined news/app/reddit report for {today} is incomplete: "
+    f"Daily report outputs for {today} are incomplete: "
     + "; ".join(missing)
-    + ". Before handling the user's next request, invoke the my-daily-news-and-app-ideas skill once if news/app Markdown or JSON outputs are missing, "
-    + "and run `python3 ~/my_repos/news/fetch_reddit.py` if the Reddit JSON is missing. "
-    + "fetch_reddit.py only reads browser exports and does not call the Reddit JSON API directly; if no Reddit browser export exists, first run `cd ~/my_repos/reddit-app-idea-miner && python3 scripts/collect_routes.py --browser chrome --hydrate-details`, then rerun fetch_reddit.py; "
-    + "do not commit or push because git sync is handled by the scheduled launchd task. "
-    + "Before writing final news or app outputs, dedupe against previous dates: use `python3 ~/my_repos/news/fetch_news.py --seen-keys news` for tech-news article/project/post keys, "
-    + "and `python3 ~/my_repos/news/fetch_news.py --seen-keys app` for prior app-idea titles/source keys; skip repeats instead of carrying them into the new report. "
-    + "Use `APP` as the source name for app-related generated items/signals. "
-    + "The Reddit output must be a flat JSON array under `news/reddit/YYYY-MM-DD.json` with only title, summary, url, and source fields. "
-    + "For app ideas, use the App Store gold-app heuristics: high demand with low rating, stale incumbents, "
-    + "platform gaps, country gaps, and keyword supply gaps. If all expected files appear before you act, skip this."
+    + ". Before handling the user's next request, run the missing processes independently and in this order: "
+    + " ".join(processes)
+    + " Do not rerun completed processes: if AI outputs already exist, skip AI; if app outputs already exist, skip app; if Reddit output already exists, skip Reddit. "
+    + "Do not commit or push because git sync is handled by the scheduled launchd task. "
+    + "If all expected files appear before you act, skip this."
 )
 
 print(json.dumps({

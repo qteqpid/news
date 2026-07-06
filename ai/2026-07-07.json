@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Vercel CEO 谈模型与 Agent 分层",
+    "summary": "Vercel CEO Guillermo Rauch 认为，生产环境里的 Agent 体验会越来越关注模型的价格、性能和可替换性。对开发者平台来说，护城河不只是接入最强模型，而是把模型、工具调用、部署和观测做成稳定工作流。",
+    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Google 默认扩大 AI 训练数据使用引发关注",
+    "summary": "TechCrunch 提醒用户，Google 隐私设置变化会让更多使用数据进入 AI 训练和个性化链路，用户需要主动检查并关闭相关选项。AI 功能越深入搜索、办公和移动系统，隐私开关的可理解性就越重要。",
+    "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Reddit 用 LLM 对抗 LLM 垃圾内容",
+    "summary": "TechCrunch 报道 Reddit 正在用大模型处理由大模型放大的垃圾内容和低质互动问题。社区平台进入“AI 生成内容治理 AI 化”的阶段，但误伤、透明度和申诉机制会成为关键。",
+    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "阿里与清华扩散语言模型论文入选 ICML 杰出论文",
+    "summary": "雷峰网报道阿里巴巴与清华大学合作论文重新审视扩散语言模型中的任意顺序生成价值。扩散路线仍在尝试为推理、可控生成和非自回归范式寻找更清晰的优势场景。",
+    "url": "https://www.leiphone.com/category/industrynews/UKOyRcsQg5b36KyE.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "腾讯 Hy3 正式版被视为补齐 AI 下半场能力",
+    "summary": "爱范儿实测腾讯 Hy3 正式版，认为其榜单表现已接近主流强模型梯队。国内大模型竞争正在从参数和发布节奏，转向产品可用性、工具链和真实任务表现。",
+    "url": "https://www.ifanr.com/1671041?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "AI 工具限额和 Token 账单成为企业现实问题",
+    "summary": "钛媒体连续关注 AI 工具预算限制与 Token 成本压力，指出免费和无限制使用的阶段正在结束。企业部署 AI 的核心矛盾正在从“能不能用”转向“谁付费、怎么控额、如何衡量收益”。",
+    "url": "https://www.tmtpost.com/8053894.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "微软裁员 4800 人，Xbox 和销售团队受影响",
+    "summary": "The Verge 和 TechCrunch 均报道微软新一轮裁员约 4800 人，涉及 Xbox 与商业销售等团队。AI 投资、组织效率和游戏业务压力正在共同重塑微软的人力配置。",
+    "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+    "source": "The Verge"
+  },
+  {
+    "title": "微软出售四家 Xbox 工作室",
+    "summary": "The Verge 报道，微软将在本轮游戏业务调整中出售 Compulsion Games、Double Fine Productions、Ninja Theory 和 Undead Labs 等 Xbox 工作室。订阅、硬件和内容策略之间的拉扯仍在改变主机游戏业务边界。",
+    "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
+    "source": "The Verge"
+  },
+  {
+    "title": "iOS 27 Beta 新增 Siri 语速和表达调节",
+    "summary": "TechCrunch 报道，苹果在最新 iOS 27 beta 中加入 Siri 语速和表达力自定义选项。语音助手竞争开始更重视个性化、可访问性和长时间使用的舒适度。",
+    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "苹果在印度恢复 Apple Account 银行卡支付",
+    "summary": "TechCrunch 报道苹果在印度逐步恢复 Apple Account 购买的银行卡支付能力。支付方式回归说明苹果正在适应当地监管和支付网络要求，以修复内容和应用消费链路。",
+    "url": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "快手称腾讯减持不会对运营产生重大不利影响",
+    "summary": "IT之家报道，腾讯通过场外大宗交易出售快手部分 B 类股份，持股比例将从约 15.68% 降至 9.37%。大型互联网公司之间的交叉持股继续松动，但业务协同和资本关系会被分开评估。",
+    "url": "https://www.ithome.com/0/973/300.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Bookshop.org 年内仍将支持 Kobo 阅读器",
+    "summary": "TechCrunch 报道 Bookshop.org 表示 Kobo eReader 支持今年仍会落地。独立书店生态在与 Amazon 竞争时，仍需要补齐硬件阅读器和电子书分发生态。",
+    "url": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "APTSell 获 DCM Ventures 数百万美元投资",
+    "summary": "36氪报道 APTSell 获数百万美元融资，产品目标是成为 AI 版首席销售官。AI 销售自动化继续吸引资本，但关键会从线索生成转向可验证的成交和客户运营效率。",
+    "url": "https://36kr.com/p/3883591654895873?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "航空电驱系统创业公司两轮连融数千万元",
+    "summary": "36氪报道前西门子、罗罗电动飞行团队创业做航空电驱系统，已完成种子轮和天使轮融资。低空经济和电动航空的基础部件公司正在获得更早期资金支持。",
+    "url": "https://36kr.com/p/3883721315971078?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "珞石机器人冲刺港股 IPO",
+    "summary": "36氪报道珞石机器人港股 IPO 招股结束，公司从协作机器人切入工业自动化市场。机器人公司进入资本市场窗口，但商业化规模、毛利和创始团队稳定性仍是核心观察点。",
+    "url": "https://36kr.com/p/3883708118921480?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "深圳存储公司宏芯宇电子冲刺港股 IPO",
+    "summary": "36氪报道宏芯宇电子向港交所递表，近期利润规模快速增长。AI 服务器、存储周期和国产供应链需求正在推高部分硬件公司的上市热度。",
+    "url": "https://36kr.com/p/3883706720727303?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "墨奇智能完成超 10 亿元天使轮融资",
+    "summary": "雷峰网报道具身智能企业墨奇智能完成超 10 亿元天使轮系列融资，阿里巴巴、腾讯等参投。具身智能的早期融资规模继续放大，资本正在押注基础模型、硬件执行和产业落地的一体化能力。",
+    "url": "https://www.leiphone.com/category/industrynews/P6qnUcERGBlK5wJZ.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "量子计算公司进入订单和 IPO 周期",
+    "summary": "36氪讨论量子计算从“寒冬”进入能拿订单、冲 IPO、市值破百亿的新阶段。量子公司正在借助政府、科研和产业订单证明商业化路径，但技术成熟度和估值可持续性仍需验证。",
+    "url": "https://36kr.com/p/3883513899380744?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "佑驾创新发布四轮足机器人，千问升级实时语音识别模型",
+    "summary": "36氪晚报提到佑驾创新四轮足机器人和千问 Fun-ASR-Realtime 升级。机器人与实时语音能力都在向低延迟、可执行的现场任务靠拢。",
+    "url": "https://36kr.com/p/3884024701874183?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "大晓机器人开源统一具身基模型 ACE-Brain-0.5",
+    "summary": "雷峰网报道大晓机器人发布并开源新一代统一具身基模型，面向 Physical Agentic AI。具身智能的竞争正在从单任务 demo 转向通用感知、规划和执行能力。",
+    "url": "https://www.leiphone.com/category/ai/YTCPIZ2kIbjtt6CX.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "AI 技术进入世界杯转播和解说场景",
+    "summary": "钛媒体与量子位都关注 AI 在世界杯和电动赛车解说、画质优化等场景中的应用。大型体育赛事正在成为 AI 视频理解、实时字幕、解说和内容生产的高压测试场。",
+    "url": "https://www.tmtpost.com/8053944.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "苹果发布 iOS/iPadOS 27 Beta 3 与 26.6 Beta 4",
+    "summary": "IT之家报道苹果向开发者推送 iOS/iPadOS 27.0 Beta 3 和 26.6 Beta 4。苹果平台进入新旧系统并行测试阶段，开发者需要关注系统 API、Siri 能力和兼容性变化。",
+    "url": "https://www.ithome.com/0/973/306.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "ReactOS 已能运行 Half-Life 2",
+    "summary": "Solidot 报道 ReactOS 在游戏兼容性上取得进展，可运行经典游戏 Half-Life 2。长期维护的开源 Windows 兼容项目仍在以渐进方式推进 NT 生态兼容。",
+    "url": "https://www.solidot.org/story?sid=84759",
+    "source": "Solidot"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Privacy Training Switchboard",
+    "summary": "普通用户不知道哪些平台开关会影响 AI 训练、个性化、历史记录和广告，也不记得上次什么时候检查过。为什么现在: Google AI opt-out 报道显示 AI 设置正在快速变化，用户需要跨平台、可复查、可证明的轻量清单。评分: 8.6。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Community Spam Evidence Notebook",
+    "summary": "小社区缺少处理 AI 垃圾内容的证据链和一致规则，只能靠管理员肉眼判断。为什么现在: Reddit 正用 LLM 处理 LLM 放大的垃圾内容，中小社区会需要可解释的辅助记录工作台。评分: 8.3。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "LLM Budget Receipt Book",
+    "summary": "团队知道 AI 工具在花钱，但很难把 API、订阅、内部工具和具体项目收益对上账。为什么现在: AI 限额、Token 账单和生产环境 Agent 成本成为真实问题，小团队需要看得懂、说得清、能控制的账本。评分: 8.1。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Voice Comfort Presets",
+    "summary": "语音助手、导航、听书和会议转写的声音设置分散，用户很难保存适合自己或家人的语速和表达偏好。为什么现在: iOS 27 beta 已开始支持 Siri 语速和表达力调节，语音个性化会带来跨 App 偏好管理需求。评分: 7.8。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Short Drama Market Scout",
+    "summary": "短剧出海团队难以判断目标国家正在吃哪类题材、标题、订阅价格和更新节奏。为什么现在: 美区 iOS 免费榜出现 StoryReel，中国区免费榜出现红果短剧和红果漫剧，竖屏短内容在中美榜单同时可见。评分: 7.7。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch Google AI opt out",
+    "summary": "Google 隐私设置变化让用户需要主动检查 AI 训练和个性化相关开关，普通用户很难知道哪些设置影响数据使用。",
+    "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch Reddit LLM spam",
+    "summary": "Reddit 正用 LLM 处理 LLM 放大的垃圾内容，说明社区运营者会需要可解释、可申诉、可留痕的 AI 内容治理工具。",
+    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+    "source": "APP"
+  },
+  {
+    "title": "钛媒体 Token 账单",
+    "summary": "AI 工具限额和 Token 成本成为企业真实问题，团队需要预算、用量和收益的轻量记录层。",
+    "url": "https://www.tmtpost.com/8053894.html",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch Siri controls",
+    "summary": "iOS 27 beta 加入 Siri 语速和表达力调节，语音助手的个性化、可访问性和使用舒适度正在变成产品点。",
+    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "source": "APP"
+  },
+  {
+    "title": "Apple iTunes US Top Free",
+    "summary": "美区免费榜前列出现 Kalshi: Trade the World Cup、Netflix Game Controller、Peacock、StoryReel、Google Maps 等，世界杯、第二屏娱乐、短剧和导航需求同时强势。",
+    "url": "https://itunes.apple.com/us/rss/topfreeapplications/limit=25/json",
+    "source": "APP"
+  },
+  {
+    "title": "Apple iTunes CN Top Free",
+    "summary": "中国区免费榜前列出现抖音商城、红果短剧、抖省省、红果漫剧、高德地图，内容电商、短剧漫剧、本地团购和出行服务仍然强。",
+    "url": "https://itunes.apple.com/cn/rss/topfreeapplications/limit=25/json",
+    "source": "APP"
+  },
+  {
+    "title": "Android-vs-iOS comparison",
+    "summary": "今日可稳定抓取到 iOS 中美榜单；Android 公开榜单未形成稳定抓取结果。可观察到 iOS 侧中美都出现短剧/竖屏内容强信号，但 Android 侧平台 gap 仍需继续验证。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "TechCrunch Vercel Agent signal",
+    "summary": "Vercel 讨论模型与 Agent 分层，提示开发者会越来越关心模型可替换、成本归因和生产环境监控。",
+    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "source": "APP"
+  }
+]
