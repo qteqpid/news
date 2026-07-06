@@ -17,6 +17,7 @@ import importlib.util
 import json
 import os
 import re
+import subprocess
 import sys
 from pathlib import Path
 from types import ModuleType, SimpleNamespace
@@ -60,7 +61,7 @@ def load_miner(miner_root: Path) -> ModuleType:
     return module
 
 
-def existing_json_exports(miner_root: Path, date: str) -> list[Path]:
+def dated_json_exports(miner_root: Path, date: str) -> list[Path]:
     exports_dir = miner_root / "exports"
     if not exports_dir.is_dir():
         return []
@@ -75,17 +76,37 @@ def existing_json_exports(miner_root: Path, date: str) -> list[Path]:
         key=lambda path: path.stat().st_mtime,
         reverse=True,
     )
-    latest = sorted(
-        exports_dir.glob("*.json"),
-        key=lambda path: path.stat().st_mtime,
-        reverse=True,
-    )
-
-    for path in [*dated, *latest]:
+    for path in dated:
         if path not in candidates:
             candidates.append(path)
 
     return [path for path in candidates if path.is_file() and path.stat().st_size > 2]
+
+
+def collect_fresh_export(
+    miner_root: Path,
+    date: str,
+    browser: str,
+    hydrate_details: bool,
+) -> Path:
+    export_path = miner_root / "exports" / f"reddit-route-export-{date}.json"
+    command = [
+        sys.executable,
+        str(miner_root / "scripts" / "collect_routes.py"),
+        "--browser",
+        browser,
+        "--output",
+        str(export_path),
+    ]
+    if hydrate_details:
+        command.append("--hydrate-details")
+
+    result = subprocess.run(command, cwd=str(miner_root), text=True, check=False)
+    if result.returncode != 0:
+        raise SystemExit(result.returncode)
+    if not export_path.is_file() or export_path.stat().st_size <= 2:
+        raise SystemExit(f"Fresh Reddit browser export was not created or is empty: {export_path}")
+    return export_path
 
 
 def load_seen_keys(output_dir: Path, current_date: str) -> set[str]:
@@ -170,7 +191,13 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument(
         "--no-export-fallback",
         action="store_true",
-        help="Do not auto-use the latest miner export",
+        help="Do not auto-collect a fresh dated browser export when today's export is missing",
+    )
+    parser.add_argument("--collect-browser", choices=("safari", "chrome"), default="chrome")
+    parser.add_argument(
+        "--no-hydrate-details",
+        action="store_true",
+        help="Collect route pages without opening post detail pages",
     )
     parser.add_argument("--sample", action="store_true", help="Use miner sample posts; no network")
     parser.add_argument("--max-items", type=int, default=30, help="Maximum flat JSON items to write")
@@ -191,14 +218,23 @@ def main(argv: list[str]) -> int:
 
     browser_exports = [Path(path).expanduser() for path in args.browser_export or []]
     if not args.sample and not browser_exports and not args.no_export_fallback:
-        browser_exports = existing_json_exports(miner_root, args.date)[:1]
+        browser_exports = dated_json_exports(miner_root, args.date)[:1]
+        if not browser_exports:
+            browser_exports = [
+                collect_fresh_export(
+                    miner_root=miner_root,
+                    date=args.date,
+                    browser=args.collect_browser,
+                    hydrate_details=not args.no_hydrate_details,
+                )
+            ]
 
     if not args.sample and not browser_exports:
         export_path = miner_root / "exports" / f"reddit-route-export-{args.date}.json"
         raise SystemExit(
-            "No Reddit browser export found. fetch_reddit.py only reads browser exports; "
-            "it does not call the Reddit JSON API directly.\n"
-            "First collect with a real browser, then run this script again:\n"
+            f"No Reddit browser export found for {args.date}. fetch_reddit.py no longer reuses stale exports; "
+            "it must analyze a fresh dated browser export for each day.\n"
+            "Collect with a real browser, then run this script again:\n"
             f"  cd {miner_root}\n"
             f"  python3 scripts/collect_routes.py --browser chrome --hydrate-details --output {export_path}\n"
             f"  python3 {Path(__file__).resolve()}\n"

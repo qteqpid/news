@@ -14,6 +14,8 @@ APP_OUTPUT="$APP_DIR/$TODAY.md"
 APP_JSON="$APP_DIR/$TODAY.json"
 REDDIT_DIR="$HOME/my_repos/news/reddit"
 REDDIT_JSON="$REDDIT_DIR/$TODAY.json"
+MINER_DIR="${REDDIT_APP_IDEA_MINER_DIR:-$HOME/my_repos/reddit-app-idea-miner}"
+REDDIT_EXPORT="$MINER_DIR/exports/reddit-route-export-$TODAY.json"
 
 mkdir -p "$NEWS_DIR" "$APP_DIR" "$REDDIT_DIR"
 
@@ -45,7 +47,7 @@ else
     append_log "$TODAY app requested"
 fi
 
-if [ -s "$REDDIT_JSON" ]; then
+if [ -s "$REDDIT_JSON" ] && [ -s "$REDDIT_EXPORT" ]; then
     if ! grep -q "^$TODAY reddit done" "$LOG" 2>/dev/null; then
         append_log "$TODAY reddit done (existing file)"
     fi
@@ -58,7 +60,7 @@ if [ "$NEEDS_NEWS" -eq 0 ] && [ "$NEEDS_APP" -eq 0 ] && [ "$NEEDS_REDDIT" -eq 0 
     exit 0
 fi
 
-python3 - "$TODAY" "$OUTPUT" "$NEWS_JSON" "$NEEDS_NEWS" "$APP_OUTPUT" "$APP_JSON" "$NEEDS_APP" "$REDDIT_JSON" "$NEEDS_REDDIT" <<'PY'
+python3 - "$TODAY" "$OUTPUT" "$NEWS_JSON" "$NEEDS_NEWS" "$APP_OUTPUT" "$APP_JSON" "$NEEDS_APP" "$REDDIT_JSON" "$REDDIT_EXPORT" "$NEEDS_REDDIT" <<'PY'
 import json
 import sys
 
@@ -70,7 +72,8 @@ app_output = sys.argv[5]
 app_json = sys.argv[6]
 needs_app = sys.argv[7] == "1"
 reddit_json = sys.argv[8]
-needs_reddit = sys.argv[9] == "1"
+reddit_export = sys.argv[9]
+needs_reddit = sys.argv[10] == "1"
 
 messages = []
 missing = []
@@ -79,7 +82,7 @@ if needs_news:
 if needs_app:
     missing.append(f"daily app inspiration outputs ({app_output}, {app_json})")
 if needs_reddit:
-    missing.append(f"daily Reddit app-idea output ({reddit_json})")
+    missing.append(f"daily Reddit app-idea output/fresh export ({reddit_json}, {reddit_export})")
 
 processes = []
 if needs_news:
@@ -98,9 +101,9 @@ if needs_app:
     )
 if needs_reddit:
     processes.append(
-        "Reddit process: first re-check that the Reddit JSON is still missing or incomplete. "
-        "If it is missing, run `python3 ~/my_repos/news/fetch_reddit.py`. "
-        "fetch_reddit.py only reads browser exports and does not call the Reddit JSON API directly; if no Reddit browser export exists, first run `cd ~/my_repos/reddit-app-idea-miner && python3 scripts/collect_routes.py --browser chrome --hydrate-details`, then rerun fetch_reddit.py. "
+        "Reddit process: first re-check that both the Reddit JSON and the fresh dated browser export are present. "
+        "If either is missing, run `python3 ~/my_repos/news/fetch_reddit.py`. "
+        "fetch_reddit.py must use a fresh dated browser export for the target date; by default it auto-runs `scripts/collect_routes.py --browser chrome --hydrate-details` when today's export is missing and never silently reuses an older export. "
         "The Reddit output must be a flat JSON array under `news/reddit/YYYY-MM-DD.json` with only title, summary, url, and source fields."
     )
 
@@ -109,7 +112,7 @@ messages.append(
     + "; ".join(missing)
     + ". Before handling the user's next request, run the missing processes independently and in this order: "
     + " ".join(processes)
-    + " Do not rerun completed processes: if AI outputs already exist, skip AI; if app outputs already exist, skip app; if Reddit output already exists, skip Reddit. "
+    + " Do not rerun completed processes: if AI outputs already exist, skip AI; if app outputs already exist, skip app; if both Reddit output and the fresh dated export already exist, skip Reddit. "
     + "Do not commit or push because git sync is handled by the scheduled launchd task. "
     + "If all expected files appear before you act, skip this."
 )
