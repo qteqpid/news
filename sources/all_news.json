@@ -1,0 +1,20 @@
+{
+  "name": "all_news",
+  "order": 1000,
+  "description": "Daily flat aggregate of every source JSON output.",
+  "outputs": [
+    {
+      "path": "{root}/all_news/{date}.json",
+      "type": "json_array",
+      "min_items": 1,
+      "allowed_keys": ["title", "summary", "url", "source"]
+    }
+  ],
+  "steps": [
+    {
+      "name": "aggregate",
+      "type": "command",
+      "command": ["python3", "{root}/fetch_all_news.py", "--date", "{date}"]
+    }
+  ]
+}
