@@ -1,0 +1,26 @@
+{
+  "name": "reddit",
+  "description": "Daily Reddit app-idea signals from a fresh dated browser export.",
+  "outputs": [
+    {
+      "path": "{root}/reddit/{date}.json",
+      "type": "json_array",
+      "min_items": 0,
+      "allowed_keys": ["title", "summary", "url", "source"]
+    }
+  ],
+  "freshness": [
+    {
+      "path": "{home}/my_repos/reddit-app-idea-miner/exports/reddit-route-export-{date}.json",
+      "type": "file",
+      "min_bytes": 3
+    }
+  ],
+  "steps": [
+    {
+      "name": "fetch_and_format",
+      "type": "command",
+      "command": ["python3", "{root}/fetch_reddit.py", "--date", "{date}"]
+    }
+  ]
+}

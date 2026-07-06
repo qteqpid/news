@@ -1,0 +1,36 @@
+{
+  "name": "ai",
+  "description": "Daily technology and AI news outputs.",
+  "outputs": [
+    {
+      "path": "{root}/ai/{date}.md",
+      "type": "file",
+      "min_bytes": 80
+    },
+    {
+      "path": "{root}/ai/{date}.json",
+      "type": "json_array",
+      "min_items": 1,
+      "allowed_keys": ["title", "summary", "url", "source"]
+    }
+  ],
+  "steps": [
+    {
+      "name": "fetch_raw",
+      "type": "command",
+      "command": ["python3", "{root}/fetch_news.py"],
+      "skip_if": [
+        {
+          "path": "{root}/ai/{date}.md",
+          "type": "file",
+          "min_bytes": 80
+        }
+      ]
+    },
+    {
+      "name": "organize",
+      "type": "model_prompt",
+      "prompt": "Organize the raw AI news for {date}. Use `python3 {root}/fetch_news.py --seen-keys news` to inspect prior seen keys, skip repeats, read `{root}/ai/{date}.md`, rewrite `{root}/ai/{date}.md` into the categorized Chinese Markdown format, and write `{root}/ai/{date}.json` as a flat JSON array with only title, summary, url, and source fields. Do not commit or push. After writing, rerun `python3 {root}/daily_pipeline.py run --date {date} --source ai`."
+    }
+  ]
+}
