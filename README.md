@@ -8,6 +8,17 @@ Daily news and app-idea automation for the `ai_news` iOS app. The project keeps 
 
 `news` 是一个每日数据流水线项目，用来抓取和整理 AI/科技新闻、GitHub 热门项目、知乎热榜、Reddit app idea 信号，以及模型整理的 App idea。每个数据源都是独立 source：如果某个 source 已完成，重新跑流程时会跳过它，只执行缺失的部分。
 
+### ai_news App
+
+扫码下载 `ai_news`：
+
+<img src="assets/ai_news_download_qr.png" alt="ai_news App 下载二维码" width="180">
+
+- App Store 下载链接：`https://apps.apple.com/app/id6786902091`
+- 添加 `all_news` 数据源链接：`https://raw.githubusercontent.com/qteqpid/news/master/all_news`
+
+在 app 的设置页添加 JSON 数据源时，粘贴上面的 `all_news` 链接即可。app 会自动按日期读取 `YYYY-MM-DD.json`。
+
 ### 快速开始
 
 查看所有 source：
@@ -143,6 +154,17 @@ python3 ~/my_repos/news/daily_pipeline.py hook-context
 ## English
 
 `news` is a daily data pipeline for collecting and preparing AI/technology news, popular GitHub repositories, Zhihu hot topics, Reddit app-idea signals, and model-organized app ideas. Each data source is an independent pipeline source. If one source has already completed for a date, rerunning the pipeline skips it and continues with only the missing parts.
+
+### ai_news App
+
+Scan to download `ai_news`:
+
+<img src="assets/ai_news_download_qr.png" alt="ai_news app download QR code" width="180">
+
+- App Store download: `https://apps.apple.com/app/id6786902091`
+- Add the `all_news` data source: `https://raw.githubusercontent.com/qteqpid/news/master/all_news`
+
+Paste the `all_news` URL into the app's JSON data source setting. The app appends the daily `YYYY-MM-DD.json` file name automatically.
 
 ### Quick Start
 
