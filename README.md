@@ -2,17 +2,17 @@
 
 [中文](#中文) · [English](#english)
 
-Daily news and app-idea automation for the `ai_news` iOS app. The project keeps each data source independent, validates each source output separately, and generates one final flat JSON feed under `all_news/`.
+Daily news and app-idea automation for the `LumiAI` iOS app. The project keeps each data source independent, validates each source output separately, and generates one final flat JSON feed under `all_news/`.
 
 ## 中文
 
 `news` 是一个每日数据流水线项目，用来抓取和整理 AI/科技新闻、GitHub 热门项目、知乎热榜、Reddit app idea 信号，以及模型整理的 App idea。每个数据源都是独立 source：如果某个 source 已完成，重新跑流程时会跳过它，只执行缺失的部分。
 
-### ai_news App
+### LumiAI App
 
-扫码下载 `ai_news`：
+扫码下载 `LumiAI`：
 
-<img src="assets/ai_news_download_qr.png" alt="ai_news App 下载二维码" width="180">
+<img src="assets/ai_news_download_qr.png" alt="LumiAI App 下载二维码" width="180">
 
 - App Store 下载链接：`https://apps.apple.com/app/id6786902091`
 - 添加 `all_news` 数据源链接：`https://raw.githubusercontent.com/qteqpid/news/master/all_news`
@@ -66,7 +66,7 @@ Pipeline 当前顺序由 `sources/*.json` 里的 `order` 决定：
 
 ### iOS App 输出格式
 
-`all_news/YYYY-MM-DD.json` 是最终给 `ai_news` iOS app 读取的文件。它是一个平铺 JSON array，每个 item 字段完全一致：
+`all_news/YYYY-MM-DD.json` 是最终给 `LumiAI` iOS app 读取的文件。它是一个平铺 JSON array，每个 item 字段完全一致：
 
 ```json
 [
@@ -155,11 +155,11 @@ python3 ~/my_repos/news/daily_pipeline.py hook-context
 
 `news` is a daily data pipeline for collecting and preparing AI/technology news, popular GitHub repositories, Zhihu hot topics, Reddit app-idea signals, and model-organized app ideas. Each data source is an independent pipeline source. If one source has already completed for a date, rerunning the pipeline skips it and continues with only the missing parts.
 
-### ai_news App
+### LumiAI App
 
-Scan to download `ai_news`:
+Scan to download `LumiAI`:
 
-<img src="assets/ai_news_download_qr.png" alt="ai_news app download QR code" width="180">
+<img src="assets/LumiAI_download_qr.png" alt="LumiAI app download QR code" width="180">
 
 - App Store download: `https://apps.apple.com/app/id6786902091`
 - Add the `all_news` data source: `https://raw.githubusercontent.com/qteqpid/news/master/all_news`
@@ -213,7 +213,7 @@ The source order is controlled by `order` in `sources/*.json`:
 
 ### iOS App Feed
 
-`all_news/YYYY-MM-DD.json` is the final file consumed by the `ai_news` iOS app. It is a flat JSON array with exactly four string fields per item:
+`all_news/YYYY-MM-DD.json` is the final file consumed by the `LumiAI` iOS app. It is a flat JSON array with exactly four string fields per item:
 
 ```json
 [
