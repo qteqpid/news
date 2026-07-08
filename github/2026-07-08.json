@@ -1,0 +1,142 @@
+[
+  {
+    "title": "usestrix/strix",
+    "link": "https://github.com/usestrix/strix",
+    "summary": "[Stars: 38,645] [10,741 stars this week] [Language: Python] Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:usestrix/strix"
+  },
+  {
+    "title": "Zackriya-Solutions/meetily",
+    "link": "https://github.com/Zackriya-Solutions/meetily",
+    "summary": "[Stars: 20,889] [7,349 stars this week] [Language: Rust] Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:zackriya-solutions/meetily"
+  },
+  {
+    "title": "hasaneyldrm/exercises-dataset",
+    "link": "https://github.com/hasaneyldrm/exercises-dataset",
+    "summary": "[Stars: 10,790] [4,950 stars this week] [Language: HTML] A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:hasaneyldrm/exercises-dataset"
+  },
+  {
+    "title": "ogulcancelik/herdr",
+    "link": "https://github.com/ogulcancelik/herdr",
+    "summary": "[Stars: 13,656] [4,557 stars this week] [Language: Rust] agent multiplexer that lives in your terminal.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:ogulcancelik/herdr"
+  },
+  {
+    "title": "diegosouzapw/OmniRoute",
+    "link": "https://github.com/diegosouzapw/OmniRoute",
+    "summary": "[Stars: 13,202] [4,797 stars this week] [Language: TypeScript] Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:diegosouzapw/omniroute"
+  },
+  {
+    "title": "alibaba/page-agent",
+    "link": "https://github.com/alibaba/page-agent",
+    "summary": "[Stars: 24,973] [4,163 stars this week] [Language: TypeScript] JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:alibaba/page-agent"
+  },
+  {
+    "title": "openai/codex-plugin-cc",
+    "link": "https://github.com/openai/codex-plugin-cc",
+    "summary": "[Stars: 26,653] [4,725 stars this week] [Language: JavaScript] Use Codex from Claude Code to review code or delegate tasks.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:openai/codex-plugin-cc"
+  },
+  {
+    "title": "MadsLorentzen/ai-job-search",
+    "link": "https://github.com/MadsLorentzen/ai-job-search",
+    "summary": "[Stars: 11,438] [5,363 stars this week] [Language: TypeScript] AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:madslorentzen/ai-job-search"
+  },
+  {
+    "title": "altic-dev/FluidVoice",
+    "link": "https://github.com/altic-dev/FluidVoice",
+    "summary": "[Stars: 6,719] [1,865 stars this week] [Language: Swift] Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:altic-dev/fluidvoice"
+  },
+  {
+    "title": "TencentCloud/CubeSandbox",
+    "link": "https://github.com/TencentCloud/CubeSandbox",
+    "summary": "[Stars: 8,521] [1,692 stars this week] [Language: Rust] Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:tencentcloud/cubesandbox"
+  },
+  {
+    "title": "xbtlin/ai-berkshire",
+    "link": "https://github.com/xbtlin/ai-berkshire",
+    "summary": "[Stars: 11,762] [4,262 stars this week] [Language: Python] AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:xbtlin/ai-berkshire"
+  },
+  {
+    "title": "msitarzewski/agency-agents",
+    "link": "https://github.com/msitarzewski/agency-agents",
+    "summary": "[Stars: 128,848] [8,597 stars this week] [Language: Shell] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:msitarzewski/agency-agents"
+  },
+  {
+    "title": "immich-app/immich",
+    "link": "https://github.com/immich-app/immich",
+    "summary": "[Stars: 106,758] [1,984 stars this week] [Language: TypeScript] High performance self-hosted photo and video management solution.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:immich-app/immich"
+  },
+  {
+    "title": "huggingface/speech-to-speech",
+    "link": "https://github.com/huggingface/speech-to-speech",
+    "summary": "[Stars: 5,601] [645 stars this week] [Language: Python] Build local voice agents with open-source models",
+    "published": "2026-07-08",
+    "dedupe_id": "github:huggingface/speech-to-speech"
+  },
+  {
+    "title": "allenai/olmocr",
+    "link": "https://github.com/allenai/olmocr",
+    "summary": "[Stars: 18,962] [1,134 stars this week] [Language: Python] Toolkit for linearizing PDFs for LLM datasets/training",
+    "published": "2026-07-08",
+    "dedupe_id": "github:allenai/olmocr"
+  },
+  {
+    "title": "browser-use/video-use",
+    "link": "https://github.com/browser-use/video-use",
+    "summary": "[Stars: 15,915] [3,435 stars this week] [Language: Python] Edit videos with coding agents",
+    "published": "2026-07-08",
+    "dedupe_id": "github:browser-use/video-use"
+  },
+  {
+    "title": "dotnet/skills",
+    "link": "https://github.com/dotnet/skills",
+    "summary": "[Stars: 4,337] [687 stars this week] [Language: C#] Repository for skills to assist AI coding agents with .NET and C#",
+    "published": "2026-07-08",
+    "dedupe_id": "github:dotnet/skills"
+  },
+  {
+    "title": "JuliusBrussee/caveman",
+    "link": "https://github.com/JuliusBrussee/caveman",
+    "summary": "[Stars: 86,324] [8,066 stars this week] [Language: JavaScript] 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "published": "2026-07-08",
+    "dedupe_id": "github:juliusbrussee/caveman"
+  },
+  {
+    "title": "stablyai/orca",
+    "link": "https://github.com/stablyai/orca",
+    "summary": "[Stars: 13,647] [3,820 stars this week] [Language: TypeScript] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "published": "2026-07-08",
+    "dedupe_id": "github:stablyai/orca"
+  },
+  {
+    "title": "Robbyant/lingbot-map",
+    "link": "https://github.com/Robbyant/lingbot-map",
+    "summary": "[Stars: 10,219] [1,451 stars this week] [Language: Python] A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "published": "2026-07-08",
+    "dedupe_id": "github:robbyant/lingbot-map"
+  }
+]
