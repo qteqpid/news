@@ -62,6 +62,24 @@ def load_miner(miner_root: Path) -> ModuleType:
     return module
 
 
+def load_route_collector(miner_root: Path) -> ModuleType:
+    script = miner_root / "scripts" / "collect_routes.py"
+    if not script.exists():
+        raise FileNotFoundError(f"Cannot find Reddit route collector: {script}")
+
+    scripts_dir = str(script.parent)
+    if scripts_dir not in sys.path:
+        sys.path.insert(0, scripts_dir)
+
+    spec = importlib.util.spec_from_file_location("reddit_app_idea_miner_collect_routes", script)
+    if spec is None or spec.loader is None:
+        raise RuntimeError(f"Cannot load Reddit route collector: {script}")
+    module = importlib.util.module_from_spec(spec)
+    sys.modules[spec.name] = module
+    spec.loader.exec_module(module)
+    return module
+
+
 def dated_json_exports(miner_root: Path, date: str) -> list[Path]:
     exports_dir = miner_root / "exports"
     if not exports_dir.is_dir():
@@ -135,6 +153,115 @@ def collect_fresh_export(
     if not export_path.is_file() or export_path.stat().st_size <= 2:
         raise SystemExit(f"Fresh Reddit browser export was not created or is empty: {export_path}")
     return export_path
+
+
+def load_browser_export_payload(path: Path) -> dict[str, Any]:
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    if isinstance(payload, dict) and isinstance(payload.get("posts"), list):
+        return payload
+    if isinstance(payload, list):
+        return {
+            "exportedAt": "",
+            "pageUrl": "legacy-browser-export-list",
+            "count": len(payload),
+            "routes": [],
+            "detailHydration": {"enabled": False},
+            "posts": payload,
+        }
+    raise ValueError(f"{path} does not contain a browser export payload")
+
+
+def post_match_keys_from_values(*values: str) -> set[str]:
+    keys: set[str] = set()
+    for value in values:
+        text = clean_text(value)
+        if not text:
+            continue
+        keys.add(text)
+        normalized = normalize_title(text)
+        if normalized:
+            keys.add(f"title:{normalized}")
+    return keys
+
+
+def raw_post_match_keys(post: dict[str, Any]) -> set[str]:
+    return post_match_keys_from_values(
+        str(post.get("id") or ""),
+        str(post.get("url") or ""),
+        str(post.get("permalink") or ""),
+        str(post.get("title") or ""),
+    )
+
+
+def signal_match_keys(signal: Any) -> set[str]:
+    post = signal.post
+    return post_match_keys_from_values(
+        str(post.id or ""),
+        str(post.url or ""),
+        str(post.permalink or ""),
+        str(post.reddit_url or ""),
+        str(post.title or ""),
+    )
+
+
+def hydrate_ranked_export_details(
+    export_path: Path,
+    signals: list[Any],
+    miner_root: Path,
+    browser: str,
+    max_detail_posts: int,
+    detail_wait: float,
+    rate_limit_wait: float,
+    rate_limit_retries: int,
+) -> bool:
+    if max_detail_posts <= 0:
+        return False
+
+    payload = load_browser_export_payload(export_path)
+    existing_hydration = payload.get("detailHydration")
+    if isinstance(existing_hydration, dict) and existing_hydration.get("mode") == "coarse_ranked":
+        return False
+
+    posts = [post for post in payload.get("posts", []) if isinstance(post, dict)]
+    raw_by_key: dict[str, dict[str, Any]] = {}
+    for post in posts:
+        for key in raw_post_match_keys(post):
+            raw_by_key.setdefault(key, post)
+
+    selected: dict[str, dict[str, Any]] = {}
+    for signal in signals:
+        if len(selected) >= max_detail_posts:
+            break
+        raw_post = None
+        for key in signal_match_keys(signal):
+            raw_post = raw_by_key.get(key)
+            if raw_post is not None:
+                break
+        if raw_post is None:
+            continue
+        selected[str(raw_post.get("id") or raw_post.get("url") or raw_post.get("title"))] = raw_post
+
+    if not selected:
+        return False
+
+    collector = load_route_collector(miner_root)
+    detail_js_source = collector.DETAIL_EXTRACT_JS.read_text(encoding="utf-8").strip()
+    detail_results = collector.hydrate_details(
+        browser,
+        selected,
+        detail_js_source,
+        len(selected),
+        detail_wait,
+        rate_limit_wait,
+        rate_limit_retries,
+    )
+    if isinstance(detail_results, dict):
+        detail_results["mode"] = "coarse_ranked"
+        detail_results["coarseSelected"] = len(selected)
+    payload["detailHydration"] = detail_results
+    payload["count"] = len(posts)
+    export_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return True
 
 
 def load_seen_keys(output_dir: Path, current_date: str) -> set[str]:
@@ -257,6 +384,23 @@ def to_flat_items(
     return items
 
 
+def collect_and_score(
+    miner: ModuleType,
+    config: dict[str, Any],
+    miner_root: Path,
+    browser_exports: list[Path],
+    sample: bool,
+    quiet: bool,
+) -> tuple[list[Any], list[str]]:
+    miner_args = SimpleNamespace(
+        sample=sample,
+        browser_export=[str(path) for path in browser_exports] or None,
+        quiet=quiet,
+    )
+    posts, errors = miner.collect_posts(config, miner_args, miner_root)
+    return miner.analyze_posts(miner.dedupe_posts(posts)), errors
+
+
 def parse_args(argv: list[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Generate news/reddit/YYYY-MM-DD.json from reddit-app-idea-miner signals."
@@ -315,7 +459,7 @@ def main(argv: list[str]) -> int:
                     miner_root=miner_root,
                     date=args.date,
                     browser=args.collect_browser,
-                    hydrate_details=not args.no_hydrate_details,
+                    hydrate_details=False,
                     routes=args.collector_routes,
                     page_wait=args.collector_page_wait,
                     scrolls=args.collector_scrolls,
@@ -339,15 +483,42 @@ def main(argv: list[str]) -> int:
             f"  python3 {Path(__file__).resolve()}\n"
         )
 
-    miner_args = SimpleNamespace(
+    min_score = float(args.min_score if args.min_score is not None else config.get("min_score", 4.5))
+    signals, errors = collect_and_score(
+        miner=miner,
+        config=config,
+        miner_root=miner_root,
+        browser_exports=browser_exports,
         sample=args.sample,
-        browser_export=[str(path) for path in browser_exports] or None,
         quiet=args.quiet,
     )
 
-    posts, errors = miner.collect_posts(config, miner_args, miner_root)
-    min_score = float(args.min_score if args.min_score is not None else config.get("min_score", 4.5))
-    signals = miner.analyze_posts(miner.dedupe_posts(posts))
+    should_hydrate = (
+        not args.sample
+        and not args.no_hydrate_details
+        and bool(browser_exports)
+    )
+    if should_hydrate:
+        hydrated = hydrate_ranked_export_details(
+            export_path=browser_exports[0],
+            signals=[signal for signal in signals if signal.opportunity_score >= min_score],
+            miner_root=miner_root,
+            browser=args.collect_browser,
+            max_detail_posts=args.collector_max_detail_posts,
+            detail_wait=args.collector_detail_wait,
+            rate_limit_wait=args.collector_rate_limit_wait,
+            rate_limit_retries=args.collector_rate_limit_retries,
+        )
+        if hydrated:
+            signals, final_errors = collect_and_score(
+                miner=miner,
+                config=config,
+                miner_root=miner_root,
+                browser_exports=browser_exports,
+                sample=args.sample,
+                quiet=args.quiet,
+            )
+            errors = [*errors, *final_errors]
 
     seen_keys = load_seen_keys(output_dir, args.date)
     items = to_flat_items(
