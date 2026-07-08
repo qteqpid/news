@@ -1,12 +1,12 @@
 {
   "name": "github",
   "order": 10,
-  "description": "Daily popular GitHub repository signals.",
+  "description": "Daily GitHub Trending repository signals.",
   "outputs": [
     {
       "path": "{root}/github/{date}.json",
       "type": "json_array",
-      "min_items": 1,
+      "min_items": 0,
       "allowed_keys": ["title", "link", "summary", "published", "dedupe_id"]
     }
   ],
