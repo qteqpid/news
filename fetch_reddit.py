@@ -114,6 +114,7 @@ def collect_fresh_export(
     route_delay: float,
     max_detail_posts: int,
     detail_wait: float,
+    wait_jitter: float,
     rate_limit_wait: float,
     rate_limit_retries: int,
 ) -> Path:
@@ -137,6 +138,8 @@ def collect_fresh_export(
         str(max_detail_posts),
         "--detail-wait",
         str(detail_wait),
+        "--wait-jitter",
+        str(wait_jitter),
         "--rate-limit-wait",
         str(rate_limit_wait),
         "--rate-limit-retries",
@@ -211,6 +214,7 @@ def hydrate_ranked_export_details(
     browser: str,
     max_detail_posts: int,
     detail_wait: float,
+    wait_jitter: float,
     rate_limit_wait: float,
     rate_limit_retries: int,
 ) -> bool:
@@ -252,6 +256,7 @@ def hydrate_ranked_export_details(
         detail_js_source,
         len(selected),
         detail_wait,
+        wait_jitter,
         rate_limit_wait,
         rate_limit_retries,
     )
@@ -426,6 +431,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--collector-route-delay", type=float, default=10.0)
     parser.add_argument("--collector-max-detail-posts", type=int, default=20)
     parser.add_argument("--collector-detail-wait", type=float, default=7.0)
+    parser.add_argument("--collector-wait-jitter", type=float, default=0.25)
     parser.add_argument("--collector-rate-limit-wait", type=float, default=600.0)
     parser.add_argument("--collector-rate-limit-retries", type=int, default=1)
     parser.add_argument(
@@ -467,6 +473,7 @@ def main(argv: list[str]) -> int:
                     route_delay=args.collector_route_delay,
                     max_detail_posts=args.collector_max_detail_posts,
                     detail_wait=args.collector_detail_wait,
+                    wait_jitter=args.collector_wait_jitter,
                     rate_limit_wait=args.collector_rate_limit_wait,
                     rate_limit_retries=args.collector_rate_limit_retries,
                 )
@@ -506,6 +513,7 @@ def main(argv: list[str]) -> int:
             browser=args.collect_browser,
             max_detail_posts=args.collector_max_detail_posts,
             detail_wait=args.collector_detail_wait,
+            wait_jitter=args.collector_wait_jitter,
             rate_limit_wait=args.collector_rate_limit_wait,
             rate_limit_retries=args.collector_rate_limit_retries,
         )
