@@ -23,11 +23,6 @@ from daily_lib import (
 MODEL_STEP_EXIT = 2
 
 
-def confirm_run() -> bool:
-    answer = input("Run daily pipeline now? [y/N] ").strip().lower()
-    return answer in {"y", "yes"}
-
-
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run the independent daily news/app/reddit pipeline.")
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -146,10 +141,6 @@ def run_source(config: dict, date: str, force: bool) -> tuple[bool, bool]:
 
 
 def cmd_run(args: argparse.Namespace) -> int:
-    if not confirm_run():
-        print("Daily pipeline skipped.")
-        return 0
-
     sources = load_source_configs(args.source)
     saw_model_step = False
     ok = True
