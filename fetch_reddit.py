@@ -6,7 +6,7 @@ Output:
   ~/my_repos/news/reddit/YYYY-MM-DD.json
 
 The JSON intentionally matches the flat shape used by news/ai:
-  [{"title": "...", "summary": "...", "url": "...", "source": "REDDIT"}]
+  [{"title": "...", "summary": "...", "url": "...", "source": "Reddit - Apps"}]
 """
 
 from __future__ import annotations
@@ -188,22 +188,71 @@ def format_summary(signal: Any) -> str:
     return clean_text(" ".join(parts), 420)
 
 
-def to_flat_items(signals: list[Any], max_items: int, seen_keys: set[str]) -> list[dict[str, str]]:
+def source_limits(config: dict[str, Any]) -> dict[str, int]:
+    raw_limits = config.get("source_limits", {})
+    if not isinstance(raw_limits, dict):
+        return {}
+
+    limits: dict[str, int] = {}
+    for source, raw_limit in raw_limits.items():
+        try:
+            limit = int(raw_limit)
+        except (TypeError, ValueError):
+            continue
+        limits[str(source)] = max(limit, 0)
+    return limits
+
+
+def resolve_signal_source(signal: Any, config: dict[str, Any], miner: ModuleType) -> str:
+    resolver = getattr(miner, "resolve_source_label", None)
+    if callable(resolver):
+        return str(resolver(signal.post, config))
+    return "Reddit"
+
+
+def display_source_label(source: str) -> str:
+    labels = {
+        "Reddit - APP": "Reddit - Apps",
+    }
+    return labels.get(source, source)
+
+
+def to_flat_items(
+    signals: list[Any],
+    seen_keys: set[str],
+    config: dict[str, Any],
+    miner: ModuleType,
+    min_score: float,
+    max_items: int = 0,
+) -> list[dict[str, str]]:
+    limits = source_limits(config)
+    counts: dict[str, int] = {}
     items: list[dict[str, str]] = []
     for signal in signals:
+        if signal.opportunity_score < min_score:
+            continue
+
+        source = resolve_signal_source(signal, config, miner)
+        limit = limits.get(source)
+        if limit is not None and counts.get(source, 0) >= limit:
+            continue
+
         keys = signal_keys(signal)
         if keys and keys & seen_keys:
             continue
         seen_keys.update(keys)
+
         items.append(
             {
                 "title": clean_text(signal.post.title),
                 "summary": format_summary(signal),
                 "url": clean_text(signal.post.reddit_url),
-                "source": "REDDIT",
+                "source": display_source_label(source),
             }
         )
-        if len(items) >= max_items:
+        counts[source] = counts.get(source, 0) + 1
+
+        if max_items > 0 and len(items) >= max_items:
             break
     return items
 
@@ -241,7 +290,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         help="Collect route pages without opening post detail pages",
     )
     parser.add_argument("--sample", action="store_true", help="Use miner sample posts; no network")
-    parser.add_argument("--max-items", type=int, default=30, help="Maximum flat JSON items to write")
+    parser.add_argument("--max-items", type=int, default=0, help="Maximum flat JSON items to write; 0 disables the global cap")
     parser.add_argument("--min-score", type=float, help="Minimum miner opportunity score")
     parser.add_argument("--quiet", action="store_true", help="Suppress miner progress logs")
     return parser.parse_args(argv)
@@ -298,14 +347,17 @@ def main(argv: list[str]) -> int:
 
     posts, errors = miner.collect_posts(config, miner_args, miner_root)
     min_score = float(args.min_score if args.min_score is not None else config.get("min_score", 4.5))
-    signals = [
-        signal
-        for signal in miner.analyze_posts(miner.dedupe_posts(posts))
-        if signal.opportunity_score >= min_score
-    ]
+    signals = miner.analyze_posts(miner.dedupe_posts(posts))
 
     seen_keys = load_seen_keys(output_dir, args.date)
-    items = to_flat_items(signals, args.max_items, seen_keys)
+    items = to_flat_items(
+        signals=signals,
+        seen_keys=seen_keys,
+        config=config,
+        miner=miner,
+        min_score=min_score,
+        max_items=args.max_items,
+    )
     output_path = output_dir / f"{args.date}.json"
     output_path.write_text(json.dumps(items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
