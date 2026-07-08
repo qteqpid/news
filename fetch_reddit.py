@@ -16,6 +16,7 @@ import datetime as dt
 import hashlib
 import importlib.util
 import json
+import math
 import os
 import re
 import subprocess
@@ -32,6 +33,12 @@ DEFAULT_MINER_ROOT = Path(
     os.environ.get("REDDIT_APP_IDEA_MINER_DIR", "~/my_repos/reddit-app-idea-miner")
 ).expanduser()
 DEFAULT_DAILY_ROUTES = "config/routes_daily.json"
+DEFAULT_SOURCE_FLOWS: dict[str, dict[str, Any]] = {
+    "Reddit - APP": {"scoring": "opportunity", "hydrate_details": True},
+    "Reddit - Tech": {"scoring": "engagement_freshness", "hydrate_details": False},
+    "Reddit - Knowledge": {"scoring": "engagement_freshness", "hydrate_details": False},
+    "Reddit - News": {"scoring": "engagement_freshness", "hydrate_details": False},
+}
 
 
 def clean_text(value: str, max_len: int | None = None) -> str:
@@ -400,6 +407,36 @@ def format_summary(signal: Any) -> str:
     return clean_text(" ".join(parts), 420)
 
 
+def created_label(created_utc: float) -> str:
+    if not created_utc:
+        return "created time unavailable"
+    created = dt.datetime.fromtimestamp(created_utc, tz=dt.timezone.utc)
+    return created.strftime("%Y-%m-%d")
+
+
+def non_app_rank_score(signal: Any) -> float:
+    post = signal.post
+    engagement = math.log1p(max(post.score, 0)) * 1.0 + math.log1p(max(post.num_comments, 0)) * 1.4
+    freshness = 0.0
+    if post.created_utc:
+        now = dt.datetime.now(dt.timezone.utc)
+        created = dt.datetime.fromtimestamp(post.created_utc, tz=dt.timezone.utc)
+        age_days = max((now - created).total_seconds() / 86400, 0.0)
+        freshness = max(0.0, 7.0 - age_days) / 7.0
+    return round(engagement + freshness, 3)
+
+
+def format_non_app_summary(signal: Any) -> str:
+    post = signal.post
+    excerpt = clean_text(post.selftext or post.title, 260)
+    engagement = f"{post.score} upvotes、{post.num_comments} comments"
+    created = created_label(float(post.created_utc or 0))
+    return clean_text(
+        f"{excerpt}，{engagement}，created: {created}，rank score: {non_app_rank_score(signal):.2f}。",
+        420,
+    )
+
+
 def source_limits(config: dict[str, Any]) -> dict[str, int]:
     raw_limits = config.get("source_limits", {})
     if not isinstance(raw_limits, dict):
@@ -429,6 +466,55 @@ def display_source_label(source: str) -> str:
     return labels.get(source, source)
 
 
+def source_flow(config: dict[str, Any], source: str) -> dict[str, Any]:
+    flow = dict(DEFAULT_SOURCE_FLOWS.get(source, {"scoring": "opportunity", "hydrate_details": False}))
+    raw_flows = config.get("source_flows", {})
+    if isinstance(raw_flows, dict) and isinstance(raw_flows.get(source), dict):
+        flow.update(raw_flows[source])
+    return flow
+
+
+def source_scoring(config: dict[str, Any], source: str) -> str:
+    return str(source_flow(config, source).get("scoring") or "opportunity")
+
+
+def source_hydrates_details(config: dict[str, Any], source: str) -> bool:
+    return bool(source_flow(config, source).get("hydrate_details"))
+
+
+def source_min_score(config: dict[str, Any], source: str, default_min_score: float) -> float:
+    raw_score = source_flow(config, source).get("min_score", default_min_score)
+    try:
+        return float(raw_score)
+    except (TypeError, ValueError):
+        return default_min_score
+
+
+def rank_score(signal: Any, config: dict[str, Any], source: str) -> float:
+    if source_scoring(config, source) == "engagement_freshness":
+        return non_app_rank_score(signal)
+    return float(signal.opportunity_score)
+
+
+def signal_passes_score_filter(signal: Any, config: dict[str, Any], source: str, default_min_score: float) -> bool:
+    if source_scoring(config, source) != "opportunity":
+        return True
+    return float(signal.opportunity_score) >= source_min_score(config, source, default_min_score)
+
+
+def signal_needs_detail_hydration(signal: Any, config: dict[str, Any], miner: ModuleType, default_min_score: float) -> bool:
+    source = resolve_signal_source(signal, config, miner)
+    if not source_hydrates_details(config, source):
+        return False
+    return signal_passes_score_filter(signal, config, source, default_min_score)
+
+
+def signal_summary(signal: Any, config: dict[str, Any], source: str) -> str:
+    if source_scoring(config, source) == "engagement_freshness":
+        return format_non_app_summary(signal)
+    return format_summary(signal)
+
+
 def to_flat_items(
     signals: list[Any],
     seen_keys: set[str],
@@ -440,11 +526,21 @@ def to_flat_items(
     limits = source_limits(config)
     counts: dict[str, int] = {}
     items: list[dict[str, str]] = []
-    for signal in signals:
-        if signal.opportunity_score < min_score:
+
+    def sort_key(signal: Any) -> tuple[float, float, int, int]:
+        source = resolve_signal_source(signal, config, miner)
+        return (
+            rank_score(signal, config, source),
+            float(signal.post.created_utc or 0),
+            int(signal.post.score or 0),
+            int(signal.post.num_comments or 0),
+        )
+
+    for signal in sorted(signals, key=sort_key, reverse=True):
+        source = resolve_signal_source(signal, config, miner)
+        if not signal_passes_score_filter(signal, config, source, min_score):
             continue
 
-        source = resolve_signal_source(signal, config, miner)
         limit = limits.get(source)
         if limit is not None and counts.get(source, 0) >= limit:
             continue
@@ -457,7 +553,7 @@ def to_flat_items(
         items.append(
             {
                 "title": clean_text(signal.post.title),
-                "summary": format_summary(signal),
+                "summary": signal_summary(signal, config, source),
                 "url": clean_text(signal.post.reddit_url),
                 "source": display_source_label(source),
             }
@@ -568,7 +664,7 @@ def main(argv: list[str]) -> int:
             "it must analyze a fresh dated browser export for each day.\n"
             "Collect with a conservative daily browser sweep, then run this script again:\n"
             f"  cd {miner_root}\n"
-            f"  python3 scripts/collect_routes.py --browser chrome --routes {DEFAULT_DAILY_ROUTES} --page-wait 8 --scrolls 2 --scroll-delay 3.5 --route-delay 10 --hydrate-details --max-detail-posts 80 --detail-wait 7 --rate-limit-wait 600 --rate-limit-retries 1 --output {export_path}\n"
+            f"  python3 scripts/collect_routes.py --browser chrome --routes {DEFAULT_DAILY_ROUTES} --page-wait 8 --scrolls 2 --scroll-delay 3.5 --route-delay 10 --rate-limit-wait 600 --rate-limit-retries 1 --output {export_path}\n"
             f"  python3 {Path(__file__).resolve()}\n"
         )
 
@@ -590,7 +686,11 @@ def main(argv: list[str]) -> int:
     if should_hydrate:
         hydrated = hydrate_ranked_export_details(
             export_path=browser_exports[0],
-            signals=[signal for signal in signals if signal.opportunity_score >= min_score],
+            signals=[
+                signal
+                for signal in signals
+                if signal_needs_detail_hydration(signal, config, miner, min_score)
+            ],
             miner_root=miner_root,
             browser=args.collect_browser,
             max_detail_posts=args.collector_max_detail_posts,
