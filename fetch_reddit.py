@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import hashlib
 import importlib.util
 import json
 import os
@@ -26,6 +27,7 @@ from typing import Any
 
 NEWS_ROOT = Path(__file__).resolve().parent
 DEFAULT_REDDIT_DIR = NEWS_ROOT / "reddit"
+DEFAULT_DETAIL_CACHE_DIR = NEWS_ROOT / "reddit_detail_cache"
 DEFAULT_MINER_ROOT = Path(
     os.environ.get("REDDIT_APP_IDEA_MINER_DIR", "~/my_repos/reddit-app-idea-miner")
 ).expanduser()
@@ -174,6 +176,71 @@ def load_browser_export_payload(path: Path) -> dict[str, Any]:
     raise ValueError(f"{path} does not contain a browser export payload")
 
 
+def detail_cache_key(post: dict[str, Any]) -> str:
+    key = clean_text(str(post.get("id") or ""))
+    if not key:
+        key = clean_text(str(post.get("url") or post.get("permalink") or ""))
+    if not key:
+        key = clean_text(str(post.get("title") or ""))
+    slug = normalize_title(key)
+    if slug:
+        return slug[:80]
+    digest = hashlib.sha256(key.encode("utf-8")).hexdigest()
+    return digest[:24]
+
+
+def detail_cache_path(cache_dir: Path, post: dict[str, Any]) -> Path:
+    return cache_dir / f"{detail_cache_key(post)}.json"
+
+
+def apply_cached_detail(post: dict[str, Any], cache_dir: Path) -> bool:
+    path = detail_cache_path(cache_dir, post)
+    if not path.is_file():
+        return False
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return False
+    if not isinstance(payload, dict):
+        return False
+
+    old_selftext = str(post.get("selftext") or "")
+    cached_selftext = str(payload.get("selftext") or "")
+    if cached_selftext and len(cached_selftext) >= len(old_selftext):
+        post["selftext"] = cached_selftext
+        post["selftext_source"] = payload.get("selftext_source") or "detail-cache"
+        post["selftext_length"] = len(cached_selftext)
+    for key in ("id", "title", "subreddit", "permalink", "url"):
+        value = payload.get(key)
+        if value and not post.get(key):
+            post[key] = value
+    post["detail_cache_path"] = str(path)
+    post["detail_cached_at"] = payload.get("detail_fetched_at") or payload.get("cached_at") or ""
+    return bool(cached_selftext)
+
+
+def write_cached_detail(post: dict[str, Any], cache_dir: Path) -> bool:
+    selftext = str(post.get("selftext") or "")
+    if not selftext:
+        return False
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    path = detail_cache_path(cache_dir, post)
+    payload = {
+        "id": post.get("id") or "",
+        "title": post.get("title") or "",
+        "subreddit": post.get("subreddit") or "",
+        "permalink": post.get("permalink") or "",
+        "url": post.get("url") or "",
+        "selftext": selftext,
+        "selftext_source": post.get("selftext_source") or "detail",
+        "selftext_length": len(selftext),
+        "detail_fetched_at": post.get("detail_fetched_at") or "",
+        "cached_at": dt.datetime.now(dt.timezone.utc).isoformat(),
+    }
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return True
+
+
 def post_match_keys_from_values(*values: str) -> set[str]:
     keys: set[str] = set()
     for value in values:
@@ -217,6 +284,7 @@ def hydrate_ranked_export_details(
     wait_jitter: float,
     rate_limit_wait: float,
     rate_limit_retries: int,
+    detail_cache_dir: Path,
 ) -> bool:
     if max_detail_posts <= 0:
         return False
@@ -233,6 +301,7 @@ def hydrate_ranked_export_details(
             raw_by_key.setdefault(key, post)
 
     selected: dict[str, dict[str, Any]] = {}
+    cache_hits = 0
     for signal in signals:
         if len(selected) >= max_detail_posts:
             break
@@ -243,26 +312,37 @@ def hydrate_ranked_export_details(
                 break
         if raw_post is None:
             continue
+        if apply_cached_detail(raw_post, detail_cache_dir):
+            cache_hits += 1
+            continue
         selected[str(raw_post.get("id") or raw_post.get("url") or raw_post.get("title"))] = raw_post
 
-    if not selected:
+    if not selected and cache_hits == 0:
         return False
 
-    collector = load_route_collector(miner_root)
-    detail_js_source = collector.DETAIL_EXTRACT_JS.read_text(encoding="utf-8").strip()
-    detail_results = collector.hydrate_details(
-        browser,
-        selected,
-        detail_js_source,
-        len(selected),
-        detail_wait,
-        wait_jitter,
-        rate_limit_wait,
-        rate_limit_retries,
-    )
+    if selected:
+        collector = load_route_collector(miner_root)
+        detail_js_source = collector.DETAIL_EXTRACT_JS.read_text(encoding="utf-8").strip()
+        detail_results = collector.hydrate_details(
+            browser,
+            selected,
+            detail_js_source,
+            len(selected),
+            detail_wait,
+            wait_jitter,
+            rate_limit_wait,
+            rate_limit_retries,
+        )
+        cache_writes = sum(1 for post in selected.values() if write_cached_detail(post, detail_cache_dir))
+    else:
+        detail_results = {"enabled": True, "attempted": 0, "hydrated": 0, "with_selftext": 0, "errors": []}
+        cache_writes = 0
     if isinstance(detail_results, dict):
         detail_results["mode"] = "coarse_ranked"
         detail_results["coarseSelected"] = len(selected)
+        detail_results["cacheHits"] = cache_hits
+        detail_results["cacheWrites"] = cache_writes
+        detail_results["cacheDir"] = str(detail_cache_dir)
     payload["detailHydration"] = detail_results
     payload["count"] = len(posts)
     export_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -413,6 +493,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--date", default=dt.date.today().isoformat(), help="Output date, defaults to today")
     parser.add_argument("--miner-root", default=str(DEFAULT_MINER_ROOT), help="Path to reddit-app-idea-miner")
     parser.add_argument("--output-dir", default=str(DEFAULT_REDDIT_DIR), help="Directory for flat Reddit JSON")
+    parser.add_argument("--detail-cache-dir", default=str(DEFAULT_DETAIL_CACHE_DIR), help="Directory for cached Reddit post details")
     parser.add_argument("--browser-export", nargs="+", help="Use one or more miner browser-export JSON files")
     parser.add_argument(
         "--no-export-fallback",
@@ -429,7 +510,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--collector-scrolls", type=int, default=2)
     parser.add_argument("--collector-scroll-delay", type=float, default=3.5)
     parser.add_argument("--collector-route-delay", type=float, default=10.0)
-    parser.add_argument("--collector-max-detail-posts", type=int, default=20)
+    parser.add_argument("--collector-max-detail-posts", type=int, default=80)
     parser.add_argument("--collector-detail-wait", type=float, default=7.0)
     parser.add_argument("--collector-wait-jitter", type=float, default=0.25)
     parser.add_argument("--collector-rate-limit-wait", type=float, default=600.0)
@@ -450,6 +531,7 @@ def main(argv: list[str]) -> int:
     args = parse_args(argv)
     miner_root = Path(args.miner_root).expanduser().resolve()
     output_dir = Path(args.output_dir).expanduser().resolve()
+    detail_cache_dir = Path(args.detail_cache_dir).expanduser().resolve()
     output_dir.mkdir(parents=True, exist_ok=True)
 
     miner = load_miner(miner_root)
@@ -486,7 +568,7 @@ def main(argv: list[str]) -> int:
             "it must analyze a fresh dated browser export for each day.\n"
             "Collect with a conservative daily browser sweep, then run this script again:\n"
             f"  cd {miner_root}\n"
-            f"  python3 scripts/collect_routes.py --browser chrome --routes {DEFAULT_DAILY_ROUTES} --page-wait 8 --scrolls 2 --scroll-delay 3.5 --route-delay 10 --hydrate-details --max-detail-posts 20 --detail-wait 7 --rate-limit-wait 600 --rate-limit-retries 1 --output {export_path}\n"
+            f"  python3 scripts/collect_routes.py --browser chrome --routes {DEFAULT_DAILY_ROUTES} --page-wait 8 --scrolls 2 --scroll-delay 3.5 --route-delay 10 --hydrate-details --max-detail-posts 80 --detail-wait 7 --rate-limit-wait 600 --rate-limit-retries 1 --output {export_path}\n"
             f"  python3 {Path(__file__).resolve()}\n"
         )
 
@@ -516,6 +598,7 @@ def main(argv: list[str]) -> int:
             wait_jitter=args.collector_wait_jitter,
             rate_limit_wait=args.collector_rate_limit_wait,
             rate_limit_retries=args.collector_rate_limit_retries,
+            detail_cache_dir=detail_cache_dir,
         )
         if hydrated:
             signals, final_errors = collect_and_score(
