@@ -12,7 +12,7 @@ import urllib.request
 from fetch_common import USER_AGENT, canonical_external_id, clean_summary
 
 
-DEFAULT_SINCE = "daily"
+DEFAULT_SINCE = "weekly"
 DEFAULT_LIMIT = 20
 DEFAULT_OUTPUT_DIR = Path("~/my_repos/news/github").expanduser()
 
