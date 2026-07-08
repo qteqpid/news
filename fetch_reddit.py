@@ -34,7 +34,7 @@ DEFAULT_MINER_ROOT = Path(
 ).expanduser()
 DEFAULT_DAILY_ROUTES = "config/routes_daily.json"
 DEFAULT_SOURCE_FLOWS: dict[str, dict[str, Any]] = {
-    "Reddit - APP": {"scoring": "opportunity", "hydrate_details": True},
+    "Reddit - APP": {"scoring": "opportunity", "hydrate_details": False},
     "Reddit - Tech": {"scoring": "engagement_freshness", "hydrate_details": False},
     "Reddit - Knowledge": {"scoring": "engagement_freshness", "hydrate_details": False},
     "Reddit - News": {"scoring": "engagement_freshness", "hydrate_details": False},
@@ -384,6 +384,10 @@ def load_seen_keys(output_dir: Path, current_date: str) -> set[str]:
 
 def signal_keys(signal: Any) -> set[str]:
     post = signal.post
+    return post_output_keys(post)
+
+
+def post_output_keys(post: Any) -> set[str]:
     keys: set[str] = set()
     url = clean_text(post.reddit_url)
     title_key = normalize_title(post.title)
@@ -392,6 +396,12 @@ def signal_keys(signal: Any) -> set[str]:
     if title_key:
         keys.add(f"title:{title_key}")
     return keys
+
+
+def filter_seen_posts(posts: list[Any], seen_keys: set[str]) -> list[Any]:
+    if not seen_keys:
+        return posts
+    return [post for post in posts if not (post_output_keys(post) & seen_keys)]
 
 
 def format_summary(signal: Any) -> str:
@@ -572,6 +582,7 @@ def collect_and_score(
     browser_exports: list[Path],
     sample: bool,
     quiet: bool,
+    seen_keys: set[str] | None = None,
 ) -> tuple[list[Any], list[str]]:
     miner_args = SimpleNamespace(
         sample=sample,
@@ -579,7 +590,9 @@ def collect_and_score(
         quiet=quiet,
     )
     posts, errors = miner.collect_posts(config, miner_args, miner_root)
-    return miner.analyze_posts(miner.dedupe_posts(posts)), errors
+    posts = miner.dedupe_posts(posts)
+    posts = filter_seen_posts(posts, seen_keys or set())
+    return miner.analyze_posts(posts), errors
 
 
 def parse_args(argv: list[str]) -> argparse.Namespace:
@@ -669,6 +682,7 @@ def main(argv: list[str]) -> int:
         )
 
     min_score = float(args.min_score if args.min_score is not None else config.get("min_score", 4.5))
+    seen_keys = load_seen_keys(output_dir, args.date)
     signals, errors = collect_and_score(
         miner=miner,
         config=config,
@@ -676,6 +690,7 @@ def main(argv: list[str]) -> int:
         browser_exports=browser_exports,
         sample=args.sample,
         quiet=args.quiet,
+        seen_keys=seen_keys,
     )
 
     should_hydrate = (
@@ -708,10 +723,10 @@ def main(argv: list[str]) -> int:
                 browser_exports=browser_exports,
                 sample=args.sample,
                 quiet=args.quiet,
+                seen_keys=seen_keys,
             )
             errors = [*errors, *final_errors]
 
-    seen_keys = load_seen_keys(output_dir, args.date)
     items = to_flat_items(
         signals=signals,
         seen_keys=seen_keys,
