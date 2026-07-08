@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Event App Passbook",
+    "summary": "重大赛事或活动开始前，用户才发现自己缺少某个 App、账号、订阅、地区设置、通知权限或第二屏控制器。为什么现在: 美区榜单前列同时出现官方账户、体育直播、流媒体、世界杯和第二屏控制类 App，用户需要开场前的准备清单。评分: 8.4。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "AI Dependency Incident Ledger",
+    "summary": "模型端点变慢、限流、涨价或回答质量下降时，小团队缺少轻量方式记录影响范围、临时降级方案和客户解释口径。为什么现在: HN Show 出现 GenAI cost 和 endpoint fragility 追踪信号，AI 应用正在进入生产复盘阶段。评分: 8.3。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Launch Screenshot QA Bench",
+    "summary": "截图生成工具越来越多，但开发者仍要人工检查本地化文案溢出、设备尺寸、深浅色模式、功能错误和审核风险。为什么现在: Product Hunt 近期出现快速生成 App Store screenshots 的新品，生成后的 QA 层会成为更轻的机会。评分: 8.1。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Subscription Exit Calendar",
+    "summary": "用户为了看某个赛事、剧集或活动开了多个订阅，活动结束后忘记取消，账单分散在邮箱、App Store 和网页里。为什么现在: 流媒体、体育直播和事件型 App 冲榜，临时订阅的退出管理需求会同步增加。评分: 7.9。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Short Drama Localization Ledger",
+    "summary": "短剧出海团队很难把题材、字幕风格、封面话术、更新节奏和地区反馈沉淀成可复用资产。为什么现在: 短剧/竖屏内容在榜单和行业榜中持续出现，但小团队更适合切本地化 ledger 而不是直接做内容平台。评分: 7.6。",
+    "url": "",
+    "source": "APP"
+  },
+  {
+    "title": "Apple App Store US charts",
+    "summary": "美区 iPhone 免费榜前列出现 Trump Accounts、FOX One、Peacock、Kalshi、Netflix Game Controller、ChatGPT、Gemini、Claude 等，官方账户、体育赛事、流媒体和 AI 助手同时强势。",
+    "url": "https://apps.apple.com/us/iphone/charts",
+    "source": "APP"
+  },
+  {
+    "title": "Appfigures US top apps",
+    "summary": "Appfigures 今日榜单显示 Trump Accounts、FOX One、Netflix Game Controller 等位居前列，说明事件型服务和第二屏娱乐正在拉动下载。",
+    "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-apps",
+    "source": "APP"
+  },
+  {
+    "title": "Product Hunt July leaderboard",
+    "summary": "Product Hunt July 2026 月榜聚合当月热门新品，AI、开发者工具、生产力和内容创作仍是高密度类别。",
+    "url": "https://www.producthunt.com/leaderboard/monthly/2026/7",
+    "source": "APP"
+  },
+  {
+    "title": "Product launch digest",
+    "summary": "近期 Product Hunt 新品包括 AI Mac app builder、AI bug reproducer、GitHub Copilot voice layer、app store screenshot generator、offline meeting notes、subscription dashboard 等。",
+    "url": "https://startupcorners.com/digest/product-digest-2026-07-04",
+    "source": "APP"
+  },
+  {
+    "title": "HN Show GenAI fragility",
+    "summary": "HN Show 出现 Tracking GenAI cost and endpoint fragility 信号，说明开发团队开始关注模型端点稳定性、成本异常和供应商切换。",
+    "url": "https://nhn.yuu.is/show",
+    "source": "APP"
+  },
+  {
+    "title": "Short drama ranking signal",
+    "summary": "短剧/竖屏内容在榜单和行业榜中持续出现，内容消费继续推动细分工具机会。",
+    "url": "https://reelpulse.net/rankings/top-100",
+    "source": "APP"
+  }
+]
