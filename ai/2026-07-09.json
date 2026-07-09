@@ -1,0 +1,212 @@
+[
+  {
+    "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+    "summary": "OpenAI 升级 ChatGPT 语音模式，重点改善对话打断、轮流发言和更接近真人交流的体验。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "EmTech AI 2026: The Rise of the AI Platform",
+    "summary": "MIT Technology Review 关注 AI 平台化趋势，讨论模型能力如何从单点工具演进为企业和开发者的底层平台。",
+    "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "summary": "SpaceXAI 发布 Grok 4.5，主打更低成本、更高效率，并被定位为高端模型竞争者。",
+    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "GPT-5.6 即将开放使用、Nothing 发布 Phone (4b) 等",
+    "summary": "少数派早报提到 GPT-5.6 开放使用、Notion Agents 等 AI 产品动态。",
+    "url": "https://sspai.com/post/112091",
+    "source": "少数派"
+  },
+  {
+    "title": "MiMo 基座大模型，小米最有远见的一次投入",
+    "summary": "雷峰网分析小米 MiMo 基座大模型投入，认为大模型正在成为软硬件公司产品定义和服务分发的底层基础设施。",
+    "url": "https://www.leiphone.com/category/weiwu/9HgNwyn6oxOkZu12.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "阿里发布世界模型 HappyOyster 1.0",
+    "summary": "36氪早报提到阿里世界模型动态，强调实时探索、导演和重塑 AI 世界等能力方向。",
+    "url": "https://36kr.com/p/3887648675133960?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
+    "summary": "36氪横评主流 AI 视频工具，认为视频生成正在从短片段尝鲜进入长视频、叙事和物理一致性竞争阶段。",
+    "url": "https://36kr.com/p/3886403765596418?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+    "summary": "Google Photos 新增 AI Video Remix，可对视频进行电影化补光、背景替换等生成式编辑。",
+    "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+    "summary": "Google 深伪检测系统被用于识别政治人物假图，显示 AI 内容鉴别工具正在进入公共信息场景。",
+    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The Algorithmic Oracle Fails the Beautiful Game",
+    "summary": "钛媒体英文稿讨论中国大模型在世界杯预测中的表现，反映预测类 AI 在复杂现实场景中的边界。",
+    "url": "https://www.tmtpost.com/8058295.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Notion 推出全新应用 Agents",
+    "summary": "少数派早报提到 Notion Agents，体现生产力软件继续向 Agent 化工作流演进。",
+    "url": "https://sspai.com/post/112091",
+    "source": "少数派"
+  },
+  {
+    "title": "字节、美团、亚马逊都在“收拾”中层，AI抽走了他们最值钱的东西",
+    "summary": "钛媒体讨论 AI Agent 对组织中层信息中转价值的冲击，关注管理者在 AI 时代的重新定位。",
+    "url": "https://www.tmtpost.com/8058019.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "乱用AI，打工人被坑惨了",
+    "summary": "钛媒体关注职场 AI 使用风险，强调提效之外还存在责任归属、错误放大和流程治理问题。",
+    "url": "https://www.tmtpost.com/8058067.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "OpenAI的新语音模型，先把用户烦到了",
+    "summary": "钛媒体从用户体验角度讨论 AI 语音助手，核心问题从“会说话”转向“懂得何时停止说话”。",
+    "url": "https://www.tmtpost.com/8058014.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "大多数 AI slop 应用会很快停止维护和抛弃",
+    "summary": "Solidot 报道低质量 AI 生成应用涌入软件仓库后带来的维护和审核压力，提示 AI 应用供给侧质量分化。",
+    "url": "https://www.solidot.org/story?sid=84784",
+    "source": "Solidot"
+  },
+  {
+    "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+    "summary": "The Verge 报道 Meta 正研发可能持续记录环境的智能眼镜原型，AI 可穿戴进入更强感知能力阶段。",
+    "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+    "source": "The Verge"
+  },
+  {
+    "title": "This startup thinks robotics is about to have its ChatGPT moment",
+    "summary": "General Intuition 押注用海量游戏视频数据训练物理 AI 基础模型，试图推动机器人领域出现类 ChatGPT 时刻。",
+    "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "自研焊接具身大脑模型，「昇视唯盛」完成数亿元B轮融资",
+    "summary": "工业制造具身智能企业昇视唯盛完成 B 轮融资，资金将用于焊接具身智能大脑模型和产业化落地。",
+    "url": "https://36kr.com/p/3887871679347208?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "物理AI公司深度智控获数亿元融资",
+    "summary": "深度智控完成 B 轮融资，聚焦能源基础设施场景中的物理 AI 控制与优化。",
+    "url": "https://36kr.com/p/3887726503688968?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路",
+    "summary": "量子位报道量化派物理 AI 路线，展示从具体行业场景切入再沉淀能力平台的商业化路径。",
+    "url": "https://www.qbitai.com/2026/07/446435.html",
+    "source": "量子位"
+  },
+  {
+    "title": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源 LingBot-World 2.0",
+    "summary": "蚂蚁灵波开源世界模型 LingBot-World 2.0，支持 AI 原生多人交互和更长时段世界生成。",
+    "url": "https://www.qbitai.com/2026/07/446548.html",
+    "source": "量子位"
+  },
+  {
+    "title": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
+    "summary": "量子位报道智源悟界 Orca，强调让模型先学习世界变化规律，再进入复杂物理任务。",
+    "url": "https://www.qbitai.com/2026/07/446075.html",
+    "source": "量子位"
+  },
+  {
+    "title": "获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good",
+    "summary": "天立启鸣 AI 教育方案入选 AI for Good，聚焦“一生一案”等教育个性化应用。",
+    "url": "https://www.qbitai.com/2026/07/446562.html",
+    "source": "量子位"
+  },
+  {
+    "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+    "summary": "36氪讲述 AI 大模型创业者出海案例，反映中国 AI 应用和模型能力正在寻找海外市场入口。",
+    "url": "https://36kr.com/p/3886574096265481?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "地产AI进入落地战，深度智联又甩出一张牌",
+    "summary": "易居推出地产模数通和 AI 分析师“小瑞”，房地产行业 AI 从概念验证转向专属模型和业务工作台。",
+    "url": "https://36kr.com/p/3886709249241349?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "德国：人工智能推动德国初创企业创纪录增长",
+    "summary": "36氪晚报提到德国 AI 初创企业增长，显示 AI 创业热度持续外溢至欧洲市场。",
+    "url": "https://36kr.com/p/3886678879727880?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "不到半年，MiniMax与智谱身价差6000亿港元了",
+    "summary": "钛媒体关注中国大模型公司估值分化，指出资本偏好和商业化路径正在重塑头部格局。",
+    "url": "https://www.tmtpost.com/8057610.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "给AI“降温”？河南这个小县城的钻石又有了新的就业方向",
+    "summary": "钛媒体报道培育钻石在 AI 散热等新场景中的应用想象，体现 AI 基础设施需求对材料产业的牵引。",
+    "url": "https://www.tmtpost.com/8058329.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "储能Pre-IPO窗口打开，星辰新能近5亿元融资背后",
+    "summary": "储能企业融资与 IPO 窗口打开，相关技术被视为 AI 数据中心和新型能源系统的重要支撑。",
+    "url": "https://www.tmtpost.com/8058181.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+    "summary": "Ars Technica 报道 HalluSquatting 风险，攻击者可利用 LLM 幻觉推荐不存在的软件包来组装僵尸网络。",
+    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+    "summary": "Google 悬赏 Linux 虚拟机逃逸漏洞，凸显 AI 云与虚拟化基础设施安全仍是关键底座问题。",
+    "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "工信部：AI编程工具 Claude Code 存在安全后门隐患",
+    "summary": "36氪早报提到工信部关于 AI 编程工具安全隐患的提示，AI 编程工具的供应链和代码执行风险继续受到监管关注。",
+    "url": "https://36kr.com/p/3887648675133960?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+    "summary": "美国监管机构要求自动驾驶公司避免干扰急救人员，自动化系统与公共安全流程的冲突成为治理焦点。",
+    "url": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "ICML 2026 时间检验奖现场实况：主创戳破学术创新三大真相",
+    "summary": "雷峰网报道 ICML 2026 时间检验奖，回顾机器学习研究中小创新、长期影响和反共识贡献的价值。",
+    "url": "https://www.leiphone.com/category/ai/WXxu5gpyc5w1i7It.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "ICML 2026现场直击：从展台到游轮，中国大厂在顶会抢人才",
+    "summary": "中国互联网大厂在 ICML 2026 展开系统性人才布局，反映基础研究人才仍是大模型竞争核心资源。",
+    "url": "https://www.leiphone.com/category/academic/DiVzwoGAPFZarhqd.html",
+    "source": "雷峰网"
+  }
+]
