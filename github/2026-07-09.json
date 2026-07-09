@@ -1,0 +1,30 @@
+[
+  {
+    "title": "facebook/astryx",
+    "link": "https://github.com/facebook/astryx",
+    "summary": "[Stars: 7,249] [4,943 stars this week] [Language: TypeScript] An open source design system that's fully customizable and agent ready",
+    "published": "2026-07-09",
+    "dedupe_id": "github:facebook/astryx"
+  },
+  {
+    "title": "asgeirtj/system_prompts_leaks",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks",
+    "summary": "[Stars: 54,439] [6,182 stars this week] [Language: JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "published": "2026-07-09",
+    "dedupe_id": "github:asgeirtj/system_prompts_leaks"
+  },
+  {
+    "title": "bradautomates/claude-video",
+    "link": "https://github.com/bradautomates/claude-video",
+    "summary": "[Stars: 6,190] [2,903 stars this week] [Language: Python] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "published": "2026-07-09",
+    "dedupe_id": "github:bradautomates/claude-video"
+  },
+  {
+    "title": "ChromeDevTools/chrome-devtools-mcp",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "summary": "[Stars: 46,415] [1,547 stars this week] [Language: TypeScript] Chrome DevTools for coding agents",
+    "published": "2026-07-09",
+    "dedupe_id": "github:chromedevtools/chrome-devtools-mcp"
+  }
+]
