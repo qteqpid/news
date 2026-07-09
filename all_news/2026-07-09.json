@@ -1,0 +1,1082 @@
+[
+  {
+    "title": "facebook/astryx",
+    "summary": "[Stars: 7,249] [4,943 stars this week] [Language: TypeScript] An open source design system that's fully customizable and agent ready",
+    "url": "https://github.com/facebook/astryx",
+    "source": "GITHUB"
+  },
+  {
+    "title": "asgeirtj/system_prompts_leaks",
+    "summary": "[Stars: 54,439] [6,182 stars this week] [Language: JavaScript] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source": "GITHUB"
+  },
+  {
+    "title": "bradautomates/claude-video",
+    "summary": "[Stars: 6,190] [2,903 stars this week] [Language: Python] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "url": "https://github.com/bradautomates/claude-video",
+    "source": "GITHUB"
+  },
+  {
+    "title": "ChromeDevTools/chrome-devtools-mcp",
+    "summary": "[Stars: 46,415] [1,547 stars this week] [Language: TypeScript] Chrome DevTools for coding agents",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "source": "GITHUB"
+  },
+  {
+    "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+    "summary": "OpenAI 升级 ChatGPT 语音模式，重点改善对话打断、轮流发言和更接近真人交流的体验。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "EmTech AI 2026: The Rise of the AI Platform",
+    "summary": "MIT Technology Review 关注 AI 平台化趋势，讨论模型能力如何从单点工具演进为企业和开发者的底层平台。",
+    "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "summary": "SpaceXAI 发布 Grok 4.5，主打更低成本、更高效率，并被定位为高端模型竞争者。",
+    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "GPT-5.6 即将开放使用、Nothing 发布 Phone (4b) 等",
+    "summary": "少数派早报提到 GPT-5.6 开放使用、Notion Agents 等 AI 产品动态。",
+    "url": "https://sspai.com/post/112091",
+    "source": "少数派"
+  },
+  {
+    "title": "MiMo 基座大模型，小米最有远见的一次投入",
+    "summary": "雷峰网分析小米 MiMo 基座大模型投入，认为大模型正在成为软硬件公司产品定义和服务分发的底层基础设施。",
+    "url": "https://www.leiphone.com/category/weiwu/9HgNwyn6oxOkZu12.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "阿里发布世界模型 HappyOyster 1.0",
+    "summary": "36氪早报提到阿里世界模型动态，强调实时探索、导演和重塑 AI 世界等能力方向。",
+    "url": "https://36kr.com/p/3887648675133960?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
+    "summary": "36氪横评主流 AI 视频工具，认为视频生成正在从短片段尝鲜进入长视频、叙事和物理一致性竞争阶段。",
+    "url": "https://36kr.com/p/3886403765596418?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+    "summary": "Google Photos 新增 AI Video Remix，可对视频进行电影化补光、背景替换等生成式编辑。",
+    "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+    "summary": "Google 深伪检测系统被用于识别政治人物假图，显示 AI 内容鉴别工具正在进入公共信息场景。",
+    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The Algorithmic Oracle Fails the Beautiful Game",
+    "summary": "钛媒体英文稿讨论中国大模型在世界杯预测中的表现，反映预测类 AI 在复杂现实场景中的边界。",
+    "url": "https://www.tmtpost.com/8058295.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Notion 推出全新应用 Agents",
+    "summary": "少数派早报提到 Notion Agents，体现生产力软件继续向 Agent 化工作流演进。",
+    "url": "https://sspai.com/post/112091",
+    "source": "少数派"
+  },
+  {
+    "title": "字节、美团、亚马逊都在“收拾”中层，AI抽走了他们最值钱的东西",
+    "summary": "钛媒体讨论 AI Agent 对组织中层信息中转价值的冲击，关注管理者在 AI 时代的重新定位。",
+    "url": "https://www.tmtpost.com/8058019.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "乱用AI，打工人被坑惨了",
+    "summary": "钛媒体关注职场 AI 使用风险，强调提效之外还存在责任归属、错误放大和流程治理问题。",
+    "url": "https://www.tmtpost.com/8058067.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "OpenAI的新语音模型，先把用户烦到了",
+    "summary": "钛媒体从用户体验角度讨论 AI 语音助手，核心问题从“会说话”转向“懂得何时停止说话”。",
+    "url": "https://www.tmtpost.com/8058014.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "大多数 AI slop 应用会很快停止维护和抛弃",
+    "summary": "Solidot 报道低质量 AI 生成应用涌入软件仓库后带来的维护和审核压力，提示 AI 应用供给侧质量分化。",
+    "url": "https://www.solidot.org/story?sid=84784",
+    "source": "Solidot"
+  },
+  {
+    "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+    "summary": "The Verge 报道 Meta 正研发可能持续记录环境的智能眼镜原型，AI 可穿戴进入更强感知能力阶段。",
+    "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+    "source": "The Verge"
+  },
+  {
+    "title": "This startup thinks robotics is about to have its ChatGPT moment",
+    "summary": "General Intuition 押注用海量游戏视频数据训练物理 AI 基础模型，试图推动机器人领域出现类 ChatGPT 时刻。",
+    "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "自研焊接具身大脑模型，「昇视唯盛」完成数亿元B轮融资",
+    "summary": "工业制造具身智能企业昇视唯盛完成 B 轮融资，资金将用于焊接具身智能大脑模型和产业化落地。",
+    "url": "https://36kr.com/p/3887871679347208?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "物理AI公司深度智控获数亿元融资",
+    "summary": "深度智控完成 B 轮融资，聚焦能源基础设施场景中的物理 AI 控制与优化。",
+    "url": "https://36kr.com/p/3887726503688968?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路",
+    "summary": "量子位报道量化派物理 AI 路线，展示从具体行业场景切入再沉淀能力平台的商业化路径。",
+    "url": "https://www.qbitai.com/2026/07/446435.html",
+    "source": "量子位"
+  },
+  {
+    "title": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源 LingBot-World 2.0",
+    "summary": "蚂蚁灵波开源世界模型 LingBot-World 2.0，支持 AI 原生多人交互和更长时段世界生成。",
+    "url": "https://www.qbitai.com/2026/07/446548.html",
+    "source": "量子位"
+  },
+  {
+    "title": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
+    "summary": "量子位报道智源悟界 Orca，强调让模型先学习世界变化规律，再进入复杂物理任务。",
+    "url": "https://www.qbitai.com/2026/07/446075.html",
+    "source": "量子位"
+  },
+  {
+    "title": "获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good",
+    "summary": "天立启鸣 AI 教育方案入选 AI for Good，聚焦“一生一案”等教育个性化应用。",
+    "url": "https://www.qbitai.com/2026/07/446562.html",
+    "source": "量子位"
+  },
+  {
+    "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+    "summary": "36氪讲述 AI 大模型创业者出海案例，反映中国 AI 应用和模型能力正在寻找海外市场入口。",
+    "url": "https://36kr.com/p/3886574096265481?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "地产AI进入落地战，深度智联又甩出一张牌",
+    "summary": "易居推出地产模数通和 AI 分析师“小瑞”，房地产行业 AI 从概念验证转向专属模型和业务工作台。",
+    "url": "https://36kr.com/p/3886709249241349?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "德国：人工智能推动德国初创企业创纪录增长",
+    "summary": "36氪晚报提到德国 AI 初创企业增长，显示 AI 创业热度持续外溢至欧洲市场。",
+    "url": "https://36kr.com/p/3886678879727880?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "不到半年，MiniMax与智谱身价差6000亿港元了",
+    "summary": "钛媒体关注中国大模型公司估值分化，指出资本偏好和商业化路径正在重塑头部格局。",
+    "url": "https://www.tmtpost.com/8057610.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "给AI“降温”？河南这个小县城的钻石又有了新的就业方向",
+    "summary": "钛媒体报道培育钻石在 AI 散热等新场景中的应用想象，体现 AI 基础设施需求对材料产业的牵引。",
+    "url": "https://www.tmtpost.com/8058329.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "储能Pre-IPO窗口打开，星辰新能近5亿元融资背后",
+    "summary": "储能企业融资与 IPO 窗口打开，相关技术被视为 AI 数据中心和新型能源系统的重要支撑。",
+    "url": "https://www.tmtpost.com/8058181.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+    "summary": "Ars Technica 报道 HalluSquatting 风险，攻击者可利用 LLM 幻觉推荐不存在的软件包来组装僵尸网络。",
+    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+    "summary": "Google 悬赏 Linux 虚拟机逃逸漏洞，凸显 AI 云与虚拟化基础设施安全仍是关键底座问题。",
+    "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "工信部：AI编程工具 Claude Code 存在安全后门隐患",
+    "summary": "36氪早报提到工信部关于 AI 编程工具安全隐患的提示，AI 编程工具的供应链和代码执行风险继续受到监管关注。",
+    "url": "https://36kr.com/p/3887648675133960?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+    "summary": "美国监管机构要求自动驾驶公司避免干扰急救人员，自动化系统与公共安全流程的冲突成为治理焦点。",
+    "url": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "ICML 2026 时间检验奖现场实况：主创戳破学术创新三大真相",
+    "summary": "雷峰网报道 ICML 2026 时间检验奖，回顾机器学习研究中小创新、长期影响和反共识贡献的价值。",
+    "url": "https://www.leiphone.com/category/ai/WXxu5gpyc5w1i7It.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "ICML 2026现场直击：从展台到游轮，中国大厂在顶会抢人才",
+    "summary": "中国互联网大厂在 ICML 2026 展开系统性人才布局，反映基础研究人才仍是大模型竞争核心资源。",
+    "url": "https://www.leiphone.com/category/academic/DiVzwoGAPFZarhqd.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Trump orders cutoff of 'all' US trade with Spain",
+    "summary": "Trump orders cutoff of 'all' US trade with Spain，26822 upvotes、3276 comments，created: 2026-07-08，rank score: 22.41。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqpuzp/trump_orders_cutoff_of_all_us_trade_with_spain/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "DuckDuckGo brags its free web browser now blocks YouTube video ads just weeks after YouTube hiked Premium prices again",
+    "summary": "DuckDuckGo brags its free web browser now blocks YouTube video ads just weeks after YouTube hiked Premium prices again，34028 upvotes、1724 comments，created: 2026-07-08，rank score: 21.76。",
+    "url": "https://www.reddit.com/r/technology/comments/1uqttau/duckduckgo_brags_its_free_web_browser_now_blocks/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "PlayStation can delete all your digital games after 3 years of inactivity",
+    "summary": "PlayStation can delete all your digital games after 3 years of inactivity，25933 upvotes、1757 comments，created: 2026-07-08，rank score: 21.50。",
+    "url": "https://www.reddit.com/r/technology/comments/1uqqbow/playstation_can_delete_all_your_digital_games/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL researchers won the 2025 Ig Nobel Chemistry Prize for proposing eating Teflon as a zero calorie food. They cited 1960s DuPont studies where rats fed a 25% Teflon diet lost weight with no signs of toxicity, and patented it as a meal additive, but gave up after the FDA would not approve it.",
+    "summary": "TIL researchers won the 2025 Ig Nobel Chemistry Prize for proposing eating Teflon as a zero calorie food. They cited 1960s DuPont studies where rats fed a 25% Teflon diet lost weight with no signs of toxicity, and patented it as a meal additive, but gave up a...，28906 upvotes、1334 comments，created: 2026-07-08，rank score: 21.26。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1ur0f8b/til_researchers_won_the_2025_ig_nobel_chemistry/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Bryan Johnson, the millionaire biohacker who wants to live forever, diagnosed with incurable autoimmune disease",
+    "summary": "Bryan Johnson, the millionaire biohacker who wants to live forever, diagnosed with incurable autoimmune disease，15159 upvotes、2096 comments，created: 2026-07-08，rank score: 21.22。",
+    "url": "https://www.reddit.com/r/technology/comments/1uqrowt/bryan_johnson_the_millionaire_biohacker_who_wants/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Trump tells world that Iran ‘scum’ want to assassinate him: ‘I’m the No. 1 target’",
+    "summary": "Trump tells world that Iran ‘scum’ want to assassinate him: ‘I’m the No. 1 target’，12506 upvotes、2109 comments，created: 2026-07-08，rank score: 21.06。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqzc0d/trump_tells_world_that_iran_scum_want_to/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Execs confused and horrified by the huge AI bills after thinking they could replace workers for free",
+    "summary": "Execs confused and horrified by the huge AI bills after thinking they could replace workers for free，24939 upvotes、1259 comments，created: 2026-07-08，rank score: 21.02。",
+    "url": "https://www.reddit.com/r/technology/comments/1uqvcpx/execs_confused_and_horrified_by_the_huge_ai_bills/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "‘Catastrophe’: Gaming world in utter chaos as Microsoft’s axes 4800 jobs, Sony makes huge call",
+    "summary": "‘Catastrophe’: Gaming world in utter chaos as Microsoft’s axes 4800 jobs, Sony makes huge call，10537 upvotes、1047 comments，created: 2026-07-08，rank score: 19.82。",
+    "url": "https://www.reddit.com/r/technology/comments/1uqg66d/catastrophe_gaming_world_in_utter_chaos_as/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Fathers whose first child is a girl tend to develop more equal views on gender roles and support policies that promote women’s rights. The study from Japan suggests this shift happens even in culturally conservative countries where gender inequality remains widespread.",
+    "summary": "Fathers whose first child is a girl tend to develop more equal views on gender roles and support policies that promote women’s rights. The study from Japan suggests this shift happens even in culturally conservative countries where gender inequality remains w...，21050 upvotes、602 comments，created: 2026-07-08，rank score: 19.80。",
+    "url": "https://www.reddit.com/r/science/comments/1uqrjkd/fathers_whose_first_child_is_a_girl_tend_to/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "'Make them yourself': Trump gives Zelensky green light to produce Patriot missiles",
+    "summary": "'Make them yourself': Trump gives Zelensky green light to produce Patriot missiles，17565 upvotes、617 comments，created: 2026-07-08，rank score: 19.66。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqstqy/make_them_yourself_trump_gives_zelensky_green/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "The End of Reading Is Here: Optimists once believed that universal literacy was inevitable. Now it seems that the age of reading might be a short anomaly in human history [gift link].",
+    "summary": "The End of Reading Is Here: Optimists once believed that universal literacy was inevitable. Now it seems that the age of reading might be a short anomaly in human history [gift link].，8378 upvotes、917 comments，created: 2026-07-08，rank score: 19.46。",
+    "url": "https://www.reddit.com/r/books/comments/1uqq6gk/the_end_of_reading_is_here_optimists_once/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "'It Never Trickles Down' — Bernie Sanders Hits Out at Microsoft Over Xbox Layoffs and Console Price Rises, Says They Prove Corporate Tax Breaks Do Not Create Jobs",
+    "summary": "'It Never Trickles Down' — Bernie Sanders Hits Out at Microsoft Over Xbox Layoffs and Console Price Rises, Says They Prove Corporate Tax Breaks Do Not Create Jobs，19816 upvotes、444 comments，created: 2026-07-08，rank score: 19.33。",
+    "url": "https://www.reddit.com/r/technology/comments/1uqvmrc/it_never_trickles_down_bernie_sanders_hits_out_at/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL Japanese law does not recognize married couples who have different surnames as lawful husband and wife.",
+    "summary": "TIL Japanese law does not recognize married couples who have different surnames as lawful husband and wife.，12048 upvotes、581 comments，created: 2026-07-07，rank score: 19.03。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1upplg1/til_japanese_law_does_not_recognize_married/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Denmark ready to defend 'every inch of NATO', including Danish kingdom, PM says",
+    "summary": "Denmark ready to defend 'every inch of NATO', including Danish kingdom, PM says，12995 upvotes、404 comments，created: 2026-07-08，rank score: 18.78。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqwtlz/denmark_ready_to_defend_every_inch_of_nato/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Sony CEO Sells Over Half His Stock Following PlayStation Disc Announcement",
+    "summary": "Sony CEO Sells Over Half His Stock Following PlayStation Disc Announcement，9985 upvotes、352 comments，created: 2026-07-08，rank score: 18.32。",
+    "url": "https://www.reddit.com/r/technology/comments/1uqw7ad/sony_ceo_sells_over_half_his_stock_following/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Russian Lawmaker Says Half of Ukraine’s Population Must Be Killed to ‘Eliminate Nazism’",
+    "summary": "Russian Lawmaker Says Half of Ukraine’s Population Must Be Killed to ‘Eliminate Nazism’，6758 upvotes、450 comments，created: 2026-07-08，rank score: 18.25。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqqvtx/russian_lawmaker_says_half_of_ukraines_population/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Bethesda HR Forced Staff To Remove Small Memorial To Laid-Off Colleagues",
+    "summary": "Bethesda HR Forced Staff To Remove Small Memorial To Laid-Off Colleagues，8699 upvotes、335 comments，created: 2026-07-09，rank score: 18.17。",
+    "url": "https://www.reddit.com/r/technology/comments/1urav01/bethesda_hr_forced_staff_to_remove_small_memorial/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL a python owned by Australian drug traffickers who ran a meth lab got addicted to crystal meth from the fumes and absorption through the skin. The “very aggressive” snake was put in a wildlife care program run at a minimum-security prison in Sydney, and recovered from its addiction over 7 months.",
+    "summary": "TIL a python owned by Australian drug traffickers who ran a meth lab got addicted to crystal meth from the fumes and absorption through the skin. The “very aggressive” snake was put in a wildlife care program run at a minimum-security prison in Sydney, and re...，14914 upvotes、242 comments，created: 2026-07-08，rank score: 18.12。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uqfqg4/til_a_python_owned_by_australian_drug_traffickers/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "TIL NASA discovered dozens of previously unknown bacterial species living inside its ultra-sterile spacecraft clean rooms despite disinfecting them.",
+    "summary": "TIL NASA discovered dozens of previously unknown bacterial species living inside its ultra-sterile spacecraft clean rooms despite disinfecting them.，12794 upvotes、372 comments，created: 2026-07-04，rank score: 18.10。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uni9h5/til_nasa_discovered_dozens_of_previously_unknown/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Why Aussies are having fewer kids: Exhaustion, trauma and harsh realities of parenting are driving more families to think twice about having another child. Decisions about having another child often come down to whether they can cope physically, emotionally and mentally with doing it all again.",
+    "summary": "Why Aussies are having fewer kids: Exhaustion, trauma and harsh realities of parenting are driving more families to think twice about having another child. Decisions about having another child often come down to whether they can cope physically, emotionally a...，4136 upvotes、441 comments，created: 2026-07-08，rank score: 17.74。",
+    "url": "https://www.reddit.com/r/science/comments/1uqryf1/why_aussies_are_having_fewer_kids_exhaustion/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Obesity rates in the U.S. climbed to about 40% of adults and 20% of youth in 2023. More than 20 years of data show a 37% increase in obesity, 23% in abdominal obesity, and over two-fold increase in severe obesity among both adults and youth.",
+    "summary": "Obesity rates in the U.S. climbed to about 40% of adults and 20% of youth in 2023. More than 20 years of data show a 37% increase in obesity, 23% in abdominal obesity, and over two-fold increase in severe obesity among both adults and youth.，2989 upvotes、346 comments，created: 2026-07-08，rank score: 17.01。",
+    "url": "https://www.reddit.com/r/science/comments/1uqfdc1/obesity_rates_in_the_us_climbed_to_about_40_of/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Trump Says US Ceasefire With Iran Is ‘Over’ After Strikes",
+    "summary": "Trump Says US Ceasefire With Iran Is ‘Over’ After Strikes，1887 upvotes、408 comments，created: 2026-07-08，rank score: 16.82。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqmngb/trump_says_us_ceasefire_with_iran_is_over_after/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "European Parliament condemns Zelenskyy for naming military unit after UPA heroes",
+    "summary": "European Parliament condemns Zelenskyy for naming military unit after UPA heroes，1317 upvotes、496 comments，created: 2026-07-08，rank score: 16.75。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqq0er/european_parliament_condemns_zelenskyy_for_naming/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Greenlanders reject renewed US push for control of island",
+    "summary": "Greenlanders reject renewed US push for control of island，4067 upvotes、163 comments，created: 2026-07-08，rank score: 16.38。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1ur55mw/greenlanders_reject_renewed_us_push_for_control/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Tehran retaliates in Kuwait and Bahrain after second day of US strikes",
+    "summary": "Tehran retaliates in Kuwait and Bahrain after second day of US strikes，901 upvotes、394 comments，created: 2026-07-09，rank score: 16.15。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1urf67u/tehran_retaliates_in_kuwait_and_bahrain_after/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Parental Holocaust trauma linked to double the risk of schizophrenia in offspring. This risk remained highly pronounced and statistically robust even after the researchers adjusted for sociodemographic factors, birth weight, and the mother’s own history of psychiatric hospitalization",
+    "summary": "Parental Holocaust trauma linked to double the risk of schizophrenia in offspring. This risk remained highly pronounced and statistically robust even after the researchers adjusted for sociodemographic factors, birth weight, and the mother’s own history of ps...，3994 upvotes、117 comments，created: 2026-07-08，rank score: 15.88。",
+    "url": "https://www.reddit.com/r/science/comments/1uqxdw6/parental_holocaust_trauma_linked_to_double_the/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "US military is conducting fresh strikes on Iran",
+    "summary": "US military is conducting fresh strikes on Iran，1698 upvotes、197 comments，created: 2026-07-08，rank score: 15.77。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1ur4qf0/us_military_is_conducting_fresh_strikes_on_iran/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Russia Bans Diesel Exports After Ukraine’s Refinery Attacks",
+    "summary": "Russia Bans Diesel Exports After Ukraine’s Refinery Attacks，2919 upvotes、83 comments，created: 2026-07-08，rank score: 15.08。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqvny1/russia_bans_diesel_exports_after_ukraines/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Russia Is Hiding Fuel for Crimea in Water and Milk Tankers",
+    "summary": "Russia Is Hiding Fuel for Crimea in Water and Milk Tankers，2427 upvotes、93 comments，created: 2026-07-08，rank score: 15.05。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqv0oi/russia_is_hiding_fuel_for_crimea_in_water_and/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Trump says interim deal with Iran is 'over' at NATO summit...",
+    "summary": "Trump says interim deal with Iran is 'over' at NATO summit...，1153 upvotes、163 comments，created: 2026-07-08，rank score: 15.05。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqn4rj/trump_says_interim_deal_with_iran_is_over_at_nato/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Russia has found way to jam Starlink and take down Ukraine’s drones",
+    "summary": "Russia has found way to jam Starlink and take down Ukraine’s drones，1308 upvotes、134 comments，created: 2026-07-09，rank score: 15.03。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uriak8/russia_has_found_way_to_jam_starlink_and_take/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Trump says he's 'not sure' he wants Iran deal as Hormuz Strait strife deepens",
+    "summary": "Trump says he's 'not sure' he wants Iran deal as Hormuz Strait strife deepens，806 upvotes、175 comments，created: 2026-07-08，rank score: 14.85。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1ur2oti/trump_says_hes_not_sure_he_wants_iran_deal_as/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Devs who make or have made printer drivers: what's the deal?",
+    "summary": "I've been making software for over 10 years and I am genuinely curious what goes on with companies that make printers. It struck me, after pulling my hair out trying to print a 2 page paper form, that I've been struggling with printers for decades at this poi...，640 upvotes、203 comments，created: 2026-07-08，rank score: 14.80。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uqt0bq/devs_who_make_or_have_made_printer_drivers_whats/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: Waffles are superior to pancakes in every way.",
+    "summary": "Waffles are specifically designed to hold toppings better like syrup or butter, thus eliminating waste from toppings falling off the waffle. Also, waffles hold their shape better and generally have a better portion size due to typically being divided in 4 seg...，321 upvotes、311 comments，created: 2026-07-08，rank score: 14.76。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1ur8fal/cmv_waffles_are_superior_to_pancakes_in_every_way/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "CTV News in Türkiye: Erdogan gave pistols as gifts to NATO leaders. Carney turned his over to the RCMP",
+    "summary": "CTV News in Türkiye: Erdogan gave pistols as gifts to NATO leaders. Carney turned his over to the RCMP，1100 upvotes、111 comments，created: 2026-07-09，rank score: 14.57。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1urclet/ctv_news_in_türkiye_erdogan_gave_pistols_as_gifts/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CMV: Public opinion in the US is being heavily and inaccurately swayed by conservative media",
+    "summary": "When Biden was president, economy was recovering after Covid etc - after a while those numbers were genuinely good and healthy however the consumer sentiment remained that economy was doing poorly. Stock market reflected that sentiment - limited historic heig...，323 upvotes、267 comments，created: 2026-07-08，rank score: 14.52。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uqykv1/cmv_public_opinion_in_the_us_is_being_heavily_and/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "International timekeepers to vote on changing the leap second to a leap hour",
+    "summary": "International timekeepers to vote on changing the leap second to a leap hour，923 upvotes、122 comments，created: 2026-07-08，rank score: 14.49。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1ur442i/international_timekeepers_to_vote_on_changing_the/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Erdogan gave pistols to NATO leaders, Starmer says",
+    "summary": "Erdogan gave pistols to NATO leaders, Starmer says，981 upvotes、104 comments，created: 2026-07-09，rank score: 14.36。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1urc14u/erdogan_gave_pistols_to_nato_leaders_starmer_says/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Five NATO Members Hit GDP 3.5% Defense Spending Target Nearly Decade Early",
+    "summary": "Five NATO Members Hit GDP 3.5% Defense Spending Target Nearly Decade Early，1114 upvotes、98 comments，created: 2026-07-08，rank score: 14.33。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqqkla/five_nato_members_hit_gdp_35_defense_spending/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Reliance on LLMs is killing people's mental models and stripping people of the ability to process the information and generate ideas/insights in the background - when resting.",
+    "summary": "I used to be able to see to fully visualize the solutions I wrote manually in my mind and navigate these solutions line by line, having a strong mental model of how things connect, what lives where, what are the alternatives etc. But then I took a LLM to the ...，493 upvotes、172 comments，created: 2026-07-08，rank score: 14.27。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uqloh5/reliance_on_llms_is_killing_peoples_mental_models/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "New US attacks on Iran were absolutely necessary, says Nato chief",
+    "summary": "New US attacks on Iran were absolutely necessary, says Nato chief，397 upvotes、200 comments，created: 2026-07-08，rank score: 14.27。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqmgkx/new_us_attacks_on_iran_were_absolutely_necessary/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CMV: It is weird for older generations to care about Gen Z having less sex",
+    "summary": "So I've noticed this a lot as I've browsed other subs, listened to podcasts, or even looked on Facebook groups of common adults- that being that there seems to be many older people who are weirdly concerned about Gen Z having less sex. I see them hitting on t...，137 upvotes、311 comments，created: 2026-07-07，rank score: 13.77。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uq9yku/cmv_it_is_weird_for_older_generations_to_care/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is 'over'",
+    "summary": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is 'over'，887 upvotes、70 comments，created: 2026-07-08，rank score: 13.70。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1ur8wmo/oil_prices_rise_and_stocks_drop_worldwide_after/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Is Frontend Hiring Slowing Down Because of AI? 4+ Years of Experience and Struggling to find anything.",
+    "summary": "My last contract ended about three months ago, and I’ve been searching for new work since then. I have 4+ years of experience with React, Next.js, Three.js, and React Native. I have tried LinkedIn, asking in my network, YC, Wellfound, and Ashby google search....，198 upvotes、215 comments，created: 2026-07-08，rank score: 13.70。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uqr0dw/is_frontend_hiring_slowing_down_because_of_ai_4/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Russia Puts Finland on Nuclear Target List After Weapons Law Change",
+    "summary": "Russia Puts Finland on Nuclear Target List After Weapons Law Change，425 upvotes、123 comments，created: 2026-07-08，rank score: 13.68。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqr9w9/russia_puts_finland_on_nuclear_target_list_after/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Railway bridge attacked in northwestern Iran",
+    "summary": "Railway bridge attacked in northwestern Iran，469 upvotes、107 comments，created: 2026-07-09，rank score: 13.66。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uragdm/railway_bridge_attacked_in_northwestern_iran/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "One of her books is banned in Utah schools. Now, she’s coming to the first Salt Lake Book Festival.",
+    "summary": "One of her books is banned in Utah schools. Now, she’s coming to the first Salt Lake Book Festival.，631 upvotes、159 comments，created: 2026-07-02，rank score: 13.58。",
+    "url": "https://www.reddit.com/r/books/comments/1ulhe80/one_of_her_books_is_banned_in_utah_schools_now/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "summary": "Decoding the obfuscated bash script on a Uniqlo t-shirt，664 upvotes、75 comments，created: 2026-07-08，rank score: 13.46。",
+    "url": "https://www.reddit.com/r/programming/comments/1uqu6au/decoding_the_obfuscated_bash_script_on_a_uniqlo/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Mitsotakis on F-35s: “The sensitivities of all NATO members must be taken into account; an alliance cannot exist while Greece faces a casus belli”",
+    "summary": "Mitsotakis on F-35s: “The sensitivities of all NATO members must be taken into account; an alliance cannot exist while Greece faces a casus belli”，457 upvotes、86 comments，created: 2026-07-08，rank score: 13.26。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqqnn6/mitsotakis_on_f35s_the_sensitivities_of_all_nato/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Announcing TypeScript 7.0",
+    "summary": "Announcing TypeScript 7.0，348 upvotes、68 comments，created: 2026-07-08，rank score: 12.69。",
+    "url": "https://www.reddit.com/r/programming/comments/1uqx3mn/announcing_typescript_70/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Would V.C. Andrews' original books be published today without controversy?",
+    "summary": "I haven't read any V.C. Andrews in, like, 20 years, but I found out My Sweet Audrina (my favourite V.C. Andrews) had a sequel, Whitefern. I had to read it. I was disappointed, but that kind of goes without saying. I hated the Andrew Neiderman additions to The...，162 upvotes、110 comments，created: 2026-07-07，rank score: 12.38。",
+    "url": "https://www.reddit.com/r/books/comments/1upkj71/would_vc_andrews_original_books_be_published/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "International sting arrests 24 over India-based organized crime | An international operation against Indian organized crime groups has led to 24 arrests including in connection with the assassination in Canada of a prominent Sikh figure",
+    "summary": "International sting arrests 24 over India-based organized crime | An international operation against Indian organized crime groups has led to 24 arrests including in connection with the assassination in Canada of a prominent Sikh figure，314 upvotes、57 comments，created: 2026-07-08，rank score: 12.36。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1ur1ztl/international_sting_arrests_24_over_indiabased/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "We are all just testers now",
+    "summary": "I plan my specs. Claude implement it. 80% of my daily work now is testing Claud's output.，165 upvotes、88 comments，created: 2026-07-08，rank score: 12.21。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uqemns/we_are_all_just_testers_now/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "“All Quiet on the Western Front” (1929) by Erich Maria Remarque",
+    "summary": "Just finished this amazing book about WWI. For anyone interested about trench warfare and its horrible circumtances, this book is one to read. The author was drafted into the war himself, and you can tell alot of the writting betrays his sentiment about the s...，238 upvotes、67 comments，created: 2026-07-05，rank score: 11.90。",
+    "url": "https://www.reddit.com/r/books/comments/1uog5y3/all_quiet_on_the_western_front_1929_by_erich/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CMV: The ONLY reason that the USPS function is being destroyed is to route all life online and data based so our data may be sold and we can be perfectly tracked, monitored, harassed and manipulated by Gov & Big Tech.",
+    "summary": "Years ago we could have integrated basic financial services into USPS like most other civilized and uncivilized countries. It would have stabilized the solvency of the USPS even with the pre-fund the next 50 years requirement applied by certain parties. The p...，50 upvotes、151 comments，created: 2026-07-08，rank score: 11.88。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uqzyz9/cmv_the_only_reason_that_the_usps_function_is/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "META: Rule E Change (3 Hours To 2 Hours)",
+    "summary": "A frequent user complaint has been that Rule E is too lenient, and OPs should be required to start responding sooner out of respect for commenter's time and effort. To help address this concern, the rule is now, Only post if you are willing to have a conversa...，100 upvotes、92 comments，created: 2026-07-08，rank score: 11.86。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uquxg1/meta_rule_e_change_3_hours_to_2_hours/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Hegseth cancels meeting with Netanyahu over possible sale of F-35s to Turkey, source tells Reuters",
+    "summary": "Hegseth cancels meeting with Netanyahu over possible sale of F-35s to Turkey, source tells Reuters，329 upvotes、37 comments，created: 2026-07-08，rank score: 11.76。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1uqop36/hegseth_cancels_meeting_with_netanyahu_over/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Getting back into webdev after 15 year hiatus",
+    "summary": "Getting back into webdev after 15 year hiatus，103 upvotes、88 comments，created: 2026-07-07，rank score: 11.70。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uq2ul3/getting_back_into_webdev_after_15_year_hiatus/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: technology should give us more employment and lesser work.",
+    "summary": "Hello everyone, Made a post on X about what the title says. Would love to hear your thoughts on it. The 40-hour work week was a concession made to the labor movement in 1926. In 2024, with AI and automation, we should be working 15 hours for the same pay. Ins...，86 upvotes、91 comments，created: 2026-07-08，rank score: 11.69。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uqv6yq/cmv_technology_should_give_us_more_employment_and/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "DevOps is one of the most vaguely defined roles in tech, and I think that's exactly the point",
+    "summary": "DevOps spans a huge range: CI/CD, security, SRE, DevEx, each with its own sub functions. At big companies, engineers often specialize in one. At startups, you juggle all of them at once, usually by necessity. Here's the distinction I keep coming back to: DevO...，179 upvotes、57 comments，created: 2026-07-07，rank score: 11.65。",
+    "url": "https://www.reddit.com/r/devops/comments/1uq3g3d/devops_is_one_of_the_most_vaguely_defined_roles/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "What's the best advice you've received from a manager or senior developers?",
+    "summary": "What's the best advice or feedback you've received from a manager, senior developer, or colleague that changed the way you think or work? I'd love to hear the advice and how it impacted you.，55 upvotes、84 comments，created: 2026-07-09，rank score: 11.22。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1urg0tk/whats_the_best_advice_youve_received_from_a/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "What's the best advice you've received from a manager or senior developer?",
+    "summary": "What's the best advice or feedback you've received from a manager, senior developer, or colleague that changed the way you think or work? I'd love to hear the advice and how it impacted you.，52 upvotes、71 comments，created: 2026-07-08，rank score: 10.81。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uqmdmo/whats_the_best_advice_youve_received_from_a/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Vercel acquired BetterAuth",
+    "summary": "https://better-auth.com/blog/better-auth-joins-vercelhttps://vercel.com/blog/vercel-acquires-better-auth，98 upvotes、40 comments，created: 2026-07-07，rank score: 10.60。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uqb575/vercel_acquired_betterauth/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "What gets asked in 2026 Interview?",
+    "summary": "Got way too complacent in current role and want to explore outside for career growth. Is the interview still the standard system design + leetcode? Or is the trend finally changing with AI adoption? Would appreciate some data points from recent interviewees i...，55 upvotes、47 comments，created: 2026-07-08，rank score: 10.36。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1ur16w3/what_gets_asked_in_2026_interview/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Learn PHP in 2026 (Yes, Really)",
+    "summary": "Learn PHP in 2026 (Yes, Really)，52 upvotes、55 comments，created: 2026-07-07，rank score: 10.35。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uptoy2/learn_php_in_2026_yes_really/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: Major tournaments s.a., Wimbledon should not grant past legends wildcards without verifying their level",
+    "summary": "Wimbledon 2026 granted Serena Williams a wildcard entry. Williams, who is the GOAT of the sport, an absolute legend, and one of my favorite players, lost in the first round. The player who beat her, Maya Joint, is currently ranked #87. Tournaments have every ...，65 upvotes、56 comments，created: 2026-07-03，rank score: 10.02。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1umdnlo/cmv_major_tournaments_sa_wimbledon_should_not/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "How To practice DevOps",
+    "summary": "Hi, so I'm in my last year of university.I started my journey as a backend engineer, back in when I was in college.I always wanted to move to DevOps but didn't move because I thought I should have knowledge about the architecture and different concepts relate...，113 upvotes、33 comments，created: 2026-07-04，rank score: 10.00。",
+    "url": "https://www.reddit.com/r/devops/comments/1unbsci/how_to_practice_devops/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: The new EU rule for small goods import only benifits resellers",
+    "summary": "Recently the EU passed a law that small packages (priced less then 150€) comming from outside of the EU have to pay a customs fee as well which was previously excluded (this is obviously now part of the price for end-consumers). The communicated motivations b...，61 upvotes、64 comments，created: 2026-07-02，rank score: 9.98。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uld5eq/cmv_the_new_eu_rule_for_small_goods_import_only/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "How do you put long state into URLs?",
+    "summary": "Greetings, So I know that URL shouldn’t be longer than 2k characters (domain, protocol included). It can be longer, but to be sure to work crossplatforms it should be under. Recently I made an internal tool at work at I in my naiveté put whole state of multis...，37 upvotes、72 comments，created: 2026-07-03，rank score: 9.79。",
+    "url": "https://www.reddit.com/r/webdev/comments/1um8jar/how_do_you_put_long_state_into_urls/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
+    "summary": "A thread for Developers and IT folks with less experience to ask more experienced souls questions about the industry. Please keep top level comments limited to Inexperienced Devs. Most rules do not apply, but keep it civil. Being a jerk will not be tolerated....，34 upvotes、58 comments，created: 2026-07-06，rank score: 9.79。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uohmk7/ask_experienced_devs_weekly_thread_a_weekly/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I got frustrated with multiple PDFs so I built a 2D canvas for it",
+    "summary": "I got frustrated with multiple PDFs so I built a 2D canvas for it，59 upvotes、43 comments，created: 2026-07-04，rank score: 9.71。",
+    "url": "https://www.reddit.com/r/webdev/comments/1un9vq3/i_got_frustrated_with_multiple_pdfs_so_i_built_a/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I am in a tough spot and i don't see any out, need help with career",
+    "summary": "To give some background to myself I'm a full stack developer with a bachelor's degree in CS and 5 years of experience freelancing 2 of which is kinda just doing html/css websites for free/very cheap so I'm not sure if those even count, 3 years I've ever worke...，39 upvotes、45 comments，created: 2026-07-06，rank score: 9.68。",
+    "url": "https://www.reddit.com/r/webdev/comments/1up5xwk/i_am_in_a_tough_spot_and_i_dont_see_any_out_need/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Third Party Culture Surveys, Lie, Ignore or Be Honest",
+    "summary": "Companies usually say they’re anonymous, but of course that doesn’t mean they can’t trace it back to that employee.. Would you ignore the survey completely, be brutally honest, or lie so the company score is 10/10…，44 upvotes、53 comments，created: 2026-07-03，rank score: 9.60。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1ummq3k/third_party_culture_surveys_lie_ignore_or_be/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Unicode's Transliteration Rules Are Turing-Complete",
+    "summary": "Unicode's Transliteration Rules Are Turing-Complete，140 upvotes、13 comments，created: 2026-07-08，rank score: 9.51。",
+    "url": "https://www.reddit.com/r/programming/comments/1uqny65/unicodes_transliteration_rules_are_turingcomplete/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "The Rise of the Command Line: building a new IDE (2017–2026). Rune Blog",
+    "summary": "The Rise of the Command Line: building a new IDE (2017–2026). Rune Blog，78 upvotes、32 comments，created: 2026-07-02，rank score: 9.31。",
+    "url": "https://www.reddit.com/r/programming/comments/1ulnj89/the_rise_of_the_command_line_building_a_new_ide/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "How likely is an ADA claim to force me to pay some sort of cost?",
+    "summary": "I'm a beginner web developer, and I literally just found out about ADA. I'm confused, because, to my understanding so far, it seems like any predatory lawyer could file a claim against any website, and even if its mostly compliant, force you to pay settlement...，15 upvotes、67 comments，created: 2026-07-06，rank score: 9.22。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uol5s3/how_likely_is_an_ada_claim_to_force_me_to_pay/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Faster Builds with Elm 0.19.2",
+    "summary": "Faster Builds with Elm 0.19.2，77 upvotes、20 comments，created: 2026-07-06，rank score: 9.21。",
+    "url": "https://www.reddit.com/r/programming/comments/1uoumse/faster_builds_with_elm_0192/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "The Engineer in the Half-Space",
+    "summary": "The Engineer in the Half-Space，72 upvotes、23 comments，created: 2026-07-05，rank score: 9.20。",
+    "url": "https://www.reddit.com/r/programming/comments/1uo2lk3/the_engineer_in_the_halfspace/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "DevOps engineers who freelance: How did you get your first client?",
+    "summary": "I'm curious how experienced DevOps engineers got started with freelancing or part-time consulting. I currently work full-time as a DevOps engineer and have experience with AWS, Kubernetes, Terraform, Docker, Linux, CI/CD, monitoring, and cloud infrastructure....，78 upvotes、22 comments，created: 2026-07-05，rank score: 9.16。",
+    "url": "https://www.reddit.com/r/devops/comments/1unru10/devops_engineers_who_freelance_how_did_you_get/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I'm starting a new movement",
+    "summary": "I am officially declaring the start (in my mind) of #MRBA That stands for \"Make Releases Boring Again\" This was prompted by a Release Engineer job posting that was your usual \"just be on 24/7 on every communication channel during release windows\". So every fe...，59 upvotes、21 comments，created: 2026-07-06，rank score: 9.04。",
+    "url": "https://www.reddit.com/r/devops/comments/1up28y5/im_starting_a_new_movement/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+    "summary": "Zig: All Package Management Functionality Moved from Compiler to Build System，145 upvotes、12 comments，created: 2026-07-05，rank score: 9.04。",
+    "url": "https://www.reddit.com/r/programming/comments/1uo2krr/zig_all_package_management_functionality_moved/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Floating point from scratch: Hard Mode",
+    "summary": "Floating point from scratch: Hard Mode，145 upvotes、12 comments，created: 2026-07-05，rank score: 8.98。",
+    "url": "https://www.reddit.com/r/programming/comments/1unt3dw/floating_point_from_scratch_hard_mode/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "How is a Webhook Different From a PUSH API?",
+    "summary": "I'm an Implementation Manager and I'm looking for clarification regarding the difference between a webhook and a PUSH API. Is \"webhook\" just just another name for a PUSH API, or are they two different things? If a webhook is different from a PUSH API, how are...，26 upvotes、34 comments，created: 2026-07-07，rank score: 8.96。",
+    "url": "https://www.reddit.com/r/webdev/comments/1upisf5/how_is_a_webhook_different_from_a_push_api/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Weekly Self Promotion Thread",
+    "summary": "Hey r/devops, welcome to our weekly self-promotion thread! Feel free to use this thread to promote any projects, ideas, or any repos you're wanting to share. Please keep in mind that we ask you to stay friendly, civil, and adhere to the subreddit rules!，18 upvotes、43 comments，created: 2026-07-06，rank score: 8.80。",
+    "url": "https://www.reddit.com/r/devops/comments/1uopcqy/weekly_self_promotion_thread/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "After one year of existence meet the isthistechdead.com new full UI revamp.",
+    "summary": "After one year of existence meet the isthistechdead.com new full UI revamp.，42 upvotes、27 comments，created: 2026-07-04，rank score: 8.80。",
+    "url": "https://www.reddit.com/r/webdev/comments/1unmbhw/after_one_year_of_existence_meet_the/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "what are some must read RFCs for webdev",
+    "summary": "as the question says, are there any must read RFCs for WebDev concepts? I've recently started reading RFCs instead of relying only on documentation and blog posts, and I've found them surprisingly approachable once you get past the formal language. So far, I'...，38 upvotes、20 comments，created: 2026-07-07，rank score: 8.68。",
+    "url": "https://www.reddit.com/r/webdev/comments/1upyjtn/what_are_some_must_read_rfcs_for_webdev/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Self-managed GitLab is slowly killing our sprint time. Is SaaS actually worth it if compliance is the only reason we're still on-prem?",
+    "summary": "I've been maintaining self-managed GitLab for about 3 years now, mostly because compliance wouldn't sign off on anything cloud back when we set it up. Lately, it feels like every sprint someone eats half a day on runner issues or version bumps that break some...，19 upvotes、52 comments，created: 2026-07-02，rank score: 8.60。",
+    "url": "https://www.reddit.com/r/devops/comments/1uln2k4/selfmanaged_gitlab_is_slowly_killing_our_sprint/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "What are full stack interviews like these days?",
+    "summary": "So I was recently laid off lol and I'm feeling a bit lost in regards to how I should be prepping for interviews now that we're in this age of AI. I have 5 YOE at 2 companies and my prior experience interviewing and getting an offer looked like the following: ...，16 upvotes、34 comments，created: 2026-07-07，rank score: 8.58。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uq0vnh/what_are_full_stack_interviews_like_these_days/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "My saas hit $2k mrr in 4 months. here's the full breakdown : system, mistakes, and what i'd do again",
+    "summary": "My saas hit $2k mrr in 4 months. here's the full breakdown : system, mistakes, and what i'd do again，208 upvotes、129 comments ，类型：讨论信号，评分：8.5/10。",
+    "url": "https://www.reddit.com/r/SaaS/comments/1ujq0ww/my_saas_hit_2k_mrr_in_4_months_heres_the_full/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Need an Azure learning path for an internal transfer to DevOps (2-3 month timeline)",
+    "summary": "Need an Azure learning path for an internal transfer to DevOps (2-3 month timeline)，38 upvotes、16 comments，created: 2026-07-08，rank score: 8.47。",
+    "url": "https://www.reddit.com/r/devops/comments/1uqjb9j/need_an_azure_learning_path_for_an_internal/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Which countries pay DevOps Engineers, SREs, and Forward Deployed Engineers the best?",
+    "summary": "I'm curious about where these roles are most popular and well compensated. Which countries offer the highest salaries for DevOps, SRE, and Forward Deployed Engineers? Where is the demand strongest? Are Forward Deployed Engineer roles mostly concentrated in th...，7 upvotes、66 comments，created: 2026-07-04，rank score: 8.31。",
+    "url": "https://www.reddit.com/r/devops/comments/1unfk0l/which_countries_pay_devops_engineers_sres_and/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Trust your compiler: Modern C++",
+    "summary": "Trust your compiler: Modern C++，49 upvotes、15 comments，created: 2026-07-05，rank score: 8.27。",
+    "url": "https://www.reddit.com/r/programming/comments/1uo5muy/trust_your_compiler_modern_c/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Why Argo Workflows CI?",
+    "summary": "I've been using Argo Workflows for some time for small projects and I'm wondering what your reason is for using it. Here are a number of negatives that I encountered: The most annoying first: Integration with git hubs/platforms is non-existant unless I deploy...，20 upvotes、36 comments，created: 2026-07-02，rank score: 8.18。",
+    "url": "https://www.reddit.com/r/devops/comments/1ulusn9/why_argo_workflows_ci/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Understanding Traceroute",
+    "summary": "Understanding Traceroute，39 upvotes、19 comments，created: 2026-07-03，rank score: 8.00。",
+    "url": "https://www.reddit.com/r/programming/comments/1um4hyx/understanding_traceroute/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?",
+    "summary": "Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?，123 upvotes、7 comments，created: 2026-07-03，rank score: 7.92。",
+    "url": "https://www.reddit.com/r/programming/comments/1umi3j4/hunting_a_16yearold_sqlite_bug_with_tla_is_dqlite/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Writing Node.js addons with .NET Native AOT",
+    "summary": "Writing Node.js addons with .NET Native AOT，22 upvotes、19 comments，created: 2026-07-05，rank score: 7.81。",
+    "url": "https://www.reddit.com/r/programming/comments/1uo7nnh/writing_nodejs_addons_with_net_native_aot/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Leaving K8s platform engineering for an internal dev-tooling/CI-CD role",
+    "summary": "I am currently building a central \"Cluster-as-a-Service\" platform nd deal with automated cluster provisioning, multi-tenant setup, observability work, kubernetes security etc. I also contribute upstream to K8s-sigs. The company I work for is rather unknown an...，27 upvotes、15 comments，created: 2026-07-05，rank score: 7.71。",
+    "url": "https://www.reddit.com/r/devops/comments/1uoatjd/leaving_k8s_platform_engineering_for_an_internal/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Leaving Your Cloud Provider Is About to Get Cheaper - by Law",
+    "summary": "Leaving Your Cloud Provider Is About to Get Cheaper - by Law，38 upvotes、9 comments，created: 2026-07-07，rank score: 7.62。",
+    "url": "https://www.reddit.com/r/devops/comments/1uprgk7/leaving_your_cloud_provider_is_about_to_get/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Open/wide vs closed/deep contributors",
+    "summary": "Sometimes I wonder how 'available' I should be as a senior IC. Some engineers cloister & deliver on a narrow context. Others are more open, and generous with time. I have a hard time figuring out whether my usual stance (usually the latter) is useful or not c...，16 upvotes、14 comments，created: 2026-07-08，rank score: 7.52。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uqvysf/openwide_vs_closeddeep_contributors/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Looking for advice on transitioning from Sysadmin to DevOps",
+    "summary": "I'm looking to apply to devops/sre positions to change my current job and have a profesional glow up, i no longer feel challenged project from my job and i am stating to just doing app maintaenance and helpdesk tasks. I am a sysadmin with hands on production ...，14 upvotes、14 comments，created: 2026-07-08，rank score: 7.42。",
+    "url": "https://www.reddit.com/r/devops/comments/1ur3a7j/looking_for_advice_on_transitioning_from_sysadmin/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "My app is finally live (kinda)?",
+    "summary": "Between watching the niners, RedZone, fantasy apps, X, podcasts, and group chats, keeping up with football means constantly switching screens. That became much harder once I had a kid and started traveling more and couldn’t be in front of ...，7 upvotes、4 comments ，类型：竞品/新工具，评分：7.3/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1u9q83r/my_app_is_finally_live_kinda/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "In your experience what are LLMs actually useful for?",
+    "summary": "The trend I keep hearing is that LLMs absolutely need to be paired with strong engineering practices or inexperienced devs make a mess. But recently I read on Thoughtworks that they recommended adopting Claude (assuming that proper engineering). That raises t...，0 upvotes、137 comments，created: 2026-07-04，rank score: 7.23。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1undvs9/in_your_experience_what_are_llms_actually_useful/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Hope Driven Development (HDD)",
+    "summary": "Hope Driven Development (HDD)，207 upvotes、31 comments ，类型：讨论信号，评分：7.2/10。",
+    "url": "https://www.reddit.com/r/SaaS/comments/1ui4eq2/hope_driven_development_hdd/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Additional burden of hosing AI apps",
+    "summary": "With AI, business and product teams are creating apps left and right. They dont understand what the code is doing, no clue about security or how to host it. This burden falls on DevOps/Engineering to now maintain it, fix it. Authors are still considered the o...，8 upvotes、17 comments，created: 2026-07-08，rank score: 7.17。",
+    "url": "https://www.reddit.com/r/devops/comments/1ur4nwc/additional_burden_of_hosing_ai_apps/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Online compilers just print output so I built one that shows your code actually running",
+    "summary": "Online compilers just print output so I built one that shows your code actually running，21 upvotes、13 comments，created: 2026-07-04，rank score: 7.07。",
+    "url": "https://www.reddit.com/r/webdev/comments/1un3pod/online_compilers_just_print_output_so_i_built_one/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Odd manager behavior - looking for opinions",
+    "summary": "I've been working at a local startup as a DevOps engineer for the past year. I have a total of around 3 years of experience, which is considered mid-level at best. I've worked with various technologies and I'm not that confident in my technical skills but I d...，11 upvotes、13 comments，created: 2026-07-06，rank score: 6.83。",
+    "url": "https://www.reddit.com/r/devops/comments/1upabcd/odd_manager_behavior_looking_for_opinions/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Docs as Code implementation for Infrastructure",
+    "summary": "Hi there Recently I was tasked to write documentation for our infrastructure in \"doc as code\" way but I have not very well grasped what it is The only requirement my team leads has is that the documents should be enough for any new person to understand our in...，7 upvotes、14 comments，created: 2026-07-08，rank score: 6.77。",
+    "url": "https://www.reddit.com/r/devops/comments/1uqwjuf/docs_as_code_implementation_for_infrastructure/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "How do you actually separate CI/CD pipelines for AKS across dev/qa/uat/prod in Azure DevOps?",
+    "summary": "Hey Folks, need your advice badly , I'm building out a CI/CD flow for AKS using Azure DevOps Pipelines (not ArgoCD/GitOps for this one, using native Azure Pipelines + KubernetesManifest@1 tasks). Trying to understand what people actually do in production. The...，11 upvotes、12 comments，created: 2026-07-06，rank score: 6.73。",
+    "url": "https://www.reddit.com/r/devops/comments/1upcl17/how_do_you_actually_separate_cicd_pipelines_for/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "The mask that compiles to nothing: how HotSpot's JIT learned to reason about bits",
+    "summary": "The mask that compiles to nothing: how HotSpot's JIT learned to reason about bits，38 upvotes、4 comments，created: 2026-07-07，rank score: 6.65。",
+    "url": "https://www.reddit.com/r/programming/comments/1ups1cn/the_mask_that_compiles_to_nothing_how_hotspots/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "What To Learn To Be A Real Time Graphics Programmer",
+    "summary": "What To Learn To Be A Real Time Graphics Programmer，59 upvotes、5 comments，created: 2026-07-02，rank score: 6.61。",
+    "url": "https://www.reddit.com/r/programming/comments/1uleauv/what_to_learn_to_be_a_real_time_graphics/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Why are so many people moving away from Supabase/Railway for production?",
+    "summary": "Over the last few months I've noticed a pattern. People love Supabase, Railway, etc. when they're building an MVP. But once the app starts getting real users, the conversations seem to change. Something similar happened with me- when I sta...，24 upvotes、38 comments ，类型：讨论信号，评分：6.6/10。",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1uq4bjv/why_are_so_many_people_moving_away_from/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Security you can't justify is a vicious cycle",
+    "summary": "Security you can't justify is a vicious cycle，11 upvotes、9 comments，created: 2026-07-07，rank score: 6.47。",
+    "url": "https://www.reddit.com/r/devops/comments/1upzq3o/security_you_cant_justify_is_a_vicious_cycle/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Changing one default did more for my app's first-run than the last three features I shipped",
+    "summary": "Quick disclosure: I build TuringShot, a macOS live screen-effects app, so this comes from my own product. No pitch and no link here, just a lesson that genuinely surprised me. For months I ran my roadmap as a feature list: ship a feature, ...，21 upvotes、59 comments ，类型：讨论信号，评分：6.4/10。",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1unprzj/changing_one_default_did_more_for_my_apps/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Girls Just Wanna Have Fast Wait-free MPMC Queues · Nahla",
+    "summary": "Girls Just Wanna Have Fast Wait-free MPMC Queues · Nahla，44 upvotes、3 comments，created: 2026-07-06，rank score: 6.36。",
+    "url": "https://www.reddit.com/r/programming/comments/1up1c4a/girls_just_wanna_have_fast_waitfree_mpmc_queues/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I’m coding my replacement",
+    "summary": "Well, it’s finally happened. I am starting to code my replacement via AI, that’s my current task at work. And I think im excited. Because I really truly want an AI that can do things for me at the push of a button. Like that is the goal right? For anyone to g...，0 upvotes、44 comments，created: 2026-07-08，rank score: 6.22。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uqu8sy/im_coding_my_replacement/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "What's the fastest you've ever made your first code commit after starting a new job?",
+    "summary": "Just joined a new company and it got me wondering... What's the fastest you've ever made your first code commit after starting a new job? Was it day one, day two, or did onboarding and environment setup take a while before you touched any code?，0 upvotes、43 comments，created: 2026-07-08，rank score: 6.19。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uqu5hw/whats_the_fastest_youve_ever_made_your_first_code/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Just Keep At It: A Decade at Mozilla",
+    "summary": "Just Keep At It: A Decade at Mozilla，41 upvotes、2 comments，created: 2026-07-08，rank score: 6.16。",
+    "url": "https://www.reddit.com/r/programming/comments/1uqrx5n/just_keep_at_it_a_decade_at_mozilla/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Where to learn actual system design?",
+    "summary": "Hi I'm a DevOps with 4+ years of experience and even though I consider myself I'm having a good knowledge, I realized I need to learn system design in an actual production way Like what stack and architecture to use in a specific case Where do I learn that? D...，10 upvotes、13 comments，created: 2026-07-02，rank score: 6.12。",
+    "url": "https://www.reddit.com/r/devops/comments/1ulhurm/where_to_learn_actual_system_design/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "did u build something worth checking",
+    "summary": "Drop it here; let people see it，3 upvotes、37 comments ，类型：讨论信号，评分：6.0/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1ur8z9f/did_u_build_something_worth_checking/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Admin/Personal Finance App Idea",
+    "summary": "Would you pay for a monthly subscription to an app that helps you stay on top of personal admin and finances? The app would scan bills, documents and relevant emails in read-only mode, pulling out key details like due dates, bill amounts, ...，1 upvotes、3 comments ，类型：痛点/需求，评分：5.8/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1ur6x2g/adminpersonal_finance_app_idea/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "National Park animal sighting tracker",
+    "summary": "I just went on a safari in Africa and while it was amazing, the guides spent so much time hunting for animals. The best source of information for them was the other guides they would pass. They would stop their jeep, chat about the animals...，2 upvotes、12 comments ，类型：竞品/新工具，评分：5.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1uqye4t/national_park_animal_sighting_tracker/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Learning budget",
+    "summary": "I'm a full-stack web dev with 3 YOE trying to migrate into devops. So, I'm collaborating with a friend who is building a mobile app with node server, SQL db and I'm responsible for the infrastructure. I'd like to try stuff like github actions, docker, managed...，4 upvotes、14 comments，created: 2026-07-03，rank score: 5.59。",
+    "url": "https://www.reddit.com/r/devops/comments/1uminm5/learning_budget/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I built a 100% serverless, local-first PDF toolkit (Images to PDF, Compress, PDF to Word) with no ads or sign-ups.",
+    "summary": "Hi everyone, I wanted to share pdfcevir https://pdfcevir.vercel.app/, a side project I've been working on recently. I built it because I was genuinely tired of web-based PDF tools that hide basic features behind paywalls, limit file sizes,...，1 upvotes、5 comments ，类型：竞品/新工具，评分：5.5/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1urj9k5/i_built_a_100_serverless_localfirst_pdf_toolkit/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I built a tennis game where your webcam becomes the controller",
+    "summary": "I wanted to build something that made sports more accessible. So I started working on LiveWebTennis, a browser tennis game where you use your actual body to play. No controller.No console.No download. You just open a browser, turn on your ...，1 upvotes、5 comments ，类型：竞品/新工具，评分：5.5/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1urh5sq/i_built_a_tennis_game_where_your_webcam_becomes/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Understanding Postgres 19 Property Graphs",
+    "summary": "Understanding Postgres 19 Property Graphs，29 upvotes、2 comments，created: 2026-07-05，rank score: 5.43。",
+    "url": "https://www.reddit.com/r/programming/comments/1uo93ap/understanding_postgres_19_property_graphs/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "inup — Interactive upgrades for npm, pnpm, yarn & bun (like yarn upgrade-interactive, but for everyone)",
+    "summary": "inup — Interactive upgrades for npm, pnpm, yarn & bun (like yarn upgrade-interactive, but for everyone)，15 upvotes、4 comments，created: 2026-07-04，rank score: 5.32。",
+    "url": "https://www.reddit.com/r/webdev/comments/1un503m/inup_interactive_upgrades_for_npm_pnpm_yarn_bun/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Built a curated list of official DevOps / Cloud / SRE MCP servers and agent skills",
+    "summary": "Hi folks, I’ve been collecting and organizing official MCP servers, agent skills, and agent toolkits for DevOps, cloud, platform engineering, SRE, security, IaC, observability, and diagramming workflows. Repo: https://github.com/DevOpsAIguru123/awesome-agenti...，11 upvotes、6 comments，created: 2026-07-02，rank score: 5.28。",
+    "url": "https://www.reddit.com/r/devops/comments/1ulsqih/built_a_curated_list_of_official_devops_cloud_sre/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "How to structure scoring live traffic",
+    "summary": "We've had offline evals as part of our CI for a while now, but last month we got hit with something that none of our CI runs flagged. Our production inputs had drifted and users were asking things our test set just didn't cover, and output quality on that sec...，3 upvotes、9 comments，created: 2026-07-06，rank score: 5.26。",
+    "url": "https://www.reddit.com/r/devops/comments/1upa4lk/how_to_structure_scoring_live_traffic/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "After missing a gate change on a layover, I built the travel app I wish existed — feedback wanted before I keep going",
+    "summary": "Long-time lurker. I travel a handful of times a year and every single trip I hit the same two problems: I never actually know 𝐰𝐡𝐞𝐧 𝐭𝐨 𝐥𝐞𝐚𝐯𝐞 for the airport. I have the flight time, sure, but then I'm mentally doing the \"okay minus security...，0 upvotes、4 comments ，类型：竞品/新工具，评分：5.2/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1urj45c/after_missing_a_gate_change_on_a_layover_i_built/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Built a passport image tool that works locally",
+    "summary": "I searched for tools to create a passport image grid for printing, but couldn't find any free ones, some either ask to pay at the last step or some require my image to be uploaded on their servers. So I made one Resize-it , it's free works...，2 upvotes、3 comments ，类型：竞品/新工具，评分：5.2/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1urit6s/built_a_passport_image_tool_that_works_locally/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Need guidance !",
+    "summary": "I have 3 yrs of experience as a cloud engineer/devops worked in same company from start got one promotion and good hike all along . Want to switch to now and thinking on doing CKA certification is it worth having ?，4 upvotes、7 comments，created: 2026-07-06，rank score: 5.15。",
+    "url": "https://www.reddit.com/r/devops/comments/1up4s58/need_guidance/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "A curiosity-driven dictionary that acts like semantic radar instead of search. Looking for feedback.",
+    "summary": "A curiosity-driven dictionary that acts like semantic radar instead of search. Looking for feedback.，7 upvotes、7 comments ，类型：讨论信号，评分：4.9/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1uqtn73/a_curiositydriven_dictionary_that_acts_like/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Switching to automated driving after 8yoe as a SWE?",
+    "summary": "i have been a SWE for 8 years and i got accepted to a masters degree in Germany for automated driving, would this be a good specialty to peruse? my concern is that i'm starting from zero because it's a new field.，0 upvotes、16 comments，created: 2026-07-08，rank score: 4.84。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uqpj0l/switching_to_automated_driving_after_8yoe_as_a_swe/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Need Help with my side project",
+    "summary": "https://writer-docs-website.vercel.app/ Something I have been building for almost a year now, Its my own replacement for Obsidian and Notion, It has lots of cool features including, built in terminal, small scale kanban, spreadsheet and a ...，1 upvotes、2 comments ，类型：痛点/需求，评分：4.8/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1urjaa0/need_help_with_my_side_project/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Optimising workspace for multiple laptops?",
+    "summary": "What setup have you put in place on your desk to manage being on multiple laptops?，3 upvotes、5 comments，created: 2026-07-08，rank score: 4.75。",
+    "url": "https://www.reddit.com/r/devops/comments/1uqm1f2/optimising_workspace_for_multiple_laptops/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Find jobs in public sector",
+    "summary": "I have been working for a consulting company for more than a decade. I started as an associate software engineer and now I have grown up to associate manager level. The company itself is not doing well currently. I am thinking about a switch but I am having a...，1 upvotes、12 comments，created: 2026-07-05，rank score: 4.69。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1unsi9y/find_jobs_in_public_sector/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I built a simple music visualizer and would love some feedback.",
+    "summary": "I built a simple music visualizer and would love some feedback.，3 upvotes、3 comments ，类型：竞品/新工具，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1urgs1c/i_built_a_simple_music_visualizer_and_would_love/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "How should I program this?",
+    "summary": "Hello fellow programmers. I’m building an app where I would like the user to share what company they work at. I currently just have a field in their onboarding to fill out and I take any string they enter. Is there a safer way or a way to ...，4 upvotes、7 comments ，类型：讨论信号，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1uqjxqp/how_should_i_program_this/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "why I don't trust youtube demos of upcoming kickstarter chairs anymore",
+    "summary": "So I was scrolling through my feed the other day and came across this upcoming project for a chair called the Lavenne R9 Pro. The demo footage looked smooth and the concept is definitely interesting — but honestly, watching those polished ...，5 upvotes、10 comments ，类型：讨论信号，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1ubjoaz/why_i_dont_trust_youtube_demos_of_upcoming/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Would a place-based journal feel useful, or just like location tracking with extra steps?",
+    "summary": "No link or product pitch here; I am trying to understand the idea boundary. A lot of memory or journaling apps ask you to type everything manually, while map apps remember where you went but not why a place mattered. If an app let someone ...，3 upvotes、7 comments ，类型：讨论信号，评分：4.5/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1uqkas8/would_a_placebased_journal_feel_useful_or_just/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Mobility APP idea - For anyone",
+    "summary": "I’ve been thinking a lot about mobility, isolation, and how much life happens outside while some of us are stuck inside. Since I have recently become disabled myself and living in a 3rd story apartment has made miss out on life. So I came ...，11 upvotes、6 comments ，类型：讨论信号，评分：4.5/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1uivxxw/mobility_app_idea_for_anyone/",
+    "source": "Reddit - Apps"
+  }
+]
