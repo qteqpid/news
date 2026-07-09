@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 reddit_detail_cache/
+.runtime/
