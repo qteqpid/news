@@ -1,0 +1,30 @@
+[
+  {
+    "title": "harvard-edge/cs249r_book",
+    "link": "https://github.com/harvard-edge/cs249r_book",
+    "summary": "[Stars: 27,237] [2,085 stars this week] [Language: Python] Machine Learning Systems",
+    "published": "2026-07-10",
+    "dedupe_id": "github:harvard-edge/cs249r_book"
+  },
+  {
+    "title": "ruvnet/RuView",
+    "link": "https://github.com/ruvnet/RuView",
+    "summary": "[Stars: 79,661] [3,011 stars this week] [Language: Rust] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "published": "2026-07-10",
+    "dedupe_id": "github:ruvnet/ruview"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "link": "https://github.com/saadeghi/daisyui",
+    "summary": "[Stars: 41,524] [241 stars this week] [Language: Svelte] 🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library",
+    "published": "2026-07-10",
+    "dedupe_id": "github:saadeghi/daisyui"
+  },
+  {
+    "title": "steipete/CodexBar",
+    "link": "https://github.com/steipete/CodexBar",
+    "summary": "[Stars: 17,356] [1,643 stars this week] [Language: Swift] Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "published": "2026-07-10",
+    "dedupe_id": "github:steipete/codexbar"
+  }
+]
