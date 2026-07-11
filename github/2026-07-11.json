@@ -1,0 +1,44 @@
+[
+  {
+    "title": "wonderwhy-er/DesktopCommanderMCP",
+    "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "summary": "[Stars: 7,698] [557 stars this week] [Language: TypeScript] This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "published": "2026-07-11",
+    "dedupe_id": "github:wonderwhy-er/desktopcommandermcp"
+  },
+  {
+    "title": "tt-a1i/archify",
+    "link": "https://github.com/tt-a1i/archify",
+    "summary": "[Stars: 3,613] [1,019 stars this week] [Language: JavaScript] Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+    "published": "2026-07-11",
+    "dedupe_id": "github:tt-a1i/archify"
+  },
+  {
+    "title": "iOfficeAI/OfficeCLI",
+    "link": "https://github.com/iOfficeAI/OfficeCLI",
+    "summary": "[Stars: 14,955] [5,789 stars this week] [Language: C#] OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "published": "2026-07-11",
+    "dedupe_id": "github:iofficeai/officecli"
+  },
+  {
+    "title": "alirezarezvani/claude-skills",
+    "link": "https://github.com/alirezarezvani/claude-skills",
+    "summary": "[Stars: 22,174] [2,230 stars this week] [Language: Python] 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+    "published": "2026-07-11",
+    "dedupe_id": "github:alirezarezvani/claude-skills"
+  },
+  {
+    "title": "abseil/abseil-cpp",
+    "link": "https://github.com/abseil/abseil-cpp",
+    "summary": "[Stars: 17,664] [140 stars this week] [Language: C++] Abseil Common Libraries (C++)",
+    "published": "2026-07-11",
+    "dedupe_id": "github:abseil/abseil-cpp"
+  },
+  {
+    "title": "vxcontrol/pentagi",
+    "link": "https://github.com/vxcontrol/pentagi",
+    "summary": "[Stars: 19,870] [1,706 stars this week] [Language: Go] Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "published": "2026-07-11",
+    "dedupe_id": "github:vxcontrol/pentagi"
+  }
+]
