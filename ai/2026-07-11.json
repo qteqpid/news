@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "summary": "Meta 在舆论反弹后关闭 Instagram 上允许用户用公开账号生成 AI 图片的功能，平台对生成式图像、肖像权和同意机制的边界继续收紧。",
+    "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Instagram’s Adam Mosseri: If you don't like AI, then you shouldn't have it in your feed",
+    "summary": "Instagram 负责人 Adam Mosseri 表示平台不会简单过滤全部 AI 内容，但用户应能减少 AI 内容进入信息流，社交平台正在寻找推荐效率与用户控制之间的平衡。",
+    "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "The Download: Claude’s inner workings and OpenAI’s super app",
+    "summary": "MIT Technology Review 早报关注 Anthropic 对 Claude 内部机制的研究和 OpenAI 超级应用设想，模型透明度与产品入口之争继续并行推进。",
+    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "OpenAI 推出 ChatGPT 智能体相关动态",
+    "summary": "36氪早报提到 OpenAI 推出 ChatGPT 智能体，说明主流 AI 产品正从问答助手进一步转向可执行多步骤任务的 agent 形态。",
+    "url": "https://36kr.com/p/3890553690192384?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "派早报：OpenAI 发布 GPT-5.6 系列模型，SpaceXAI 发布 Grok 4.5",
+    "summary": "少数派早报汇总 GPT-5.6 与 Grok 4.5 等模型动态，头部模型竞争继续围绕智能体、编程和多模态能力展开。",
+    "url": "https://sspai.com/post/112143",
+    "source": "少数派"
+  },
+  {
+    "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+    "summary": "量子位报道 GPT-5.6 在数学推理和多 agent 协作中的能力展示，提示复杂任务编排正在成为新模型营销和评测的重要叙事。",
+    "url": "https://www.qbitai.com/2026/07/447873.html",
+    "source": "量子位"
+  },
+  {
+    "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+    "summary": "量子位关注 GPT-5.6 发布后 Claude 相关额度策略变化，反映模型厂商在能力、配额和用户留存上的竞争联动。",
+    "url": "https://www.qbitai.com/2026/07/447691.html",
+    "source": "量子位"
+  },
+  {
+    "title": "GPT-5.6背后最恐怖的真相，AI已经开始自我进化了",
+    "summary": "钛媒体围绕 GPT-5.6 的训练和能力跃迁展开解读，强调模型迭代正在从规模扩张走向更复杂的自我改进叙事。",
+    "url": "https://www.tmtpost.com/8061074.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "一夜之间，GPT-5.6 来了，Codex 没了，Claude 急了",
+    "summary": "爱范儿讨论 GPT-5.6、ChatGPT Work 与 Codex 品牌变化，AI 编程入口正在被整合进更广义的工作平台。",
+    "url": "https://www.ifanr.com/1671521?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "对话北森CEO纪伟国：账上躺着16亿现金，AI转型去往何方？",
+    "summary": "雷峰网访谈北森 CEO，呈现 HR SaaS 公司面对 Agent 浪潮时的机会与压力，企业软件正在从工具订阅转向流程自动化竞争。",
+    "url": "https://www.leiphone.com/category/CorporateServices/wJFmeFmoi2HFp1c4.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "独家解读丨花百亿建 FDE 团队：AWS 们在走 BAT 云定制化老路吗？",
+    "summary": "雷峰网分析 AWS 组建 AI 驻场工程师团队，云厂商在 AI 落地阶段重新加重服务属性，以解决企业定制化和交付难题。",
+    "url": "https://www.leiphone.com/category/industrycloud/AC2Hfio9HDh57dBk.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "WorkBuddy与姚顺雨，腾讯AI的两条命?",
+    "summary": "钛媒体观察腾讯 AI 在 WorkBuddy 等企业应用和模型人才布局上的两条路径，腾讯正同时推进产品化与底层模型能力。",
+    "url": "https://www.tmtpost.com/8060588.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "布局AI服务，新瑞鹏集团：正参与支付宝 AI 生态适配内测",
+    "summary": "新瑞鹏参与支付宝 AI 生态内测，宠物医疗服务被接入语音唤起和智能入口，支付宝试图把 AI agent 扩展到本地生活服务。",
+    "url": "https://www.leiphone.com/category/industrynews/fXHhURdipU2BAwy1.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "瑞辰宠物医院集团接入支付宝AI，一句话唤起宠物健康服务",
+    "summary": "瑞辰宠物医院集团成为支付宝 AI 生态首批入驻方，线下服务品牌开始把预约、咨询和健康服务包装为可被 agent 调用的能力。",
+    "url": "https://www.leiphone.com/category/industrynews/a0qXXhOidETH173C.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "荣耀MagicOS 平板端 7 月更新公布：YOYO 新增支持微信 A2A 助手功能",
+    "summary": "荣耀平板更新 YOYO 与微信 A2A 助手能力，手机和平板厂商继续把系统级 AI 助手嵌入高频应用工作流。",
+    "url": "https://www.ithome.com/0/975/546.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "谷歌 Voice 十年来最大调整告别纯免费：Gemini 纪要功能首次下放",
+    "summary": "Google Voice 面向个人推出付费订阅，并把 Gemini 纪要等 AI 能力下放到通信产品，AI 增值功能成为传统服务商业化的新抓手。",
+    "url": "https://www.ithome.com/0/975/573.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "summary": "Apple 起诉 OpenAI 涉嫌窃取硬件机密，AI 公司进入硬件领域后，与传统消费电子巨头围绕人才、供应链和商业秘密的摩擦升温。",
+    "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "summary": "TechCrunch 补充报道称 Apple 指控相关不当行为由 OpenAI 高层推动，这起诉讼将 AI 硬件竞赛推到法律和组织治理层面。",
+    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "苹果 Vision Pro 副总裁 Paul Meade 跳槽 OpenAI",
+    "summary": "雷峰网称苹果 Vision Pro 负责人 Paul Meade 将加入 OpenAI 硬件团队，OpenAI 硬件布局继续吸纳消费电子和空间计算人才。",
+    "url": "https://www.leiphone.com/category/industrynews/xAJ49A9CCOLm3Q5H.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "36氪首发：上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+    "summary": "具身智能仿生扑翼飞行机器人公司鹰瞰智翼三个月完成三轮融资，物理 AI 与机器人创业继续向细分场景和新型形态扩展。",
+    "url": "https://36kr.com/p/3889516712065799?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "36氪首发：英伟达全球首家触觉仿真合作伙伴再获数亿融资",
+    "summary": "他山科技完成数亿元 B 轮融资，上半年订单显著增长，触觉仿真成为机器人训练、具身智能和工业操作的重要基础能力。",
+    "url": "https://36kr.com/p/3889141540370949?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "AI生物研发进入操作系统时代，许锦波团队MoleculeOS正式开放",
+    "summary": "MoleculeOS 将 AI 用作生物研发流程组织者，生命科学领域的 AI 正从单点预测工具走向平台化研发系统。",
+    "url": "https://www.qbitai.com/2026/07/447832.html",
+    "source": "量子位"
+  },
+  {
+    "title": "早报：苹果起诉OpenAI，努比亚披露AI智能体手机细节",
+    "summary": "爱范儿早报同时关注 OpenAI 硬件诉讼和 AI 智能体手机，AI 竞争正在从云端模型延伸到终端入口和设备形态。",
+    "url": "https://www.ifanr.com/1671681?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "Would you host part of an AI data center in your home?",
+    "summary": "The Verge 报道家庭太阳能和储能公司尝试把住宅资源纳入分布式 AI 数据中心，算力基础设施正在从大型园区走向更多分布式试验。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Microsoft’s carbon emissions went up 25 percent last year",
+    "summary": "微软 2026 可持续发展报告显示碳排放继续上升，AI 数据中心扩张让科技巨头的气候目标承压。",
+    "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history",
+    "summary": "SK Hynix 在美股融资 265 亿美元，AI 存储和芯片周期带来资本市场高光，同时美国政策方推动其建设本土晶圆厂。",
+    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "芯片商Etched累计融资近60亿，获台积电、辛顿、李飞飞押注",
+    "summary": "Etched 宣布累计融资 8 亿美元并获得大额芯片订单，专用 AI 推理芯片继续挑战 GPU 主导的算力格局。",
+    "url": "https://www.leiphone.com/category/industrynews/fke9ApznCGrLefuE.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "算力过剩是个伪命题",
+    "summary": "钛媒体认为头部模型公司仍面临算力饥渴，当前争论的核心不是是否过剩，而是高性能算力供给、成本和利用率错配。",
+    "url": "https://www.tmtpost.com/8061099.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "OpenRouter 上近五成美国公司使用中国 AI 模型",
+    "summary": "Solidot 引述 OpenRouter 数据称美国企业调用中国 AI 模型的占比明显上升，模型成本、性能和开放生态正在改变企业选型。",
+    "url": "https://www.solidot.org/story?sid=84799",
+    "source": "Solidot"
+  },
+  {
+    "title": "音乐圈版权保卫战：AI是如何洗劫音乐人的？",
+    "summary": "钛媒体讨论 AI 训练和生成对音乐版权的冲击，内容产业围绕授权、分账和平台责任的矛盾继续加深。",
+    "url": "https://www.tmtpost.com/8061263.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "LinkedIn 和 X 上四分之一的长文是 AI 撰写的",
+    "summary": "Solidot 报道 AI 检测平台 Pangram 研究称 LinkedIn 和 X 等平台大量长文由 AI 生成，内容生态面临真实性和信息质量挑战。",
+    "url": "https://www.solidot.org/story?sid=84798",
+    "source": "Solidot"
+  },
+  {
+    "title": "美国国会调查美国公司使用中国 AI 模型",
+    "summary": "美国国会议员调查 Cursor、Airbnb 等公司使用中国 AI 模型情况，AI 供应链和模型采购正在被纳入地缘政治与安全审查。",
+    "url": "https://www.solidot.org/story?sid=84796",
+    "source": "Solidot"
+  },
+  {
+    "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+    "summary": "Ars Technica 报道 Windows Defender 0-day 修复争议，安全研究者与微软之间的披露摩擦显示 AI 时代基础安全维护压力仍高。",
+    "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+    "summary": "欧盟以 DSA 为依据威胁处罚 Meta 的成瘾性设计，虽然不只针对 AI，但算法推荐、自动播放和无限滚动仍是平台治理重点。",
+    "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "OpenAI 权力洗牌：安全元老 Joshua Achiam 离职，白宫政策操盘手加入",
+    "summary": "雷峰网报道 OpenAI 安全元老离职和政策背景高管加入，OpenAI 的组织重心正从纯研究安全向政策、商业化和政府关系进一步倾斜。",
+    "url": "https://www.leiphone.com/category/industrynews/6YYc1vkNrQVjRHfg.html",
+    "source": "雷峰网"
+  }
+]
