@@ -55,4 +55,8 @@ else
   git_safe push -u origin "$branch"
 fi
 
+if git_safe remote get-url gitee >/dev/null 2>&1; then
+  git_safe push gitee "$branch"
+fi
+
 log "Synced branch $branch."
