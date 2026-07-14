@@ -1,0 +1,434 @@
+[
+  {
+    "title": "Siri AI is already changing how I use my iPhone",
+    "summary": "iOS 27 公测把新的 Siri AI 带到更多用户面前，早期体验显示它正在改变 iPhone 上的信息检索、跨应用操作和日常助手使用方式。",
+    "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+    "source": "The Verge"
+  },
+  {
+    "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+    "summary": "围绕苹果起诉 OpenAI 的案件，报道梳理了招聘、硬件机密和内部文件处理等最受关注的指控。",
+    "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "source": "The Verge"
+  },
+  {
+    "title": "Waze is getting a bunch of new AI-powered features",
+    "summary": "Google 将 Gemini 引入 Waze，强化语音指令、路线沟通和驾驶场景中的智能辅助能力。",
+    "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+    "source": "The Verge"
+  },
+  {
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "summary": "MIT Technology Review 解读 Anthropic 关于模型可解释性的最新发现，强调它展示了理解大模型内部机制的进展，但距离完全解释模型行为仍有距离。",
+    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: a donor conception cap and world models for AI",
+    "summary": "MIT Technology Review 日报关注 AI 世界模型等议题，反映研究界对可预测、可模拟环境的持续投入。",
+    "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "summary": "Nous Research 据称正洽谈新融资，估值约 15 亿美元，显示开源模型和智能体基础设施仍受资本追捧。",
+    "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "summary": "Satya Nadella 提醒企业不要只追逐 AI 概念，而要关注真实业务价值、组织落地和投入产出。",
+    "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+    "summary": "苹果称一名前员工在离职加入 OpenAI 后利用罕见漏洞下载机密文件，案件进一步放大 AI 硬件人才争夺中的安全与合规风险。",
+    "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+    "summary": "TechCrunch 梳理苹果商业秘密诉讼中的关键指控，包括员工流动、内部资料和 OpenAI 硬件团队相关细节。",
+    "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+    "summary": "围绕太空数据中心的争论继续升温，报道指出多数专家仍认为该设想短期内面临成本、维护和能源等现实约束。",
+    "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Should AI help you get away with killing your spouse?",
+    "summary": "文章借极端案例讨论用户完全对齐型 AI 的边界，核心问题是智能助手应如何处理违法、伤害和伦理风险请求。",
+    "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "summary": "Anthropic 开始在印度提供本地货币计价的 Claude 订阅，说明其正在为美国之外的大型市场调整商业化策略。",
+    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "SpaceX cleared to fly Starship again after booster failure in May",
+    "summary": "SpaceX 在 5 月助推器故障后获准恢复 Starship 测试飞行，商业航天进度继续受到资本市场关注。",
+    "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Microsoft tests Windows Search without all the ads and fluff",
+    "summary": "微软测试更简洁的 Windows 11 搜索界面，减少推荐内容和广告干扰，回应用户对系统搜索体验的长期不满。",
+    "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+    "source": "The Verge"
+  },
+  {
+    "title": "OnePlus is reportedly bailing on the US",
+    "summary": "报道称 OnePlus 可能退出美国市场，反映智能手机品牌在区域竞争、渠道和监管环境中的压力。",
+    "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+    "source": "The Verge"
+  },
+  {
+    "title": "The Pixel colors might rule this year",
+    "summary": "Pixel 11 系列配色信息提前曝光，Google 可能继续用更鲜明的硬件设计语言强化消费端差异化。",
+    "url": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
+    "source": "The Verge"
+  },
+  {
+    "title": "Apple’s public betas for iOS 27 and more are out now",
+    "summary": "苹果发布 iOS 27 等系统公测版，新的 Siri AI 和系统体验调整进入更大规模测试阶段。",
+    "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
+    "source": "The Verge"
+  },
+  {
+    "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+    "summary": "新的 Siri AI 让 Apple Watch 在语音交互和快捷处理上更接近独立腕上电脑，而不仅是手机配件。",
+    "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+    "source": "The Verge"
+  },
+  {
+    "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
+    "summary": "macOS 27 公测版强化 Liquid Glass 视觉细节，并带来新的 Siri AI 体验，是苹果系统年度更新的一部分。",
+    "url": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
+    "source": "The Verge"
+  },
+  {
+    "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
+    "summary": "美国多州试图阻止 Paramount 与 Warner Bros Discovery 的大型合并，媒体行业集中度和监管审查继续升温。",
+    "url": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
+    "source": "The Verge"
+  },
+  {
+    "title": "氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
+    "summary": "36氪 报道：氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围。这类消息显示 AI、机器人和硬科技公司仍在围绕产品量产、海外渠道和产业落地争夺资金。",
+    "url": "https://36kr.com/p/3893943402707460?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
+    "summary": "36氪 报道：AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发。这类消息显示 AI、机器人和硬科技公司仍在围绕产品量产、海外渠道和产业落地争夺资金。",
+    "url": "https://36kr.com/p/3879780282495236?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
+    "summary": "36氪 报道：36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元。这类消息显示 AI、机器人和硬科技公司仍在围绕产品量产、海外渠道和产业落地争夺资金。",
+    "url": "https://36kr.com/p/3893473722514181?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
+    "summary": "36氪 报道：对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://36kr.com/p/3893445208717826?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
+    "summary": "36氪 报道：头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发。这类消息显示 AI、机器人和硬科技公司仍在围绕产品量产、海外渠道和产业落地争夺资金。",
+    "url": "https://36kr.com/p/3885232033378308?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "从“低估”到“重估”，创新药迎投资布局窗口",
+    "summary": "36氪 报道：从“低估”到“重估”，创新药迎投资布局窗口。这类消息显示 AI、机器人和硬科技公司仍在围绕产品量产、海外渠道和产业落地争夺资金。",
+    "url": "https://36kr.com/newsflashes/3894700615711753?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
+    "summary": "36氪 报道：全球AI龙头股共振下跌，机构称后续关注三个信号。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://36kr.com/newsflashes/3894694607961350?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "电子近光速运动重塑分子内化学键首次“看到”",
+    "summary": "36氪 报道：电子近光速运动重塑分子内化学键首次“看到”。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://36kr.com/newsflashes/3894693500894465?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "你这图「保真」吗？AI 生图时代的信息防伪",
+    "summary": "少数派 报道：你这图「保真」吗？AI 生图时代的信息防伪。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://sspai.com/post/112185",
+    "source": "少数派"
+  },
+  {
+    "title": "派早报：苹果起诉 OpenAI 窃取商业机密",
+    "summary": "少数派 报道：派早报：苹果起诉 OpenAI 窃取商业机密。该事件指向 AI 与数字平台在安全、治理、合规和用户信任上的持续压力。",
+    "url": "https://sspai.com/post/112215",
+    "source": "少数派"
+  },
+  {
+    "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+    "summary": "量子位 报道：Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.qbitai.com/2026/07/449311.html",
+    "source": "量子位"
+  },
+  {
+    "title": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
+    "summary": "量子位 报道：WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？。研究与会议动态显示世界模型、多模态、具身智能和 AI 制药仍是前沿焦点。",
+    "url": "https://www.qbitai.com/2026/07/449156.html",
+    "source": "量子位"
+  },
+  {
+    "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
+    "summary": "量子位 报道：从前沿创新到产业落地：西门子将亮相2026世界人工智能大会。重点在于新产品或平台能力进入发布窗口，后续可关注真实用户采用和生态合作。",
+    "url": "https://www.qbitai.com/2026/07/449150.html",
+    "source": "量子位"
+  },
+  {
+    "title": "WAIC’26探展召集令！和量子位一起逛展、直播、聊AI",
+    "summary": "量子位 报道：WAIC’26探展召集令！和量子位一起逛展、直播、聊AI。研究与会议动态显示世界模型、多模态、具身智能和 AI 制药仍是前沿焦点。",
+    "url": "https://www.qbitai.com/2026/07/448923.html",
+    "source": "量子位"
+  },
+  {
+    "title": "Claude Code砸的坑，蚂蚁安全在尝试填上",
+    "summary": "量子位 报道：Claude Code砸的坑，蚂蚁安全在尝试填上。该事件指向 AI 与数字平台在安全、治理、合规和用户信任上的持续压力。",
+    "url": "https://www.qbitai.com/2026/07/448925.html",
+    "source": "量子位"
+  },
+  {
+    "title": "GPT-5.6刚发布，OpenAI安全主管就跑路了？？",
+    "summary": "量子位 报道：GPT-5.6刚发布，OpenAI安全主管就跑路了？？。重点在于新产品或平台能力进入发布窗口，后续可关注真实用户采用和生态合作。",
+    "url": "https://www.qbitai.com/2026/07/448825.html",
+    "source": "量子位"
+  },
+  {
+    "title": "CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证",
+    "summary": "量子位 报道：CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证。这类消息显示 AI、机器人和硬科技公司仍在围绕产品量产、海外渠道和产业落地争夺资金。",
+    "url": "https://www.qbitai.com/2026/07/448824.html",
+    "source": "量子位"
+  },
+  {
+    "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+    "summary": "量子位 报道：2026年世界人工智能大会，7月17-7月20上海举办。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.qbitai.com/2026/07/436498.html",
+    "source": "量子位"
+  },
+  {
+    "title": "《智能体个人信息保护自律公约》发布  31家企业共促AI生态规范",
+    "summary": "雷峰网 报道：《智能体个人信息保护自律公约》发布 31家企业共促AI生态规范。重点在于新产品或平台能力进入发布窗口，后续可关注真实用户采用和生态合作。",
+    "url": "https://www.leiphone.com/category/ai/v2YZAxfAruNy41cX.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "RSS 2026 Manipulation 论文报告汇总1",
+    "summary": "雷峰网 报道：RSS 2026 Manipulation 论文报告汇总1。研究与会议动态显示世界模型、多模态、具身智能和 AI 制药仍是前沿焦点。",
+    "url": "https://www.leiphone.com/category/private/7a8PVDUwLrXG8LgX.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "文远知行L2++智驾业务加速出海，一段式端到端方案驶向全球",
+    "summary": "雷峰网 报道：文远知行L2++智驾业务加速出海，一段式端到端方案驶向全球。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.leiphone.com/category/industrynews/zEN1JYcVUeuUotRS.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "ICML 2026世界模型研究盘点：LAWM VS WAM，谁主沉浮？",
+    "summary": "雷峰网 报道：ICML 2026世界模型研究盘点：LAWM VS WAM，谁主沉浮？。研究与会议动态显示世界模型、多模态、具身智能和 AI 制药仍是前沿焦点。",
+    "url": "https://www.leiphone.com/category/private/vfNfp926XA89UUvh.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "腾势N8公告亮相，定位大五座纯电豪华SUV",
+    "summary": "雷峰网 报道：腾势N8公告亮相，定位大五座纯电豪华SUV。重点在于新产品或平台能力进入发布窗口，后续可关注真实用户采用和生态合作。",
+    "url": "https://www.leiphone.com/category/industrynews/8EVuOpJEGDblZmpJ.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Genentech研发负责人Aviv Regev：预测肿瘤突变，AI 制药开启「一人一药」时代 | ICML 2026",
+    "summary": "雷峰网 报道：Genentech研发负责人Aviv Regev：预测肿瘤突变，AI 制药开启「一人一药」时代 | ICML 2026。研究与会议动态显示世界模型、多模态、具身智能和 AI 制药仍是前沿焦点。",
+    "url": "https://www.leiphone.com/category/private/m2WcPZmJL6inJb5i.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "斯坦福 Susan Athey 教授：以彼之矛攻彼之盾，用 LLM 的随机性破解因果推断难题 | ICML 2026",
+    "summary": "雷峰网 报道：斯坦福 Susan Athey 教授：以彼之矛攻彼之盾，用 LLM 的随机性破解因果推断难题 | ICML 2026。研究与会议动态显示世界模型、多模态、具身智能和 AI 制药仍是前沿焦点。",
+    "url": "https://www.leiphone.com/category/private/u24ghF3YNhU0xxjJ.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "海康威视首次亮相世界人工智能大会，全方位展示观澜大模型技术体系",
+    "summary": "雷峰网 报道：海康威视首次亮相世界人工智能大会，全方位展示观澜大模型技术体系。重点在于新产品或平台能力进入发布窗口，后续可关注真实用户采用和生态合作。",
+    "url": "https://www.leiphone.com/category/industrynews/L5WoKiH9S0xMGC8q.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "【钛晨报】李强主持召开经济形势专家和企业家座谈会；Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节跳动回应：没有做智能驾驶业务的计划",
+    "summary": "钛媒体 报道：【钛晨报】李强主持召开经济形势专家和企业家座谈会；Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节跳动回应：没有做智能驾驶业务的计划。这类消息显示 AI、机器人和硬科技公司仍在围绕产品量产、海外渠道和产业落地争夺资金。",
+    "url": "https://www.tmtpost.com/8063498.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "前小米副总卖咖啡机器人，融资数亿",
+    "summary": "钛媒体 报道：前小米副总卖咖啡机器人，融资数亿。这类消息显示 AI、机器人和硬科技公司仍在围绕产品量产、海外渠道和产业落地争夺资金。",
+    "url": "https://www.tmtpost.com/8062012.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "中国AI产业的三大优势（中）",
+    "summary": "钛媒体 报道：中国AI产业的三大优势（中）。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.tmtpost.com/8059509.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "程序员面试背了十年的八股文，被DeepSeek废了",
+    "summary": "钛媒体 报道：程序员面试背了十年的八股文，被DeepSeek废了。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.tmtpost.com/8063047.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Beyond the $9.90 Race to the Bottom: How China’s New Cross-Border Innovators Are Rewriting the Rules",
+    "summary": "钛媒体关注中国新一代跨境创业者如何摆脱低价竞争，转向产品、品牌和供应链能力驱动。",
+    "url": "https://www.tmtpost.com/8063302.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "6个新趋势，看懂AI竞争正在发生什么",
+    "summary": "钛媒体 报道：6个新趋势，看懂AI竞争正在发生什么。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.tmtpost.com/8063056.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "长鑫上市，一批券商要跟着吃肉",
+    "summary": "钛媒体 报道：长鑫上市，一批券商要跟着吃肉。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.tmtpost.com/8062185.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Hy3发布后，腾讯的生产力AI走向收敛",
+    "summary": "钛媒体 报道：Hy3发布后，腾讯的生产力AI走向收敛。重点在于新产品或平台能力进入发布窗口，后续可关注真实用户采用和生态合作。",
+    "url": "https://www.tmtpost.com/8063089.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Telegram 域名 t.me 突遭全球停用，官方尚未回应",
+    "summary": "IT之家 报道：Telegram 域名 t.me 突遭全球停用，官方尚未回应。该事件指向 AI 与数字平台在安全、治理、合规和用户信任上的持续压力。",
+    "url": "https://www.ithome.com/0/976/266.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员",
+    "summary": "IT之家 报道：OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员。该事件指向 AI 与数字平台在安全、治理、合规和用户信任上的持续压力。",
+    "url": "https://www.ithome.com/0/976/262.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "IT早报 0714：特斯拉单车利润暴跌 40%；比亚迪官宣秦 MAX B 级闪充轿车；蔚来李斌回应友商智驾兜底；海南成中国首个确认禁售燃油车省份...",
+    "summary": "IT之家 报道：IT早报 0714：特斯拉单车利润暴跌 40%；比亚迪官宣秦 MAX B 级闪充轿车；蔚来李斌回应友商智驾兜底；海南成中国首个确认禁售燃油车省份...。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ithome.com/0/976/261.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "苹果收购 SigScalr 部分资产，补充应用监控与排障能力",
+    "summary": "IT之家 报道：苹果收购 SigScalr 部分资产，补充应用监控与排障能力。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ithome.com/0/976/260.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "诺奖得主、经济学家等 200 余名专家联合呼吁：必须引导 AI 的发展利于人类",
+    "summary": "IT之家 报道：诺奖得主、经济学家等 200 余名专家联合呼吁：必须引导 AI 的发展利于人类。该事件指向 AI 与数字平台在安全、治理、合规和用户信任上的持续压力。",
+    "url": "https://www.ithome.com/0/976/258.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "消息称苹果转化 100 亿美元造车成果，用于 M7/M8 系列 Mac AI 芯片",
+    "summary": "IT之家 报道：消息称苹果转化 100 亿美元造车成果，用于 M7/M8 系列 Mac AI 芯片。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ithome.com/0/976/257.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见",
+    "summary": "IT之家 报道：OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ithome.com/0/976/256.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "长鑫科技 7 月 16 日开启新股申购，近 2 万员工持股人均账面收益超百万",
+    "summary": "IT之家 报道：长鑫科技 7 月 16 日开启新股申购，近 2 万员工持股人均账面收益超百万。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ithome.com/0/976/255.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Vinton Cerf 退休",
+    "summary": "Solidot 报道：Vinton Cerf 退休。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.solidot.org/story?sid=84820",
+    "source": "Solidot"
+  },
+  {
+    "title": "Linus Torvalds 谈 AI 和垃圾补丁",
+    "summary": "Solidot 报道：Linus Torvalds 谈 AI 和垃圾补丁。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.solidot.org/story?sid=84816",
+    "source": "Solidot"
+  },
+  {
+    "title": "加州吸引的风投远超美国任何州",
+    "summary": "Solidot 报道：加州吸引的风投远超美国任何州。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.solidot.org/story?sid=84812",
+    "source": "Solidot"
+  },
+  {
+    "title": "Windows 11 设备标识符无法关闭",
+    "summary": "Solidot 报道：Windows 11 设备标识符无法关闭。该事件指向 AI 与数字平台在安全、治理、合规和用户信任上的持续压力。",
+    "url": "https://www.solidot.org/story?sid=84810",
+    "source": "Solidot"
+  },
+  {
+    "title": "英伟达 AIPC 中国首秀，笔记本里装下一座「曼哈顿」",
+    "summary": "爱范儿 报道：英伟达 AIPC 中国首秀，笔记本里装下一座「曼哈顿」。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ifanr.com/1671945?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "Codex 不限时了，我先删掉了一堆 Skills ｜附 GPT-5.6 官方指南",
+    "summary": "爱范儿 报道：Codex 不限时了，我先删掉了一堆 Skills ｜附 GPT-5.6 官方指南。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ifanr.com/1671899?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "今年最期待的 AI 手机，要来了",
+    "summary": "爱范儿 报道：今年最期待的 AI 手机，要来了。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ifanr.com/1671872?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "实测完这个国产 AI 生图，我发现了下一个刷屏玩法",
+    "summary": "爱范儿 报道：实测完这个国产 AI 生图，我发现了下一个刷屏玩法。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ifanr.com/1671817?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "2026 最值得期待的 AI 硬件，是卡片｜AI 器物志",
+    "summary": "爱范儿 报道：2026 最值得期待的 AI 硬件，是卡片｜AI 器物志。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ifanr.com/1671775?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "早报｜曝苹果M7 Ultra最高支持1.5TB内存/海力士CEO:明年将迎史上最严峻储存短缺/马斯克奥特曼再次公开对垒",
+    "summary": "爱范儿 报道：早报｜曝苹果M7 Ultra最高支持1.5TB内存/海力士CEO:明年将迎史上最严峻储存短缺/马斯克奥特曼再次公开对垒。这条消息可作为观察 AI 产业、消费电子和科技平台变化的信号。",
+    "url": "https://www.ifanr.com/1671746?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  }
+]

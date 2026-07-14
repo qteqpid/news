@@ -1,0 +1,16 @@
+[
+  {
+    "title": "argoproj/argo-cd",
+    "link": "https://github.com/argoproj/argo-cd",
+    "summary": "[Stars: 23,673] [340 stars this week] [Language: Go] Declarative Continuous Deployment for Kubernetes",
+    "published": "2026-07-14",
+    "dedupe_id": "github:argoproj/argo-cd"
+  },
+  {
+    "title": "pbakaus/impeccable",
+    "link": "https://github.com/pbakaus/impeccable",
+    "summary": "[Stars: 46,344] [2,272 stars this week] [Language: JavaScript] The design language that makes your AI harness better at design.",
+    "published": "2026-07-14",
+    "dedupe_id": "github:pbakaus/impeccable"
+  }
+]
