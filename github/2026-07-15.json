@@ -1,0 +1,30 @@
+[
+  {
+    "title": "oven-sh/bun",
+    "link": "https://github.com/oven-sh/bun",
+    "summary": "[Stars: 94,714] [1,257 stars this week] [Language: Rust] Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "published": "2026-07-15",
+    "dedupe_id": "github:oven-sh/bun"
+  },
+  {
+    "title": "TencentCloud/TencentDB-Agent-Memory",
+    "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "summary": "[Stars: 8,872] [1,790 stars this week] [Language: TypeScript] TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "published": "2026-07-15",
+    "dedupe_id": "github:tencentcloud/tencentdb-agent-memory"
+  },
+  {
+    "title": "Nutlope/hallmark",
+    "link": "https://github.com/Nutlope/hallmark",
+    "summary": "[Stars: 6,220] [2,274 stars this week] [Language: CSS] Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "published": "2026-07-15",
+    "dedupe_id": "github:nutlope/hallmark"
+  },
+  {
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "summary": "[Stars: 120,912] [3,827 stars this week] [Language: Python] 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+    "published": "2026-07-15",
+    "dedupe_id": "github:shubhamsaboo/awesome-llm-apps"
+  }
+]
