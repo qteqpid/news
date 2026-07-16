@@ -1,0 +1,44 @@
+[
+  {
+    "title": "google-labs-code/stitch-skills",
+    "link": "https://github.com/google-labs-code/stitch-skills",
+    "summary": "[Stars: 7,447] [992 stars this week] [Language: TypeScript] A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "published": "2026-07-16",
+    "dedupe_id": "github:google-labs-code/stitch-skills"
+  },
+  {
+    "title": "chriskohlhoff/asio",
+    "link": "https://github.com/chriskohlhoff/asio",
+    "summary": "[Stars: 6,183] [247 stars this week] [Language: C++] Asio C++ Library",
+    "published": "2026-07-16",
+    "dedupe_id": "github:chriskohlhoff/asio"
+  },
+  {
+    "title": "HKUDS/Vibe-Trading",
+    "link": "https://github.com/HKUDS/Vibe-Trading",
+    "summary": "[Stars: 23,709] [4,802 stars this week] [Language: Python] \"Vibe-Trading: Your Personal Trading Agent\"",
+    "published": "2026-07-16",
+    "dedupe_id": "github:hkuds/vibe-trading"
+  },
+  {
+    "title": "OpenCut-app/OpenCut",
+    "link": "https://github.com/OpenCut-app/OpenCut",
+    "summary": "[Stars: 71,789] [8,702 stars this week] [Language: TypeScript] The open-source CapCut alternative",
+    "published": "2026-07-16",
+    "dedupe_id": "github:opencut-app/opencut"
+  },
+  {
+    "title": "davila7/claude-code-templates",
+    "link": "https://github.com/davila7/claude-code-templates",
+    "summary": "[Stars: 29,559] [1,052 stars this week] [Language: Python] CLI tool for configuring and monitoring Claude Code",
+    "published": "2026-07-16",
+    "dedupe_id": "github:davila7/claude-code-templates"
+  },
+  {
+    "title": "anthropics/claude-cookbooks",
+    "link": "https://github.com/anthropics/claude-cookbooks",
+    "summary": "[Stars: 48,964] [2,252 stars this week] [Language: Jupyter Notebook] A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "published": "2026-07-16",
+    "dedupe_id": "github:anthropics/claude-cookbooks"
+  }
+]
