@@ -1,0 +1,30 @@
+[
+  {
+    "title": "kangarooking/cangjie-skill",
+    "link": "https://github.com/kangarooking/cangjie-skill",
+    "summary": "[Stars: 3,334] [1,043 stars this week] [Language: Python] 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+    "published": "2026-07-17",
+    "dedupe_id": "github:kangarooking/cangjie-skill"
+  },
+  {
+    "title": "actions/checkout",
+    "link": "https://github.com/actions/checkout",
+    "summary": "[Stars: 8,464] [211 stars this week] [Language: TypeScript] Action for checking out a repo",
+    "published": "2026-07-17",
+    "dedupe_id": "github:actions/checkout"
+  },
+  {
+    "title": "HKUDS/DeepTutor",
+    "link": "https://github.com/HKUDS/DeepTutor",
+    "summary": "[Stars: 26,960] [1,283 stars this week] [Language: Python] DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+    "published": "2026-07-17",
+    "dedupe_id": "github:hkuds/deeptutor"
+  },
+  {
+    "title": "jrouwe/JoltPhysics",
+    "link": "https://github.com/jrouwe/JoltPhysics",
+    "summary": "[Stars: 10,940] [286 stars this week] [Language: C++] A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+    "published": "2026-07-17",
+    "dedupe_id": "github:jrouwe/joltphysics"
+  }
+]
