@@ -1,0 +1,1298 @@
+[
+  {
+    "title": "mattpocock/skills",
+    "summary": "[Stars: 177,710] [10,983 stars this week] [Language: Shell] Skills for Real Engineers. Straight from my .agents directory.",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "GITHUB"
+  },
+  {
+    "title": "ibelick/ui-skills",
+    "summary": "[Stars: 5,472] [1,669 stars this week] [Language: TypeScript] Skills for Design Engineers",
+    "url": "https://github.com/ibelick/ui-skills",
+    "source": "GITHUB"
+  },
+  {
+    "title": "openai/codex",
+    "summary": "[Stars: 99,752] [2,361 stars this week] [Language: Rust] Lightweight coding agent that runs in your terminal",
+    "url": "https://github.com/openai/codex",
+    "source": "GITHUB"
+  },
+  {
+    "title": "openinterpreter/openinterpreter",
+    "summary": "[Stars: 66,855] [2,498 stars this week] [Language: Rust] A coding agent for open models like Kimi K3",
+    "url": "https://github.com/openinterpreter/openinterpreter",
+    "source": "GITHUB"
+  },
+  {
+    "title": "tirth8205/code-review-graph",
+    "summary": "[Stars: 21,499] [1,103 stars this week] [Language: Python] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "source": "GITHUB"
+  },
+  {
+    "title": "earendil-works/pi",
+    "summary": "[Stars: 72,858] [2,854 stars this week] [Language: TypeScript] AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "url": "https://github.com/earendil-works/pi",
+    "source": "GITHUB"
+  },
+  {
+    "title": "anthropics/cwc-workshops",
+    "summary": "[Stars: 1,779] [317 stars this week] [Language: TypeScript]",
+    "url": "https://github.com/anthropics/cwc-workshops",
+    "source": "GITHUB"
+  },
+  {
+    "title": "I hate that I don’t hate this song made with Suno",
+    "summary": "The Verge 体验并讨论 Suno 生成歌曲带来的复杂感受：AI 音乐质量正在变得更难简单否定，也继续引发创作归属与音乐行业边界争议。",
+    "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+    "source": "The Verge"
+  },
+  {
+    "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+    "summary": "作家 Dave Eggers 在 OpenAI 内部谈话中批评 ChatGPT 对年轻一代写作与表达能力的影响，反映文学创作者对生成式 AI 的持续担忧。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "source": "The Verge"
+  },
+  {
+    "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+    "summary": "Netflix 披露以 5.87 亿美元现金收购 Ben Affleck 联合创办的 AI 影视制作公司 InterPositive，显示流媒体平台继续押注 AI 生产工具。",
+    "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "What to watch for after Jensen Huang’s Japan visit",
+    "summary": "黄仁勋日本行带来覆盖日本科技生态的多项合作，后续重点在于 AI 芯片、数据中心与本土企业合作如何落地。",
+    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "summary": "TechCrunch 讨论苹果诉讼是否会影响 OpenAI 的硬件计划，焦点在于关键人才、商业机密与 AI 终端路线的不确定性。",
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "TechCrunch Mobility: The battle over robotaxi rules",
+    "summary": "自动驾驶出租车监管争议升温，AI 在交通出行中的部署速度与安全规则之间的冲突成为行业焦点。",
+    "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "summary": "Christopher Nolan 将 AI 比作明显的“特洛伊木马”，表达影视创作者对 AI 渗透创作流程和行业规则的警惕。",
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "summary": "非营利组织 Current AI 推进开放、跨文化、可在多设备运行的 AI 基础设施，目标是让 AI 像早期 Web 一样具备公共属性。",
+    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Kimi: Threat or menace?",
+    "summary": "月之暗面新版 Kimi 引发海外舆论关注，文章围绕中国大模型能力提升及其对全球 AI 竞争格局的影响展开讨论。",
+    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Federal employees can download TikTok on their work phones again",
+    "summary": "美国司法部称联邦雇员可重新在政府设备下载 TikTok，显示围绕中国应用、数据安全与政府终端管理的政策出现调整。",
+    "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+    "summary": "Reto Project 推出更低价的 Kodak EC35 胶片傻瓜相机，延续复古影像硬件在消费市场的热度。",
+    "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+    "source": "The Verge"
+  },
+  {
+    "title": "Orchid is a delightfully retro and approachable hipster synth",
+    "summary": "The Verge 评测复古风合成器 Orchid，强调其易上手、风格化的音乐创作体验。",
+    "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+    "source": "The Verge"
+  },
+  {
+    "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
+    "summary": "Birdfy 智能喂鸟器开启年中促销，其太阳能供电、摄像头和 AI 识别能力代表智能家居向兴趣场景延伸。",
+    "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
+    "source": "The Verge"
+  },
+  {
+    "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+    "summary": "The Verge 回顾 The Clapper 这款早期声控家居产品，展示智能家居从简单交互到现代自动化的演进。",
+    "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+    "source": "The Verge"
+  },
+  {
+    "title": "The future of physical games is not looking great",
+    "summary": "实体游戏介质前景继续走弱，数字发行、平台控制和收藏价值之间的矛盾更加突出。",
+    "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+    "source": "The Verge"
+  },
+  {
+    "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+    "summary": "36氪记录 WAIC 现场年轻创业者的处境：融资和展示热度背后，初创公司更关心订单、生存和真实商业化。",
+    "url": "https://36kr.com/p/3903396279125888?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+    "summary": "WAIC 2026 的关注点从模型参数转向能进入产业现场的实体 AI，智能体和具身智能成为主线。",
+    "url": "https://36kr.com/p/3903383663478403?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
+    "summary": "一家天基通信与计算融合初创完成数千万元首轮融资，瞄准低轨卫星、无人系统和边缘智能场景。",
+    "url": "https://36kr.com/p/3903365398185857?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
+    "summary": "腾讯云发布 ADP 4.0 海外版，升级智能工作台、Claw 模式和 Skill 广场，推动企业级智能体平台出海。",
+    "url": "https://36kr.com/p/3901396207584902?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
+    "summary": "WAIC 2026 展示大量面向家庭与服务场景的机器人应用，从烹饪到取物，具身智能产品化速度加快。",
+    "url": "https://36kr.com/p/3902007640459145?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
+    "summary": "红熊 AI 完成数亿元 A+ 轮融资，计划围绕 AI 记忆科学从企业服务扩展到消费者应用。",
+    "url": "https://36kr.com/p/3899612612494976?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
+    "summary": "36氪早报汇总长鑫科技申购、月之暗面潜在赴港上市等市场动态，反映 AI 与半导体资本化进程继续升温。",
+    "url": "https://36kr.com/p/3903220264404608?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+    "summary": "安顿健康在 WAIC 展示生命预警表标准和七诊合参中医机器人，体现 AI 医疗从感知、算法到服务输出的系统化探索。",
+    "url": "https://36kr.com/p/3902428274427525?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "WAIC不筹量子重磅发布“量筹一号”——原子量子人工智能基座",
+    "summary": "不筹量子在 WAIC 发布“量筹一号”原子量子人工智能基座，探索量子计算与 AI 基础设施结合。",
+    "url": "https://www.qbitai.com/2026/07/455136.html",
+    "source": "量子位"
+  },
+  {
+    "title": "蚂蚁集团、阿里云等正式加入PyTorch基金会，携手全球开源力量推动AI普惠",
+    "summary": "蚂蚁集团、阿里云等加入 PyTorch 基金会，进一步增强中国企业在全球 AI 开源生态中的参与度。",
+    "url": "https://www.qbitai.com/2026/07/455130.html",
+    "source": "量子位"
+  },
+  {
+    "title": "冷门的哲学，成了“治”AI的热门",
+    "summary": "AI 治理讨论开始引入哲学视角，强调技术快速进入社会后，需要更系统地处理价值、责任和安全问题。",
+    "url": "https://www.qbitai.com/2026/07/455041.html",
+    "source": "量子位"
+  },
+  {
+    "title": "围观WAIC模型「读心术」！现场火火火火火",
+    "summary": "WAIC 现场展示主观世界模型等前沿交互技术，突出 AI 对用户意图、感知和主观体验建模的能力。",
+    "url": "https://www.qbitai.com/2026/07/455031.html",
+    "source": "量子位"
+  },
+  {
+    "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
+    "summary": "国产 GPU 直通方案公布实测结果，在吞吐和延迟上取得明显优化，为国产 AI 算力集群提供新路径。",
+    "url": "https://www.qbitai.com/2026/07/454932.html",
+    "source": "量子位"
+  },
+  {
+    "title": "逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……",
+    "summary": "量子位观察 WAIC 具身智能热潮，指出 AI 正加速进入机器人、硬件和真实产业场景。",
+    "url": "https://www.qbitai.com/2026/07/454802.html",
+    "source": "量子位"
+  },
+  {
+    "title": "聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议",
+    "summary": "Om AI 联汇发起物理 AI 协同发展倡议，端侧原生架构成为产业界推进具身智能落地的重要共识。",
+    "url": "https://www.qbitai.com/2026/07/454791.html",
+    "source": "量子位"
+  },
+  {
+    "title": "2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问",
+    "summary": "WAIC 未来计算与未来算力论坛聚焦 AI 算力供给、架构演进和产业协同等关键问题。",
+    "url": "https://www.qbitai.com/2026/07/454774.html",
+    "source": "量子位"
+  },
+  {
+    "title": "对话商汤林达华：多模态是 Coding 之后的下一个战场",
+    "summary": "商汤林达华认为多模态将成为 AI Coding 之后的重要竞争方向，商业化交付能力是核心衡量标准。",
+    "url": "https://www.leiphone.com/category/yanxishe/uHHqpDWEcbFxyyvD.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "七年WAIC同行，燧原科技持续展示国产AI算力规模化落地成果，共筑Token经济时代算力底座",
+    "summary": "燧原科技在 WAIC 展示国产 AI 算力规模化落地成果，强调面向 Token 经济时代的算力底座建设。",
+    "url": "https://www.leiphone.com/category/chips/JhfBBOws6hhzIKhA.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "赛思极限CEO徐楠：以“通专一体”科学基础模型推动科研范式重塑",
+    "summary": "赛思极限提出通专一体科学基础模型，用 AI for Science 推动科研从经验驱动转向数据与模型驱动。",
+    "url": "https://www.leiphone.com/category/industrynews/8RexF36ULks4rsio.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新",
+    "summary": "高通中国研发负责人徐晧在 WAIC 谈端侧 AI，强调智能体需求会持续推动计算架构和模型效率创新。",
+    "url": "https://www.leiphone.com/category/chips/dX9rUFVHGEWJz4yQ.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "中科闻歌WAIC2026发布业界首个全系决策智能产品",
+    "summary": "中科闻歌在 WAIC 发布决策智能产品矩阵，覆盖决策大模型、科研基础模型和平台化产品。",
+    "url": "https://www.leiphone.com/category/industrynews/d6jcZEDt7SPlnwhh.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "算力平权前夜：共绩科技如何用「弹性」撬动「算力自由」",
+    "summary": "共绩科技展示天地一体、云边协同的弹性算力方案，试图降低 AI 算力使用门槛。",
+    "url": "https://www.leiphone.com/category/industrynews/raahTOmFsgIHebKv.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "苏度 WAIC 首秀：从1到10+技能跃迁，探索通用机器人 Scaling 路径",
+    "summary": "苏度科技在 WAIC 展示机器人从单一能力到多技能组合的进展，探索通用机器人能力扩展路径。",
+    "url": "https://www.leiphone.com/category/ai/7NBqAPnPNa3p2OD4.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "从CPU到Agentic OS，此芯走向智能体的「调度中枢」",
+    "summary": "此芯科技发布 AGX Agentic Compute 战略和相关产品，尝试从 CPU 芯片扩展到智能体操作系统调度中枢。",
+    "url": "https://www.leiphone.com/category/chips/4JCICECxlFdQqpE3.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "具身智能还在“前GPT时代”| WAIC观察",
+    "summary": "钛媒体认为具身智能仍处于“前 GPT 时代”，关键问题是能力泛化、连续执行和真实场景可靠性。",
+    "url": "https://www.tmtpost.com/8071481.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "具身智能的“ChatGPT时刻”，可能不会同一天到来",
+    "summary": "文章指出具身智能的突破可能分行业、分场景逐步发生，而不是像 ChatGPT 一样在单日集中爆发。",
+    "url": "https://www.tmtpost.com/8071091.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "都怪Kimi",
+    "summary": "钛媒体讨论 Kimi 新版本引发的市场情绪，认为其更多是下一轮 AI 繁荣的信号，而非单一冲击源。",
+    "url": "https://www.tmtpost.com/8071406.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "WAIC，机器人变了",
+    "summary": "WAIC 机器人展示从外形竞争转向大脑、数据和服务能力竞争，产业重点逐渐从硬件展示转向可运营能力。",
+    "url": "https://www.tmtpost.com/8071436.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "China’s Humanoid Rental Gold Rush Ends as Service Infrastructure Takes Over",
+    "summary": "中国人形机器人租赁热潮降温，竞争重心从短期活动展示转向服务基础设施和可持续运营能力。",
+    "url": "https://www.tmtpost.com/8071553.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "太空算力：当AI竞争开始延伸到地球之外",
+    "summary": "文章讨论 AI 算力向太空和轨道基础设施延伸的想象与挑战，显示算力竞争正在突破传统数据中心边界。",
+    "url": "https://www.tmtpost.com/8071099.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Edge AI Daily 早报（7月20日）",
+    "summary": "Edge AI Daily 汇总端侧 AI 动态，包括多模态输入、设备智能化和边缘平台演进。",
+    "url": "https://www.tmtpost.com/8071369.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "32亿募资画饼六年后九成补流：露笑科技碳化硅\"产业化\"的虚与实｜ 钛媒体深度",
+    "summary": "钛媒体深度追踪露笑科技碳化硅业务产业化进展与募资用途，提示半导体新赛道资本故事中的执行风险。",
+    "url": "https://www.tmtpost.com/8066646.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "网信办将整治毒动画：利用 AI 技术恶搞经典动画形象，刻意放大暴力恐怖元素",
+    "summary": "网信办启动未成年人网络保护专项行动，重点整治利用 AI 恶搞经典动画并放大暴力恐怖元素的内容。",
+    "url": "https://www.ithome.com/0/978/922.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "百度昆仑芯 M100 实物首次展出：面向大模型推理进行针对性优化，延续自研 XPU 理念",
+    "summary": "百度昆仑芯 M100 实物首次公开展出，面向大模型推理优化，延续百度自研 XPU 芯片路线。",
+    "url": "https://www.ithome.com/0/978/920.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "华为 Pura 80 系列手机率先升级 HarmonyOS 6.1.0.135 SP8 版本，对单应用音量调节等功能上线",
+    "summary": "华为 Pura 80 系列率先升级 HarmonyOS 新版本，图库 AI 修图和单应用音量调节等功能增强。",
+    "url": "https://www.ithome.com/0/978/918.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "微软 OneDrive 新功能：敏感 PDF 文件禁止截图，目前仅限 Edge 浏览器",
+    "summary": "微软 OneDrive 推出敏感 PDF 防截图功能，初期面向企业用户并仅限 Edge 浏览器，强化文档安全控制。",
+    "url": "https://www.ithome.com/0/978/914.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "神雲展示 52U 机柜：集成 96 颗 MI355X，GPU 密度较 48U 提升 50%",
+    "summary": "神雲科技在 WAIC 展示 52U 高密度 AI 液冷机柜，集成 96 颗 MI355X，提升 GPU 部署密度。",
+    "url": "https://www.ithome.com/0/978/912.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "2026 上半年我国集成电路出口额同比增长 88.7%",
+    "summary": "工信部披露上半年我国集成电路出口额同比增长 88.7%，受全球 AI 与绿色低碳需求带动。",
+    "url": "https://www.ithome.com/0/978/867.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "再来两周：腾讯混元大模型 Hy3 限免活动延长至 8 月 5 日",
+    "summary": "腾讯将混元 Hy3 对 WorkBuddy 和 CodeBuddy 用户的限免活动延长至 8 月 5 日，继续推动模型使用增长。",
+    "url": "https://www.ithome.com/0/978/865.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "把 256 张 GPU 变成一台计算机：摩尔线程 MTT C256 超节点亮相 WAIC 2026",
+    "summary": "摩尔线程在 WAIC 展示 MTT C256 超节点，试图把 256 张 GPU 组织成统一计算资源，面向大规模 AI 工厂。",
+    "url": "https://www.ithome.com/0/978/856.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "早报｜曝月之暗面最快半年内上市/荣耀Robot Phone开启预约/IDC:2030年全球活跃智能体将超22亿个",
+    "summary": "爱范儿早报汇总月之暗面上市传闻、荣耀 Robot Phone 预约、IDC 智能体规模预测等 AI 与硬件动态。",
+    "url": "https://www.ifanr.com/1672471?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "China bans AI “boyfriends” and “girlfriends” over addiction and birth rate concerns",
+    "summary": "China bans AI “boyfriends” and “girlfriends” over addiction and birth rate concerns，28775 upvotes、2238 comments，created: 2026-07-19，rank score: 21.99。",
+    "url": "https://www.reddit.com/r/technology/comments/1v0u3wv/china_bans_ai_boyfriends_and_girlfriends_over/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "SpaceX stock drops to a new low and loses $1 trillion in value in a month",
+    "summary": "SpaceX stock drops to a new low and loses $1 trillion in value in a month，29972 upvotes、2081 comments，created: 2026-07-17，rank score: 21.66。",
+    "url": "https://www.reddit.com/r/technology/comments/1uz6zsr/spacex_stock_drops_to_a_new_low_and_loses_1/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "US administration calls for an end to \"Transgender Chips\" aiming at the 'CHIPS and Science Act'",
+    "summary": "US administration calls for an end to \"Transgender Chips\" aiming at the 'CHIPS and Science Act'，17717 upvotes、1765 comments，created: 2026-07-19，rank score: 21.16。",
+    "url": "https://www.reddit.com/r/technology/comments/1v0py68/us_administration_calls_for_an_end_to_transgender/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "US president says ABC and NBC should lose broadcast licenses because they didn’t carry his primetime address on election claims",
+    "summary": "US president says ABC and NBC should lose broadcast licenses because they didn’t carry his primetime address on election claims，16661 upvotes、1816 comments，created: 2026-07-17，rank score: 20.85。",
+    "url": "https://www.reddit.com/r/technology/comments/1uyxfmg/us_president_says_abc_and_nbc_should_lose/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL that Mississippi has no open container law, allowing the driver of a motor vehicle to drink and drive as long as they stay sober.",
+    "summary": "TIL that Mississippi has no open container law, allowing the driver of a motor vehicle to drink and drive as long as they stay sober.，22522 upvotes、1392 comments，created: 2026-07-17，rank score: 20.82。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uz9r0x/til_that_mississippi_has_no_open_container_law/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Indeed chief economist: Aging Baby Boomers are America’s real labor problem, not AI",
+    "summary": "Indeed chief economist: Aging Baby Boomers are America’s real labor problem, not AI，14672 upvotes、1483 comments，created: 2026-07-18，rank score: 20.63。",
+    "url": "https://www.reddit.com/r/technology/comments/1v07a95/indeed_chief_economist_aging_baby_boomers_are/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Spotify Deleted 75 Million AI-Generated Tracks – and It’s Not Done Yet",
+    "summary": "Spotify Deleted 75 Million AI-Generated Tracks – and It’s Not Done Yet，23124 upvotes、802 comments，created: 2026-07-18，rank score: 20.19。",
+    "url": "https://www.reddit.com/r/technology/comments/1uzyfgn/spotify_deleted_75_million_aigenerated_tracks_and/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Footage appears to show Iranian projectile striking Jordan air base",
+    "summary": "Footage appears to show Iranian projectile striking Jordan air base，7862 upvotes、1494 comments，created: 2026-07-19，rank score: 20.12。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0qlew/footage_appears_to_show_iranian_projectile/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "TIL that Anne Frank had an older sister, Margot Frank. According to Anne’s own diary, Margot kept a diary of her own, which has never been found and is now considered lost literature.",
+    "summary": "TIL that Anne Frank had an older sister, Margot Frank. According to Anne’s own diary, Margot kept a diary of her own, which has never been found and is now considered lost literature.，30402 upvotes、561 comments，created: 2026-07-18，rank score: 19.94。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uzt4fq/til_that_anne_frank_had_an_older_sister_margot/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "TIL that the world's first crisis hotline was founded after a 14-year-old girl committed suicide when she began menstruating and believed she had contracted an STD.",
+    "summary": "TIL that the world's first crisis hotline was founded after a 14-year-old girl committed suicide when she began menstruating and believed she had contracted an STD.，23629 upvotes、642 comments，created: 2026-07-18，rank score: 19.86。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uzp612/til_that_the_worlds_first_crisis_hotline_was/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "TIL a New Jersey construction worker tried to keep a $38.5M lottery-pool jackpot, told his boss he was leaving for foot surgery he never had, and filed for unemployment after claiming the prize. A jury rejected his story and awarded each of his five coworkers a $4M share.",
+    "summary": "TIL a New Jersey construction worker tried to keep a $38.5M lottery-pool jackpot, told his boss he was leaving for foot surgery he never had, and filed for unemployment after claiming the prize. A jury rejected his story and awarded each of his five coworkers...，21158 upvotes、633 comments，created: 2026-07-19，rank score: 19.83。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v0cacn/til_a_new_jersey_construction_worker_tried_to/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Terrified Tech Execs Are Traveling With Armed Bodyguards as AI Backlash Grows",
+    "summary": "Terrified Tech Execs Are Traveling With Armed Bodyguards as AI Backlash Grows，14542 upvotes、899 comments，created: 2026-07-17，rank score: 19.79。",
+    "url": "https://www.reddit.com/r/technology/comments/1uzed27/terrified_tech_execs_are_traveling_with_armed/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Redditors Are Celebrating the Cutting Down of Flock Surveillance Towers With Based Memes",
+    "summary": "Redditors Are Celebrating the Cutting Down of Flock Surveillance Towers With Based Memes，25503 upvotes、587 comments，created: 2026-07-18，rank score: 19.77。",
+    "url": "https://www.reddit.com/r/technology/comments/1uzhnhb/redditors_are_celebrating_the_cutting_down_of/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL Marcus Licinius Crassus, the richest man in Roman history, had a net worth equal to the entire annual budget of the Roman Empire.",
+    "summary": "TIL Marcus Licinius Crassus, the richest man in Roman history, had a net worth equal to the entire annual budget of the Roman Empire.，19202 upvotes、794 comments，created: 2026-07-17，rank score: 19.77。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uykwdc/til_marcus_licinius_crassus_the_richest_man_in/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "TIL that the genes that allowed people to survive the Black Death (ERAP2) now is suspected to cause autoimmune disease in modern humans such as Crohn’s Disease.",
+    "summary": "TIL that the genes that allowed people to survive the Black Death (ERAP2) now is suspected to cause autoimmune disease in modern humans such as Crohn’s Disease.，24355 upvotes、503 comments，created: 2026-07-17，rank score: 19.37。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uym4fm/til_that_the_genes_that_allowed_people_to_survive/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "TIL the iconic guitar tone on Dire Straits' \"Money for Nothing\" was a complete accident caused by a microphone pointing at the floor, and audio engineers still can't perfectly replicate it.",
+    "summary": "TIL the iconic guitar tone on Dire Straits' \"Money for Nothing\" was a complete accident caused by a microphone pointing at the floor, and audio engineers still can't perfectly replicate it.，15632 upvotes、655 comments，created: 2026-07-17，rank score: 19.33。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uyszpx/til_the_iconic_guitar_tone_on_dire_straits_money/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "TIL the domestic silk moth (Bombyx mori) does not exist in the wild. After 5,000 years of selective breeding it can no longer fly, has lost its camouflage pigments, and the males need human help to find a mate. It is entirely dependent on humans to survive.",
+    "summary": "TIL the domestic silk moth (Bombyx mori) does not exist in the wild. After 5,000 years of selective breeding it can no longer fly, has lost its camouflage pigments, and the males need human help to find a mate. It is entirely dependent on humans to survive.，18041 upvotes、561 comments，created: 2026-07-17，rank score: 19.27。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uyuql1/til_the_domestic_silk_moth_bombyx_mori_does_not/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "TIL the Telugu letter \"Gna\" (జ్ఞా) forced Apple into an emergency global update in 2018 because simply displaying it would fatally crash the iOS user interface.",
+    "summary": "TIL the Telugu letter \"Gna\" (జ్ఞా) forced Apple into an emergency global update in 2018 because simply displaying it would fatally crash the iOS user interface.，20685 upvotes、419 comments，created: 2026-07-18，rank score: 19.17。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uzy29t/til_the_telugu_letter_gna_జఞ_forced_apple_into_an/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "TIL towards the end of filming \"Tenet,\" Robert Pattinson gifted Christopher Nolan a book of Oppenheimer speeches. According to Nolan, the speeches showed Oppenheimer \"wrestling with the implications of what's happened and what he's done.\" This led to Nolan's decision to make \"Oppenheimer\" (2023).",
+    "summary": "TIL towards the end of filming \"Tenet,\" Robert Pattinson gifted Christopher Nolan a book of Oppenheimer speeches. According to Nolan, the speeches showed Oppenheimer \"wrestling with the implications of what's happened and what he's done.\" This led to Nolan's ...，22908 upvotes、345 comments，created: 2026-07-19，rank score: 19.17。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v0z3wx/til_towards_the_end_of_filming_tenet_robert/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "People Keep Destroying Flock Cameras Across America. The Paperwork Already Saw It Coming.",
+    "summary": "People Keep Destroying Flock Cameras Across America. The Paperwork Already Saw It Coming.，16406 upvotes、471 comments，created: 2026-07-18，rank score: 19.15。",
+    "url": "https://www.reddit.com/r/technology/comments/1v0a6eu/people_keep_destroying_flock_cameras_across/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL David Letterman created a college scholarship specifically for average \"C students,\" believing that grades don't always reflect a person's talent or potential.",
+    "summary": "TIL David Letterman created a college scholarship specifically for average \"C students,\" believing that grades don't always reflect a person's talent or potential.，23742 upvotes、310 comments，created: 2026-07-19，rank score: 18.96。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v0f70u/til_david_letterman_created_a_college_scholarship/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "TIL it was severely taboo for US presidents to leave the country while in office, with Theodore Roosevelt's visit to Panama to inspect progress on the canal in 1906 being the first time a sitting president has left the country.",
+    "summary": "TIL it was severely taboo for US presidents to leave the country while in office, with Theodore Roosevelt's visit to Panama to inspect progress on the canal in 1906 being the first time a sitting president has left the country.，21402 upvotes、272 comments，created: 2026-07-19，rank score: 18.75。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v0sguz/til_it_was_severely_taboo_for_us_presidents_to/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
+    "summary": "ICE shared Medicaid data it wasn't supposed to have with Palantir，16152 upvotes、349 comments，created: 2026-07-18，rank score: 18.66。",
+    "url": "https://www.reddit.com/r/technology/comments/1uzw2qe/ice_shared_medicaid_data_it_wasnt_supposed_to/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Kevin O’Leary claimed opposition to his Utah data center was fueled by Chinese money. Now he and Fox News are being sued for defamation",
+    "summary": "Kevin O’Leary claimed opposition to his Utah data center was fueled by Chinese money. Now he and Fox News are being sued for defamation，23071 upvotes、284 comments，created: 2026-07-17，rank score: 18.63。",
+    "url": "https://www.reddit.com/r/technology/comments/1uzac76/kevin_oleary_claimed_opposition_to_his_utah_data/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Flock Said Its Cameras Don't Track People. Then a Reporter Proved Them Wrong On Video",
+    "summary": "Flock Said Its Cameras Don't Track People. Then a Reporter Proved Them Wrong On Video，20002 upvotes、309 comments，created: 2026-07-17，rank score: 18.59。",
+    "url": "https://www.reddit.com/r/technology/comments/1uz5y37/flock_said_its_cameras_dont_track_people_then_a/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Air Force Engineer Accused of Cutting Down 13 Police Cameras Says They're Unconstitutional",
+    "summary": "Air Force Engineer Accused of Cutting Down 13 Police Cameras Says They're Unconstitutional，12532 upvotes、345 comments，created: 2026-07-19，rank score: 18.55。",
+    "url": "https://www.reddit.com/r/technology/comments/1v0tu8w/air_force_engineer_accused_of_cutting_down_13/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL that early movie actors were deliberately kept anonymous because studios feared audiences would become attached to them and they would demand higher salaries. Florence Lawrence became the first true movie star and helped create Hollywood’s celebrity culture.",
+    "summary": "TIL that early movie actors were deliberately kept anonymous because studios feared audiences would become attached to them and they would demand higher salaries. Florence Lawrence became the first true movie star and helped create Hollywood’s celebrity cultu...，17382 upvotes、337 comments，created: 2026-07-17，rank score: 18.55。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uz035f/til_that_early_movie_actors_were_deliberately/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Political beliefs affect American’s beliefs about the relationship between diversity and merit in hiring. Liberals believe that diversity efforts enhance the opportunity to hire the best person. Conservatives believe that diversity efforts hamper the likelihood of hiring the best person.",
+    "summary": "Political beliefs affect American’s beliefs about the relationship between diversity and merit in hiring. Liberals believe that diversity efforts enhance the opportunity to hire the best person. Conservatives believe that diversity efforts hamper the likeliho...，3360 upvotes、923 comments，created: 2026-07-18，rank score: 18.50。",
+    "url": "https://www.reddit.com/r/science/comments/1v07mc1/political_beliefs_affect_americans_beliefs_about/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Russia’s Fake Job Offers Are Sending Botswana Citizens to Ukraine’s Front Lines at “Alarming Rate”",
+    "summary": "Russia’s Fake Job Offers Are Sending Botswana Citizens to Ukraine’s Front Lines at “Alarming Rate”，11789 upvotes、349 comments，created: 2026-07-19，rank score: 18.48。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0p139/russias_fake_job_offers_are_sending_botswana/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Populist Nigel Farage to stand against ‘record’ 33 candidates in UK by-election he triggered",
+    "summary": "Populist Nigel Farage to stand against ‘record’ 33 candidates in UK by-election he triggered，5897 upvotes、526 comments，created: 2026-07-19，rank score: 18.31。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0gbyn/populist_nigel_farage_to_stand_against_record_33/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Zelenskyy: Ballistic missiles are why Putin still believes in his war",
+    "summary": "Zelenskyy: Ballistic missiles are why Putin still believes in his war，9906 upvotes、339 comments，created: 2026-07-19，rank score: 18.28。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0sv0l/zelenskyy_ballistic_missiles_are_why_putin_still/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Authors of LGBTQ+ books say school visits cancelled after 'complaints from parents'",
+    "summary": "Authors of LGBTQ+ books say school visits cancelled after 'complaints from parents'，2810 upvotes、783 comments，created: 2026-07-17，rank score: 17.90。",
+    "url": "https://www.reddit.com/r/books/comments/1uz0pes/authors_of_lgbtq_books_say_school_visits/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Desire for attention, control makes narcissists more likely to favour in-person work, researchers hypothesize | Why narcissistic leaders resist remote work",
+    "summary": "Desire for attention, control makes narcissists more likely to favour in-person work, researchers hypothesize | Why narcissistic leaders resist remote work，10368 upvotes、253 comments，created: 2026-07-18，rank score: 17.77。",
+    "url": "https://www.reddit.com/r/science/comments/1uzwugq/desire_for_attention_control_makes_narcissists/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "People are more likely to believe false information when it comes from someone who ignores the truth rather than a liar who actively tries to deceive. Findings provide evidence that casual disregard for reality poses a uniquely potent threat to public knowledge and belief.",
+    "summary": "People are more likely to believe false information when it comes from someone who ignores the truth rather than a liar who actively tries to deceive. Findings provide evidence that casual disregard for reality poses a uniquely potent threat to public knowled...，9223 upvotes、287 comments，created: 2026-07-17，rank score: 17.67。",
+    "url": "https://www.reddit.com/r/science/comments/1uyvsti/people_are_more_likely_to_believe_false/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Common rationale for drinking water at meals is that it physically stretches stomach, triggering fullness so you don’t eat too much. But new study found no support for this. Instead, for every additional 100 grams of water drunk, people ate about 39 more grams of food – roughly 49 more calories.",
+    "summary": "Common rationale for drinking water at meals is that it physically stretches stomach, triggering fullness so you don’t eat too much. But new study found no support for this. Instead, for every additional 100 grams of water drunk, people ate about 39 more gram...，7036 upvotes、319 comments，created: 2026-07-17，rank score: 17.57。",
+    "url": "https://www.reddit.com/r/science/comments/1uz0txg/common_rationale_for_drinking_water_at_meals_is/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL while waiting for a flat tire to be fixed before deaparture, Sue Hendrickson decided to explore an area their fossil expedition never checked. She then found a few fossils, and upon further excavation, a near complete T Rex fossil, that is now named \"Sue\"",
+    "summary": "TIL while waiting for a flat tire to be fixed before deaparture, Sue Hendrickson decided to explore an area their fossil expedition never checked. She then found a few fossils, and upon further excavation, a near complete T Rex fossil, that is now named \"Sue\"，16390 upvotes、133 comments，created: 2026-07-18，rank score: 17.37。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v06jsy/til_while_waiting_for_a_flat_tire_to_be_fixed/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
+    "summary": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens，2823 upvotes、255 comments，created: 2026-07-19，rank score: 16.68。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v14q04/oil_prices_cross_90_a_barrel_as_usiran_conflict/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "A 65-year-old woman ended up in the ER with \"Happy Heart Syndrome\" after her daughter's wedding, a rare case where overwhelming joy temporarily weakened her heart muscle",
+    "summary": "A 65-year-old woman ended up in the ER with \"Happy Heart Syndrome\" after her daughter's wedding, a rare case where overwhelming joy temporarily weakened her heart muscle，10718 upvotes、102 comments，created: 2026-07-19，rank score: 16.68。",
+    "url": "https://www.reddit.com/r/science/comments/1v0pwub/a_65yearold_woman_ended_up_in_the_er_with_happy/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Belgium approves ban on imports from Israeli settlements",
+    "summary": "Belgium approves ban on imports from Israeli settlements，5865 upvotes、138 comments，created: 2026-07-19，rank score: 16.49。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0p2xc/belgium_approves_ban_on_imports_from_israeli/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Syria taken off US terror blacklist after 47 years, paving way for investment",
+    "summary": "Syria taken off US terror blacklist after 47 years, paving way for investment，2424 upvotes、250 comments，created: 2026-07-19，rank score: 16.44。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0q74t/syria_taken_off_us_terror_blacklist_after_47/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Autistic and non-autistic people use similar strategies when learning about other’s preferences, but the unique preferences of autistic people make their likes and dislikes harder to predict. This explains common social misunderstandings without assuming that autistic people can’t read social cues.",
+    "summary": "Autistic and non-autistic people use similar strategies when learning about other’s preferences, but the unique preferences of autistic people make their likes and dislikes harder to predict. This explains common social misunderstandings without assuming that...，2928 upvotes、230 comments，created: 2026-07-18，rank score: 16.35。",
+    "url": "https://www.reddit.com/r/science/comments/1uzs6ue/autistic_and_nonautistic_people_use_similar/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "A new study revealed that Republican lawmakers were responsible for 86 percent of antivaccine bills introduced across state legislatures after the onset of the COVID-19 pandemic, raising concerns about public health",
+    "summary": "A new study revealed that Republican lawmakers were responsible for 86 percent of antivaccine bills introduced across state legislatures after the onset of the COVID-19 pandemic, raising concerns about public health，9126 upvotes、105 comments，created: 2026-07-17，rank score: 16.30。",
+    "url": "https://www.reddit.com/r/science/comments/1uz5oba/a_new_study_revealed_that_republican_lawmakers/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Mojtaba Khamenei: US Presidential Signatures are ‘Valueless and Invalid’",
+    "summary": "Mojtaba Khamenei: US Presidential Signatures are ‘Valueless and Invalid’，2216 upvotes、228 comments，created: 2026-07-19，rank score: 16.21。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0nmao/mojtaba_khamenei_us_presidential_signatures_are/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "The 2026 winners of the Lyttle Lytton contest, where people compete to write the worst first sentence (in 200 characters or less) of the worst imaginary novel, like \"Madison was a shy, awkward, inwardly beautiful teenaged girl just like you.\"",
+    "summary": "The 2026 winners of the Lyttle Lytton contest, where people compete to write the worst first sentence (in 200 characters or less) of the worst imaginary novel, like \"Madison was a shy, awkward, inwardly beautiful teenaged girl just like you.\"，2909 upvotes、159 comments，created: 2026-07-19，rank score: 16.01。",
+    "url": "https://www.reddit.com/r/books/comments/1v0vcm3/the_2026_winners_of_the_lyttle_lytton_contest/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Alberta First Nations intend to 'rock the vote' against separatism from Canada",
+    "summary": "Alberta First Nations intend to 'rock the vote' against separatism from Canada，2135 upvotes、195 comments，created: 2026-07-19，rank score: 15.99。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0woau/alberta_first_nations_intend_to_rock_the_vote/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Russia unleashes one of biggest ballistic missile attacks of the Ukraine war, Kyiv says",
+    "summary": "Russia unleashes one of biggest ballistic missile attacks of the Ukraine war, Kyiv says，2606 upvotes、175 comments，created: 2026-07-19，rank score: 15.98。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0kek5/russia_unleashes_one_of_biggest_ballistic_missile/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Support for authoritarian leaders can spread socially among citizens in established democracies. This social contagion effect provides insights into how anti-democratic sentiments can suddenly surge in modern societies.",
+    "summary": "Support for authoritarian leaders can spread socially among citizens in established democracies. This social contagion effect provides insights into how anti-democratic sentiments can suddenly surge in modern societies.，2786 upvotes、158 comments，created: 2026-07-19，rank score: 15.94。",
+    "url": "https://www.reddit.com/r/science/comments/1v0outa/support_for_authoritarian_leaders_can_spread/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Regularly sleeping long hours each night is associated with higher levels of an Alzheimer's-related protein in the blood, even after accounting for other health factors",
+    "summary": "Regularly sleeping long hours each night is associated with higher levels of an Alzheimer's-related protein in the blood, even after accounting for other health factors，3533 upvotes、176 comments，created: 2026-07-16，rank score: 15.91。",
+    "url": "https://www.reddit.com/r/science/comments/1uy4b7d/regularly_sleeping_long_hours_each_night_is/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "‘Toxic waste’ build-up in the brain may be driving dementia and ALS",
+    "summary": "‘Toxic waste’ build-up in the brain may be driving dementia and ALS，2895 upvotes、144 comments，created: 2026-07-17，rank score: 15.56。",
+    "url": "https://www.reddit.com/r/science/comments/1uyyppb/toxic_waste_buildup_in_the_brain_may_be_driving/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Why do URLs use // after http: and https:? Is there a historical reason?",
+    "summary": "Why do URLs use // after http: and https:? Is there a historical reason?，773 upvotes、247 comments，created: 2026-07-19，rank score: 15.28。",
+    "url": "https://www.reddit.com/r/webdev/comments/1v0ovvg/why_do_urls_use_after_http_and_https_is_there_a/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Ireland to create public register of domestic violence offenders",
+    "summary": "Ireland to create public register of domestic violence offenders，3780 upvotes、76 comments，created: 2026-07-19，rank score: 15.24。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0tapz/ireland_to_create_public_register_of_domestic/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "U.K. PM drops digital ID scheme to prioritize cost of living: allies",
+    "summary": "U.K. PM drops digital ID scheme to prioritize cost of living: allies，1398 upvotes、113 comments，created: 2026-07-19，rank score: 14.81。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0wm3q/uk_pm_drops_digital_id_scheme_to_prioritize_cost/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "France, Germany vow to develop Palantir rival",
+    "summary": "France, Germany vow to develop Palantir rival，1356 upvotes、102 comments，created: 2026-07-19，rank score: 14.60。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0mu2s/france_germany_vow_to_develop_palantir_rival/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Physicists have developed the first room-temperature quantum material that could transform quantum computing, overcoming one of the biggest barriers in quantum materials research: the need for bulky cryogenic refrigeration to preserve quantum behavior.",
+    "summary": "Physicists have developed the first room-temperature quantum material that could transform quantum computing, overcoming one of the biggest barriers in quantum materials research: the need for bulky cryogenic refrigeration to preserve quantum behavior.，2644 upvotes、56 comments，created: 2026-07-19，rank score: 14.50。",
+    "url": "https://www.reddit.com/r/science/comments/1v11zcz/physicists_have_developed_the_first/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1606, Part 1 (Thread #1753)",
+    "summary": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1606, Part 1 (Thread #1753)，488 upvotes、195 comments，created: 2026-07-19，rank score: 14.44。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0gaau/rworldnews_live_thread_russian_invasion_of/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Canada to temporarily bar entry for foreigners who have recently been to Congo, against UN advice",
+    "summary": "Canada to temporarily bar entry for foreigners who have recently been to Congo, against UN advice，1180 upvotes、97 comments，created: 2026-07-19，rank score: 14.43。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0x23p/canada_to_temporarily_bar_entry_for_foreigners/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CMV: We can't prevent or reverse falling birth rates.",
+    "summary": "Pro family welfare systems won't prevent falling birth rates. France and Sweden spent massively on pro-family welfare systems. It worked for a while but ultimately birth rates went into free fall. Poverty prevents children, but wealth discourages them. It's a...，160 upvotes、428 comments，created: 2026-07-18，rank score: 14.37。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v043o7/cmv_we_cant_prevent_or_reverse_falling_birth_rates/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Hungarian President Sulyok Signs Constitutional Amendment Ending His Term Prematurely",
+    "summary": "Hungarian President Sulyok Signs Constitutional Amendment Ending His Term Prematurely，3048 upvotes、48 comments，created: 2026-07-19，rank score: 14.35。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0k8v6/hungarian_president_sulyok_signs_constitutional/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CMV: Fucktard is a perfectly good substitute for retard and shouldn't offend anyone",
+    "summary": "I have no qualms with the word retard becoming taboo. I want to insult people who deserve it, not people with cognitive disabilities. But this means we need a different scathing epithet for stupid people. There are plenty of contenders: stupid, idiot, dumbass...，274 upvotes、273 comments，created: 2026-07-17，rank score: 14.16。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uzecf8/cmv_fucktard_is_a_perfectly_good_substitute_for/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Web devs, settle this: why do so many websites force a trailing slash (/) on URLs?",
+    "summary": "Web devs, settle this: why do so many websites force a trailing slash (/) on URLs?，682 upvotes、104 comments，created: 2026-07-19，rank score: 13.90。",
+    "url": "https://www.reddit.com/r/webdev/comments/1v0gl9p/web_devs_settle_this_why_do_so_many_websites/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "‘I felt Holden was talking to me alone’: The Catcher in the Rye at 75",
+    "summary": "‘I felt Holden was talking to me alone’: The Catcher in the Rye at 75，596 upvotes、141 comments，created: 2026-07-16，rank score: 13.87。",
+    "url": "https://www.reddit.com/r/books/comments/1uyigw4/i_felt_holden_was_talking_to_me_alone_the_catcher/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Ukraine strikes 3 shadow fleet tankers on Black Sea, oil depots in southwestern Russia, Zelensky says",
+    "summary": "Ukraine strikes 3 shadow fleet tankers on Black Sea, oil depots in southwestern Russia, Zelensky says，2590 upvotes、36 comments，created: 2026-07-19，rank score: 13.82。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0prie/ukraine_strikes_3_shadow_fleet_tankers_on_black/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Study finds that unionization increased average faculty salaries with the biggest gains going to lower paid faculty with little evidence that universities hired fewer faculty after unionization using Canadian university faculty data from 1970–2022.",
+    "summary": "Study finds that unionization increased average faculty salaries with the biggest gains going to lower paid faculty with little evidence that universities hired fewer faculty after unionization using Canadian university faculty data from 1970–2022.，2660 upvotes、39 comments，created: 2026-07-17，rank score: 13.63。",
+    "url": "https://www.reddit.com/r/science/comments/1uyq5l3/study_finds_that_unionization_increased_average/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: Climate change is an apocalyptic-level threat, and will result in more suffering than every atrocity combined.",
+    "summary": "Every farmer with a greenhouse knows that when you add CO2 to your greenhouse, & remove most of the plants/ start new growth, it gets way hotter. We started out with just a few factories at the start of the industrial revolution, and have built more & more ev...，190 upvotes、188 comments，created: 2026-07-19，rank score: 13.53。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v0xx1o/cmv_climate_change_is_an_apocalypticlevel_threat/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "How to find joy in modern software development",
+    "summary": "For the last few years I’ve been struggling with finding enjoyment from software development, as I have found myself falling into the mindset that an LLM can carry out the implementation of a complex feature better than I can, so why should I bother even atte...，341 upvotes、146 comments，created: 2026-07-17，rank score: 13.51。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uzfvrq/how_to_find_joy_in_modern_software_development/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Russia attacks Ukraine with 41 missiles and 125 drones: 23 missile hits recorded",
+    "summary": "Russia attacks Ukraine with 41 missiles and 125 drones: 23 missile hits recorded，1230 upvotes、47 comments，created: 2026-07-19，rank score: 13.49。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0zt0e/russia_attacks_ukraine_with_41_missiles_and_125/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "At least 1 killed, 13 injured after major Russian attack rocks Kyiv with ballistic missiles, damages residential buildings",
+    "summary": "At least 1 killed, 13 injured after major Russian attack rocks Kyiv with ballistic missiles, damages residential buildings，820 upvotes、61 comments，created: 2026-07-19，rank score: 13.35。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0hkea/at_least_1_killed_13_injured_after_major_russian/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CMV: It is NOT the fall of Western Civilization.",
+    "summary": "I was at the pub recently with a very knowledgeable bloke, who, when it came to the topic of politics immediately said (as though it were obvious), we're living through the last days of Western civilization. This is continuously echoed online, and by many sma...，140 upvotes、208 comments，created: 2026-07-19，rank score: 13.34。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v0qfyf/cmv_it_is_not_the_fall_of_western_civilization/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "CMV: Almost every major life problem becomes easier with money, which is why I think it is the second most important thing in life",
+    "summary": "I don't think money is the most important thing in life. I would put health first, because without good health it is difficult to enjoy anything else. However, I believe money is a very clear second place. It can determine where you live, the quality of healt...，197 upvotes、105 comments，created: 2026-07-19，rank score: 12.72。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v0ogxf/cmv_almost_every_major_life_problem_becomes/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Maintaining the code of the man who wrote \"How To Write Unmaintainable Code\"",
+    "summary": "Maintaining the code of the man who wrote \"How To Write Unmaintainable Code\"，680 upvotes、44 comments，created: 2026-07-17，rank score: 12.52。",
+    "url": "https://www.reddit.com/r/programming/comments/1uzadz5/maintaining_the_code_of_the_man_who_wrote_how_to/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "How do you decide your reading list?",
+    "summary": "For some time I've been borrowing books from the library, reading them and then when swapping them for anything new. Just grabbing the next one off the shelf that catches my eye, sometimes by an author I'm intrigued about or a title that I'd heard good things...，92 upvotes、155 comments，created: 2026-07-19，rank score: 12.48。",
+    "url": "https://www.reddit.com/r/books/comments/1v0kbzo/how_do_you_decide_your_reading_list/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Kyiv hit with deadly strikes after attack on Russian e-commerce giant",
+    "summary": "Kyiv hit with deadly strikes after attack on Russian e-commerce giant，454 upvotes、48 comments，created: 2026-07-19，rank score: 12.48。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0qeg1/kyiv_hit_with_deadly_strikes_after_attack_on/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "are most of the jobs in the linkedin jobs section just fake now?",
+    "summary": "i just saw someone share a story that they opened 2 AI engineer roles this week. In a bit more than a day, 600+ applications came in. That's generally at least 4x more than they get for the other Engineering roles. On top of that, 30+ pitches on LinkedIn, 5 v...，161 upvotes、110 comments，created: 2026-07-18，rank score: 12.47。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1v00rnh/are_most_of_the_jobs_in_the_linkedin_jobs_section/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: If teenagers get pregnant, they shouldn't be treated like adults.",
+    "summary": "Hear me out--in this day and age, with all of the wisdom you need in your back pocket, if kids under 18 have unprotected sex and get pregnant it is not a case of \"You're grown up enough to make a baby, you get out and raise it\". Getting pregnant as a teen mea...，152 upvotes、102 comments，created: 2026-07-19，rank score: 12.45。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v0u08u/cmv_if_teenagers_get_pregnant_they_shouldnt_be/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "What is the one automation you have added, that you are proud of?",
+    "summary": "As DevOps, we all work on automating tasks to make our lives easier. What is the most satisfying automation you have ever implemented that truly saved you time?，133 upvotes、118 comments，created: 2026-07-17，rank score: 12.27。",
+    "url": "https://www.reddit.com/r/devops/comments/1uze2sz/what_is_the_one_automation_you_have_added_that/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Tender is the Flesh by Augustina Bazterrica – how much is lost in the translation?",
+    "summary": "I just read Tender is the Flesh by Augustina Bazterrica. I didn't care much for it, for a plethora of reasons. But reading a bit about the novel got me thinking about how some things might have been lost in translation. I don't speak Spanish, so I can't reall...，332 upvotes、56 comments，created: 2026-07-18，rank score: 12.22。",
+    "url": "https://www.reddit.com/r/books/comments/1uzscpt/tender_is_the_flesh_by_augustina_bazterrica_how/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "What habits/lifehacks/methods made you more efficient as a senior engineer/tech lead?",
+    "summary": "In my previous thread, I asked (and received plenty of great suggestions) on high-quality resources. This time, however, I'd like to discuss a much less concrete aspect of our jobs. Namely, your favorite productivity habits and personal know-hows when it come...，194 upvotes、86 comments，created: 2026-07-17，rank score: 12.21。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uzeexw/what_habitslifehacksmethods_made_you_more/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "A History of IDEs at Google",
+    "summary": "A History of IDEs at Google，219 upvotes、61 comments，created: 2026-07-19，rank score: 12.03。",
+    "url": "https://www.reddit.com/r/programming/comments/1v0gkin/a_history_of_ides_at_google/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Hours after Iranian shrapnel lands in Israel, Zamir says IDF ready to strike back",
+    "summary": "Hours after Iranian shrapnel lands in Israel, Zamir says IDF ready to strike back，278 upvotes、43 comments，created: 2026-07-19，rank score: 11.87。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0wili/hours_after_iranian_shrapnel_lands_in_israel/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CMV: The standard dark-roast profile for Turkish coffee is a commercial artifact, not a tradition, and it makes objectively worse coffee.",
+    "summary": "​I'll put my cards on the table: I think most people who say they hate Turkish coffee don't actually hate the brewing method itself. They hate the fact that commercial producers use the darkest possible roast to mask cheap commodity beans, and we've collectiv...，143 upvotes、85 comments，created: 2026-07-17，rank score: 11.84。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uz27cg/cmv_the_standard_darkroast_profile_for_turkish/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Late 50s to 70s Counterculture Literature",
+    "summary": "Apologies that my named literary category is not very academic, but I didn't know a better descriptor. I've always had an interest in this era of writing, even though I was born after most of it was written. I read On the Road my senior year of college, just ...，102 upvotes、111 comments，created: 2026-07-17，rank score: 11.80。",
+    "url": "https://www.reddit.com/r/books/comments/1uymd5z/late_50s_to_70s_counterculture_literature/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Finished In The Woods by Tana French - the ending made me feel terrible in the best possible way",
+    "summary": "A couple of days ago, I finished reading In The Woods, my first Tana French novel. Really good book, but the ending - it made me feel hollow and even a little sick. To the point where I've had to actively stop myself ruminating about it, lest I become depress...，250 upvotes、45 comments，created: 2026-07-19，rank score: 11.77。",
+    "url": "https://www.reddit.com/r/books/comments/1v0kplc/finished_in_the_woods_by_tana_french_the_ending/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "How to handle a sr dev who has less experience than I have but is a good engineer and often wrong?",
+    "summary": "I work as an architect for a specialized area within a much larger company. Of the several teams having to implement my designs there are a couple engineers who constantly fight me on my decisions. Of the two, one in particular is… acidic. He has a strong fol...，110 upvotes、84 comments，created: 2026-07-18，rank score: 11.63。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uzjbss/how_to_handle_a_sr_dev_who_has_less_experience/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Settlers accused of burning, vandalizing West Bank mosque in overnight attack",
+    "summary": "Settlers accused of burning, vandalizing West Bank mosque in overnight attack，282 upvotes、33 comments，created: 2026-07-19，rank score: 11.56。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v156oc/settlers_accused_of_burning_vandalizing_west_bank/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "How 'long' should a Lead or Staff engineer CV be in 2026?",
+    "summary": "The current version of my CV is 2 pages at 11 point but there is a lot that's not included. In the past I have let it be longer but I've heard/read all sorts of opinions on this including: Your CV should never be more than 2 pages, it shows discipline and bre...，56 upvotes、103 comments，created: 2026-07-17，rank score: 11.19。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uz3abt/how_long_should_a_lead_or_staff_engineer_cv_be_in/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Democratic Taiwan must not become 'China's Taiwan', president says",
+    "summary": "Democratic Taiwan must not become 'China's Taiwan', president says，804 upvotes、12 comments，created: 2026-07-19，rank score: 11.18。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v0o5vg/democratic_taiwan_must_not_become_chinas_taiwan/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Does anyone actually test their database restores on a schedule?",
+    "summary": "Every backup thread ends with \"an untested backup is not a backup,\" everyone upvotes, and then (in my experience) nobody has an automated restore test anywhere. Genuinely curious about the state of practice: Do you restore-test on a schedule, or only when som...，39 upvotes、105 comments，created: 2026-07-19，rank score: 11.11。",
+    "url": "https://www.reddit.com/r/devops/comments/1v0m5nh/does_anyone_actually_test_their_database_restores/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "The Java Story | The Official Documentary of Java",
+    "summary": "The Java Story | The Official Documentary of Java，154 upvotes、43 comments，created: 2026-07-18，rank score: 11.05。",
+    "url": "https://www.reddit.com/r/programming/comments/1uzkqdg/the_java_story_the_official_documentary_of_java/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "New North Korean campaign uses fake coding interviews to steal developer credentials - DPRK-aligned hackers hid malware inside SVG flag images to backdoor developer job interview coding tests. Not one antivirus vendor caught it",
+    "summary": "New North Korean campaign uses fake coding interviews to steal developer credentials - DPRK-aligned hackers hid malware inside SVG flag images to backdoor developer job interview coding tests. Not one antivirus vendor caught it，274 upvotes、22 comments，created: 2026-07-17，rank score: 10.65。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uz4sdj/new_north_korean_campaign_uses_fake_coding/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: The solution for shortages and the solution for poor performance is the same: Raise wages dramatically to incentivize a larger talent pool and then raise employment standards when you have a large enough talent pool to be picky.",
+    "summary": "Edit: Real quick point of clarification. I live and work in the US, and so these are observations and views about these things within the US. Hi everyone, In my day job, I am an accountant, and lately I've been hearing a lot about how we have a big shortage i...，49 upvotes、77 comments，created: 2026-07-17，rank score: 10.63。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uyyhit/cmv_the_solution_for_shortages_and_the_solution/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "What surprised an engineer after spending 13 years on SQL Server and then working on Postgres? on the Talking Postgres podcast",
+    "summary": "What surprised an engineer after spending 13 years on SQL Server and then working on Postgres? on the Talking Postgres podcast，223 upvotes、21 comments，created: 2026-07-17，rank score: 10.42。",
+    "url": "https://www.reddit.com/r/programming/comments/1uzerp7/what_surprised_an_engineer_after_spending_13/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "NAT Gateway is somehow 80% of our AWS bill, how are you all keeping this in check?",
+    "summary": "We’re on AWS Activate credits and just realized NAT Gateway (hourly plus data processing charges) is eating up about 80% of our total AWS spend. Didn’t expect it to be anywhere near that high until we actually looked at Cost Explorer. We know some of the usua...，52 upvotes、45 comments，created: 2026-07-19，rank score: 10.27。",
+    "url": "https://www.reddit.com/r/devops/comments/1v0xgjh/nat_gateway_is_somehow_80_of_our_aws_bill_how_are/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "i built a text format for human movement and a Three.js renderer for it",
+    "summary": "i built a text format for human movement and a Three.js renderer for it，71 upvotes、41 comments，created: 2026-07-18，rank score: 10.27。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uztues/i_built_a_text_format_for_human_movement_and_a/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Heads up! Both Chrome and Firefox support JPEG XL (jxl) now",
+    "summary": "Albeit with Chrome enabling it is still behind chrome://flags/ so it doesn't work out-of-box, but it is there. If you were about to convert a bunch of jpg and png to avif, you might want to hold that off.，81 upvotes、42 comments，created: 2026-07-17，rank score: 10.25。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uyprxm/heads_up_both_chrome_and_firefox_support_jpeg_xl/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "The Zilog Z80 has turned 50",
+    "summary": "The Zilog Z80 has turned 50，138 upvotes、23 comments，created: 2026-07-18，rank score: 10.18。",
+    "url": "https://www.reddit.com/r/programming/comments/1v01zwd/the_zilog_z80_has_turned_50/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: ALL Applications should always provide feedback",
+    "summary": "I don't care if you're Harvard, the mom-and-pop shop down the street, any essay competition (this is very close to my heart), YOU SHOULD PROVIDE FEEDBACK INTO WHY YOU REJECTED THE PERSON You chose a person over a specific applicant for some reason. It wasn't ...，39 upvotes、58 comments，created: 2026-07-18，rank score: 10.09。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uzh2x1/cmv_all_applications_should_always_provide/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "200 dead startups later, I owe every founder an apology.",
+    "summary": "Let me explain how I even have this data because it sounds quite made up. I build products for founders for a living have been doing it for 8 years so I have had a weirdly specific seat…. I watch a product get born, I watch it launch and b...，252 upvotes、70 comments ，类型：痛点/需求，评分：10.0/10。",
+    "url": "https://www.reddit.com/r/SaaS/comments/1ux6svc/200_dead_startups_later_i_owe_every_founder_an/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Do you guys think people would pay for an app like this?",
+    "summary": "Do you guys think people would pay for an app like this?，10 upvotes、15 comments ，类型：痛点/需求，评分：9.8/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v00icz/do_you_guys_think_people_would_pay_for_an_app/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "CMV: Most people who self-identify as complicated are not so. They're just terminally online, that's all.",
+    "summary": "I don't think organic individuality makes people incompatible, just the morass of unlived and bizarre ideas they've memetically ingested. Under-socialized people can quickly become convinced they're more complex than they actually are. Endlessly focusing on y...，41 upvotes、35 comments，created: 2026-07-19，rank score: 9.66。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v0oo2i/cmv_most_people_who_selfidentify_as_complicated/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Learning Software Architecture",
+    "summary": "Learning Software Architecture，100 upvotes、23 comments，created: 2026-07-17，rank score: 9.63。",
+    "url": "https://www.reddit.com/r/programming/comments/1uyosj1/learning_software_architecture/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Anxiety/burnout as a sole in house web dev",
+    "summary": "I've been working as the only web dev for an e-commerce brand for just under a year, previously worked at an agency in a small technical team. There's about 70 people in company, with 8 figure turnover, millions of sessions per month across several sites. Lon...，41 upvotes、37 comments，created: 2026-07-18，rank score: 9.63。",
+    "url": "https://www.reddit.com/r/webdev/comments/1v025n3/anxietyburnout_as_a_sole_in_house_web_dev/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "The most expensive instruction might be… cmov",
+    "summary": "The most expensive instruction might be… cmov，246 upvotes、11 comments，created: 2026-07-17，rank score: 9.58。",
+    "url": "https://www.reddit.com/r/programming/comments/1uyt0tf/the_most_expensive_instruction_might_be_cmov/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "How is CI/CD managed in enterprise environments?",
+    "summary": "Hi everyone, I'm learning CI/CD and would love to understand how it's managed in enterprise environments. A few questions: Which CI/CD tool(s) do you use (GitHub Actions, Jenkins, GitLab CI, Azure DevOps, CircleCI, etc.), and why did your team choose them? Ho...，38 upvotes、28 comments，created: 2026-07-19，rank score: 9.31。",
+    "url": "https://www.reddit.com/r/devops/comments/1v0v1a4/how_is_cicd_managed_in_enterprise_environments/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "DevOps professionals in Australia - how much should I ask?",
+    "summary": "Been working as a DevOps / Cloud engineer for just over 6 years. Mostly in AWS shops. Know a bit of everything but quite good with linux, AWS, containers and orchestration, GitHub actions, Python / Node / PHP. Hold following certifications. AWS Solutions Arch...，27 upvotes、43 comments，created: 2026-07-17，rank score: 9.27。",
+    "url": "https://www.reddit.com/r/devops/comments/1uz25xp/devops_professionals_in_australia_how_much_should/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Big Tech System Design Interview Expectations for Senior (IC5) vs Mid Level (IC4)",
+    "summary": "I've passed two interview loops of system design interviews up until this point in my career for mid level engineering roles. I'm a senior engineer now going through recruiting again and am curious if the system design interview rounds will be roughly evaluat...，35 upvotes、26 comments，created: 2026-07-19，rank score: 9.16。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1v12jov/big_tech_system_design_interview_expectations_for/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "The 10 Levels of Building a Data Grid - My 1 Year Journey of Building a Table.",
+    "summary": "The 10 Levels of Building a Data Grid - My 1 Year Journey of Building a Table.，48 upvotes、23 comments，created: 2026-07-17，rank score: 8.95。",
+    "url": "https://www.reddit.com/r/programming/comments/1uyvq9x/the_10_levels_of_building_a_data_grid_my_1_year/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "The computer at the bottom of a canal",
+    "summary": "The computer at the bottom of a canal，65 upvotes、14 comments，created: 2026-07-19，rank score: 8.88。",
+    "url": "https://www.reddit.com/r/programming/comments/1v0n806/the_computer_at_the_bottom_of_a_canal/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Mod Announcement: Read The Rules Bot",
+    "summary": "Hello CMV users! In an effort to reduce AI bots and onboard new users effectively, the moderator team has voted to install a new bot: Read The Rules. This bot will not apply to existing users with 10 or more subreddit karma specifically on CMV. Whenever a new...，29 upvotes、23 comments，created: 2026-07-20，rank score: 8.84。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v18wkd/mod_announcement_read_the_rules_bot/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "What's your experience with technical writing as an auxiliary skill?",
+    "summary": "I don't necessarily mean people whose main role is as a technical writer (although I'm sure insight from those people would also be valuable). But more along the lines of engineers/devs who have leveled up their technical writing skills, and how that has affe...，44 upvotes、20 comments，created: 2026-07-17，rank score: 8.71。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1uz3n3t/whats_your_experience_with_technical_writing_as/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Just hit my first €2k MRR and I’m honestly a bit emotional about it",
+    "summary": "Just hit my first €2k MRR and I’m honestly a bit emotional about it，337 upvotes、111 comments ，类型：讨论信号，评分：8.7/10。",
+    "url": "https://www.reddit.com/r/SaaS/comments/1uykvc7/just_hit_my_first_2k_mrr_and_im_honestly_a_bit/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Museum of Meaningless Metrics",
+    "summary": "Museum of Meaningless Metrics，412 upvotes、47 comments ，类型：讨论信号，评分：8.5/10。",
+    "url": "https://www.reddit.com/r/SaaS/comments/1v0gm7h/museum_of_meaningless_metrics/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "3 months in, 40 downloads, 41 updates, 0 paying customers. Here's what I'm learning.",
+    "summary": "In June I posted about getting banned from the community that was converting best and what that forced me to learn about distribution. This is the update. The numbers today: 40 first-time downloads, 41 updates from existing users, 5 App St...，24 upvotes、104 comments ，类型：竞品/新工具，评分：8.4/10。",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1uyuj6q/3_months_in_40_downloads_41_updates_0_paying/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Symptoms of Bad Software Design",
+    "summary": "Symptoms of Bad Software Design，66 upvotes、9 comments，created: 2026-07-18，rank score: 8.14。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uzl62i/symptoms_of_bad_software_design/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I built Grayslate, an open-source developer scratchpad for large JSON, CSV and text files",
+    "summary": "I built Grayslate, an open-source developer scratchpad for large JSON, CSV and text files，35 upvotes、13 comments，created: 2026-07-18，rank score: 8.08。",
+    "url": "https://www.reddit.com/r/webdev/comments/1v03lgt/i_built_grayslate_an_opensource_developer/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Stack hopping and interviews",
+    "summary": "Hey everyone. My background is ~9 years of experience. Right now I am NodeJS Senior SWE and basically acting Team Lead. In current organization I work for last 6 years. I am starting to look for new opportunities both to grow my income and my expertise. Also ...，5 upvotes、39 comments，created: 2026-07-19，rank score: 7.91。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1v1003p/stack_hopping_and_interviews/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "How do teams using multiple git provide (github, gitlab, bitbucket) manage their daily workflow?",
+    "summary": "I'm curious how teams working across multiple Git providers manage their day-to-day work. If your organization uses GitHub + Bitbucket or GitHub + GitLab (or more), how do you: Track pull requests? Find stale branches? Monitor releases? Keep track of work acr...，10 upvotes、30 comments，created: 2026-07-17，rank score: 7.87。",
+    "url": "https://www.reddit.com/r/devops/comments/1uz8gk8/how_do_teams_using_multiple_git_provide_github/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Improving my real-time galaxy simulation web-project in Three.JS ! You can test it if you want: https://galaxym.ovh",
+    "summary": "Improving my real-time galaxy simulation web-project in Three.JS ! You can test it if you want: https://galaxym.ovh，29 upvotes、12 comments，created: 2026-07-18，rank score: 7.77。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uzwsnl/improving_my_realtime_galaxy_simulation/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "First Sale After 7 Months of Hard Work",
+    "summary": "After 6 months of development and 1.5 month of marketing since early June (including 10 YouTube videos and several blog articles), I finally made my first sale. Honestly, the road to making my first dollars has never been this long for me....，31 upvotes、107 comments ，类型：讨论信号，评分：7.7/10。",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1uzof6o/first_sale_after_7_months_of_hard_work/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE",
+    "summary": "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE，31 upvotes、11 comments，created: 2026-07-16，rank score: 7.48。",
+    "url": "https://www.reddit.com/r/programming/comments/1uyhqyt/no_shark_is_safe_millions_of_shark_vacuums_are/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Gradient-GL - Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations (v2)",
+    "summary": "Gradient-GL - Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations (v2)，47 upvotes、6 comments，created: 2026-07-18，rank score: 7.39。",
+    "url": "https://www.reddit.com/r/webdev/comments/1v02a8x/gradientgl_tiny_webgl_library_for_deterministic/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: proshipping isn’t hurting you",
+    "summary": "CMV: proshipping isn’t hurting you people say proshipping is bad. but all it is is you don’t harass people for shipping characters in a way that might seem problematic. you don’t have to LIKE problematic ships. you just have to not harass people for it. and a...，0 upvotes、103 comments，created: 2026-07-18，rank score: 7.29。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uzzvzr/cmv_proshipping_isnt_hurting_you/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Terraform visualizer project",
+    "summary": "Hi everyone I'm looking for an idea for my semester project, and I thought about building a Terraform Visualizer. The idea is simple: it takes a Terraform state file, visualizes the infrastructure, and lets you save it as an image. My question is if I build t...，11 upvotes、13 comments，created: 2026-07-19，rank score: 7.07。",
+    "url": "https://www.reddit.com/r/devops/comments/1v0luip/terraform_visualizer_project/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: bad infrastructure in the US has nothing to do with giving money to Israel",
+    "summary": "US has a yearly GDP of around 30 TRILLION dollars. The average amount of money that they give to Israel is around 3.8 billion per year. Billion, not trillion, BILLION That's around 0.01% to 0.02% of US' GDP The US spends around 1.5 to 2 trillion of dollars ye...，0 upvotes、68 comments，created: 2026-07-20，rank score: 6.92。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v19ijl/cmv_bad_infrastructure_in_the_us_has_nothing_to/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Decoy Font: A TTF font that hides what you type",
+    "summary": "Decoy Font: A TTF font that hides what you type，39 upvotes、5 comments，created: 2026-07-17，rank score: 6.87。",
+    "url": "https://www.reddit.com/r/webdev/comments/1uzbckp/decoy_font_a_ttf_font_that_hides_what_you_type/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I spent a year building an AI product. The best marketing decision was to stop selling the AI.",
+    "summary": "Bit of a painful founder lesson. I spent roughly a year building Hookami, a product for YouTube creators. For months, I explained it by listing everything it could do: trend research, outlier detection, video deconstruction, beat sheets, t...，20 upvotes、83 comments ，类型：讨论信号，评分：6.7/10。",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1uwfmxp/i_spent_a_year_building_an_ai_product_the_best/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "CMV: The human subconscious consists of actually conscious processes, not purely mechanical ones",
+    "summary": "The typical assumption is that consciousness is singular; your frontal cortex has an inner life, and everything else your brain does is sophisticated-but-dark processing with no inner experience. I think this assumption is less parsimonious than the alternati...，5 upvotes、19 comments，created: 2026-07-17，rank score: 6.64。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uz5vkm/cmv_the_human_subconscious_consists_of_actually/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Would you use an app that turns the desk around your laptop into tappable buttons (using just the built-in mic)?",
+    "summary": "I came across an interesting idea recently: when you tap your desk, the sound travels through the surface into your laptop's chassis — and taps in different spots actually sound measurably different to the built-in microphone (different di...，5 upvotes、20 comments ，类型：竞品/新工具，评分：6.5/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v0hqyz/would_you_use_an_app_that_turns_the_desk_around/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "CVE-2026-63087: Grafana Oncall is EOL",
+    "summary": "Heads up if you're running Grafana OnCall's plugin-install flow, CVE-2026-63087 lets anyone reconfigure it with zero auth. Repo's archived, so there's no patch coming from upstream. If you're still migrating off it and need some time, there's a small fix you ...，29 upvotes、4 comments，created: 2026-07-18，rank score: 6.47。",
+    "url": "https://www.reddit.com/r/devops/comments/1v07ef4/cve202663087_grafana_oncall_is_eol/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Is SEO Reliable?",
+    "summary": "Hi, I started SEO around 30 days ago for Gamified Lives, it’s already started to pull me users even though I’m only 7 days post launch. Should I be relying on it to be able to keep getting me users or will it dry up? Just to give some cont...，18 upvotes、63 comments ，类型：讨论信号，评分：6.4/10。",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1ud7e9u/is_seo_reliable/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "CMV: The history of the camera is \"more revolutionary\" than the history of the car/automobile.",
+    "summary": "Of course, this is a relatively awkward comparison to draw out at first impression. These two histories are both separate and inexorably intertwined. I am still in the early moments of preparing the groundwork for how I want to lay out my view. They each affe...，0 upvotes、54 comments，created: 2026-07-17，rank score: 6.21。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uytjw4/cmv_the_history_of_the_camera_is_more/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Looking for a Serious DevOps/SRE Grind Buddy",
+    "summary": "I'm a working professional with 1.5 YOE preparing to crack product-based companies. After work, I study daily from 10 PM to 2–3 AM. Looking for a serious DevOps/SRE study buddy for accountability, hands-on learning, DSA, and System Design. If there's any expe...，7 upvotes、15 comments，created: 2026-07-14，rank score: 6.19。",
+    "url": "https://www.reddit.com/r/devops/comments/1uwgszj/looking_for_a_serious_devopssre_grind_buddy/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: Influencer apology videos are pointless in redeeming said influencers.",
+    "summary": "It is my view that, when it becomes necessary for an influencer to make an apology video, the audience has already made up their mind about condemning or not condemning the influencer. I do, of course, believe that many influencers should apologize for what t...，1 upvotes、26 comments，created: 2026-07-17，rank score: 5.94。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uz0k4b/cmv_influencer_apology_videos_are_pointless_in/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "How do your teams manage planning?",
+    "summary": "For those on platform or DevOps teams, what does your planning process look like? We have no problem writing docs and roadmaps for product features, but it doesn’t always feel like it aligns with the rest of the business. Do you have Product Design Docs? Tech...，3 upvotes、11 comments，created: 2026-07-19，rank score: 5.80。",
+    "url": "https://www.reddit.com/r/devops/comments/1v0vscq/how_do_your_teams_manage_planning/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "A portable object that can instantly carbonate any drink — why doesn’t this exist?",
+    "summary": "I was thinking about how convenient it would be if you could drop a small object into any drink and instantly create a sparkling texture without changing the flavor. It wouldn’t need to be an ice cube — maybe a portable, shelf-stable objec...，4 upvotes、25 comments ，类型：讨论信号，评分：5.8/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1uz7izq/a_portable_object_that_can_instantly_carbonate/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I built an app around my own meal-planning problem. What part would you remove?",
+    "summary": "I built an app around my own meal-planning problem. What part would you remove?，4 upvotes、5 comments ，类型：竞品/新工具，评分：5.7/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1uzqb46/i_built_an_app_around_my_own_mealplanning_problem/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "i'm working on an app to help me with my social anxiety but as i'm getting close to completing it, i think of all the reason it will fail and the idea of promoting it to people gives me anxiety.",
+    "summary": "I think I need some validation that others would want an app like this but also ideas on how to fix the major problems this app has. So the apps core functionality is to allow you to pick things you want to do and who you want to do it wit...，5 upvotes、13 comments ，类型：讨论信号，评分：5.3/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v0t9rb/im_working_on_an_app_to_help_me_with_my_social/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Development Environment",
+    "summary": "Hi everyone,I have a question about development environments and would love to hear how others handle this. Our current stack is:- Ruby on Rails (authentication)- React (frontend)- Flask/Python (API) Right now, every developer has to run all three services lo...，3 upvotes、7 comments，created: 2026-07-19，rank score: 5.22。",
+    "url": "https://www.reddit.com/r/devops/comments/1v0swf4/development_environment/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "cmv: Immersive learning is bullshit to sell you more",
+    "summary": "There are 2 main points here: Immersive language learning is bullshit (like kanjification of language, typing-no-writing schools...etc), the secondary less important point is that i believe it has popularity cuz it sells more than regular methods. French at s...，0 upvotes、22 comments，created: 2026-07-18，rank score: 5.20。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v06z6h/cmv_immersive_learning_is_bullshit_to_sell_you/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "I built a free résumé builder with no sign-up and no paywall on the PDF",
+    "summary": "Title: I built a free résumé builder with no sign-up and no paywall on the PDF After hitting a checkout page on three different \"free\" resume tools, I made Folium: 24 templates, live preview, and the PDF download is free — no account, noth...，1 upvotes、2 comments ，类型：竞品/新工具，评分：5.2/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1v1acws/i_built_a_free_résumé_builder_with_no_signup_and/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I built a little app to fix my own doomscrolling problem. Should i make it an actual app??",
+    "summary": "I always end up opening Instagram whenever I have 5 free minutes, and somehow those 5 minutes turn into 20. I'm sure I'm not the only one. So I made a small prototype. You tell it what you're interested in and how much time you have, and i...，1 upvotes、2 comments ，类型：竞品/新工具，评分：5.2/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1uy6fup/i_built_a_little_app_to_fix_my_own_doomscrolling/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "idea — an app that literally won't let you open trip pics until the trip's over (unlike snap where someone always opens early)",
+    "summary": "ok so you know how on snap there's always That One Person who opens the pic the second it lands, even though the whole group silently agreed to wait? happens every single trip, no matter how many times you tell people to hold off. so i had...，2 upvotes、6 comments ，类型：竞品/新工具，评分：5.0/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1uzykim/idea_an_app_that_literally_wont_let_you_open_trip/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "App idea: A to-do app that hides your to-do list",
+    "summary": "I have an idea for a productivity app that I would genuinely use every day, but I haven’t been able to find anything like it.The main goal is to reduce the feeling of being overwhelmed by a huge to-do list. Instead of showing everything yo...，2 upvotes、6 comments ，类型：竞品/新工具，评分：5.0/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1uyyljq/app_idea_a_todo_app_that_hides_your_todo_list/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I built a simple app to organize medical documents because I was tired of searching for them every time I visited a doctor.",
+    "summary": "For years my medical documents ended up everywhere. Blood test PDFs in Downloads. Prescriptions in WhatsApp. Medical reports in Google Drive. Random photos in my gallery. Every doctor's appointment started the same way: scrolling through h...，1 upvotes、4 comments ，类型：竞品/新工具，评分：4.9/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v0nvzr/i_built_a_simple_app_to_organize_medical/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I got tired of checking 10 different stores for the cheapest NBA hats, so I built a tool that compares them all",
+    "summary": "Every time I wanted a fitted for my team, I'd end up with like 8 tabs open — the official NBA store, the team's shop, New Era, Hat Club — all with different prices for the same cap. Kind of a pain. So I built something that pulls prices fr...，1 upvotes、2 comments ，类型：竞品/新工具，评分：4.8/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1v17f6h/i_got_tired_of_checking_10_different_stores_for/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Would you use an offline app that automatically hides sensitive information?",
+    "summary": "Would you use an offline app that automatically hides sensitive information?，0 upvotes、1 comments ，类型：痛点/需求，评分：4.8/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v09c2q/would_you_use_an_offline_app_that_automatically/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I built a tool that tells you when your cron jobs silently stop running",
+    "summary": "I built a tool that tells you when your cron jobs silently stop running，2 upvotes、1 comments ，类型：竞品/新工具，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1v17v7m/i_built_a_tool_that_tells_you_when_your_cron_jobs/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I am building a free app that activated 1,121 offers across my 7 credit cards and tells me which card to use at any store. No bank login",
+    "summary": "I am building a free app that activated 1,121 offers across my 7 credit cards and tells me which card to use at any store. No bank login，5 upvotes、2 comments ，类型：竞品/新工具，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1uzh0an/i_am_building_a_free_app_that_activated_1121/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Somebody Make This: An \"Anti-Calendar\" for friends, because trying to schedule hangouts is exhausting.",
+    "summary": "Does anyone else feel completely burnt out by the \"When are you free?\" text message dance? I feel like society has defaulted to \"I am available unless my calendar says I'm busy.\" This causes me so much anxiety because I constantly have to ...，8 upvotes、8 comments ，类型：讨论信号，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1uowlfm/somebody_make_this_an_anticalendar_for_friends/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I built a free Chrome extension to stop YouTube distractions — looking for honest feedback",
+    "summary": "Hi everyone! I’m an independent developer from Argentina, and I built YouTube Focus Guard because YouTube can be extremely useful for studying, working, and learning — but it is also very easy to get distracted by Shorts, recommendations, ...，2 upvotes、3 comments ，类型：竞品/新工具，评分：4.5/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1v1980n/i_built_a_free_chrome_extension_to_stop_youtube/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Learning Azure ADO",
+    "summary": "Can someone give me review for https://www.azuredevopslabs.com. I am trying to learn devops and then devsecops. My main goal is to learn devsecops. Can anyone guide me to some resource for Azure ADO like some guided labs.Thank you in advance!，5 upvotes、2 comments，created: 2026-07-17，rank score: 3.90。",
+    "url": "https://www.reddit.com/r/devops/comments/1uyorl7/learning_azure_ado/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Please Read The Rules",
+    "summary": "Please Read The Rules，4 upvotes、0 comments，created: 2026-07-20，rank score: 2.60。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v18oz4/please_read_the_rules/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "META: Fresh Topic Friday",
+    "summary": "Every Friday, posts are withheld for review by the moderators and approved if they aren't highly similar to another made in the past month. This functions to reduce topic fatigue for our regular contributors, and encourages discussions of topics that aren't a...，2 upvotes、0 comments，created: 2026-07-17，rank score: 1.69。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1uysa43/meta_fresh_topic_friday/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Java | The Documentary",
+    "summary": "Java | The Documentary，0 upvotes、0 comments，created: created time unavailable，rank score: 0.00。",
+    "url": "https://www.reddit.com/r/java/comments/1uzbfbd/java_the_documentary/",
+    "source": "Reddit - Tech"
+  }
+]
