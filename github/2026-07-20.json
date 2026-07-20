@@ -1,0 +1,51 @@
+[
+  {
+    "title": "mattpocock/skills",
+    "link": "https://github.com/mattpocock/skills",
+    "summary": "[Stars: 177,710] [10,983 stars this week] [Language: Shell] Skills for Real Engineers. Straight from my .agents directory.",
+    "published": "2026-07-20",
+    "dedupe_id": "github:mattpocock/skills"
+  },
+  {
+    "title": "ibelick/ui-skills",
+    "link": "https://github.com/ibelick/ui-skills",
+    "summary": "[Stars: 5,472] [1,669 stars this week] [Language: TypeScript] Skills for Design Engineers",
+    "published": "2026-07-20",
+    "dedupe_id": "github:ibelick/ui-skills"
+  },
+  {
+    "title": "openai/codex",
+    "link": "https://github.com/openai/codex",
+    "summary": "[Stars: 99,752] [2,361 stars this week] [Language: Rust] Lightweight coding agent that runs in your terminal",
+    "published": "2026-07-20",
+    "dedupe_id": "github:openai/codex"
+  },
+  {
+    "title": "openinterpreter/openinterpreter",
+    "link": "https://github.com/openinterpreter/openinterpreter",
+    "summary": "[Stars: 66,855] [2,498 stars this week] [Language: Rust] A coding agent for open models like Kimi K3",
+    "published": "2026-07-20",
+    "dedupe_id": "github:openinterpreter/openinterpreter"
+  },
+  {
+    "title": "tirth8205/code-review-graph",
+    "link": "https://github.com/tirth8205/code-review-graph",
+    "summary": "[Stars: 21,499] [1,103 stars this week] [Language: Python] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "published": "2026-07-20",
+    "dedupe_id": "github:tirth8205/code-review-graph"
+  },
+  {
+    "title": "earendil-works/pi",
+    "link": "https://github.com/earendil-works/pi",
+    "summary": "[Stars: 72,858] [2,854 stars this week] [Language: TypeScript] AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "published": "2026-07-20",
+    "dedupe_id": "github:earendil-works/pi"
+  },
+  {
+    "title": "anthropics/cwc-workshops",
+    "link": "https://github.com/anthropics/cwc-workshops",
+    "summary": "[Stars: 1,779] [317 stars this week] [Language: TypeScript]",
+    "published": "2026-07-20",
+    "dedupe_id": "github:anthropics/cwc-workshops"
+  }
+]
