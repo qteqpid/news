@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Dicklesworthstone/destructive_command_guard",
+    "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+    "summary": "[Stars: 5,196] [1,410 stars this week] [Language: Rust] The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+    "published": "2026-07-21",
+    "dedupe_id": "github:dicklesworthstone/destructive_command_guard"
+  },
+  {
+    "title": "MoonshotAI/kimi-cli",
+    "link": "https://github.com/MoonshotAI/kimi-cli",
+    "summary": "[Stars: 10,225] [974 stars this week] [Language: Python] Kimi Code CLI is your next CLI agent.",
+    "published": "2026-07-21",
+    "dedupe_id": "github:moonshotai/kimi-cli"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "link": "https://github.com/codecrafters-io/build-your-own-x",
+    "summary": "[Stars: 529,442] [4,863 stars this week] [Language: Markdown] Master programming by recreating your favorite technologies from scratch.",
+    "published": "2026-07-21",
+    "dedupe_id": "github:codecrafters-io/build-your-own-x"
+  }
+]
