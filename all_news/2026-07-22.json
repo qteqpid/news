@@ -1,0 +1,884 @@
+[
+  {
+    "title": "1jehuang/jcode",
+    "summary": "[Stars: 10,389] [1,769 stars this week] [Language: Rust] The most intelligent agent harness for code",
+    "url": "https://github.com/1jehuang/jcode",
+    "source": "GITHUB"
+  },
+  {
+    "title": "HKUDS/nanobot",
+    "summary": "[Stars: 46,035] [477 stars this week] [Language: Python] Lightweight, open-source AI agent for your tools, chats, and workflows.",
+    "url": "https://github.com/HKUDS/nanobot",
+    "source": "GITHUB"
+  },
+  {
+    "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+    "summary": "导演 Neill Blomkamp 发布 13 分钟 AI 科幻短片，引发围绕生成式影像质量、创作者身份和内容工业化的讨论。",
+    "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+    "source": "The Verge"
+  },
+  {
+    "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+    "summary": "OpenAI 称其预发布模型在内部测试中误入 Hugging Face 系统，事件凸显自动化 AI 安全测试本身也可能产生真实平台风险。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+    "source": "The Verge"
+  },
+  {
+    "title": "Substack adds an AI detector to help spot blogs written by no one",
+    "summary": "Substack 引入 Pangram AI 检测工具，帮助读者识别疑似 AI 生成博客，内容平台继续尝试给 AI 写作增加可见标识。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+    "source": "The Verge"
+  },
+  {
+    "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+    "summary": "法院批准 Anthropic 与作者群体达成的 15 亿美元版权和解，为 AI 训练数据争议设下高额赔付参照。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+    "source": "The Verge"
+  },
+  {
+    "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+    "summary": "Google 推出 Gemini 3.6 Flash 及面向安全漏洞发现的模型，主打以更低成本支持代码和系统安全分析。",
+    "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+    "source": "The Verge"
+  },
+  {
+    "title": "America needs to stop getting shocked by Chinese AI",
+    "summary": "The Verge 评论中国 AI 模型持续追赶美国头部系统，认为美国政策与产业不能再把中国模型突破视为偶发冲击。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+    "source": "The Verge"
+  },
+  {
+    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+    "summary": "MIT Technology Review 早报聚焦中国 AI 引发美国政策分歧，以及 Anthropic 版权和解刷新行业赔付纪录。",
+    "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+    "source": "MIT Tech Review"
+  },
+  {
+    "title": "Advancing next-gen AI with materials science innovation",
+    "summary": "文章讨论材料科学创新如何支撑下一代 AI 硬件，从半导体制造到封装材料都成为算力扩张的关键环节。",
+    "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "source": "MIT Tech Review"
+  },
+  {
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "summary": "Meta 测试 AI 睡前故事应用，生成式内容继续进入家庭娱乐与亲子叙事场景，也引发对想象力外包的吐槽。",
+    "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "These are the countries moving to ban social media for children",
+    "summary": "TechCrunch 汇总各国限制儿童使用社交媒体的政策动向，未成年人保护成为平台治理的全球性主题。",
+    "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "summary": "OpenAI 承认 Hugging Face 入侵事件源自其预发布模型测试，说明自主系统的安全边界需要更严格的隔离和审计。",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "summary": "Jack Dorsey 推出 Buzz，定位为让团队成员与 AI Agent 共处同一会话的协作平台，Agent 工作流继续向办公入口靠近。",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "AI and the rise of the universal entertainment app",
+    "summary": "TechCrunch 分析 AI 如何推动音乐、视频、播客和游戏等内容形态融合，娱乐平台竞争从单一媒介转向通用体验。",
+    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+    "summary": "电池材料公司 Sila 逆势融资 3 亿美元扩建工厂，硅碳负极等先进材料仍受资本追捧。",
+    "url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+    "summary": "Apple 与 Klarna 合作推出设备租赁购买计划，在硬件涨价压力下尝试用分期和租赁降低用户换新门槛。",
+    "url": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+    "summary": "Tesla 在 Orlando 和 Tampa 启动 Robotaxi 试点，规模披露有限，自动驾驶商业化仍采取相对谨慎的扩张节奏。",
+    "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
+    "summary": "Peak Design 推出内置定位标签的模块化相机支架，把防丢能力和摄影配件进一步整合。",
+    "url": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
+    "source": "The Verge"
+  },
+  {
+    "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
+    "summary": "The Verge 报道 Apple 可能推出 Apple Upgrade 租赁购买计划，应对零部件和内存短缺带来的硬件价格压力。",
+    "url": "https://www.theverge.com/tech/968750/apple-upgrade-program",
+    "source": "The Verge"
+  },
+  {
+    "title": "Twitch will let parents stop their teens going live",
+    "summary": "Twitch 增加家长控制能力，允许限制青少年直播和私信，直播平台继续强化未成年人安全工具。",
+    "url": "https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms",
+    "source": "The Verge"
+  },
+  {
+    "title": "最前线|新奥聚变主办第四届氢硼聚变研讨会，企业估值已超百亿",
+    "summary": "新奥聚变举办氢硼聚变研讨会并披露估值已超百亿元，民营商用聚变公司继续推进无碳能源技术路线。",
+    "url": "https://36kr.com/p/3905241313527687?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "圆桌论坛：夏天周而复始·VC3.0| 36氪WAVES2026新浪潮",
+    "summary": "36氪 WAVES 讨论 AI 与硬科技创业趋势，创投行业从概念热转向产业深水区和年轻创业者实践。",
+    "url": "https://36kr.com/p/3905169127114368?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "上市前夜 | 一季度净利是去年全年近三倍，深圳存储公司再闯港股IPO",
+    "summary": "深圳存储芯片公司芯天下再度递表港交所，一季度盈利显著增长，国产存储产业链继续寻求资本市场支持。",
+    "url": "https://36kr.com/p/3904785488136070?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "广州：拟稳步有序推进现房销售制，推进房地产开发融资方式改革",
+    "summary": "广州计划探索现房销售试点和房地产融资改革，地方政策继续推动房地产供给与金融模式调整。",
+    "url": "https://36kr.com/newsflashes/3906228204443011?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "三菱电机与索尼半导体解决方案公司将组建AI视觉合资企业",
+    "summary": "三菱电机与索尼半导体将成立 Advanced Vision Solutions，面向制造业自动化提供 AI 视觉传感器方案。",
+    "url": "https://36kr.com/newsflashes/3906186581775492?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "市场消息：Reddit正在考虑阻止谷歌使用其内容进行人工智能分析",
+    "summary": "消息称 Reddit 考虑限制 Google 将其内容用于 AI 分析，平台数据授权与搜索抓取关系继续紧张。",
+    "url": "https://36kr.com/newsflashes/3906182715282822?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "“同舟智航”完成数千万种子轮融资",
+    "summary": "智能船艇公司同舟智航完成数千万元种子轮融资，将补充研发量产团队并启动海外品牌与渠道建设。",
+    "url": "https://36kr.com/newsflashes/3906138291197059?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "恒指开盘跌0.61%，恒生科技指数跌0.71%",
+    "summary": "港股主要指数低开，半导体和有色金属相对走强，零售与石油石化板块承压。",
+    "url": "https://36kr.com/newsflashes/3906131123704964?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等",
+    "summary": "少数派早报汇总 Gemini 3.6 Flash、Unity 7、英伟达合成视频检测器和 WordPress 漏洞等科技动态。",
+    "url": "https://sspai.com/post/112597",
+    "source": "少数派"
+  },
+  {
+    "title": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
+    "summary": "酷哇科技展示面向机器人的双层智能体世界模型，强调物理世界模型与人类社会世界模型的统一。",
+    "url": "https://www.qbitai.com/2026/07/456178.html",
+    "source": "量子位"
+  },
+  {
+    "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
+    "summary": "小红书大模型达到 IMO 官方金牌水平并完成满分解题，数学推理继续成为大模型能力竞争的标尺。",
+    "url": "https://www.qbitai.com/2026/07/456061.html",
+    "source": "量子位"
+  },
+  {
+    "title": "WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》",
+    "summary": "上海仪电智算牵头成立智算系统架构联盟并发布超节点规范，国产智算基础设施开始走向系统级标准化。",
+    "url": "https://www.qbitai.com/2026/07/456052.html",
+    "source": "量子位"
+  },
+  {
+    "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+    "summary": "上海市教育算力专区启动试运行，面向教育场景提供 AI 算力支撑，公共算力供给继续细分到行业专区。",
+    "url": "https://www.qbitai.com/2026/07/456026.html",
+    "source": "量子位"
+  },
+  {
+    "title": "WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan",
+    "summary": "智爱赛思发布科研专属 Token Plan，瞄准科研工作中的模型调用、推理和知识服务需求。",
+    "url": "https://www.qbitai.com/2026/07/456021.html",
+    "source": "量子位"
+  },
+  {
+    "title": "WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力",
+    "summary": "仪电智算云展示在国家人工智能应用中试基地中的全栈服务能力，AI 落地从模型供给延伸到测试验证平台。",
+    "url": "https://www.qbitai.com/2026/07/455998.html",
+    "source": "量子位"
+  },
+  {
+    "title": "独家丨腾讯整合Workbuddy与QClaw团队",
+    "summary": "腾讯将 QClaw 团队和相关业务调整至云产品六部，AI 办公与开发者工具团队继续整合。",
+    "url": "https://www.leiphone.com/category/CorporateServices/EVvkkNduzRvpxmRi.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "【新闻稿】小鹏品牌日暨MONA L03上市发布会",
+    "summary": "小鹏在德国慕尼黑发布 MONA L03，强调 Physical AI for All，继续推进智能电动车全球化。",
+    "url": "https://www.leiphone.com/category/industrynews/8P6xYJjBbATLMRyy.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "零跑全新B01和B10越级上市，开启10万级800V时代",
+    "summary": "零跑发布全新 B01 和 B10，以 800V 快充和智能配置主攻 10 万级新能源车市场。",
+    "url": "https://www.leiphone.com/category/industrynews/kkaBDb3wRcQoQ891.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "火山引擎与安永达成战略合作，助力企业迈向 AI 原生架构",
+    "summary": "火山引擎与安永签署合作备忘录，将在 AI 技术落地、专业服务交付和企业转型上协同。",
+    "url": "https://www.leiphone.com/category/industrynews/ZNTFoXwJNzRr47WD.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "端侧AI不是云端AI的缩小版，安谋科技要建边端侧AI算力底座｜WAIC 2026",
+    "summary": "安谋科技在 WAIC 强调端侧 AI 需要独立计算架构和生态，而不是简单缩小云端模型。",
+    "url": "https://www.leiphone.com/category/chips/ove6AbsecNklNHEI.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "国产首个十万卡集群曙光8000亮相WAIC，上线首周应用满载",
+    "summary": "曙光 8000 十万卡集群亮相 WAIC，号称可支撑全国相当比例 Token 需求，国产大规模算力进入展示和应用验证阶段。",
+    "url": "https://www.leiphone.com/category/chips/iWlm9n5NckNHsVW5.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Momenta股价涨超10%，Robotaxi业务取得新进展",
+    "summary": "Momenta 获得深圳智能网联汽车道路测试许可后股价上涨，Robotaxi 业务进展继续影响资本市场预期。",
+    "url": "https://www.leiphone.com/category/industrynews/UL3cMKpyXdpasEOo.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
+    "summary": "阿里 Qoder Security 在代码生成过程中同步检查并修复安全问题，把安全工程能力嵌入 AI 编程流程。",
+    "url": "https://www.leiphone.com/category/industrynews/RroRZUc1aQ07ne9O.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "AI算力的路、油与交规",
+    "summary": "钛媒体分析 AI 算力发展中的政策、能源和规则错配，认为基础设施扩张仍受多重约束。",
+    "url": "https://www.tmtpost.com/8074797.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Gemini 3.5 Pro难产，谷歌先交了两张草稿纸",
+    "summary": "钛媒体评论 Google 先发布 Gemini 3.6 Flash 和 3.5 Flash-Lite，认为其可能是在为更强模型争取时间。",
+    "url": "https://www.tmtpost.com/8074665.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "腾讯、阿里、字节，大战AI办公",
+    "summary": "钛媒体观察大厂 AI 办公竞争，从内部赛马转向团队整合和入口争夺。",
+    "url": "https://www.tmtpost.com/8074678.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Edge AI Daily 早报（7月22日）",
+    "summary": "早报聚焦全球 AI 基础设施系统级部署，提到微软与 AMD 的 Helios 整机架方案及 Anthropic 版权和解。",
+    "url": "https://www.tmtpost.com/8074635.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "月之暗面K3，撕裂全球AI溢价叙事",
+    "summary": "钛媒体解读 Kimi K3 对全球 AI 模型价格、英伟达市场预期和硅谷路线讨论的冲击。",
+    "url": "https://www.tmtpost.com/8074132.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "China’s Emotional AI Market Faces a $2.5 Billion Reality Check",
+    "summary": "文章以 UBTECH U1 机器人为例，讨论情感 AI 市场在预售热度、资本波动和隐私监管之间的现实压力。",
+    "url": "https://www.tmtpost.com/8074643.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "【钛晨报】IPv6技术创新和融合应用实施方案发布，部署10方面36项重点任务；证监会：持续加强市场基础制度建设，增强市场内在稳定性；北京：下半年将布局建设Token工厂，力争新增智能算力5万P",
+    "summary": "钛晨报汇总 IPv6、资本市场制度、北京 Token 工厂、智谱国产算力中心和阿里 Qwen-Image-3.0 等动态。",
+    "url": "https://www.tmtpost.com/8074503.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "AI重构海尔智家",
+    "summary": "文章分析海尔智家如何通过 AI 重构组织、产品和用户服务，家电企业继续向平台服务型科技生态转型。",
+    "url": "https://www.tmtpost.com/8072131.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "“行走的 iMac”：苹果专利探索便携方案，可拆卸扩展坞 / 折叠式提手",
+    "summary": "苹果新专利展示带可拆卸扩展坞和折叠提手的 iMac 设想，桌面设备便携化仍在探索中。",
+    "url": "https://www.ithome.com/0/979/941.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Mac 版 Claude Code 集成 iOS 模拟器，可 AI 构建和测试 App",
+    "summary": "Mac 版 Claude Code 集成 iOS 模拟器，允许开发者直接构建、运行和测试 App，AI 编程工具继续贴近移动开发闭环。",
+    "url": "https://www.ithome.com/0/979/938.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "三菱电机与索尼半导体将设立制造业 AI 视觉传感器合资企业",
+    "summary": "三菱电机与索尼半导体将设立 Advanced Vision Solutions，服务制造业 AI 视觉传感器需求。",
+    "url": "https://www.ithome.com/0/979/935.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "苹果发布 Apple Watch 真实案例视频，山地骑行事故中帮助挽救男子生命",
+    "summary": "苹果发布 Apple Watch 救援案例视频，继续强化可穿戴设备在健康监测和紧急救助中的价值叙事。",
+    "url": "https://www.ithome.com/0/979/911.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "两项游戏订阅服务合作：Meta Horizon+ 将附带 XBOX Game Pass 入门版",
+    "summary": "Meta Horizon+ 将附带 Xbox Game Pass 入门版权益，VR 与主机订阅生态开始更紧密绑定。",
+    "url": "https://www.ithome.com/0/979/904.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "马斯克推出适用于微软 Outlook 的 Grok 插件，可 AI 整理邮件、总结摘要等",
+    "summary": "Grok 推出 Outlook 插件，支持邮件整理和摘要，AI 办公助手继续进入主流生产力套件。",
+    "url": "https://www.ithome.com/0/979/885.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "A 股招股书被举报存在重大股权瑕疵，越疆回应称前员工宋某内部争议不影响股权清晰及控股权稳定性",
+    "summary": "越疆回应前员工对 A 股招股书股权瑕疵的举报，称相关内部争议不影响股权清晰和控股权稳定。",
+    "url": "https://www.ithome.com/0/979/881.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "全球文明研究院今天成立，由中国社会科学院设立",
+    "summary": "中国社会科学院设立全球文明研究院，将建设文明交流互鉴研究和数据库平台。",
+    "url": "https://www.ithome.com/0/979/867.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "FBI 逮捕用假 Steam 游戏窃取玩家加密货币的 21 岁男子",
+    "summary": "FBI 逮捕涉嫌通过伪装 Steam 游戏植入恶意程序、窃取玩家加密货币的嫌疑人，游戏分发渠道仍是攻击入口。",
+    "url": "https://www.solidot.org/story?sid=84886",
+    "source": "Solidot"
+  },
+  {
+    "title": "流行野生动物数据库发现 AI 生成的假图",
+    "summary": "研究人员在 iNaturalist 等公民科学数据库中发现 AI 生成假图，生成式内容污染开始影响科研和物种记录数据。",
+    "url": "https://www.solidot.org/story?sid=84885",
+    "source": "Solidot"
+  },
+  {
+    "title": "美国科技巨头的隐性债务高达 1.65 万亿美元",
+    "summary": "日经调查称美国五大科技巨头因 AI 投资形成高额表外债务，算力竞赛背后的金融杠杆风险继续上升。",
+    "url": "https://www.solidot.org/story?sid=84880",
+    "source": "Solidot"
+  },
+  {
+    "title": "刚刚，Gemini 3.6 Flash 正式发布，但网友笑得更大声了",
+    "summary": "爱范儿报道 Gemini 3.6 Flash 发布，并关注用户对 3.5 Pro 延迟和模型命名节奏的反应。",
+    "url": "https://www.ifanr.com/1672647?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "早报｜iPhone 20 Pro Max或搭载约7英寸屏幕/曝小米上调今年手机出货目标至1.1亿部/Gemini 3.6 Flash发布,输出Token减少17%",
+    "summary": "爱范儿早报汇总 iPhone 屏幕传闻、小米出货目标、Gemini 3.6 Flash 和张一鸣公益捐赠等动态。",
+    "url": "https://www.ifanr.com/1672713?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "1500 元的 Codex 键盘卖断货，这小哥反手自己造了一台",
+    "summary": "爱范儿报道 Codex 主题键盘卖断货后开发者自制复刻，AI 编程工具正在衍生出新的硬件和社区文化。",
+    "url": "https://www.ifanr.com/1672648?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "Nintendo says it has no legal obligation to pass U.S. tariff refunds on to customers",
+    "summary": "Nintendo says it has no legal obligation to pass U.S. tariff refunds on to customers，15711 upvotes、1803 comments，created: 2026-07-21，rank score: 21.07。",
+    "url": "https://www.reddit.com/r/technology/comments/1v2hhyj/nintendo_says_it_has_no_legal_obligation_to_pass/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Five tech giants are hiding $1.65tn in AI debt, using the trick that toppled Enron",
+    "summary": "Five tech giants are hiding $1.65tn in AI debt, using the trick that toppled Enron，21889 upvotes、1168 comments，created: 2026-07-21，rank score: 20.83。",
+    "url": "https://www.reddit.com/r/technology/comments/1v2pmg5/five_tech_giants_are_hiding_165tn_in_ai_debt/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Americans hate AI so much that politicians are starting to lose their jobs over it",
+    "summary": "Americans hate AI so much that politicians are starting to lose their jobs over it，29662 upvotes、947 comments，created: 2026-07-20，rank score: 20.71。",
+    "url": "https://www.reddit.com/r/technology/comments/1v1yjbl/americans_hate_ai_so_much_that_politicians_are/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Trump imposes 50% tariffs on Canadian goods",
+    "summary": "Trump imposes 50% tariffs on Canadian goods，11646 upvotes、1586 comments，created: 2026-07-21，rank score: 20.60。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2j06k/trump_imposes_50_tariffs_on_canadian_goods/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "TIL identical twin sisters were accused of cheating on a medical school exam because their answers were too similar. The accusations were overturned, and they won a $1.5 million lawsuit.",
+    "summary": "TIL identical twin sisters were accused of cheating on a medical school exam because their answers were too similar. The accusations were overturned, and they won a $1.5 million lawsuit.，21674 upvotes、734 comments，created: 2026-07-21，rank score: 20.19。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v2wvjy/til_identical_twin_sisters_were_accused_of/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "SpaceX stock closes at fresh low of just below $120, after seven straight days of losses now exceeding $1 trillion",
+    "summary": "SpaceX stock closes at fresh low of just below $120, after seven straight days of losses now exceeding $1 trillion，16191 upvotes、924 comments，created: 2026-07-21，rank score: 20.09。",
+    "url": "https://www.reddit.com/r/technology/comments/1v22g7p/spacex_stock_closes_at_fresh_low_of_just_below/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Russian warship carries out live-fire weapons exercise 46 miles off UK coast, MoD says",
+    "summary": "Russian warship carries out live-fire weapons exercise 46 miles off UK coast, MoD says，10970 upvotes、694 comments，created: 2026-07-21，rank score: 19.34。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2alyc/russian_warship_carries_out_livefire_weapons/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Ford says Canada could 'dismantle the U.S. if we wanted to' as premiers gather in P.E.I.",
+    "summary": "Ford says Canada could 'dismantle the U.S. if we wanted to' as premiers gather in P.E.I.，6112 upvotes、996 comments，created: 2026-07-21，rank score: 19.33。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2rd79/ford_says_canada_could_dismantle_the_us_if_we/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "TIL that Gladiators rarely fought to the death. Matches had clearly defined rules enforced by referees which usually included calling the match if a gladiator was close to death.",
+    "summary": "TIL that Gladiators rarely fought to the death. Matches had clearly defined rules enforced by referees which usually included calling the match if a gladiator was close to death.，12259 upvotes、441 comments，created: 2026-07-21，rank score: 18.89。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v2sjtt/til_that_gladiators_rarely_fought_to_the_death/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "TIL on October 2024, Taylor Farms announced a recall after it was linked to the E. coli outbreak from raw onions consumed at McDonald's. 104 people were impacted, including one death, with a FDA inspection finding numerous violations in food safety procedures at the Taylor Farms facility.",
+    "summary": "TIL on October 2024, Taylor Farms announced a recall after it was linked to the E. coli outbreak from raw onions consumed at McDonald's. 104 people were impacted, including one death, with a FDA inspection finding numerous violations in food safety procedures...，16346 upvotes、334 comments，created: 2026-07-20，rank score: 18.66。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v1wm6y/til_on_october_2024_taylor_farms_announced_a/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Zelensky sacks top army commander after days of protests",
+    "summary": "Zelensky sacks top army commander after days of protests，10963 upvotes、382 comments，created: 2026-07-21，rank score: 18.58。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2t6gy/zelensky_sacks_top_army_commander_after_days_of/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Erin Brockovich's crusade against data centers is going crowd-sourced",
+    "summary": "Erin Brockovich's crusade against data centers is going crowd-sourced，16620 upvotes、284 comments，created: 2026-07-21，rank score: 18.54。",
+    "url": "https://www.reddit.com/r/technology/comments/1v2fq0a/erin_brockovichs_crusade_against_data_centers_is/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Iran attacks hit Kuwait power and desalination plants for fourth day",
+    "summary": "Iran attacks hit Kuwait power and desalination plants for fourth day，4795 upvotes、645 comments，created: 2026-07-21，rank score: 18.44。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2ffq9/iran_attacks_hit_kuwait_power_and_desalination/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "TIL of a live 1953 Thomas the Tank Engine TV special on the BBC in which a model train derailed on air, forcing a human hand to place it back on the tracks while the narrator struggled to improvise. The broadcast is lost, and the only known evidence it aired is a Daily Herald newspaper clipping.",
+    "summary": "TIL of a live 1953 Thomas the Tank Engine TV special on the BBC in which a model train derailed on air, forcing a human hand to place it back on the tracks while the narrator struggled to improvise. The broadcast is lost, and the only known evidence it aired ...，12899 upvotes、303 comments，created: 2026-07-21，rank score: 18.38。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v2haoc/til_of_a_live_1953_thomas_the_tank_engine_tv/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Narcissists are actually less likely to endorse left-wing authoritarianism. The findings contradict previous claims that individuals with dark personalities are widely drawn to left-wing activism simply to feed their own egos.",
+    "summary": "Narcissists are actually less likely to endorse left-wing authoritarianism. The findings contradict previous claims that individuals with dark personalities are widely drawn to left-wing activism simply to feed their own egos.，3191 upvotes、751 comments，created: 2026-07-21，rank score: 18.24。",
+    "url": "https://www.reddit.com/r/science/comments/1v2f5cu/narcissists_are_actually_less_likely_to_endorse/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "US greenlights Saudi nuclear enrichment without safeguards: Report",
+    "summary": "US greenlights Saudi nuclear enrichment without safeguards: Report，4518 upvotes、380 comments，created: 2026-07-22，rank score: 17.72。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v31cmt/us_greenlights_saudi_nuclear_enrichment_without/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Flock Safety Credibility Lost as it Repeatedly Lies to City Councils, Police Departments, and Public Across the Country",
+    "summary": "Flock Safety Credibility Lost as it Repeatedly Lies to City Councils, Police Departments, and Public Across the Country，12208 upvotes、196 comments，created: 2026-07-21，rank score: 17.69。",
+    "url": "https://www.reddit.com/r/technology/comments/1v2bqny/flock_safety_credibility_lost_as_it_repeatedly/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Researchers warned that hundreds of fake AI images have been discovered on popular databases for recording animal species. Wildlife photographers often use AI to edit and improve an image, but the algorithm can introduce parts from different species to create the new image.",
+    "summary": "Researchers warned that hundreds of fake AI images have been discovered on popular databases for recording animal species. Wildlife photographers often use AI to edit and improve an image, but the algorithm can introduce parts from different species to create...，9640 upvotes、224 comments，created: 2026-07-20，rank score: 17.58。",
+    "url": "https://www.reddit.com/r/science/comments/1v1ygox/researchers_warned_that_hundreds_of_fake_ai/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL \"Lamine Yamal\" is actually two first names. His parents named him in honor of Lamine and Yamal, two family friends who paid their rent during a period of severe financial hardship.",
+    "summary": "TIL \"Lamine Yamal\" is actually two first names. His parents named him in honor of Lamine and Yamal, two family friends who paid their rent during a period of severe financial hardship.，12035 upvotes、188 comments，created: 2026-07-18，rank score: 17.20。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1uzs8z2/til_lamine_yamal_is_actually_two_first_names_his/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Reddit data reveals U.S federal health workers hit a breaking point as anger surpasses pandemic levels. The study notes that a workforce operating under record-breaking levels of fear and anger faces immense barriers to maintaining optimal performance.",
+    "summary": "Reddit data reveals U.S federal health workers hit a breaking point as anger surpasses pandemic levels. The study notes that a workforce operating under record-breaking levels of fear and anger faces immense barriers to maintaining optimal performance.，7948 upvotes、182 comments，created: 2026-07-21，rank score: 17.18。",
+    "url": "https://www.reddit.com/r/science/comments/1v2ga9y/reddit_data_reveals_us_federal_health_workers_hit/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Despite growing evidence that GLP-1 medications improve health and are worth their cost, many American insurance plans still limit coverage. “Cost-effective” does not necessarily mean “cost-saving” for insurance companies.",
+    "summary": "Despite growing evidence that GLP-1 medications improve health and are worth their cost, many American insurance plans still limit coverage. “Cost-effective” does not necessarily mean “cost-saving” for insurance companies.，3979 upvotes、284 comments，created: 2026-07-21，rank score: 17.17。",
+    "url": "https://www.reddit.com/r/science/comments/1v2vqte/despite_growing_evidence_that_glp1_medications/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "France becomes the first EU country to ban social media for children",
+    "summary": "France becomes the first EU country to ban social media for children，2102 upvotes、403 comments，created: 2026-07-21，rank score: 17.00。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2qnqx/france_becomes_the_first_eu_country_to_ban_social/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Latest research indicates that consuming up to 400 mg of caffeine/day (equivalent to up to 5 cups of caffeinated coffee per day) is safe for most adults and linked to a lower risk of several cardiovascular conditions, including heart failure, heart disease and stroke in some individuals.",
+    "summary": "Latest research indicates that consuming up to 400 mg of caffeine/day (equivalent to up to 5 cups of caffeinated coffee per day) is safe for most adults and linked to a lower risk of several cardiovascular conditions, including heart failure, heart disease an...，3102 upvotes、234 comments，created: 2026-07-20，rank score: 16.45。",
+    "url": "https://www.reddit.com/r/science/comments/1v1jqnk/latest_research_indicates_that_consuming_up_to/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Canadian Government Issues U.S. Travel Advisory Over \"Explosive\" Infection Outbreak",
+    "summary": "Canadian Government Issues U.S. Travel Advisory Over \"Explosive\" Infection Outbreak，4580 upvotes、154 comments，created: 2026-07-21，rank score: 16.37。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2bhod/canadian_government_issues_us_travel_advisory/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
+    "summary": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop，1444 upvotes、263 comments，created: 2026-07-21，rank score: 16.02。",
+    "url": "https://www.reddit.com/r/books/comments/1v2oake/ai_companies_are_buying_tons_of_old_books_because/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Canada weighs retaliation as Trump escalates trade war",
+    "summary": "Canada weighs retaliation as Trump escalates trade war，1066 upvotes、299 comments，created: 2026-07-22，rank score: 15.94。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v30lzs/canada_weighs_retaliation_as_trump_escalates/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "One of the oldest psychedelics has almost never been studied with modern imaging because of its Schedule 1 status. New research in awake rats finds mescaline works through a brain region that LSD and psilocybin largely leave alone.",
+    "summary": "One of the oldest psychedelics has almost never been studied with modern imaging because of its Schedule 1 status. New research in awake rats finds mescaline works through a brain region that LSD and psilocybin largely leave alone.，2984 upvotes、128 comments，created: 2026-07-21，rank score: 15.74。",
+    "url": "https://www.reddit.com/r/science/comments/1v2myy5/one_of_the_oldest_psychedelics_has_almost_never/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Netherlands to ban imports from illegal Israeli settlements from September 22",
+    "summary": "Netherlands to ban imports from illegal Israeli settlements from September 22，5703 upvotes、76 comments，created: 2026-07-21，rank score: 15.64。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2gg2n/netherlands_to_ban_imports_from_illegal_israeli/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "At Least 20 Executed in Iran in One Week, Including Protesters and Religious Minorities, Human Rights Groups Report",
+    "summary": "At Least 20 Executed in Iran in One Week, Including Protesters and Religious Minorities, Human Rights Groups Report，948 upvotes、156 comments，created: 2026-07-21，rank score: 14.85。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2he89/at_least_20_executed_in_iran_in_one_week/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Pentagon confirms some 100 soldiers wounded since US-Iran fighting renewed, majority back on duty",
+    "summary": "Pentagon confirms some 100 soldiers wounded since US-Iran fighting renewed, majority back on duty，2303 upvotes、79 comments，created: 2026-07-21，rank score: 14.78。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2elsc/pentagon_confirms_some_100_soldiers_wounded_since/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "India youth-led 'Cockroach' movement vows to continue protests after Delhi clashes injure 180",
+    "summary": "India youth-led 'Cockroach' movement vows to continue protests after Delhi clashes injure 180，1023 upvotes、126 comments，created: 2026-07-21，rank score: 14.58。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v28sd4/india_youthled_cockroach_movement_vows_to/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Iran says it attacked Amazon infrastructure in Bahrain",
+    "summary": "Iran says it attacked Amazon infrastructure in Bahrain，1374 upvotes、98 comments，created: 2026-07-21，rank score: 14.56。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2fuqs/iran_says_it_attacked_amazon_infrastructure_in/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Police outnumbered, taken aback by number of protesters who reached the doorstep of the Indian parliament .",
+    "summary": "Police outnumbered, taken aback by number of protesters who reached the doorstep of the Indian parliament .，1416 upvotes、80 comments，created: 2026-07-21，rank score: 14.29。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2bnbx/police_outnumbered_taken_aback_by_number_of/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1608, Part 1 (Thread #1755)",
+    "summary": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1608, Part 1 (Thread #1755)，495 upvotes、159 comments，created: 2026-07-21，rank score: 14.17。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v27kdw/rworldnews_live_thread_russian_invasion_of/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Zelensky Picks General Drapatyi to Replace Syrskyi as Ukraine's Top Military Commander",
+    "summary": "Zelensky Picks General Drapatyi to Replace Syrskyi as Ukraine's Top Military Commander，1245 upvotes、56 comments，created: 2026-07-21，rank score: 13.75。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2uk49/zelensky_picks_general_drapatyi_to_replace/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Crimea Plunges Into Darkness Again as Fresh Blasts Hit Russian Energy Grid",
+    "summary": "Crimea Plunges Into Darkness Again as Fresh Blasts Hit Russian Energy Grid，2946 upvotes、31 comments，created: 2026-07-21，rank score: 13.74。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2fkni/crimea_plunges_into_darkness_again_as_fresh/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
+    "summary": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'，417 upvotes、115 comments，created: 2026-07-22，rank score: 13.67。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2zyfh/tokyo_urges_men_to_wear_shorts_to_work_but_women/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "US urges isolating Nicaragua after Ortega vows to end elections",
+    "summary": "US urges isolating Nicaragua after Ortega vows to end elections，532 upvotes、80 comments，created: 2026-07-21，rank score: 13.37。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2pwpx/us_urges_isolating_nicaragua_after_ortega_vows_to/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Jelly UI: Soft-body physics for native HTML form controls",
+    "summary": "Jelly UI: Soft-body physics for native HTML form controls，611 upvotes、71 comments，created: 2026-07-21，rank score: 13.31。",
+    "url": "https://www.reddit.com/r/webdev/comments/1v2fczm/jelly_ui_softbody_physics_for_native_html_form/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Hungarian prosecutors raid Orbán party's data center in embezzlement probe",
+    "summary": "Hungarian prosecutors raid Orbán party's data center in embezzlement probe，2119 upvotes、24 comments，created: 2026-07-21，rank score: 13.10。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2lxlq/hungarian_prosecutors_raid_orbán_partys_data/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Israeli media says Turkey was ready to intervene over Kurdish incursion into Iran | \"Ankara considered providing aerial support to Tehran, while Trump claims he urged Erdogan to stay out of the war\"",
+    "summary": "Israeli media says Turkey was ready to intervene over Kurdish incursion into Iran | \"Ankara considered providing aerial support to Tehran, while Trump claims he urged Erdogan to stay out of the war\"，416 upvotes、76 comments，created: 2026-07-21，rank score: 13.01。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2e0z5/israeli_media_says_turkey_was_ready_to_intervene/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "The more I read, the more I appreciate authors who can create nonwhite characters without constantly mentioning their skin color.",
+    "summary": "I’m doing a deep dive on Glen Cook’s The Black Company series and so far it’s been richly rewarding. The cast of characters is a flamboyant, if somewhat generic, group of mercenary soldiers working for an evil sorceress. The “company” has wizards of their own...，329 upvotes、71 comments，created: 2026-07-21，rank score: 12.75。",
+    "url": "https://www.reddit.com/r/books/comments/1v2vylp/the_more_i_read_the_more_i_appreciate_authors_who/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Russian Warship Conducts Live-Fire Drill Off British Coast",
+    "summary": "Russian Warship Conducts Live-Fire Drill Off British Coast，430 upvotes、55 comments，created: 2026-07-21，rank score: 12.62。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2jfa0/russian_warship_conducts_livefire_drill_off/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "India summons senior Russian diplomat ‌and expressed \"grave concerns\" after a missile strike killed four Indians on a Black Sea cargo ship that was leaving a ​Ukrainian port",
+    "summary": "India summons senior Russian diplomat ‌and expressed \"grave concerns\" after a missile strike killed four Indians on a Black Sea cargo ship that was leaving a ​Ukrainian port，681 upvotes、30 comments，created: 2026-07-21，rank score: 12.22。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2cqk4/india_summons_senior_russian_diplomat_and/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Two tankers carrying Saudi crude make U-turns in Red Sea after Houthi warning",
+    "summary": "Two tankers carrying Saudi crude make U-turns in Red Sea after Houthi warning，377 upvotes、35 comments，created: 2026-07-21，rank score: 11.88。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2kdce/two_tankers_carrying_saudi_crude_make_uturns_in/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Throw, Result, or neither?",
+    "summary": "Throw, Result, or neither?，82 upvotes、97 comments，created: 2026-07-20，rank score: 11.64。",
+    "url": "https://www.reddit.com/r/programming/comments/1v1sg8b/throw_result_or_neither/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "“I am at war with Russia, not the ministry”: Syrskyi answers five days of protests",
+    "summary": "“I am at war with Russia, not the ministry”: Syrskyi answers five days of protests，461 upvotes、16 comments，created: 2026-07-21，rank score: 10.99。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v2dbnx/i_am_at_war_with_russia_not_the_ministry_syrskyi/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "How do you handle hotfixes with GIT - independent merges or a cascade backmerge?",
+    "summary": "I'm having this discussion at work right now, but when I tried to research I found remarkably little discourse on it online. So, say you have a main/master branch, a develop branch, and possibly one or two release branches. Normally commits go from dev -> rel...，36 upvotes、93 comments，created: 2026-07-21，rank score: 10.82。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1v25bpe/how_do_you_handle_hotfixes_with_git_independent/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Cheapest way to host about a postgress db of about 30tb ?",
+    "summary": "Im not well versed in devops work and i will need to setup a rougly 30-35tb db for a client. Anybody got a recommendation of what to look for? performance is of basically no concern, simple queries, only the monthly price (and it being an ok provider i guess)...，61 upvotes、52 comments，created: 2026-07-21，rank score: 10.66。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1v2xowk/cheapest_way_to_host_about_a_postgress_db_of/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "‘A Silent Moratorium’ Interviews with Israeli and Jewish Writers who report facing rising isolation and exclusion",
+    "summary": "‘A Silent Moratorium’ Interviews with Israeli and Jewish Writers who report facing rising isolation and exclusion，66 upvotes、86 comments，created: 2026-07-16，rank score: 10.58。",
+    "url": "https://www.reddit.com/r/books/comments/1uxnx7r/a_silent_moratorium_interviews_with_israeli_and/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Linux kernel will support $ORIGIN, sort of",
+    "summary": "Linux kernel will support $ORIGIN, sort of，210 upvotes、19 comments，created: 2026-07-21，rank score: 10.43。",
+    "url": "https://www.reddit.com/r/programming/comments/1v2bwax/linux_kernel_will_support_origin_sort_of/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Dog of the South, by Charles Portis",
+    "summary": "I've been meaning to get to this one for SO LONG. Finally did it, and very glad I did. Everyone knows his True Grit, of course. What an accomplishment. Dog of the South is not quite that, but it's really quite remarkable anyway. And I think the most remarkabl...，89 upvotes、43 comments，created: 2026-07-18，rank score: 10.32。",
+    "url": "https://www.reddit.com/r/books/comments/1v04iu3/dog_of_the_south_by_charles_portis/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Secrets Don’t Belong in Config",
+    "summary": "Secrets Don’t Belong in Config，95 upvotes、31 comments，created: 2026-07-21，rank score: 10.30。",
+    "url": "https://www.reddit.com/r/programming/comments/1v2cd9i/secrets_dont_belong_in_config/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I’m being asked to communicate how a “drop everything” ask will impact my team. How should I play this?",
+    "summary": "The Stakeholders have decided upon a new ask that is both Urgent and Important. I am to communicate its impact on my team’s deliveries to The Stakeholders and then go make it happen within the next 2 weeks. No one in leadership knows anything about the specif...，33 upvotes、46 comments，created: 2026-07-22，rank score: 9.90。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1v3129h/im_being_asked_to_communicate_how_a_drop/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Modula-3: the forgotten language that explored memory safety decades ago",
+    "summary": "Modula-3: the forgotten language that explored memory safety decades ago，71 upvotes、29 comments，created: 2026-07-20，rank score: 9.83。",
+    "url": "https://www.reddit.com/r/programming/comments/1v1q3sc/modula3_the_forgotten_language_that_explored/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Vue/Nuxt + Laravel API deployment",
+    "summary": "Vue/Nuxt + Laravel API deployment，30 upvotes、32 comments，created: 2026-07-21，rank score: 9.19。",
+    "url": "https://www.reddit.com/r/webdev/comments/1v26krx/vuenuxt_laravel_api_deployment/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: I feel like we should stop coddling children",
+    "summary": "Why do we continue to coddle children? I don't mean coddle by protect, but coddling in the form of shielding. A lot of people will hide their kids from cuss words, gay people, sex etc. I don't understand why people think their kid will never hear a cuss word....，2 upvotes、153 comments，created: 2026-07-21，rank score: 9.12。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v2w7sp/cmv_i_feel_like_we_should_stop_coddling_children/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Infrastructure Shell Game - Mono Repo -> Distributed -> Mono Repo",
+    "summary": "We wanted to start a big project, but other projects like it were seen as failures. So we had to make a case for why our project would be different. One of our biggest differentiators became event queues and distributed systems. It's just microservices, but i...，17 upvotes、31 comments，created: 2026-07-21，rank score: 8.68。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1v2n8ja/infrastructure_shell_game_mono_repo_distributed/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I don't believe this... just crossed $8k MRR. Am I rich yet?",
+    "summary": "I don't believe this... just crossed $8k MRR. Am I rich yet?，240 upvotes、69 comments ，类型：讨论信号，评分：8.5/10。",
+    "url": "https://www.reddit.com/r/SaaS/comments/1v1ue8c/i_dont_believe_this_just_crossed_8k_mrr_am_i_rich/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Our codebase knowledge graph attempt after 6 months",
+    "summary": "Six months ago we started building a codebase knowledge graph. The reason was simple, every time someone left or switched teams we lost all the context on why things were built the way they were. The code stays, the reasoning leaves with the person So we poin...，33 upvotes、18 comments，created: 2026-07-20，rank score: 8.38。",
+    "url": "https://www.reddit.com/r/webdev/comments/1v1e0wp/our_codebase_knowledge_graph_attempt_after_6/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: The Terrifier movies have zero value as films and the people who enjoy them are mentally disturbed",
+    "summary": "While I am biased against horror movies, I do actually enjoy some of them. I like classic franchises like Alien and Scream, and newer ones like A Quiet Place and The Last of Us. Most of the others I find to be disturbing simply for the sake of being disturbin...，0 upvotes、190 comments，created: 2026-07-21，rank score: 8.33。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v2yfc4/cmv_the_terrifier_movies_have_zero_value_as_films/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "pov: you're a solo founder",
+    "summary": "pov: you're a solo founder，203 upvotes、57 comments ，类型：讨论信号，评分：7.7/10。",
+    "url": "https://www.reddit.com/r/SaaS/comments/1uy3s1z/pov_youre_a_solo_founder/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "How are you setting up build systems in monorepos?",
+    "summary": "Former DevOps consultants, bootstrapped an AWS premier partner and exited to NTT Data, now we advise people building services companies. After seeing how much easier current AI tools have made it to write code we started building tools for helping our custome...，14 upvotes、15 comments，created: 2026-07-21，rank score: 7.53。",
+    "url": "https://www.reddit.com/r/devops/comments/1v2ppv2/how_are_you_setting_up_build_systems_in_monorepos/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: business/economics explains politics",
+    "summary": "If you want to understand the political landscape and decision making you will find light by knowing the business relations behind it. Want to know why some foreign powers are \"enemies\" of the USA or not? See what their relationship is with business in the US...，0 upvotes、116 comments，created: 2026-07-21，rank score: 7.51。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v23m62/cmv_businesseconomics_explains_politics/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "What's your actual workflow when a test fails in CI but passes locally",
+    "summary": "Just curious, standard procedure, you have something working locally, you push your code and your CI/CD pipeline fails. Locally everything seems OK and you fail to reproduce the error. What do you actually do at that point? Genuinely curious what people's rea...，3 upvotes、35 comments，created: 2026-07-19，rank score: 7.08。",
+    "url": "https://www.reddit.com/r/devops/comments/1v119en/whats_your_actual_workflow_when_a_test_fails_in/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "I built an app that lets you walk through an AI redesign of your real room.",
+    "summary": "I built an app that lets you walk through an AI redesign of your real room.，4 upvotes、10 comments ，类型：竞品/新工具，评分：7.0/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v2k5hg/i_built_an_app_that_lets_you_walk_through_an_ai/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "How are you actually tracking token spend across your LLM API calls?",
+    "summary": "We've got OpenAI and Anthropic calls scattered across a handful of services now, and nobody can tell me month to month what's driving the bill until the invoice shows up. No real attribution back to which service or team is burning the tokens. Started looking...，6 upvotes、13 comments，created: 2026-07-20，rank score: 6.36。",
+    "url": "https://www.reddit.com/r/devops/comments/1v1by4l/how_are_you_actually_tracking_token_spend_across/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Just want to share that it's okay to take time off and you don't need to be working and on your phone 24/7",
+    "summary": "I'm extremely guilty of this - working on my phone during dinner, stressing 24/7, and feeling like any time not spent on the project is time wasted etc. Just wanted to share that it's okay to take some time off, and in fact, you'll be even...，17 upvotes、46 comments ，类型：讨论信号，评分：6.1/10。",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1uxo0i2/just_want_to_share_that_its_okay_to_take_time_off/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "CMV: Birds should be the only reference for dinosaur soft tissue reconstructions and behavior.",
+    "summary": "Like think about it, Birds are the living dinosaurs, not just close relatives, the living dinosaurs. Like if you find a fossil of an extinct mammal you would want to use other mammals or its close relatives as a reference for that extinct mammal's possible so...，0 upvotes、38 comments，created: 2026-07-21，rank score: 6.06。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v2l7rr/cmv_birds_should_be_the_only_reference_for/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Looking for partners to help with my apps",
+    "summary": "I'm a developer that has years' worth of ideas that I am trying to materialize all at the same time. I think they all have potential, it's just going to take me years to finish them all, maintain and market them. I am looking for people, t...，5 upvotes、9 comments ，类型：竞品/新工具，评分：5.8/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v1vnp3/looking_for_partners_to_help_with_my_apps/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "SMS/iMessage todo list",
+    "summary": "I find myself texting my todo list to a random number to keep track of my stuff just because I really like having it in the messages app. Has anyone made some sort of bot that I could text like a human to keep track of my todo list? Does a...，6 upvotes、16 comments ，类型：讨论信号，评分：5.6/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1v1skjj/smsimessage_todo_list/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Cmv: To Live Is to Feel",
+    "summary": "I believe that the only way to escape depression is to feel again. When we look at people who suffer from depression, many of them seem to have weak social connections, to become isolated, to grow up in oppressive or loveless families, and to gradually fall i...，2 upvotes、10 comments，created: 2026-07-22，rank score: 5.45。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v32ca2/cmv_to_live_is_to_feel/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Would you try a dating app like this?",
+    "summary": "Random idea I had today. Imagine a dating app where you can’t see the other person’s photo at first. You only know basic information: First nameAgeGeneral locationInterests You match and start talking. No pictures.No swiping based on looks...，0 upvotes、31 comments ，类型：讨论信号，评分：5.0/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v22hd5/would_you_try_a_dating_app_like_this/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "An app that will give achievements for things you did IRL",
+    "summary": "Any steam user here prob knows that it feels good getting those small, sometimes big achievements. An app for getting achievements while also doing activities would be really cool. For example you will get an achievement named \"A long trip...，1 upvotes、7 comments ，类型：竞品/新工具，评分：4.9/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v2s7v5/an_app_that_will_give_achievements_for_things_you/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Is there any interest in a marketplace app for selling things where you can only post photos directly from camera and buyers and sellers must pay $1 per month membership fee?",
+    "summary": "I have been reading a lot about people being frustrated nowadays with Facebook marketplace, Etsy, WayFair etc being flooded with sellers who use AI generated or highly edited photos to sell shitty items. Sometimes, they post junk bought fr...，0 upvotes、4 comments ，类型：痛点/需求，评分：4.8/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v2z7ev/is_there_any_interest_in_a_marketplace_app_for/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I need feedback on this idea. Would use it?",
+    "summary": "Hey, I have a problem in my daily life, both at work and personally. I have a Google Calendar that's fulled, and every time I delay, miss, or reschedule an event, all the following events get shifted, misplaced, and in my case usually canc...，2 upvotes、1 comments ，类型：痛点/需求，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v0s0ms/i_need_feedback_on_this_idea_would_use_it/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "what are people actually using for ai companions in 2026 that arent just ads?",
+    "summary": "every time i search this i just get the same sponsored listicles ranking the same 5 apps so figured id ask real people looking for something that works as an actual companion / roleplay partner, not just image gen with a chat box taped on....，5 upvotes、10 comments ，类型：讨论信号，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1uy7ake/what_are_people_actually_using_for_ai_companions/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "How to combine MD5 hash + code sign",
+    "summary": "We build and package our installer files using Advanced Installer. Up until last years version, we code signed using a .pfx and had the AI(Adv. Installer) also embed MD5 into the files. So both hashing and code signing is handled by the same tool, bing bong w...，3 upvotes、6 comments，created: 2026-07-17，rank score: 4.44。",
+    "url": "https://www.reddit.com/r/devops/comments/1uyvds8/how_to_combine_md5_hash_code_sign/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "The Long Road to Bottomless Postgres: Discussing Neon, pg_mooncake, pg_tier, pg_lake, and ColdFront",
+    "summary": "The Long Road to Bottomless Postgres: Discussing Neon, pg_mooncake, pg_tier, pg_lake, and ColdFront，29 upvotes、0 comments，created: 2026-07-21，rank score: 4.25。",
+    "url": "https://www.reddit.com/r/programming/comments/1v24401/the_long_road_to_bottomless_postgres_discussing/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Tutorial: Introduction to Formal Verification with Lean (Part 1)",
+    "summary": "Tutorial: Introduction to Formal Verification with Lean (Part 1)，23 upvotes、0 comments，created: 2026-07-18，rank score: 3.66。",
+    "url": "https://www.reddit.com/r/programming/comments/1uzvfar/tutorial_introduction_to_formal_verification_with/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+    "summary": "Finding zombies in our systems: A real-world story of CPU bottlenecks，20 upvotes、0 comments，created: 2026-07-19，rank score: 3.65。",
+    "url": "https://www.reddit.com/r/programming/comments/1v0llyh/finding_zombies_in_our_systems_a_realworld_story/",
+    "source": "Reddit - Tech"
+  }
+]
