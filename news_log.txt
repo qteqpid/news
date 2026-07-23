@@ -156,3 +156,5 @@
 2026-07-23 pipeline-resume-after-model-step date=2026-07-23 sources=ai state=running pid=44325 updated_at=2026-07-23T01:53:41+00:00
 2026-07-23 pipeline-finish date=2026-07-23 sources=ai state=finished pid=44325 updated_at=2026-07-23T01:53:41+00:00
 2026-07-23 pipeline-start date=2026-07-23 sources=* state=running pid=44413 updated_at=2026-07-23T01:53:46+00:00
+2026-07-23 pipeline-marker-stale date=2026-07-23 sources=* state=running pid=44413 updated_at=2026-07-23T01:53:46+00:00
+2026-07-23 pipeline-start date=2026-07-23 sources=* state=running pid=52959 updated_at=2026-07-23T02:55:34+00:00
