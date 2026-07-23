@@ -1,0 +1,37 @@
+[
+  {
+    "title": "MoonshotAI/kimi-code",
+    "link": "https://github.com/MoonshotAI/kimi-code",
+    "summary": "[Stars: 4,595] [1,400 stars this week] [Language: TypeScript] Kimi Code CLI — The Starting Point for Next-Gen Agents",
+    "published": "2026-07-23",
+    "dedupe_id": "github:moonshotai/kimi-code"
+  },
+  {
+    "title": "apache/ossie",
+    "link": "https://github.com/apache/ossie",
+    "summary": "[Stars: 1,501] [810 stars this week] [Language: Python] Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "published": "2026-07-23",
+    "dedupe_id": "github:apache/ossie"
+  },
+  {
+    "title": "koala73/worldmonitor",
+    "link": "https://github.com/koala73/worldmonitor",
+    "summary": "[Stars: 69,032] [5,812 stars this week] [Language: TypeScript] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "published": "2026-07-23",
+    "dedupe_id": "github:koala73/worldmonitor"
+  },
+  {
+    "title": "chenyme/grok2api",
+    "link": "https://github.com/chenyme/grok2api",
+    "summary": "[Stars: 6,568] [551 stars this week] [Language: Go] Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+    "published": "2026-07-23",
+    "dedupe_id": "github:chenyme/grok2api"
+  },
+  {
+    "title": "schollz/croc",
+    "link": "https://github.com/schollz/croc",
+    "summary": "[Stars: 37,611] [1,665 stars this week] [Language: Go] Easily and securely send things from one computer to another 🐊 📦",
+    "published": "2026-07-23",
+    "dedupe_id": "github:schollz/croc"
+  }
+]
