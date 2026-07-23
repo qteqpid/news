@@ -1,0 +1,392 @@
+[
+  {
+    "title": "AMD commits up to $5 billion to  Anthropic",
+    "summary": "AMD 将向 Anthropic 投资最高 50 亿美元，并围绕 AI 计算基础设施展开合作，进一步强化其与头部大模型公司的绑定。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+    "source": "The Verge"
+  },
+  {
+    "title": "Meta made its own AI detection system. It should have just used Google’s",
+    "summary": "Meta 自研 AI 内容检测与标记方案受到质疑，文章认为其效果和生态覆盖不如 Google SynthID，平台标识承诺仍面临执行压力。",
+    "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+    "source": "The Verge"
+  },
+  {
+    "title": "Utility companies promise to spare us from AI’s energy bill",
+    "summary": "美国大型公用事业公司承诺尽量避免让普通消费者承担 AI 数据中心扩张带来的电费压力，能源成本成为 AI 基建争议焦点。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+    "source": "The Verge"
+  },
+  {
+    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+    "summary": "MIT Technology Review 早报同时关注 NASA 新太空望远镜与 OpenAI 自主安全测试系统引发的 Hugging Face 入侵事件。",
+    "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "source": "MIT Tech Review"
+  },
+  {
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "summary": "IBM 在业绩震荡后解释称，AI 正改变企业硬件预算节奏，但并不意味着大型机业务被 AI 取代。",
+    "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "summary": "Google 以云业务增长解释巨额 AI 投入，企业采用 AI 服务和基础设施正在支撑其资本开支叙事。",
+    "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "summary": "白宫指称月之暗面蒸馏 Anthropic Fable 后，美国财政部威胁制裁，开源模型、蒸馏与地缘竞争的张力继续上升。",
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+    "summary": "Tesla 收入增长未能抵消费用和资本开支上升，Cybercab、Semi 与 Megapack 量产时间表继续后移。",
+    "url": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Social media addiction lawsuit against Meta is dropped",
+    "summary": "原定即将开庭的 Meta 社交媒体成瘾诉讼被撤回，平台未成年人保护与成瘾责任争议暂时降温。",
+    "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+    "summary": "SoundCloud 收购已关停的去中心化音乐平台 Nina Protocol，音乐平台继续探索创作者工具与链上分发资产。",
+    "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "summary": "OpenAI 承认测试环境配置失误导致 AI 安全测试越界进入 Hugging Face，凸显自主安全工具对隔离和审计的要求。",
+    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "summary": "Travis Kalanick 的机器人公司 Atoms 完成 17 亿美元融资，主打工业 AI 与机器人建模，Uber 也参与投资。",
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Meta won’t have to face the next planned social media addiction trial",
+    "summary": "The Verge 报道 Meta 原计划面对的下一起社交媒体成瘾庭审取消，相关诉讼压力短期缓解。",
+    "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
+    "source": "The Verge"
+  },
+  {
+    "title": "Tesla’s revenues are bouncing back, but profits are still weak",
+    "summary": "Tesla 收入有所回升，但利润仍显疲弱，需求、品牌与自动驾驶投入继续影响市场信心。",
+    "url": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
+    "source": "The Verge"
+  },
+  {
+    "title": "Price-hiked iPads are a little cheaper right now",
+    "summary": "近期涨价后的 iPad 出现折扣，消费者电子硬件在成本上行后仍依赖促销维持换新吸引力。",
+    "url": "https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale",
+    "source": "The Verge"
+  },
+  {
+    "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+    "summary": "iOS 27 测试代码显示，Apple 可能为未按时付款的融资 iPhone 启用 Restricted Mode，硬件订阅与设备控制边界引发关注。",
+    "url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+    "source": "The Verge"
+  },
+  {
+    "title": "Apple is reportedly testing a MacBook Neo with more RAM",
+    "summary": "Apple 据称正在测试配备更大内存的 MacBook Neo，预算笔记本产品线可能继续补齐性能短板。",
+    "url": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
+    "source": "The Verge"
+  },
+  {
+    "title": "Preorders for Samsung’s new Z Fold and Flip 8 come with up to $350 in gift cards",
+    "summary": "Samsung 新款 Z Fold 8 与 Z Flip 8 开启预购，并通过礼品卡补贴提升折叠屏新品吸引力。",
+    "url": "https://www.theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date",
+    "source": "The Verge"
+  },
+  {
+    "title": "36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题",
+    "summary": "机器人灵巧操作方案商拾玥科技完成数千万元天使轮融资，试图用自研视触觉和软硬闭环解决灵巧手数据难题。",
+    "url": "https://36kr.com/p/3907536767833473?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资",
+    "summary": "工业 AI 设计研发方案商设序科技完成 B 轮超亿元融资，主打以几何与物理 AI 重构设计制造流程。",
+    "url": "https://36kr.com/p/3907532622648453?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "8点1氪丨小红书回应IPO因前员工举报而受阻传闻：均不属实；谷歌Gemini跌出全球排名前十；耐克宣布终止滔搏线上经销权",
+    "summary": "36氪早报汇总小红书否认 IPO 传闻、Gemini 排名下滑、耐克渠道调整和 SpaceX 做空比例等大公司动态。",
+    "url": "https://36kr.com/p/3907461333144711?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
+    "summary": "36氪晚报汇总苹果 iPhone 18 量产、小红书回应 IPO 传闻、小马智行与京东养车合作等科技商业消息。",
+    "url": "https://36kr.com/p/3906606931907971?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "对话超擎数智CEO唐春峰：AI产业竞争正在从模型训练走向推理落地，全栈方案加速企业智能化应用",
+    "summary": "超擎数智认为 AI 产业竞争正从模型训练转向推理落地，企业智能化需要更完整的算力、模型和应用全栈方案。",
+    "url": "https://36kr.com/p/3906523265914245?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力",
+    "summary": "润建股份强调 AI 应用竞争不只看模型能力，更要看 Token 生产、业务场景和价值转化闭环。",
+    "url": "https://36kr.com/p/3906499484996742?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
+    "summary": "智能船艇公司同舟智航完成数千万元种子轮融资，由前华为智驾成员切入 AI 船舶和休闲艇市场。",
+    "url": "https://36kr.com/p/3906468088042886?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO",
+    "summary": "手机 PMIC 企业芯迈第三次冲刺港股 IPO，全球份额与持续亏损并存，显示半导体企业上市定价压力。",
+    "url": "https://36kr.com/p/3906428262618241?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
+    "summary": "美图推出总额 1 亿元的 AI 影像产品挑战赛，面向行业寻找影像生成与编辑方向的 Builder。",
+    "url": "https://www.qbitai.com/2026/07/457223.html",
+    "source": "量子位"
+  },
+  {
+    "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
+    "summary": "百度文心助手任务 Agent 在国际榜单中排名第一，量子位称其超过 Claude 与 GPT，Agent 能力竞争继续升温。",
+    "url": "https://www.qbitai.com/2026/07/457117.html",
+    "source": "量子位"
+  },
+  {
+    "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
+    "summary": "WAIC 展示结合超算与智算的大规模计算底座，国产算力基础设施从单点能力转向系统化平台。",
+    "url": "https://www.qbitai.com/2026/07/457054.html",
+    "source": "量子位"
+  },
+  {
+    "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
+    "summary": "Halliday 发布第二代 AI 眼镜 G2，通过 Meeting Flow 将实时会议理解、记录和辅助能力嵌入可穿戴设备。",
+    "url": "https://www.qbitai.com/2026/07/457049.html",
+    "source": "量子位"
+  },
+  {
+    "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
+    "summary": "天立启鸣发布教育 AGI 白皮书，从答题响应走向心智仿真，试图解决教育个性化、规模化和质量之间的张力。",
+    "url": "https://www.qbitai.com/2026/07/457040.html",
+    "source": "量子位"
+  },
+  {
+    "title": "我在WAIC 2026看见的十大趋势",
+    "summary": "量子位总结 WAIC 2026 十大趋势，物理 AI、产业落地、算力底座和 Agent 应用成为大会主线。",
+    "url": "https://www.qbitai.com/2026/07/456974.html",
+    "source": "量子位"
+  },
+  {
+    "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+    "summary": "金山办公提出 AI 办公助理应具备理解用户、可交付成果和专业操作三项标准，办公入口竞争继续加深。",
+    "url": "https://www.qbitai.com/2026/07/456910.html",
+    "source": "量子位"
+  },
+  {
+    "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
+    "summary": "日冕与远图宣布物理 AI 超级工站部署计划，先在服务器制造场景验证，再向百台级和万台级具身智能部署扩展。",
+    "url": "https://www.qbitai.com/2026/07/456728.html",
+    "source": "量子位"
+  },
+  {
+    "title": "Token在暴增，利润为何「困」在英伟达？",
+    "summary": "雷峰网分析 Token 调用量暴增后的利润分配，认为算力成本和芯片供给让 AI 红利更多流向英伟达。",
+    "url": "https://www.leiphone.com/category/chips/0b12z01cmLVcy3dC.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "独家解读丨谷歌押注的「Token分发霸主」OpenRouter，为何突卖身？",
+    "summary": "OpenRouter 被曝寻求出售，引发对大模型 API 聚合平台商业模式、议价权和中美 Token 分发生态差异的讨论。",
+    "url": "https://www.leiphone.com/category/industrynews/jzcW1HyiLtvtbWCt.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "独家解读丨OpenAI 们割肉、Kimi 们火拼，AI 编程下半场怎么打？",
+    "summary": "AI 编程市场进入价格、额度和产品体验的近身竞争阶段，Anthropic、OpenAI 与 Kimi 等玩家继续抢开发者入口。",
+    "url": "https://www.leiphone.com/category/industrynews/4lBJ3V8tb2JInt2D.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "WAIC深度观察：具身数据，进入「开箱即用」时代",
+    "summary": "具身智能数据开始从采集展示转向可直接用于模型训练的 Model-Ready Data，高精度、多模态和多样性成为关键。",
+    "url": "https://www.leiphone.com/category/robot/ClTZ7U1EvG0bVaHo.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "2026世界人工智能大会 | 启鸣达人首发《世界模型驱动的教育AGI白皮书》",
+    "summary": "启鸣达人在 WAIC 发布《世界模型驱动的教育 AGI 白皮书》，把世界模型与教育场景结合为新的产品叙事。",
+    "url": "https://www.leiphone.com/category/ai/ZQ1kV11l8qQj84Dt.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "WAIC 2026 | 面壁智能首个具身智能成果 MiniCPM-Robot 系列模型正式发布！",
+    "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列模型，把端侧大模型能力扩展到机器人场景。",
+    "url": "https://www.leiphone.com/category/ai/gtBK8Ln3ANuHPQaX.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "支付宝参与可信政务智能体服务平台，携手信通院等机构共建政务 AI 新基建",
+    "summary": "支付宝参与可信政务智能体服务平台建设，与信通院等机构推动政务 AI 应用的标准化和可信化。",
+    "url": "https://www.leiphone.com/category/industrynews/bU3YMyf2KBYlNfGZ.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "小红书方面回应：目前流传的IPO相关信息均不属实",
+    "summary": "小红书回应秘密递表和前员工举报导致 IPO 受阻等传闻，称目前流传的 IPO 相关信息均不属实。",
+    "url": "https://www.leiphone.com/category/industrynews/rfAI5FTWsZDKMCS8.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "从极越到理想、赛豆，AI汽车的远征刚刚开始",
+    "summary": "钛媒体讨论赛豆科技、理想等玩家对 AI 汽车的探索，智能化继续成为新能源汽车竞争主线。",
+    "url": "https://www.tmtpost.com/8075926.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "钉钉守正，千问出奇",
+    "summary": "钛媒体分析钉钉与通义千问在 AI 办公入口上的协同，大厂办公平台竞争从工具升级走向智能体生态。",
+    "url": "https://www.tmtpost.com/8075672.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "AI链启动，上下游全面扩产",
+    "summary": "AI 产业链上下游进入扩产周期，算力互联网贯通和上游产能释放被视为后续供给改善关键。",
+    "url": "https://www.tmtpost.com/8075620.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Gemini跌出全球前十，谷歌的AI帝国出路在哪儿？",
+    "summary": "钛媒体围绕 Gemini 全球排名下滑讨论 Google AI 业务困境，模型能力、产品化和生态叙事都面临压力。",
+    "url": "https://www.tmtpost.com/8075673.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Edge AI Daily 早报（7月23日）",
+    "summary": "早报聚焦 Moonshot 与 Anthropic Fable 蒸馏争议、OpenAI Presence 企业智能体平台以及模型竞争新动向。",
+    "url": "https://www.tmtpost.com/8075972.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "【钛晨报】体育强国建设“十五五”规划发布，到2030年产业规模破7万亿元；OpenAI计划到2030年云支出达7500亿美元；北京国管：已统筹自有资金累计投入近百亿元布局股票市场",
+    "summary": "钛晨报汇总 OpenAI 长期云支出计划、北京国资布局资本市场、Gemini 排名下滑和苹果 iPhone 18 量产等消息。",
+    "url": "https://www.tmtpost.com/8075793.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "端侧觉醒：当AI长出\"身体\"，热闹之后拼什么？｜ WAIC2026",
+    "summary": "文章讨论端侧 AI 与物理设备结合后的竞争重点，从众筹热度走向规模量产、软硬边界和生态护城河。",
+    "url": "https://www.tmtpost.com/8074962.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "深圳上市公司价值重估：金融与硬科技托举上限，创新密度背后分化加深",
+    "summary": "钛媒体从金融、硬科技和 ESG-V 评级观察深圳上市公司价值重估，创新密度提升的同时分化也在加深。",
+    "url": "https://www.tmtpost.com/8075899.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "NVIDIA 发布 610.82 显卡热修复驱动，解决《光环：战役进化》稳定性问题",
+    "summary": "NVIDIA 发布 610.82 GeForce 热修复驱动，修复游戏稳定性等问题，显卡软件维护继续快速迭代。",
+    "url": "https://www.ithome.com/0/980/389.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "三星 Galaxy Watch Ultra2 智能手表配套潜水 App 爆料：3 种订阅模式",
+    "summary": "Galaxy Watch Ultra2 被曝将预装 Mares 潜水 App，并提供三种订阅模式，可穿戴设备继续向专业场景扩展。",
+    "url": "https://www.ithome.com/0/980/386.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "不只有芯片交易与投资承诺：AMD 将在内部应用 Anthropic Claude",
+    "summary": "AMD 与 Anthropic 的合作不仅包括 MI450 GPU 部署和 50 亿美元投资承诺，也覆盖 AMD 内部工程场景使用 Claude。",
+    "url": "https://www.ithome.com/0/980/382.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Acrab 发布边缘 AI 终端 SoC GΞLIX 1，支持 100B 模型本地运行",
+    "summary": "初创公司 Acrab 发布边缘 AI SoC GΞLIX 1，宣称可在本地运行 100B 参数模型，端侧算力竞争继续升温。",
+    "url": "https://www.ithome.com/0/980/380.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "亚马逊 AGI 部门启动裁员，此前已有多名高管陆续出走",
+    "summary": "亚马逊 AGI 部门启动新一轮裁员，此前已有多名高管离开，显示大厂 AI 组织仍在调整投入节奏。",
+    "url": "https://www.ithome.com/0/980/379.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "谷歌 Pixel 11/Pro/ Pro XL 手机渲染图曝光：均配 4 种颜色",
+    "summary": "Pixel 11 系列渲染图提前曝光，展示三款机型和多种配色，Google 手机新品发布节奏继续预热。",
+    "url": "https://www.ithome.com/0/980/378.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Framework 预览 192GB 内存 AMD 锐龙 AI Max+ PRO 495 迷你主机",
+    "summary": "Framework 展示搭载 AMD 锐龙 AI Max+ PRO 495 与 192GB 内存的迷你主机，面向本地 AI 与高性能小型工作站场景。",
+    "url": "https://www.ithome.com/0/980/376.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "梁文锋 4 小时投资人会议内容曝光：DeepSeek 不追求成为下一个字节或腾讯，克制、开源与低成本是实现 AGI 的核心策略",
+    "summary": "流传的梁文锋投资人会议整理显示，DeepSeek 强调克制、开源与低成本路线，不追求复制字节或腾讯式平台扩张。",
+    "url": "https://www.ithome.com/0/980/367.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "大众汽车的官方应用不支持第三方 Android 系统",
+    "summary": "大众汽车官方应用无法在缺少 Google Play Services 的第三方 Android 系统上使用，引发对车企 App 生态依赖的讨论。",
+    "url": "https://www.solidot.org/story?sid=84897",
+    "source": "Solidot"
+  },
+  {
+    "title": "Firefox 预览原生多账户容器功能",
+    "summary": "Firefox 153 预览原生多账户容器功能，把热门扩展能力内置到浏览器以提升账号隔离体验。",
+    "url": "https://www.solidot.org/story?sid=84896",
+    "source": "Solidot"
+  },
+  {
+    "title": "苹果应用商店涌入大量 AI 辅助开发的应用",
+    "summary": "Sensor Tower 估计 App Store 新应用数量快速增长，AI 辅助开发降低上架门槛，也带来质量和发现机制压力。",
+    "url": "https://www.solidot.org/story?sid=84893",
+    "source": "Solidot"
+  },
+  {
+    "title": "GNOME 项目禁止 AI 生成的安全报告",
+    "summary": "GNOME 因大量 AI 生成安全报告涌入而调整披露流程，并禁止 AI 生成报告进入安全漏洞处理渠道。",
+    "url": "https://www.solidot.org/story?sid=84889",
+    "source": "Solidot"
+  },
+  {
+    "title": "法官批准了 Anthropic 与图书出版商达成的 15 亿美元侵权和解",
+    "summary": "法官批准 Anthropic 与图书出版商达成 15 亿美元侵权和解，AI 训练数据版权争议继续形成高额成本参照。",
+    "url": "https://www.solidot.org/story?sid=84888",
+    "source": "Solidot"
+  },
+  {
+    "title": "早报｜12999起,首台安卓阔折叠发布/曝苹果MacBook将迎全线更新/小红书否认IPO相关传闻",
+    "summary": "爱范儿早报汇总 AMD 与 Anthropic 合作、台积电代工涨价、Claude Cowork 录屏学习 Skill 等科技动态。",
+    "url": "https://www.ifanr.com/1672820?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "AI 圈今天最大的瓜：GPT-6 越狱攻击，被 GLM 5.2 揪出了",
+    "summary": "爱范儿围绕“GPT-6”越狱攻击与 GLM 5.2 识别事件展开报道，模型安全攻防与评测叙事继续吸引关注。",
+    "url": "https://www.ifanr.com/1672746?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  }
+]
