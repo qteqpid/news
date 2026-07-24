@@ -1,0 +1,1022 @@
+[
+  {
+    "title": "PrismML-Eng/Bonsai-demo",
+    "summary": "[Stars: 1,980] [553 stars this week] [Language: Shell] Bonsai Demo",
+    "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "source": "GITHUB"
+  },
+  {
+    "title": "agegr/pi-web",
+    "summary": "[Stars: 2,371] [1,050 stars this week] [Language: TypeScript] Web UI for the pi coding agent",
+    "url": "https://github.com/agegr/pi-web",
+    "source": "GITHUB"
+  },
+  {
+    "title": "kvcache-ai/ktransformers",
+    "summary": "[Stars: 18,950] [1,507 stars this week] [Language: Python] A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "url": "https://github.com/kvcache-ai/ktransformers",
+    "source": "GITHUB"
+  },
+  {
+    "title": "Launching Health in ChatGPT",
+    "summary": "OpenAI 向美国合资格用户推出 ChatGPT Health，可连接医疗记录和 Apple Health，用于更个性化的健康信息管理。",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Building AI infrastructure with the Effingham County community",
+    "summary": "OpenAI 公布佐治亚州 Effingham County 的 Project Camellia，强调数据中心建设中的能源、社区投资和长期本地合作。",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How news organizations are using AI to advance their vital missions",
+    "summary": "OpenAI 汇总新闻机构使用 AI 改善报道、触达受众和业务运营的案例，继续推进媒体合作叙事。",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Advancing the next era of national science",
+    "summary": "OpenAI 强调与美国能源部和国家实验室合作，希望把前沿模型嵌入科研基础设施和国家级科学任务。",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing OpenAI Presence",
+    "summary": "OpenAI 发布 Presence 企业智能体平台，面向组织部署可信语音与聊天 Agent，强化企业落地产品线。",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "summary": "NTT DATA Group 使用 ChatGPT Enterprise 和 Codex 帮助 9000 名员工自动化工作，并把部分事故分析压缩到 30 分钟。",
+    "url": "https://openai.com/index/ntt-data",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing the ChatGPT for small business program",
+    "summary": "OpenAI 推出小企业计划，帮助创业者学习 AI、自动化工作流程并提升经营效率。",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "summary": "OpenAI 与 Hugging Face 披露模型评估期间安全事件的早期发现，强调高级 AI 安全测试需要更严格隔离和协作。",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "summary": "Google 在 Galaxy Unpacked 期间展示 Android、Gemini 与智能眼镜相关更新，继续把 AI 能力推向移动和可穿戴入口。",
+    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Create, edit and star in videos with two Google Vids updates",
+    "summary": "Google Vids 增加 Gemini Omni 与个人 Avatar 能力，让用户能更低成本生成、编辑并出演视频内容。",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Celebrating 25 years of visual search innovation",
+    "summary": "Google 回顾视觉搜索 25 年演进，从图片搜索走向 Lens、Gemini 等多模态搜索体验。",
+    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+    "summary": "Gemini API 扩展 Managed Agents，加入后台任务、远程 MCP 等能力，降低开发者构建长任务 Agent 的门槛。",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "The latest AI news we announced in June 2026",
+    "summary": "Google 汇总 6 月 AI 更新，覆盖 Gemini、Pixel、开发者工具和产品内 AI 功能。",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "summary": "Google 联合纽约教育和产业组织举办 AI 教育峰会，讨论课堂采用、职业技能和产业协作。",
+    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "summary": "Google 在英国推广 AI 生产力计划，强调职业培训、产业应用和国家竞争力。",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "summary": "Google 解释从芯片、模型到应用的 AI 全栈概念，试图把基础设施叙事讲给更广泛受众。",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Stateful Guardrails for Multi-Turn LLM Systems: A Conversational Risk Accumulation Framework",
+    "summary": "论文提出多轮 LLM 风险累积框架，试图弥补单轮安全护栏难以捕捉连续对话风险的问题。",
+    "url": "https://arxiv.org/abs/2607.19361",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "When Reasoning Narrows the Move: Diversity Collapse in LLM Game Play",
+    "summary": "论文研究推理训练后模型在游戏决策中的多样性下降，提示能力增强可能压缩策略探索空间。",
+    "url": "https://arxiv.org/abs/2607.19523",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "On the Computational Complexity of Structural Generalization",
+    "summary": "论文分析结构泛化的计算复杂性，为评估模型是否真正掌握组合规则提供理论视角。",
+    "url": "https://arxiv.org/abs/2607.19573",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models",
+    "summary": "论文研究用超网络向大模型注入知识的扩展规律，关注事实更新的可靠性和成本。",
+    "url": "https://arxiv.org/abs/2607.19604",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Task Competence Is Not Instruction Following: Evaluating Instruction-Conflicting Behavior in Small Language Models",
+    "summary": "论文指出任务能力不等于指令服从，并评估小模型在冲突指令下的行为边界。",
+    "url": "https://arxiv.org/abs/2607.19608",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Adaptive Capitulation: A Structural Failure Mode of LLM Responses in Vulnerability Contexts",
+    "summary": "论文提出脆弱情境中 LLM 过度让步的结构性失败模式，关注情感敏感场景的安全性。",
+    "url": "https://arxiv.org/abs/2607.19629",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Reference-Free Evaluation of Reasoning in Open-Ended Question Answering",
+    "summary": "论文探索无需参考答案评估开放问答推理质量的方法，面向高风险领域的答案可靠性。",
+    "url": "https://arxiv.org/abs/2607.19678",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Multi-Mask Diffusion Language Models for Few-Step Generation",
+    "summary": "论文提出多掩码扩散语言模型，用更少生成步骤提升非自回归文本生成效率。",
+    "url": "https://arxiv.org/abs/2607.19686",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+    "summary": "论文用 SysAdmin 场景测量前沿 AI 的工具性权力寻求行为，为风险评估提供新基准。",
+    "url": "https://arxiv.org/abs/2607.18239",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+    "summary": "论文提出基于证据链评估的选择性事实核查方法，在准确率、覆盖率和校准之间寻求平衡。",
+    "url": "https://arxiv.org/abs/2607.18240",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+    "summary": "论文提出由 LLM 规划批处理 DAG 的企业数据分析框架，用执行图扩展临时分析能力。",
+    "url": "https://arxiv.org/abs/2607.18241",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "AI Tool Discovery at Scale: All You Need is DNS",
+    "summary": "论文提出基于 DNS 的 AI 工具发现机制，面向大规模自治 Agent 的工具注册和调用生态。",
+    "url": "https://arxiv.org/abs/2607.18242",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+    "summary": "论文从 Agent 失败路径推导残余风险量化框架，用组合方法提升智能体系统韧性。",
+    "url": "https://arxiv.org/abs/2607.18243",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "SAAG: Structured Agent Assessment and Grounding",
+    "summary": "论文提出结构化 Agent 评估与 grounding 方法，减少只看工具调用精确匹配带来的误判。",
+    "url": "https://arxiv.org/abs/2607.18245",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
+    "summary": "论文设计确定性 AI 运行时架构，通过结构化状态和响应前治理增强可控性。",
+    "url": "https://arxiv.org/abs/2607.18246",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing for Dynamic Workloads",
+    "summary": "论文提出考虑延迟的 LLM 查询路由策略，在准确率、成本之外加入动态工作负载响应速度。",
+    "url": "https://arxiv.org/abs/2607.18253",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Bayesian Wind Tunnels for Model Selection",
+    "summary": "论文研究用于模型选择的 Bayesian Wind Tunnels，延续 Transformer 执行贝叶斯滤波的方向。",
+    "url": "https://arxiv.org/abs/2607.19379",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction",
+    "summary": "论文提出贴近真实飞行数据的发动机剩余寿命预测基准，服务航空维护场景。",
+    "url": "https://arxiv.org/abs/2607.19380",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Air Quality Arena: A Large-Scale Multi-Region Ground Monitoring Dataset and Benchmark for Air Quality Forecasting with Time-Series Foundation Models",
+    "summary": "论文发布大规模多区域空气质量数据集和基准，评估时序基础模型在环境预测中的表现。",
+    "url": "https://arxiv.org/abs/2607.19381",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Challenges of Explainability in Continual Learning for Time Series Forecasting",
+    "summary": "论文讨论持续学习时间序列预测中的可解释性挑战，关注模型随时间更新后的可理解性。",
+    "url": "https://arxiv.org/abs/2607.19382",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Neural Operator Surrogates for Two-Dimensional Neutron Flux Estimation",
+    "summary": "论文用神经算子代理模型估计二维中子通量，面向科学计算加速。",
+    "url": "https://arxiv.org/abs/2607.19388",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "The Orthogonalized Read Is a Removable Training Scaffold for Recurrent Memory",
+    "summary": "论文认为正交化读取可作为循环记忆训练脚手架，而非最终推理时的必要组件。",
+    "url": "https://arxiv.org/abs/2607.19390",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "LAARA: Layer-Aware Adaptive Rank Allocation for Parameter-Efficient Fine-Tuning",
+    "summary": "论文提出层感知自适应秩分配方法，用于更高效的 LoRA 参数微调。",
+    "url": "https://arxiv.org/abs/2607.19391",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Predicting Groundwater Arsenic Concentrations Using Graph Neural Networks",
+    "summary": "论文用图神经网络预测地下水砷浓度，展示 AI 在公共健康和环境监测中的应用。",
+    "url": "https://arxiv.org/abs/2607.19392",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "summary": "Amazon 升级 Alexa Plus，使其能处理更复杂的智能家居指令，语音助手竞争继续转向多步骤执行。",
+    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "summary": "Anthropic 将 Claude 语音模式扩展到 Opus 和 Sonnet，提升高能力模型上的语音交互体验。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "summary": "The Verge 关注 ChatGPT Health 在美国扩大发布以及 OpenAI 对健康场景效果的高调表述。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+    "summary": "美国议员准备提出 AI Kill Switch 法案，要求 AI 公司在特定风险下关闭或限制高风险系统。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+    "summary": "The Verge 从后智能手机入口竞争角度解读 Apple 与 OpenAI 相关商业秘密诉讼。",
+    "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "The Download: energy transmission and US threats against Chinese AI",
+    "summary": "MIT Technology Review 早报关注能源传输瓶颈和美国针对中国 AI 的政策威胁。",
+    "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "How AI helps scientists design the next generation of medicines",
+    "summary": "MIT Technology Review 介绍 AI 如何帮助科学家设计下一代药物，缩短高成本、高失败率的药物研发流程。",
+    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Now, defenders are embracing the prompt injection, too",
+    "summary": "Ars Technica 报道防守方利用 context bombing 等提示注入技巧干扰攻击型 Agent，AI 安全攻防进入新阶段。",
+    "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "Meet the judges who will crown Australia’s next breakout startup",
+    "summary": "TechCrunch 介绍澳大利亚 Startup Battlefield 评委阵容，Stripe 合作赛事继续寻找本地高潜创业公司。",
+    "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+    "summary": "Mobileye CEO Amnon Shashua 将退居董事会主席角色，公司加速向 Robotaxi 和机器人方向推进。",
+    "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "summary": "AMD 发布 Helios AI 机架级系统，试图以整机方案挑战 Nvidia 在 AI 数据中心的主导地位。",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Patreon lays off 20% of its workforce",
+    "summary": "Patreon 裁员 20%，称核心业务仍稳健但平台需要重组以适应创作者经济和 AI 时代的变化。",
+    "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+    "summary": "保险科技创业公司 Corgi 被曝以 40 亿美元估值继续融资，AI 融资热潮中连续高估值轮次仍在出现。",
+    "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Tesla’s door handles may spur new US safety rules",
+    "summary": "美国监管机构因 Tesla 门把手相关事故考虑新安全规则，汽车智能化和物理安全设计继续受到审视。",
+    "url": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
+    "summary": "Meta 退出重要清洁能源联盟，同时加速天然气数据中心布局，AI 基建的能源承诺面临现实压力。",
+    "url": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "summary": "Anthropic 升级 Claude 语音模式，使其能用更强模型处理改会议、写邮件等复杂任务。",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
+    "summary": "The Verge 推荐 Echo Show 21 折扣，智能家居中枢继续与语音助手和屏幕入口绑定。",
+    "url": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+    "source": "The Verge"
+  },
+  {
+    "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
+    "summary": "The Verge 长文批评 FCC 主席 Brendan Carr 对媒体和言论监管的行动，平台治理议题继续升温。",
+    "url": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
+    "source": "The Verge"
+  },
+  {
+    "title": "Corsair’s PC case with a panoramic glass design is $70 off",
+    "summary": "Corsair 全景玻璃 PC 机箱降价，DIY 硬件消费市场继续依靠促销吸引升级需求。",
+    "url": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
+    "source": "The Verge"
+  },
+  {
+    "title": "Tesla’s robotaxi promises are clashing with reality",
+    "summary": "The Verge 指出 Tesla Robotaxi 叙事与实际里程、城市覆盖和运营能力之间仍有落差。",
+    "url": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
+    "source": "The Verge"
+  },
+  {
+    "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
+    "summary": "Geekbench 7 发布，新的基准测试会更充分压榨电脑和手机性能，利于衡量 AI 与高负载计算能力。",
+    "url": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
+    "source": "The Verge"
+  },
+  {
+    "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
+    "summary": "Amazon 把 Luna 云游戏入口嵌入 Prime Video，进一步整合内容、游戏和订阅服务。",
+    "url": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming",
+    "source": "The Verge"
+  },
+  {
+    "title": "氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
+    "summary": "36氪晚报汇总 DeepSeek 增资、梁文锋谈 AGI 主线和马斯克强调 FSD 拉动 Tesla 需求等动态。",
+    "url": "https://36kr.com/p/3908051015488640?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+    "summary": "网格智算聚焦林下无人机与低空场景，用“不堆算力”的 AI 大脑补足复杂林业作业空白。",
+    "url": "https://36kr.com/p/3908027308823684?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品",
+    "summary": "郭列复盘从脸萌、FaceU 到剪映的爆款方法，并讨论 AI 时代产品经理如何重新定义创作工具。",
+    "url": "https://36kr.com/p/3907953777120385?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
+    "summary": "腾讯混元多模态理解负责人胡瀚被曝离职创业，原团队可能把重心转向世界模型方向。",
+    "url": "https://36kr.com/p/3907934819521670?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
+    "summary": "腾讯林松涛强调 Marvis 不追求通用对话，而聚焦端侧系统级操作和真实交付能力。",
+    "url": "https://36kr.com/p/3907676111983745?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式",
+    "summary": "FutureTech 张梦钊认为 AI 正把创业形态推向“一个人加一群 Agent”的超级个体模式。",
+    "url": "https://36kr.com/p/3907639172027522?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "硬氪首发 | 大疆系AI自然探索公司获五源、顺为投资，首创水下光学系统",
+    "summary": "大疆系水下 AI 公司 Deeplore 获五源、顺为投资，计划推进 AI 潜水面镜和水下自然探索平台。",
+    "url": "https://36kr.com/p/3906474040153220?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "对话蚂蚁数科：打造商业智能体超级工厂，生态共建中国行业版Harness标准",
+    "summary": "蚂蚁数科提出商业智能体超级工厂思路，希望与生态伙伴共建中国行业版 Harness 标准。",
+    "url": "https://36kr.com/p/3907590205085056?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等",
+    "summary": "少数派早报汇总三星折叠屏、索尼 FX5 和 OpenAI Presence 等科技与 AI 产品动态。",
+    "url": "https://sspai.com/post/112647",
+    "source": "少数派"
+  },
+  {
+    "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
+    "summary": "趋境科技华东区域总部落地钱江世纪城，计划五年内建设万卡级 AI Token 工厂。",
+    "url": "https://www.qbitai.com/2026/07/457534.html",
+    "source": "量子位"
+  },
+  {
+    "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
+    "summary": "它石智航在 WAIC 展示具身原生大脑 AWE 3.5，强调工业深水区多任务实战和具身 Scaling。",
+    "url": "https://www.qbitai.com/2026/07/457469.html",
+    "source": "量子位"
+  },
+  {
+    "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
+    "summary": "阿里平头哥在芯片规模出货后开源 AI 软件栈 SAIL，覆盖 260 多个框架以扩大生态。",
+    "url": "https://www.qbitai.com/2026/07/457405.html",
+    "source": "量子位"
+  },
+  {
+    "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+    "summary": "科大讯飞发布星火 Token Factory，面向企业级 AI 模型路由、治理和推理成本优化。",
+    "url": "https://www.qbitai.com/2026/07/457359.html",
+    "source": "量子位"
+  },
+  {
+    "title": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛",
+    "summary": "太初元碁联合上海人工智能实验室举办 AI4S 与新模型架构算子优化赛，推动科学智能生态。",
+    "url": "https://www.qbitai.com/2026/07/457356.html",
+    "source": "量子位"
+  },
+  {
+    "title": "快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费",
+    "summary": "雷峰网以用户计费经历切入，讨论 Claude 使用过程中的隐形开关、额度消耗和 Agent 安全信任问题。",
+    "url": "https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+    "summary": "阿里云称真武 M890 超节点已适配 Qwen3.8 并上线百炼，展示超 2 万亿参数模型推理能力。",
+    "url": "https://www.leiphone.com/category/industrynews/QPSOggSAs8nAZ4Uc.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "全球已有1000万中小企业在用Accio Work做生意",
+    "summary": "阿里国际站称 Accio Work 已服务 1000 万中小企业，跨境商家 Token 消耗和 AI 工作流使用快速增长。",
+    "url": "https://www.leiphone.com/category/industrynews/IPXWpsIUAi4Hw8CO.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "专访南洋理工李搏扬：被「数学缺陷」困了八年的MTS，第一次真正 work了| ICML 2026",
+    "summary": "南洋理工团队围绕多任务学习中的数据质量和数学缺陷提出新方法，并在 ICML 2026 展示进展。",
+    "url": "https://www.leiphone.com/category/private/9PRf4M2bUYMLC0Jz.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "独家解读丨阿里整合Agent背后：大厂开始重新分配AI资源",
+    "summary": "雷峰网解读阿里整合 QoderWork、悟空、MuleRun 等 Agent 产品，认为大厂正在重新分配 AI 资源。",
+    "url": "https://www.leiphone.com/category/industrynews/yj0yPPz94SYfHGVE.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "具身智能数据需求暴涨千倍，这家“数据炼油厂”刚拿到近亿元融资",
+    "summary": "景联文科技完成近亿元 A 轮融资，瞄准具身智能对高质量训练数据暴涨的需求。",
+    "url": "https://www.leiphone.com/category/ai/XRwFfhV1xdAQfrac.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "白宫下场亲自「围攻」Kimi K3，评论区全员唱反调？",
+    "summary": "雷峰网讨论美国对白宫层面指控 Kimi K3 蒸馏的反应，折射开源模型与闭源商业利益冲突。",
+    "url": "https://www.leiphone.com/category/ai/NRMCQhmYyxQ6TSP0.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "成本直降 90%！原来 Kimi K3 叠 Claude Code 还能这么玩",
+    "summary": "文章介绍把 Kimi K3 接入 Claude Code 的低成本编程工作流，显示 AI 编程竞争正转向组织和成本效率。",
+    "url": "https://www.leiphone.com/category/ai/szzIgYjmN2yUvZPk.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Edge AI Daily 早报（7月24日）",
+    "summary": "钛媒体早报聚焦 OpenAI 数据中心、Google 给能源部 AI Token 和 AMD 数据中心份额等 AI 基建信号。",
+    "url": "https://www.tmtpost.com/8077871.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "【钛晨报】事关资本市场监管、改革与稳市工作，证监会明确七大要点；长鑫科技7月27日上市，发行价为8.66元/股；滔搏回应暴力打折甩卖耐克库存",
+    "summary": "钛晨报汇总资本市场监管、长鑫科技上市、SpaceX 观点和中美降税谈判等宏观与科技商业消息。",
+    "url": "https://www.tmtpost.com/8077701.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "智源最新研究提出警报：大模型智能体可能带来生物安全风险",
+    "summary": "智源研究提醒大模型智能体可能降低知识构建门槛，并带来新的生物安全风险。",
+    "url": "https://www.tmtpost.com/8077514.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”",
+    "summary": "中昊芯英在杭州落地华东首个国产 TPU 千卡集群，并发布二代 AI 芯片“须臾”。",
+    "url": "https://www.tmtpost.com/8077591.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "The Model That Saved Hugging Face",
+    "summary": "钛媒体英文稿讨论智谱 GLM 5.2 在 OpenAI 自主安全测试事件中的防守角色。",
+    "url": "https://www.tmtpost.com/8077503.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "“科技小登”为何跳水？",
+    "summary": "钛媒体分析部分科技股跳水与减持节奏，关注 AI 概念交易背后的估值和资金变化。",
+    "url": "https://www.tmtpost.com/8075900.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Gemini弱爆了，但不影响谷歌赚钱",
+    "summary": "文章认为 Gemini 舆论表现不佳并未阻止 Google 赚钱，云业务和广告仍支撑其 AI 投入。",
+    "url": "https://www.tmtpost.com/8077236.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "继英伟达黄仁勋后，AMD 苏姿丰也表态支持开源 AI 模型",
+    "summary": "AMD 苏姿丰继黄仁勋后表态支持开源 AI 模型，认为美国更应保持开放竞争力。",
+    "url": "https://www.ithome.com/0/980/913.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "苹果预告 Apple TV 首个约会题材纪录片：共 8 集，让性格迥异的伴侣走到一起",
+    "summary": "Apple TV 预告首部约会题材纪录片系列，苹果继续扩充服务内容而非纯硬件叙事。",
+    "url": "https://www.ithome.com/0/980/912.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "谷歌旗舰大模型难产背后：军方合作引员工不满，内部感叹“已落后”",
+    "summary": "Axios 报道 Google DeepMind 旗舰模型推迟与军方合作、员工士气有关，内部竞争压力上升。",
+    "url": "https://www.ithome.com/0/980/911.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "纪念乔布斯的 1 美元硬币本周在美国再次发行，消息称已铸 1233750 枚",
+    "summary": "纪念乔布斯的美国加州创新 1 美元硬币再次发行，Apple 相关文化资产继续被纪念和传播。",
+    "url": "https://www.ithome.com/0/980/908.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "马斯克呼吁 AI 实验室携手审查安全问题，愿与 OpenAI 奥尔特曼“冰释前嫌”",
+    "summary": "马斯克呼吁 AI 实验室合作审查安全风险，并表示愿与 OpenAI 奥尔特曼缓和关系。",
+    "url": "https://www.ithome.com/0/980/906.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "CPU 两年一代、GPU 一年一代：AMD 公布 AI / HPC 路线图",
+    "summary": "AMD 公布 AI/HPC 路线图，规划 CPU 两年一代、GPU 一年一代，以追赶数据中心 AI 需求。",
+    "url": "https://www.ithome.com/0/980/903.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "苹果 AirPods 被改装成飞盘追踪器，可追踪旋转速率等投掷数据",
+    "summary": "开发者把 AirPods 改装成飞盘运动追踪器，利用内置传感器测量旋转速率等投掷数据。",
+    "url": "https://www.ithome.com/0/980/902.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "微软最新模型 MAI-Image-2.5-Pro、MAI-Voice-2-Flash 发布：未蒸馏第三方产品，已落地 Bing 及 PowerPoint 等场景",
+    "summary": "微软发布 MAI-Image-2.5-Pro 与 MAI-Voice-2-Flash，强调自研且未蒸馏第三方产品，并落地 Bing、PowerPoint 等场景。",
+    "url": "https://www.ithome.com/0/980/899.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Google 因搜索和应用商店服务违反 DMA 被欧盟罚款 8.9 亿欧元",
+    "summary": "Solidot 报道 Google 因搜索和应用商店服务违反欧盟 DMA 被罚 8.9 亿欧元，平台监管继续收紧。",
+    "url": "https://www.solidot.org/story?sid=84909",
+    "source": "Solidot"
+  },
+  {
+    "title": "Codeberg 拒绝托管 vibe-coded 项目",
+    "summary": "Codeberg 会员投票通过禁止托管 vibe-coded 项目，并承诺不使用用户数据训练大模型。",
+    "url": "https://www.solidot.org/story?sid=84906",
+    "source": "Solidot"
+  },
+  {
+    "title": "美国陆军也耗尽了它的可用 Token 要求限制使用",
+    "summary": "美国陆军使用的 Ask Sage AI 平台 Token 接近耗尽，要求军人限制使用，凸显组织级 AI 成本管理压力。",
+    "url": "https://www.solidot.org/story?sid=84900",
+    "source": "Solidot"
+  },
+  {
+    "title": "早报｜极氪回应跨境自驾车机被锁/曝苹果Apple Store应用将上线「AI购物助手」/梁文锋:DeepSeek不追求成为下一个字节或腾讯",
+    "summary": "爱范儿早报汇总腾讯混元负责人离职、字节 Seed STEM 计划和 ChatGPT 健康建议诉讼等消息。",
+    "url": "https://www.ifanr.com/1672938?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "First 超短片，把镜头对准了 AI 够不着的地方",
+    "summary": "爱范儿讨论 First 超短片如何把镜头对准 AI 难以替代的真实影像价值。",
+    "url": "https://www.ifanr.com/1672900?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "苹果 Mac 将迎来全线换代，一种给人用，一种给 AI 用",
+    "summary": "爱范儿展望苹果 Mac 全线换代，区分面向普通用户与面向 AI 计算的新硬件需求。",
+    "url": "https://www.ifanr.com/1672867?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "三步爆改旧鼠标，打造最好用的 AI 外挂｜AI 器物志",
+    "summary": "爱范儿展示把旧鼠标改造成 AI 外挂的 DIY 方法，说明 AI 硬件入口也可以低成本改造。",
+    "url": "https://www.ifanr.com/1672824?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "Tesla Stock in Freefall After Disastrous Earnings Report",
+    "summary": "Tesla Stock in Freefall After Disastrous Earnings Report，26925 upvotes、1883 comments，created: 2026-07-23，rank score: 21.71。",
+    "url": "https://www.reddit.com/r/technology/comments/1v4k903/tesla_stock_in_freefall_after_disastrous_earnings/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL during a delay while filming the CBS show Cover Up, to lighten the mood, actor Jon-Erik Hexum loaded one blank in the gun being used in the scene, spun the cylinder, put the gun to his head, and pulled the trigger. The muzzle force shattered his skull and he was declared brain dead 6 day later.",
+    "summary": "TIL during a delay while filming the CBS show Cover Up, to lighten the mood, actor Jon-Erik Hexum loaded one blank in the gun being used in the scene, spun the cylinder, put the gun to his head, and pulled the trigger. The muzzle force shattered his skull and...，19031 upvotes、1199 comments，created: 2026-07-23，rank score: 20.66。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v441bx/til_during_a_delay_while_filming_the_cbs_show/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Saudis must normalise ties with Israel for nuclear deal, says Trump",
+    "summary": "Saudis must normalise ties with Israel for nuclear deal, says Trump，7757 upvotes、2087 comments，created: 2026-07-23，rank score: 20.59。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4dj64/saudis_must_normalise_ties_with_israel_for/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "‘Significant problems’ in Russian banking system as public withdraws cash en masse",
+    "summary": "‘Significant problems’ in Russian banking system as public withdraws cash en masse，13521 upvotes、707 comments，created: 2026-07-23，rank score: 19.66。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4lm8d/significant_problems_in_russian_banking_system_as/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Short Sellers Are Going Hog Wild Against SpaceX as Its Stock Craters",
+    "summary": "Short Sellers Are Going Hog Wild Against SpaceX as Its Stock Craters，11410 upvotes、809 comments，created: 2026-07-22，rank score: 19.54。",
+    "url": "https://www.reddit.com/r/technology/comments/1v3pkm4/short_sellers_are_going_hog_wild_against_spacex/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "America is building 3,000 data centers. The economics aren't as great as they seem",
+    "summary": "America is building 3,000 data centers. The economics aren't as great as they seem，10511 upvotes、898 comments，created: 2026-07-20，rank score: 19.27。",
+    "url": "https://www.reddit.com/r/technology/comments/1v1hng6/america_is_building_3000_data_centers_the/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL \"slumming\" was a Gilded Age tourist craze, when wealthy patrons paid guides for nighttime tours of New York’s Chinatown to watch the poor. Demand got so high that operators staged fake opium dens with hired actors so the rich would get the squalor they paid for.",
+    "summary": "TIL \"slumming\" was a Gilded Age tourist craze, when wealthy patrons paid guides for nighttime tours of New York’s Chinatown to watch the poor. Demand got so high that operators staged fake opium dens with hired actors so the rich would get the squalor they pa...，15425 upvotes、379 comments，created: 2026-07-23，rank score: 18.82。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v3zic3/til_slumming_was_a_gilded_age_tourist_craze_when/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+    "summary": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec，10486 upvotes、452 comments，created: 2026-07-22，rank score: 18.60。",
+    "url": "https://www.reddit.com/r/technology/comments/1v3edgj/on_the_run_for_20_years_mostwanted_fugitive/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL the Romans had a ritual called \"evocatio\": during a siege, they formally invited the enemy city's guardian deity to abandon it for the Roman side, promising a more lavish temple. It doubled as psychological warfare and mitigated the otherwise sacrilegious looting of religious images.",
+    "summary": "TIL the Romans had a ritual called \"evocatio\": during a siege, they formally invited the enemy city's guardian deity to abandon it for the Roman side, promising a more lavish temple. It doubled as psychological warfare and mitigated the otherwise sacrilegious...，15505 upvotes、289 comments，created: 2026-07-23，rank score: 18.52。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v4dnco/til_the_romans_had_a_ritual_called_evocatio/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Russia’s Crown-Jewel Su-57 May Have Crashed Outside Moscow",
+    "summary": "Russia’s Crown-Jewel Su-57 May Have Crashed Outside Moscow，8701 upvotes、391 comments，created: 2026-07-23，rank score: 18.34。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4aa2m/russias_crownjewel_su57_may_have_crashed_outside/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "College professors face an emerging challenge: We know students are no longer reading entire books",
+    "summary": "College professors face an emerging challenge: We know students are no longer reading entire books，3983 upvotes、651 comments，created: 2026-07-23，rank score: 18.30。",
+    "url": "https://www.reddit.com/r/books/comments/1v4fvoh/college_professors_face_an_emerging_challenge_we/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Microsoft Confirms Windows Has a Global Device ID You Can't Turn Off",
+    "summary": "Microsoft Confirms Windows Has a Global Device ID You Can't Turn Off，4839 upvotes、369 comments，created: 2026-07-23，rank score: 17.70。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4fpsl/microsoft_confirms_windows_has_a_global_device_id/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "How telehealth is fuelling a surge in ADHD scripts in a business model that benefits the rich. By 2022, the number of ADHD-associated prescriptions increased almost threefold, from 4.3% to 11.8%. About one in four video psychiatry consultations were linked to stimulant prescriptions.",
+    "summary": "How telehealth is fuelling a surge in ADHD scripts in a business model that benefits the rich. By 2022, the number of ADHD-associated prescriptions increased almost threefold, from 4.3% to 11.8%. About one in four video psychiatry consultations were linked to...，2638 upvotes、559 comments，created: 2026-07-23，rank score: 17.68。",
+    "url": "https://www.reddit.com/r/science/comments/1v4h560/how_telehealth_is_fuelling_a_surge_in_adhd/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "TIL the robber Jeffrey \"Roofman\" Manchester who evaded custody by living inside stores, left a single fingerprint in his secret living quarters: A DVD of \"Catch Me If You Can\".",
+    "summary": "TIL the robber Jeffrey \"Roofman\" Manchester who evaded custody by living inside stores, left a single fingerprint in his secret living quarters: A DVD of \"Catch Me If You Can\".，10955 upvotes、231 comments，created: 2026-07-21，rank score: 17.62。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v2w6cu/til_the_robber_jeffrey_roofman_manchester_who/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Kremlin Prepares for Mobilization as Putin Downplays Deepening Fuel Crisis",
+    "summary": "Kremlin Prepares for Mobilization as Putin Downplays Deepening Fuel Crisis，4627 upvotes、348 comments，created: 2026-07-23，rank score: 17.54。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4828o/kremlin_prepares_for_mobilization_as_putin/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
+    "summary": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire，2761 upvotes、455 comments，created: 2026-07-23，rank score: 17.47。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4qs67/trump_to_slap_sweeping_new_tariffs_on_60_trade/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CMV: Trump is definitely responsible for the January 6th insurrection, he incited it.",
+    "summary": "So, ill break this down into some very basic categories or whatever you'd call it. Number 1: He is the one that planned/promoted this entire event: He incited it as in he created the whole event, the ''#StopTheSteal'' protest on January 6th wasn't actually Tr...，1054 upvotes、728 comments，created: 2026-07-23，rank score: 17.08。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v46xse/cmv_trump_is_definitely_responsible_for_the/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Orcas seen ramming prey so hard it explodes may be playing game. Orcas were observed to hold sunfish in their jaws while a second whale smashed into the target at high speed, causing it to break into thousands of pieces. Since the fish had already been killed, the behaviour may be a form of play.",
+    "summary": "Orcas seen ramming prey so hard it explodes may be playing game. Orcas were observed to hold sunfish in their jaws while a second whale smashed into the target at high speed, causing it to break into thousands of pieces. Since the fish had already been killed...，5482 upvotes、198 comments，created: 2026-07-23，rank score: 16.91。",
+    "url": "https://www.reddit.com/r/science/comments/1v4733z/orcas_seen_ramming_prey_so_hard_it_explodes_may/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Christopher Nolan’s ‘The Odyssey’ Movie Is Making Gen Z Listen to the Book",
+    "summary": "Christopher Nolan’s ‘The Odyssey’ Movie Is Making Gen Z Listen to the Book，1362 upvotes、383 comments，created: 2026-07-23，rank score: 16.44。",
+    "url": "https://www.reddit.com/r/books/comments/1v46fjm/christopher_nolans_the_odyssey_movie_is_making/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Thanks No Thanks – Fedorov Turns Down Zelensky’s Offer to Become ‘Deputy PM for Military Innovations’",
+    "summary": "Thanks No Thanks – Fedorov Turns Down Zelensky’s Offer to Become ‘Deputy PM for Military Innovations’，2609 upvotes、174 comments，created: 2026-07-23，rank score: 16.05。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4jwsr/thanks_no_thanks_fedorov_turns_down_zelenskys/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "TIL Helium was first detected in the Sun from an unknown spectral line during a solar eclipse, years before any Helium was discovered on Earth. It was named after Helios, Greek god of the Sun.",
+    "summary": "TIL Helium was first detected in the Sun from an unknown spectral line during a solar eclipse, years before any Helium was discovered on Earth. It was named after Helios, Greek god of the Sun.，10948 upvotes、68 comments，created: 2026-07-22，rank score: 16.02。",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1v3hrgd/til_helium_was_first_detected_in_the_sun_from_an/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "EU slaps €890 million fine on Google",
+    "summary": "EU slaps €890 million fine on Google，2679 upvotes、144 comments，created: 2026-07-23，rank score: 15.77。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v49ud9/eu_slaps_890_million_fine_on_google/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Iran threatens Britain and declares RAF base a 'target'",
+    "summary": "Iran threatens Britain and declares RAF base a 'target'，1173 upvotes、240 comments，created: 2026-07-23，rank score: 15.70。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4kvmf/iran_threatens_britain_and_declares_raf_base_a/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Finally deleted my Goodreads account and it feels liberating",
+    "summary": "Disclaimer: the following post is merely a reflection of my own experiences using Goodreads. If you enjoy tracking your reading habits and working on reading challenges, more power to you. Just because it inhibited my enjoyment of reading doesn't mean it's th...，943 upvotes、278 comments，created: 2026-07-23，rank score: 15.70。",
+    "url": "https://www.reddit.com/r/books/comments/1v4nwkm/finally_deleted_my_goodreads_account_and_it_feels/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Carney tells premiers he’ll do ‘whatever it takes’ to defend Canada in the face of Trump’s trade escalation",
+    "summary": "Carney tells premiers he’ll do ‘whatever it takes’ to defend Canada in the face of Trump’s trade escalation，1393 upvotes、208 comments，created: 2026-07-23，rank score: 15.68。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4ndnz/carney_tells_premiers_hell_do_whatever_it_takes/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Yen plunges to 163 versus US dollar for first time in over 39 years",
+    "summary": "Yen plunges to 163 versus US dollar for first time in over 39 years，1455 upvotes、161 comments，created: 2026-07-23，rank score: 15.36。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4lwfc/yen_plunges_to_163_versus_us_dollar_for_first/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CMV: I have no idea why people idealise China or why they think it's socialist at all.",
+    "summary": "A lot of redditors and democratic socialists idealise China online, and whenever I make a point against China I get mass-downvoted. This post is more of a rant to why one shouldn't idealise it as in reality its most of the problems the US has but worse, but a...，254 upvotes、552 comments，created: 2026-07-23，rank score: 15.34。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v4l5cj/cmv_i_have_no_idea_why_people_idealise_china_or/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "New findings reveal Ancient Roman concrete survives for millennia by chemically self-healing its own cracks through carbonation",
+    "summary": "New findings reveal Ancient Roman concrete survives for millennia by chemically self-healing its own cracks through carbonation，3331 upvotes、90 comments，created: 2026-07-22，rank score: 15.22。",
+    "url": "https://www.reddit.com/r/science/comments/1v3hykd/new_findings_reveal_ancient_roman_concrete/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Harry Potter publisher to receive millions in copyright settlement between the AI startup Anthropic and thousands of authors over the use of their protected work to power chatbots",
+    "summary": "Harry Potter publisher to receive millions in copyright settlement between the AI startup Anthropic and thousands of authors over the use of their protected work to power chatbots，1987 upvotes、114 comments，created: 2026-07-23，rank score: 15.15。",
+    "url": "https://www.reddit.com/r/books/comments/1v4a9ul/harry_potter_publisher_to_receive_millions_in/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+    "summary": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs，402 upvotes、336 comments，created: 2026-07-23，rank score: 15.00。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v3za2n/canadas_powerful_dairy_sector_is_in_trumps_trade/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "British Airways Launches Probe After 3 Pilots Fall Sick Mid-air After Hyderabad Stopover",
+    "summary": "British Airways Launches Probe After 3 Pilots Fall Sick Mid-air After Hyderabad Stopover，912 upvotes、153 comments，created: 2026-07-23，rank score: 14.75。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v453hz/british_airways_launches_probe_after_3_pilots/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "'Unprecedented': France records 5,764 excess deaths during June-July heatwave period",
+    "summary": "'Unprecedented': France records 5,764 excess deaths during June-July heatwave period，845 upvotes、163 comments，created: 2026-07-23，rank score: 14.74。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v3zrz2/unprecedented_france_records_5764_excess_deaths/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1610, Part 1 (Thread #1757)",
+    "summary": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1610, Part 1 (Thread #1757)，444 upvotes、255 comments，created: 2026-07-23，rank score: 14.73。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v42wnc/rworldnews_live_thread_russian_invasion_of/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "US escalates Iran campaign with first B-1 bomber strike since conflict resumed, sources tell 'Post'",
+    "summary": "US escalates Iran campaign with first B-1 bomber strike since conflict resumed, sources tell 'Post'，637 upvotes、108 comments，created: 2026-07-23，rank score: 13.91。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v45vzw/us_escalates_iran_campaign_with_first_b1_bomber/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Russia declares its Black Sea waters unsafe for navigation",
+    "summary": "Russia declares its Black Sea waters unsafe for navigation，1847 upvotes、42 comments，created: 2026-07-23，rank score: 13.74。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4lk98/russia_declares_its_black_sea_waters_unsafe_for/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Oil surges to $100 per barrel after Red Sea attacks",
+    "summary": "Oil surges to $100 per barrel after Red Sea attacks，393 upvotes、101 comments，created: 2026-07-23，rank score: 13.40。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4iipe/oil_surges_to_100_per_barrel_after_red_sea_attacks/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Wildberries: Russia's businesses under strain from Ukraine's attacks on retail warehouses",
+    "summary": "Wildberries: Russia's businesses under strain from Ukraine's attacks on retail warehouses，1267 upvotes、40 comments，created: 2026-07-23，rank score: 13.26。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4axp7/wildberries_russias_businesses_under_strain_from/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Mykhailo Fedorov Says He Will Accept Only the Post of Ukraine’s Defense Minister",
+    "summary": "Mykhailo Fedorov Says He Will Accept Only the Post of Ukraine’s Defense Minister，528 upvotes、58 comments，created: 2026-07-23，rank score: 12.93。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4i9st/mykhailo_fedorov_says_he_will_accept_only_the/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Europe fines Google $1 billion for ‘harming’ online rivals",
+    "summary": "Europe fines Google $1 billion for ‘harming’ online rivals，554 upvotes、54 comments，created: 2026-07-23，rank score: 12.85。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4bt76/europe_fines_google_1_billion_for_harming_online/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Russia attacked twenty-eight civilian merchant ships in Greater Odesa ports, twenty-one dead",
+    "summary": "Russia attacked twenty-eight civilian merchant ships in Greater Odesa ports, twenty-one dead，389 upvotes、68 comments，created: 2026-07-23，rank score: 12.82。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4cwi9/russia_attacked_twentyeight_civilian_merchant/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "US says Saudi nuclear deal off without Israel recognition",
+    "summary": "US says Saudi nuclear deal off without Israel recognition，381 upvotes、64 comments，created: 2026-07-24，rank score: 12.78。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4vbe5/us_says_saudi_nuclear_deal_off_without_israel/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Thousands of idle ships trapped near the Strait of Hormuz could become floating nurseries for invasive marine species and spread them worldwide when trade resumes",
+    "summary": "Thousands of idle ships trapped near the Strait of Hormuz could become floating nurseries for invasive marine species and spread them worldwide when trade resumes，629 upvotes、39 comments，created: 2026-07-23，rank score: 12.55。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4g963/thousands_of_idle_ships_trapped_near_the_strait/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Google slapped with $1 billion fine under landmark EU digital law",
+    "summary": "Google slapped with $1 billion fine under landmark EU digital law，663 upvotes、26 comments，created: 2026-07-23，rank score: 12.07。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4krbf/google_slapped_with_1_billion_fine_under_landmark/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Iran strikes on CIA facilities prompt questions about possible Russian role",
+    "summary": "Iran strikes on CIA facilities prompt questions about possible Russian role，323 upvotes、39 comments，created: 2026-07-23，rank score: 11.90。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1v4jsjv/iran_strikes_on_cia_facilities_prompt_questions/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CMV: We are closer to a technological ceiling than a singularity.",
+    "summary": "There seems to have been a barrage of accelerationism in the last four or five years. However, I'd argue that it is largely the product of we as a species running out of new ideas, as well as hitting some real physical limits to our development. The big leaps...，73 upvotes、78 comments，created: 2026-07-23，rank score: 11.34。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v4b9tm/cmv_we_are_closer_to_a_technological_ceiling_than/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Beyond 10+ years of experience, how do you actually build and maintain a strong professional network?",
+    "summary": "Personally speaking, I feel that beyond 10 years of experience, referrals and professional contacts work 9 out of 10 times compared to relying on job portals and random applications. I've seen a few of my former leads and managers who have built such strong r...，81 upvotes、50 comments，created: 2026-07-23，rank score: 10.87。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1v4lcsl/beyond_10_years_of_experience_how_do_you_actually/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: Reddit moderators have too much unchecked power, and it’s harming genuine discussion.",
+    "summary": "TL;DR: I tried to start a discussion about whether teenagers benefit from having spaces to discuss reproductive healthcare respectfully. Instead of disagreeing with my ideas, I was permanently banned from a subreddit with no publicly stated rule covering what...，54 upvotes、46 comments，created: 2026-07-21，rank score: 10.08。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v2t4sv/cmv_reddit_moderators_have_too_much_unchecked/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "Which DevOps tool looked amazing during the PoC but became painful after six months?",
+    "summary": "I am Little confused ?，36 upvotes、51 comments，created: 2026-07-23，rank score: 10.02。",
+    "url": "https://www.reddit.com/r/devops/comments/1v445k8/which_devops_tool_looked_amazing_during_the_poc/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "CMV: Non-white Hispanics are largely excluded from \"Race-Blind\" casting",
+    "summary": "I'm a Theatre, TV, and movie fanatic first, but also interested in observing cultural trends. I've generally feel positively about \"Race-Blind\" casting. My wife and daughter are very involved in local drama productions, and it would be very limiting to requir...，19 upvotes、58 comments，created: 2026-07-23，rank score: 9.69。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v4sck2/cmv_nonwhite_hispanics_are_largely_excluded_from/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "How did DuckDuckGo compress their favicon?",
+    "summary": "I just noticed that DuckDuckGo has compressed their favicon directly in the file itself. But i couldn't find any info about how to do it. their favicon contains two images, a 32x32 and a 16x16 both 32 bit icons. the file size is only 3KB. by comparison, the i...，39 upvotes、19 comments，created: 2026-07-22，rank score: 8.72。",
+    "url": "https://www.reddit.com/r/webdev/comments/1v3ufii/how_did_duckduckgo_compress_their_favicon/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Moving a high-memory Python application from Kubernetes to a dedicated Linux server — what would be the best setup?",
+    "summary": "Hello, At the company where I work, we have a Python application running on a Kubernetes cluster. The application is fully integrated into a CI/CD workflow. Whenever code is merged, Jenkins pulls the source code from GitLab, builds the application, and pushes...，15 upvotes、21 comments，created: 2026-07-23，rank score: 8.00。",
+    "url": "https://www.reddit.com/r/devops/comments/1v475m2/moving_a_highmemory_python_application_from/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "AWS says its DevOps Agent delivers 75% lower MTTR and 94% root cause accuracy",
+    "summary": "Straight from the GA blog: customers report \"up to 75% lower MTTR, 80% faster investigations, and 94% root cause accuracy, enabling 3-5x faster incident resolution.\" https://aws.amazon.com/blogs/mt/announcing-general-availability-of-aws-devops-agent/ GA since...，13 upvotes、18 comments，created: 2026-07-23，rank score: 7.72。",
+    "url": "https://www.reddit.com/r/devops/comments/1v4nqwx/aws_says_its_devops_agent_delivers_75_lower_mttr/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Have you ever taken legal action against a client who didn't pay you?",
+    "summary": "Hi there, I'm a foreign contractor working for a US-based startup. My whole career, I have worked 100% with US-based companies and never had any issues. But you guys know how the startup world works, you are just there for a good time, not a long time. The co...，25 upvotes、9 comments，created: 2026-07-23，rank score: 7.42。",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1v4hu51/have_you_ever_taken_legal_action_against_a_client/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "Looking for Terraform + AWS hands-on project ideas after completing Terraform Associate and AWS SAA",
+    "summary": "Hi everyone, I recently completed: HashiCorp Certified: Terraform Associate (003) AWS Certified Solutions Architect – Associate (SAA-C03) Now I want to move beyond certifications and gain more hands-on practical experience with Terraform on AWS. I understand ...，11 upvotes、10 comments，created: 2026-07-23，rank score: 6.73。",
+    "url": "https://www.reddit.com/r/devops/comments/1v454t7/looking_for_terraform_aws_handson_project_ideas/",
+    "source": "Reddit - Tech"
+  },
+  {
+    "title": "SaaS founders on Stripe: how do you handle failed subscription payments?",
+    "summary": "I'm digging into how SaaS teams deal with failed subscription payments — expired cards, insufficient funds, that whole mess — and I'd love to learn from people who actually live it. A few things I'm trying to understand: - How often do pay...，17 upvotes、54 comments ，类型：讨论信号，评分：6.7/10。",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1v31xx0/saas_founders_on_stripe_how_do_you_handle_failed/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "CMV: Across the various subcultures in the US, a large cause behind everyday social friction is a pervasive behavioral pattern that rewards local subgroup alignment and ego-driven defensiveness over ideological consistency.",
+    "summary": "CMV: Across the various subcultures in the US, a large cause behind everyday social friction is a pervasive behavioral pattern that rewards local subgroup alignment and ego-driven defensiveness over ideological consistency. Although there are plenty of other ...，0 upvotes、35 comments，created: 2026-07-23，rank score: 5.96。",
+    "url": "https://www.reddit.com/r/changemyview/comments/1v4iqmo/cmv_across_the_various_subcultures_in_the_us_a/",
+    "source": "Reddit - Knowledge"
+  },
+  {
+    "title": "I'm a 19-year-old apprentice electrician. I got sick of watching everyone quote jobs at the kitchen table, so I built an AI that does it in 3 minutes.",
+    "summary": "I'm 19, apprenticing as an electrician in New Brunswick. One thing drove me nuts on every job: the actual work would wrap up, and then the journeyman or the boss would go home and spend their whole evening building the quote for the next j...，0 upvotes、6 comments ，类型：竞品/新工具，评分：5.5/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1v4u4qw/im_a_19yearold_apprentice_electrician_i_got_sick/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Why I'm building a tool to tell me when to quit a project",
+    "summary": "I've started lots of side projects, some I poured months into before realizing, right at the point of trying to monetize, that nobody actually wanted them. I never had a clear signal for \"keep going\" vs \"let this go\", just gut feeling and ...，0 upvotes、4 comments ，类型：痛点/需求，评分：5.2/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1v4s1zv/why_im_building_a_tool_to_tell_me_when_to_quit_a/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "5 days ago I launched my app after a year of building it alone. 6 downloads so far and I'm weirdly proud of every one",
+    "summary": "5 days ago I launched my app after a year of building it alone. 6 downloads so far and I'm weirdly proud of every one，4 upvotes、4 comments ，类型：竞品/新工具，评分：5.0/10。",
+    "url": "https://www.reddit.com/r/SideProject/comments/1v4tk4q/5_days_ago_i_launched_my_app_after_a_year_of/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Create Beautiful Animated Device Mockups in Seconds",
+    "summary": "Create Beautiful Animated Device Mockups in Seconds，13 upvotes、3 comments ，类型：讨论信号，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1v4k44s/create_beautiful_animated_device_mockups_in/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Mobile to backend end-to-end tracing: worth it? How do you keep the public ingest from being a DDoS target?",
+    "summary": "We're adding tracing to our mobile app and want the spans to connect to our backend traces (same trace_id, so a user action in the app links to the API calls it triggers). Backend goes OTLP -> Alloy -> Tempo already. However, the mobile ingest endpoint has to...，2 upvotes、10 comments，created: 2026-07-17，rank score: 4.57。",
+    "url": "https://www.reddit.com/r/devops/comments/1uza6ko/mobile_to_backend_endtoend_tracing_worth_it_how/",
+    "source": "Reddit - Tech"
+  }
+]

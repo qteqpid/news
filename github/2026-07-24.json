@@ -1,0 +1,23 @@
+[
+  {
+    "title": "PrismML-Eng/Bonsai-demo",
+    "link": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "summary": "[Stars: 1,980] [553 stars this week] [Language: Shell] Bonsai Demo",
+    "published": "2026-07-24",
+    "dedupe_id": "github:prismml-eng/bonsai-demo"
+  },
+  {
+    "title": "agegr/pi-web",
+    "link": "https://github.com/agegr/pi-web",
+    "summary": "[Stars: 2,371] [1,050 stars this week] [Language: TypeScript] Web UI for the pi coding agent",
+    "published": "2026-07-24",
+    "dedupe_id": "github:agegr/pi-web"
+  },
+  {
+    "title": "kvcache-ai/ktransformers",
+    "link": "https://github.com/kvcache-ai/ktransformers",
+    "summary": "[Stars: 18,950] [1,507 stars this week] [Language: Python] A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "published": "2026-07-24",
+    "dedupe_id": "github:kvcache-ai/ktransformers"
+  }
+]
