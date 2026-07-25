@@ -1,0 +1,44 @@
+[
+  {
+    "title": "bojieli/ai-agent-book",
+    "link": "https://github.com/bojieli/ai-agent-book",
+    "summary": "[Stars: 19,568] [17,401 stars this week] [Language: Python] 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "published": "2026-07-25",
+    "dedupe_id": "github:bojieli/ai-agent-book"
+  },
+  {
+    "title": "rohitg00/ai-engineering-from-scratch",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "summary": "[Stars: 43,354] [4,399 stars this week] [Language: Python] Learn it. Build it. Ship it for others.",
+    "published": "2026-07-25",
+    "dedupe_id": "github:rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "title": "Pumpkin-MC/Pumpkin",
+    "link": "https://github.com/Pumpkin-MC/Pumpkin",
+    "summary": "[Stars: 9,537] [1,279 stars this week] [Language: Rust] Empowering everyone to host fast and efficient Minecraft servers.",
+    "published": "2026-07-25",
+    "dedupe_id": "github:pumpkin-mc/pumpkin"
+  },
+  {
+    "title": "every-app/open-seo",
+    "link": "https://github.com/every-app/open-seo",
+    "summary": "[Stars: 7,839] [3,309 stars this week] [Language: TypeScript] Open source alternative to Semrush and Ahrefs",
+    "published": "2026-07-25",
+    "dedupe_id": "github:every-app/open-seo"
+  },
+  {
+    "title": "hyprwm/Hyprland",
+    "link": "https://github.com/hyprwm/Hyprland",
+    "summary": "[Stars: 37,445] [724 stars this week] [Language: C++] Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "published": "2026-07-25",
+    "dedupe_id": "github:hyprwm/hyprland"
+  },
+  {
+    "title": "jamiepine/voicebox",
+    "link": "https://github.com/jamiepine/voicebox",
+    "summary": "[Stars: 46,626] [4,493 stars this week] [Language: TypeScript] The open-source AI voice studio. Clone, dictate, create.",
+    "published": "2026-07-25",
+    "dedupe_id": "github:jamiepine/voicebox"
+  }
+]
