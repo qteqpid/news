@@ -1,0 +1,404 @@
+[
+  {
+    "title": "GPT-5.5 生物安全漏洞赏金计划",
+    "summary": "OpenAI 公布 Bio Bounty 计划细节，用漏洞赏金方式推动生物安全相关模型风险发现与缓解。",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI 阐述政府与国家安全合作原则",
+    "summary": "OpenAI 说明其与政府及国家安全机构合作的责任边界、民主价值导向和安全使用原则。",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI 分析编码评测中的信号与噪声",
+    "summary": "OpenAI 指出 SWE-Bench Pro 等编码基准存在可靠性问题，提醒开发者谨慎解读模型评测分数。",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI 帮助 K-12 教师建立实用 AI 技能",
+    "summary": "OpenAI Academy 与 Walton Family Foundation 推出面向 K-12 教师的 AI Skills Jams，帮助教师掌握课堂可用的 AI 技能。",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI 推出 GPT-Live 语音模型",
+    "summary": "OpenAI 发布新一代语音模型 GPT-Live，强调更自然的人机语音互动，并已用于 ChatGPT Voice。",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Australian Payments Plus 使用 ChatGPT 与 Codex 提升交付效率",
+    "summary": "Australian Payments Plus 通过 ChatGPT Enterprise 和 Codex 处理支付领域复杂工作流，案例强调企业研发与运营提效。",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Google DeepMind 用 AI 加速英国住房规划",
+    "summary": "英国政府与 Google DeepMind 合作开发 AI 原型，希望提升住房规划审批和决策效率。",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Google DeepMind 发布 AI Agent 安全路线",
+    "summary": "Google DeepMind 介绍 AI Control Roadmap，将传统安全措施与实时监控结合，用于内部系统和智能体安全。",
+    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Google DeepMind 投资多智能体 AI 安全研究",
+    "summary": "Google DeepMind 与合作伙伴发起 1000 万美元资助计划，面向多智能体安全研究征集项目。",
+    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Gemini 3.5 Live Translate 支持自然语音翻译",
+    "summary": "Gemini 3.5 Live Translate 将近实时自然语音翻译能力带到 Google AI Studio、Google Translate 和 Google Meet。",
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Google DeepMind 评估 AI 辅助学习在塞拉利昂等地的影响",
+    "summary": "一项随机对照试验显示，Gemini Guided Learning 功能有望提升学习参与度和学习效果。",
+    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Google DeepMind 在亚太启动环境风险加速器",
+    "summary": "Google DeepMind 面向亚太地区推出加速器项目，支持用 AI 应对环境风险的团队。",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Co-Scientist 帮助寻找逆转细胞衰老的遗传线索",
+    "summary": "研究人员使用 Co-Scientist 发现可使人类细胞恢复年轻状态的新因素，展示 AI 辅助生物研究潜力。",
+    "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Project Genie 结合街景模拟真实地点",
+    "summary": "Google 面向 AI Ultra 用户扩展 Project Genie，加入由 Street View 驱动的真实地点模拟能力。",
+    "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Google 展示 Futures Lab 的现实 AI 原型",
+    "summary": "滑铁卢大学学生展示手语学习等 AI 原型，探索 AI 在教育和工作场景中的实际应用。",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Google 回顾 I/O 2026 的 12 个 AI 重点",
+    "summary": "Google 汇总 I/O 2026 主题演讲中的主要 AI 产品和技术更新，便于开发者快速回看。",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Nunchaku 4-bit Diffusion Inference 接入 Diffusers",
+    "summary": "Hugging Face 介绍 Nunchaku 4-bit 扩散模型推理接入 Diffusers，目标是降低生成式图像推理成本。",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "NVIDIA 梳理物理 AI 仿真现状",
+    "summary": "文章概览物理 AI 训练和评估中的仿真技术栈，强调数据、环境和验证对机器人系统的重要性。",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "Allen AI 总结 Shippy 智能体构建经验",
+    "summary": "Allen AI 复盘 Shippy 项目，分享构建智能体时在工具调用、记忆和产品化上的经验。",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "Real World VoiceEQ 衡量语音 AI 的人类质感",
+    "summary": "Hugging Face 推出 VoiceEQ 评测思路，关注语音 AI 在真实场景中的自然度和人类感知质量。",
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "vLLM Transformers 后端实现原生速度建模",
+    "summary": "Hugging Face 介绍 vLLM Transformers 建模后端，目标是在兼容 Transformers 生态的同时提升推理速度。",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "Hugging Face 模型一键进入 Amazon SageMaker Studio",
+    "summary": "Hugging Face 与 Amazon 推出一键工作流，降低开发者在 SageMaker Studio 中使用模型的门槛。",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "SkyPilot 支持跨云运行 AI 工作负载并存储到 Hugging Face",
+    "summary": "SkyPilot 与 Hugging Face 的方案主打跨云 AI 工作负载和零出站费用存储，帮助团队控制训练和部署成本。",
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "LeRobot v0.6.0 发布：想象、评估、改进",
+    "summary": "LeRobot v0.6.0 更新聚焦机器人数据、评估和改进流程，继续强化开源机器人学习工具链。",
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "脑电波会成为物理 AI 的下一个关键输入吗",
+    "summary": "TechCrunch 讨论物理 AI 对多角度视频、密集标注乃至脑电波数据的需求，指向机器人训练数据的新竞争。",
+    "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apple 智能眼镜如何避免成为隐私威胁",
+    "summary": "报道关注 Apple 智能眼镜可能面临的摄像头、传感器和旁观者隐私问题。",
+    "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "TechCrunch 解析围绕中国 AI 的恐慌情绪",
+    "summary": "Equity 节目讨论 Moonshot AI 的 Kimi 为何引发硅谷和华尔街紧张，以及开源模型竞争带来的政策焦虑。",
+    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Hugging Face CEO 呼吁在 OpenAI 黑客事件后提高透明度",
+    "summary": "Hugging Face CEO 将自动化智能体攻击称为前所未有事件，主张 AI 安全事件需要更高透明度。",
+    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "TechCrunch Mobility：Uber 押注前 CEO",
+    "summary": "TechCrunch Mobility 关注交通出行领域新动态，并强调 AI 正在更深地影响移动出行产业。",
+    "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apple 希望用隐私能力区分智能眼镜",
+    "summary": "The Verge 援引 Mark Gurman 消息称 Apple 计划在明年 WWDC 发布智能眼镜，并把隐私作为核心差异点。",
+    "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+    "source": "The Verge"
+  },
+  {
+    "title": "美国起诉一名在边境擦除手机的公民",
+    "summary": "美国政府起诉 Sam Tunick，称其在边境检查中提供胁迫密码并擦除设备数据，引发数字隐私与边境搜查讨论。",
+    "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+    "source": "The Verge"
+  },
+  {
+    "title": "新版《Carrie》预告发布",
+    "summary": "Mike Flanagan 改编的 Stephen King 作品《Carrie》发布新预告，预计在 Amazon 平台上线。",
+    "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
+    "source": "The Verge"
+  },
+  {
+    "title": "Xbox Game Pass Ultimate 三个月订阅打折",
+    "summary": "The Verge 关注 Xbox Game Pass Ultimate 促销，指出订阅价格上涨后折扣对用户更有吸引力。",
+    "url": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+    "source": "The Verge"
+  },
+  {
+    "title": "Marvel 公布 Ryan Gosling 版 Ghost Rider 等新计划",
+    "summary": "Marvel 在 Comic-Con 公布多项影视更新，包括 Ryan Gosling 饰演 Ghost Rider 和新的 Black Panther。",
+    "url": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
+    "source": "The Verge"
+  },
+  {
+    "title": "竖屏视频接管流媒体和社交内容",
+    "summary": "The Verge 专栏分析 TikTok、YouTube、Instagram 等平台推动竖屏视频成为主流内容形态。",
+    "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+    "source": "The Verge"
+  },
+  {
+    "title": "数字空间一号试验星工程启动，加速构建太空大脑",
+    "summary": "36氪报道中国商业航天从发射能力走向在轨运行能力竞争，数字空间一号试验星工程在北京启动。",
+    "url": "https://36kr.com/p/3912546487637378?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "8点1氪：携程被罚没 51.79 亿元，长鑫科技上市",
+    "summary": "36氪晨报汇总携程反垄断处罚、长鑫科技上市、黄仁勋和马斯克涉中国 AI 表态等热点。",
+    "url": "https://36kr.com/p/3913118530819457?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "信用债新增违约率处于多年低位",
+    "summary": "国内信用债市场风险收敛，年内新增违约主体仅 2 家，反映地方化债和流动性环境影响。",
+    "url": "https://36kr.com/newsflashes/3913183919035529?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "国金证券：美妆行业重视 AI 降本增效",
+    "summary": "国金证券认为美妆行业进入精细化运营阶段，AI 在素材生成、投放托管等环节提升利润率。",
+    "url": "https://36kr.com/newsflashes/3913184272176512?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "市场调整中 ETF 获超 650 亿元资金净流入",
+    "summary": "上周 A 股震荡分化，黄金、有色、油气等资产强势，半导体 ETF 也受到资金关注。",
+    "url": "https://36kr.com/newsflashes/3913166692177031?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "银河证券：市场关注政策与业绩双重验证",
+    "summary": "银河证券认为中央政治局会议和美股科技巨头财报将影响 A 股科技板块估值与情绪。",
+    "url": "https://36kr.com/newsflashes/3913169404761217?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "二季度公募主动基金整体增持券商股",
+    "summary": "数据显示二季度公募主动型基金增持多只券商股，分析师认为基本面景气度支撑估值修复。",
+    "url": "https://36kr.com/newsflashes/3913169010496649?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "两市融资余额减少 221.95 亿元",
+    "summary": "截至 7 月 24 日，沪深两市融资余额合计 26582.51 亿元，较前一交易日减少 221.95 亿元。",
+    "url": "https://36kr.com/newsflashes/3913176177513605?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "SHEIN 披露聆讯后资料集，年营收 418 亿美元",
+    "summary": "雷峰网报道 SHEIN 港股上市进展，强调其数字化柔性供应链和跨境电商平台模式。",
+    "url": "https://www.leiphone.com/category/industrynews/3cCvfc4kGO8wJkEs.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "数学成果进入神经网络训练，用于破解 AI 黑盒",
+    "summary": "文章介绍数学与 AI 研究的交叉进展，提到三维挂谷猜想相关成果被用于神经网络训练流程。",
+    "url": "https://www.leiphone.com/category/yanxishe/e05vwo1DgZf3HnFZ.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "开源反派 Anthropic 也有性价比",
+    "summary": "钛媒体讨论 Anthropic Fable 5 的价格调整和模型性价比，称半价版本加量不加价。",
+    "url": "https://www.tmtpost.com/8079814.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "五大科技巨头被 AI 投资拖入囚徒困境",
+    "summary": "文章认为 AI 收入在增长，但资本开支和算力军备竞赛的成本增长更快。",
+    "url": "https://www.tmtpost.com/8076046.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Edge AI Daily 早报：AI 巨头推进战略布局",
+    "summary": "早报汇总 Anthropic 自研芯片、Meta AI for Science、Google 边缘 AI 成本优化和 OpenAI 产品竞争等动态。",
+    "url": "https://www.tmtpost.com/8080059.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "钛晨报：内幕交易新规实施，黄仁勋与马斯克谈中国 AI",
+    "summary": "钛媒体晨报覆盖 A 股制度变化、科技公司投资合作、长鑫科技上市和中国 AI 相关表态。",
+    "url": "https://www.tmtpost.com/8079884.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "数智周报：OpenAI 模型测试失控，阿里发布 Qwen-Image-3.0",
+    "summary": "周报回顾 OpenAI 安全事件、阿里千问图像模型、华为计算模组和英特尔数据中心裁员等一周 AI 动态。",
+    "url": "https://www.tmtpost.com/8079812.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "全世界 AI 能力下降一万倍，只有我还是普通人",
+    "summary": "文章以设定化视角讨论 AI API 寡头垄断下初创公司的生存难题。",
+    "url": "https://www.tmtpost.com/8079609.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Codex 也断了：OpenAI 三线齐崩后的 Agent 宕机账单",
+    "summary": "钛媒体借 OpenAI 多线服务故障讨论 Agent 时代对可用性、成本和业务连续性的要求。",
+    "url": "https://www.tmtpost.com/8079615.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "9500 亿 AI 大单背后，SK 海力士面对 HBM 长协压力",
+    "summary": "文章质疑韩国 AI 投资叙事中的意向金额，分析 SK 海力士 HBM 长协和英伟达产业链议价能力。",
+    "url": "https://www.tmtpost.com/8079637.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "英伟达用 Vera 处理器加速下一代 CPU 与 GPU 设计",
+    "summary": "英伟达与楷登电子、新思科技合作优化 Vera 处理器上的 EDA 应用，芯片设计任务最高提速 1.5 倍。",
+    "url": "https://www.ithome.com/0/981/830.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "英伟达据称与 OpenAI 洽谈 2500 亿美元数据中心担保",
+    "summary": "IT之家援引报道称英伟达正与 OpenAI 谈判，拟为其大型数据中心项目提供约 2500 亿美元融资担保。",
+    "url": "https://www.ithome.com/0/981/835.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "SK 电信成立 SK Hyper，规划 15GW AI 数据中心",
+    "summary": "SK 电信计划到 2030 年前向 SK Hyper 注资 7500 亿韩元，布局 AI 数据中心业务。",
+    "url": "https://www.ithome.com/0/981/828.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "第 13 版《新华字典》全国发行",
+    "summary": "新版《新华字典》出版发行，这一现代汉语规范字典自 1953 年首版以来累计发行逾 7 亿册。",
+    "url": "https://www.ithome.com/0/981/827.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "贾跃亭称法拉第未来聚焦 EAI 机器人后基本面改善",
+    "summary": "贾跃亭表示法拉第未来聚焦 EAI 机器人战略后，业务发展带动经营基本面进入较好时期。",
+    "url": "https://www.ithome.com/0/981/826.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "英伟达与 Naver 达成 10 亿美元投资协议",
+    "summary": "英伟达与韩国互联网公司 Naver 合作扩容 NVIDIA DSX AI 工厂，计划提升至 200 兆瓦规模。",
+    "url": "https://www.ithome.com/0/981/825.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "IT 早报：微软封堵 Windows 盗版激活路径等",
+    "summary": "IT之家早报汇总微软 KMS 激活机制调整、智能电视交互争议、车机优化和手机电池锁容等科技新闻。",
+    "url": "https://www.ithome.com/0/981/818.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "微软承认 Win11 原生应用内存占用过高",
+    "summary": "微软准备改进 WinUI 性能，解决 Win11 原生应用和框架内存占用偏高的问题。",
+    "url": "https://www.ithome.com/0/981/816.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "社区爱好者给 Scratch 引入 AI 编程助手",
+    "summary": "Scratch 社区出现 AI 编程助手，可用语音和自然语言帮助家长与孩子学习编程和创作。",
+    "url": "https://www.solidot.org/story?sid=84927",
+    "source": "Solidot"
+  },
+  {
+    "title": "GrapheneOS 警告胁迫下删除手机数据可能有法律后果",
+    "summary": "GrapheneOS 项目提醒用户，使用胁迫密码删除手机数据可能带来人身或法律风险。",
+    "url": "https://www.solidot.org/story?sid=84926",
+    "source": "Solidot"
+  },
+  {
+    "title": "多家知名网站考虑彻底屏蔽 Google",
+    "summary": "USA Today、Politico、Economist、Reuters 等出版商据称考虑屏蔽 Google，反映搜索和 AI 抓取关系紧张。",
+    "url": "https://www.solidot.org/story?sid=84925",
+    "source": "Solidot"
+  },
+  {
+    "title": "Cloudflare 将对新域名默认屏蔽 Google 爬虫",
+    "summary": "Cloudflare 宣布 9 月 15 日起对新接入域名默认屏蔽训练 AI 的爬虫和智能体机器人，并调整搜索爬虫策略。",
+    "url": "https://www.solidot.org/story?sid=84924",
+    "source": "Solidot"
+  },
+  {
+    "title": "Apple 改编《神经漫游者》将于明年 1 月上映",
+    "summary": "Apple TV Plus 改编威廉·吉布森赛博朋克小说《神经漫游者》，并在 Comic-Con 公布上线时间。",
+    "url": "https://www.solidot.org/story?sid=84923",
+    "source": "Solidot"
+  },
+  {
+    "title": "早报：Apple 智能眼镜明年亮相，OpenAI 签署支持开源模型公开信",
+    "summary": "爱范儿早报汇总 Apple 智能眼镜、OpenAI 支持 AI 开源模型公开信、马斯克开放 X 代码审计等动态。",
+    "url": "https://www.ifanr.com/1673132?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  }
+]
