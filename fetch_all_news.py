@@ -6,7 +6,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-from daily_lib import ROOT, default_date, expand_path, load_source_configs
+from daily_lib import ROOT, default_date, expand_path, load_source_configs, source_skip_reason
 
 
 DEFAULT_OUTPUT_DIR = ROOT / "all_news"
@@ -52,6 +52,8 @@ def build_all_news(date: str) -> list[Any]:
     for source in load_source_configs():
         source_name = source["name"]
         if source_name == "all_news" or source.get("aggregate") is False:
+            continue
+        if source_skip_reason(source, date):
             continue
 
         for spec in json_array_outputs(source):

@@ -1,6 +1,8 @@
 {
   "name": "reddit",
   "description": "Daily Reddit app-idea signals from a fresh dated browser export.",
+  "run_on_weekdays": ["saturday", "sunday"],
+  "skip_reason": "weekend_only",
   "outputs": [
     {
       "path": "{root}/reddit/{date}.json",

@@ -234,7 +234,10 @@ def cmd_status(args: argparse.Namespace) -> int:
         if active_marker:
             print(f"active-run: {format_marker(active_marker)}")
         for source in payload["sources"]:
-            state = "complete" if source["complete"] else "incomplete"
+            if source.get("skipped"):
+                state = f"skipped ({source.get('skip_reason', 'not_scheduled')})"
+            else:
+                state = "complete" if source["complete"] else "incomplete"
             print(f"{source['name']}: {state}")
             for check in source["checks"]:
                 if not check["ok"]:
@@ -306,6 +309,9 @@ def cmd_hook_context(args: argparse.Namespace) -> int:
 
 def run_source(config: dict, date: str, force: bool) -> tuple[bool, bool, tuple[str, str] | None]:
     status = check_source(config, date)
+    if status.get("skipped"):
+        print(f"SKIP:{config['name']}:{status.get('skip_reason', 'not_scheduled')}")
+        return True, False, None
     if status["complete"] and not force:
         print(f"SKIP:{config['name']}:complete")
         return True, False, None

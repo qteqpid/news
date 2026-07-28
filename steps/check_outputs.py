@@ -22,7 +22,11 @@ def main() -> int:
         print_json(payload)
     else:
         for source in payload["sources"]:
-            print(f"{source['name']}: {'complete' if source['complete'] else 'incomplete'}")
+            if source.get("skipped"):
+                state = f"skipped ({source.get('skip_reason', 'not_scheduled')})"
+            else:
+                state = "complete" if source["complete"] else "incomplete"
+            print(f"{source['name']}: {state}")
     return 0 if payload["complete"] else 1
 
 

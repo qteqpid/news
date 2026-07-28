@@ -22,7 +22,11 @@ def main() -> int:
         print_json(statuses)
     else:
         for status in statuses:
-            print(f"{status['name']}: {'valid' if status['complete'] else 'invalid'}")
+            if status.get("skipped"):
+                state = f"skipped ({status.get('skip_reason', 'not_scheduled')})"
+            else:
+                state = "valid" if status["complete"] else "invalid"
+            print(f"{status['name']}: {state}")
             for check in status["checks"]:
                 if not check["ok"]:
                     print(f"  - {check['path']}: {check['reason']}")

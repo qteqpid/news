@@ -5,6 +5,7 @@ import json
 import os
 import subprocess
 import sys
+import datetime as dt
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -37,6 +38,43 @@ def load_source_configs(sources: list[str] | None = None, root: Path = ROOT) -> 
             continue
         configs.append(config)
     return sorted(configs, key=lambda config: (int(config.get("order", 100)), config.get("name", "")))
+
+
+def normalize_weekday(value: Any) -> str:
+    if isinstance(value, int):
+        names = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
+        if 1 <= value <= 7:
+            return names[value - 1]
+        if 0 <= value <= 6:
+            return names[value]
+    text = str(value or "").strip().lower()
+    aliases = {
+        "mon": "monday",
+        "tue": "tuesday",
+        "tues": "tuesday",
+        "wed": "wednesday",
+        "thu": "thursday",
+        "thur": "thursday",
+        "thurs": "thursday",
+        "fri": "friday",
+        "sat": "saturday",
+        "sun": "sunday",
+    }
+    return aliases.get(text, text)
+
+
+def source_skip_reason(config: dict[str, Any], date: str) -> str | None:
+    weekdays = config.get("run_on_weekdays")
+    if not weekdays:
+        return None
+    try:
+        weekday = dt.date.fromisoformat(date).strftime("%A").lower()
+    except ValueError:
+        return None
+    allowed = {normalize_weekday(value) for value in weekdays}
+    if weekday in allowed:
+        return None
+    return str(config.get("skip_reason") or "not_scheduled")
 
 
 def check_artifact(spec: dict[str, Any], date: str, root: Path = ROOT) -> CheckResult:
@@ -77,6 +115,16 @@ def check_artifact(spec: dict[str, Any], date: str, root: Path = ROOT) -> CheckR
 
 
 def check_source(config: dict[str, Any], date: str, root: Path = ROOT) -> dict[str, Any]:
+    skip_reason = source_skip_reason(config, date)
+    if skip_reason:
+        return {
+            "name": config["name"],
+            "complete": True,
+            "skipped": True,
+            "skip_reason": skip_reason,
+            "checks": [],
+        }
+
     artifacts = [*config.get("outputs", []), *config.get("freshness", [])]
     checks = [check_artifact(spec, date, root) for spec in artifacts]
     complete = all(check.ok for check in checks)

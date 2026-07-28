@@ -18,7 +18,11 @@ def main() -> int:
     args = parser.parse_args()
 
     source = source_by_name(args.source)
-    if check_source(source, args.date)["complete"]:
+    status = check_source(source, args.date)
+    if status.get("skipped"):
+        print(f"SKIP:{args.source}:{status.get('skip_reason', 'not_scheduled')}")
+        return 0
+    if status["complete"]:
         print(f"SKIP:{args.source}:complete")
         return 0
 
