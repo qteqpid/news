@@ -1,0 +1,632 @@
+[
+  {
+    "title": "ayghri/i-have-adhd",
+    "summary": "[Stars: 11,441] [6,961 stars this week] [Language: Python] A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "source": "GITHUB"
+  },
+  {
+    "title": "oblien/openship",
+    "summary": "[Stars: 8,984] [4,911 stars this week] [Language: TypeScript] Self-hosted deployment platform",
+    "url": "https://github.com/oblien/openship",
+    "source": "GITHUB"
+  },
+  {
+    "title": "CoreBunch/Instatic",
+    "summary": "[Stars: 6,243] [2,523 stars this week] [Language: TypeScript] The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "source": "GITHUB"
+  },
+  {
+    "title": "pingdotgg/t3code",
+    "summary": "[Stars: 15,304] [1,050 stars this week] [Language: TypeScript]",
+    "url": "https://github.com/pingdotgg/t3code",
+    "source": "GITHUB"
+  },
+  {
+    "title": "How AI is expanding what people do at work",
+    "summary": "OpenAI 研究显示，AI 正在扩展职场任务边界，让不同岗位的人承担更复杂、更跨职能的工作。",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Introducing Gemini Omni",
+    "summary": "Google DeepMind 发布 Gemini Omni，指向更统一的多模态模型和自然交互能力。",
+    "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Introducing Google Antigravity 2.0",
+    "summary": "Google DeepMind 更新 Antigravity 2.0，继续强化面向开发者和智能体工作流的工具能力。",
+    "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+    "summary": "Google DeepMind 汇总 Gemini for Science 相关实验与工具，强调 AI 在科学发现中的规模化辅助作用。",
+    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+    "summary": "Google DeepMind 与新加坡建立国家级 AI 合作，面向医疗、教育和公共挑战推进应用落地。",
+    "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Opening new paths in aging research",
+    "summary": "Calico 使用 Co-Scientist 串联分散研究线索，为衰老机制和干预方向生成新的候选假设。",
+    "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Accelerating discovery of liver disease mechanisms",
+    "summary": "研究人员用 Co-Scientist 辅助识别肝病治疗线索，并解释现有药物疗效差异。",
+    "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+    "summary": "Google 介绍 WeatherNext 如何帮助飓风预报，为灾害应对争取更长准备时间。",
+    "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "summary": "NVIDIA Cosmos-H-Dreams 将实时生成式仿真用于手术机器人训练，凸显物理 AI 的仿真需求。",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "summary": "Hugging Face 与 Cerebras 将 Gemma 4 用于实时语音 AI，重点在低延迟语音交互。",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "summary": "IBM Research 发布 ScarfBench，用企业 Java 框架迁移任务评测 AI 智能体的真实工程能力。",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "summary": "Allen AI 介绍 DiScoFormer，探索用统一 Transformer 建模密度与 score 的方法。",
+    "url": "https://huggingface.co/blog/allenai/discoformer",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "summary": "Hugging Face 展示用 HF Jobs 一条命令启动 vLLM 服务，降低模型服务部署门槛。",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "summary": "Hugging Face 与 NVIDIA 介绍 NeMo AutoModel，用于加速 Transformers 微调流程。",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "summary": "Hugging Face 推出 FFASR 榜单，把自动语音识别评测推进到更贴近真实使用的场景。",
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "summary": "Hugging Face 复盘 huggingface_hub 周更机制，强调 AI、开放工具与人工把关协作。",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "Adversarial Style Optimization: Enhancing VLM Jailbreaks by GRPO-based Stylistic Triggers Optimization",
+    "summary": "arXiv 论文围绕“Adversarial Style Optimization: Enhancing VLM Jailbreaks by GRPO-based Stylistic Triggers Optimization”展开，关注模型安全、合规与风险评测。",
+    "url": "https://arxiv.org/abs/2607.21619",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "A Consensus-Based Framework for Relative Preference Evaluation of Large Language Models",
+    "summary": "arXiv 论文围绕“A Consensus-Based Framework for Relative Preference Evaluation of Large Language Models”展开，关注AI 方法、评测或应用场景。",
+    "url": "https://arxiv.org/abs/2607.21632",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Evaluation design conditions the expert-vs-auto MeSH gap: a controlled comparison of bag-of-words and BiomedBERT on the Cohen benchmark",
+    "summary": "arXiv 论文围绕“Evaluation design conditions the expert-vs-auto MeSH gap: a controlled comparison of bag-of-words and BiomedBERT on the Cohen benchmark”展开，关注文档理解、知识抽取和信息恢复。",
+    "url": "https://arxiv.org/abs/2607.21685",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Humanly: A Configurable and Traceable Environment for Human-AI Collaborative Writing",
+    "summary": "arXiv 论文围绕“Humanly: A Configurable and Traceable Environment for Human-AI Collaborative Writing”展开，关注AI 方法、评测或应用场景。",
+    "url": "https://arxiv.org/abs/2607.21758",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Probing Latent Colombian Identity Inferences in Qwen2.5-7B with Natural Language Autoencoders",
+    "summary": "arXiv 论文围绕“Probing Latent Colombian Identity Inferences in Qwen2.5-7B with Natural Language Autoencoders”展开，关注机器学习训练、联邦学习或图模型方法。",
+    "url": "https://arxiv.org/abs/2607.21774",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Khondo: A Multimodal Benchmark for Document Packet Splitting of Bangla Forms",
+    "summary": "arXiv 论文围绕“Khondo: A Multimodal Benchmark for Document Packet Splitting of Bangla Forms”展开，关注文档理解、知识抽取和信息恢复。",
+    "url": "https://arxiv.org/abs/2607.21780",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Agentic Evaluation of Copyright Law Compliance",
+    "summary": "arXiv 论文围绕“Agentic Evaluation of Copyright Law Compliance”展开，关注模型安全、合规与风险评测。",
+    "url": "https://arxiv.org/abs/2607.21799",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models",
+    "summary": "arXiv 论文围绕“Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models”展开，关注文档理解、知识抽取和信息恢复。",
+    "url": "https://arxiv.org/abs/2607.21936",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+    "summary": "arXiv 论文围绕“FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills”展开，关注智能体工作流、记忆和个性化评测。",
+    "url": "https://arxiv.org/abs/2607.21596",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Securing Multimodal AI through Internal Information Decomposition",
+    "summary": "arXiv 论文围绕“Securing Multimodal AI through Internal Information Decomposition”展开，关注AI 方法、评测或应用场景。",
+    "url": "https://arxiv.org/abs/2607.21600",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "From Frame-Level Recognition to Event-Level Confirmation: Repair Traces and Runtime Failure Analysis of Public-Space Gesture Interaction",
+    "summary": "arXiv 论文围绕“From Frame-Level Recognition to Event-Level Confirmation: Repair Traces and Runtime Failure Analysis of Public-Space Gesture Interaction”展开，关注AI 方法、评测或应用场景。",
+    "url": "https://arxiv.org/abs/2607.21601",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices",
+    "summary": "arXiv 论文围绕“Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices”展开，关注AI 方法、评测或应用场景。",
+    "url": "https://arxiv.org/abs/2607.21602",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems",
+    "summary": "arXiv 论文围绕“AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems”展开，关注智能体工作流、记忆和个性化评测。",
+    "url": "https://arxiv.org/abs/2607.21604",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Spectral Flow Certificates for Depth-Aware Long-Range Propagation in Graph Neural Networks",
+    "summary": "arXiv 论文围绕“Spectral Flow Certificates for Depth-Aware Long-Range Propagation in Graph Neural Networks”展开，关注机器学习训练、联邦学习或图模型方法。",
+    "url": "https://arxiv.org/abs/2607.21607",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Coupled Hierarchical Search over Topology and Execution for Agentic Workflow Synthesis",
+    "summary": "arXiv 论文围绕“Coupled Hierarchical Search over Topology and Execution for Agentic Workflow Synthesis”展开，关注智能体工作流、记忆和个性化评测。",
+    "url": "https://arxiv.org/abs/2607.21609",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text",
+    "summary": "arXiv 论文围绕“SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text”展开，关注文档理解、知识抽取和信息恢复。",
+    "url": "https://arxiv.org/abs/2607.21610",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
+    "summary": "arXiv 论文围绕“Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees”展开，关注AI 方法、评测或应用场景。",
+    "url": "https://arxiv.org/abs/2607.21623",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
+    "summary": "arXiv 论文围绕“Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions”展开，关注智能体工作流、记忆和个性化评测。",
+    "url": "https://arxiv.org/abs/2607.21635",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Quasi-Monte Carlo Initialization for Meta-Reinforcement Learning",
+    "summary": "arXiv 论文围绕“Quasi-Monte Carlo Initialization for Meta-Reinforcement Learning”展开，关注机器学习训练、联邦学习或图模型方法。",
+    "url": "https://arxiv.org/abs/2607.21637",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Multi-Horizon Consistency as Geometry: When Latent Dynamics Contract, and When They Do Not",
+    "summary": "arXiv 论文围绕“Multi-Horizon Consistency as Geometry: When Latent Dynamics Contract, and When They Do Not”展开，关注机器学习训练、联邦学习或图模型方法。",
+    "url": "https://arxiv.org/abs/2607.21645",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Adjustment Speed as a Safety Constraint for Nonstationary Reinforcement Learning",
+    "summary": "arXiv 论文围绕“Adjustment Speed as a Safety Constraint for Nonstationary Reinforcement Learning”展开，关注模型安全、合规与风险评测。",
+    "url": "https://arxiv.org/abs/2607.21646",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "A Drift Stable Quantum Federated Learning for Intelligent Services",
+    "summary": "arXiv 论文围绕“A Drift Stable Quantum Federated Learning for Intelligent Services”展开，关注机器学习训练、联邦学习或图模型方法。",
+    "url": "https://arxiv.org/abs/2607.21647",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+    "summary": "arXiv 论文围绕“Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning”展开，关注智能体工作流、记忆和个性化评测。",
+    "url": "https://arxiv.org/abs/2607.21653",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Physically Constrained Federated Additive Models for O-RAN SLA-Risk Prediction",
+    "summary": "arXiv 论文围绕“Physically Constrained Federated Additive Models for O-RAN SLA-Risk Prediction”展开，关注机器学习训练、联邦学习或图模型方法。",
+    "url": "https://arxiv.org/abs/2607.21665",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Why China is giving away its best AI models",
+    "summary": "The Verge 分析中国开放权重模型对美国公司和全球 AI 竞争格局的影响。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "source": "The Verge AI"
+  },
+  {
+    "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+    "summary": "英伟达、微软等发起开放 AI 安全联盟，推动共享网络安全模型与防护工具。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+    "source": "The Verge AI"
+  },
+  {
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "summary": "MIT Technology Review 复盘 Hugging Face 攻击事件，提醒 AI 供应链风险并非全新问题。",
+    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+    "summary": "MIT Technology Review 日报汇总核燃料激光、器官保存等前沿科技进展。",
+    "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "The path to artificial superintelligence",
+    "summary": "MIT Technology Review 讨论通往人工超级智能的路径，关注多智能体系统和复杂组织协作。",
+    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "Closing the data loop in AI-driven drug discovery",
+    "summary": "文章讨论 AI 药物发现中实验数据闭环的重要性，强调研发效率与验证体系。",
+    "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "Building the enterprise environment for agentic AI",
+    "summary": "MIT Technology Review 讨论企业部署智能体 AI 所需的环境、治理和基础设施。",
+    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "summary": "微软发布 AI 安全工具和模型，声称成本与性能优于竞品平台。",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "source": "Ars Technica"
+  },
+  {
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "summary": "Dario Amodei 回应开放权重模型争议，称担忧重点在中国 AI 能力扩散而非开源本身。",
+    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "summary": "纳德拉提醒企业不要把所有 AI 能力押注在单一模型上，AI 网关与多模型架构更重要。",
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+    "summary": "聚变能源公司 Thea Energy 获 2000 万美元联邦资助，用于扩大高温超导磁体生产。",
+    "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "summary": "TechCrunch 提醒 Claude 分享聊天和 Artifacts 可能被 Google 索引，凸显生成式 AI 分享链接隐私风险。",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "summary": "微软发布首个网络安全模型和智能体安全系统，继续加码 AI 安全产品线。",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+    "summary": "Apple 因 App Store 加密诈骗应用遭起诉，涉案用户称损失合计 180 万美元。",
+    "url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
+    "summary": "Amazon 申请建设面向手机的低轨卫星网络，可能与 SpaceX 形成更直接竞争。",
+    "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Antares raises $470M to build nuclear reactors for the US military",
+    "summary": "Antares 融资 4.7 亿美元，计划为美国军方基地建设小型模块化核反应堆。",
+    "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
+    "summary": "The Verge 关注 Razer 模拟轴游戏键盘促销，属于消费电子价格动态。",
+    "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+    "source": "The Verge"
+  },
+  {
+    "title": "Amazon’s trying to launch a global satellite cellphone network in 2028",
+    "summary": "The Verge 报道“Amazon’s trying to launch a global satellite cellphone network in 2028”，关注 AI 产业、产品、安全或科技平台变化。",
+    "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+    "source": "The Verge"
+  },
+  {
+    "title": "Tariffs didn’t bring manufacturing jobs back to the US",
+    "summary": "The Verge 播客讨论关税、供应链软件与 AI 对制造业回流叙事的影响。",
+    "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+    "source": "The Verge"
+  },
+  {
+    "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
+    "summary": "今日热点导览 2026暑期档电影票房已突破57亿 茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶 长鑫科技上市半日，7名高管晋升“10亿身家” 巴西总统卢拉：美持续在关税上对巴施压系战略错误 苹果公司称多项服务出现故障，包",
+    "url": "https://36kr.com/p/3914520847570307?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+    "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该",
+    "url": "https://36kr.com/p/3913320648971395?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
+    "summary": "文 | 阿至 航空新能源动力系统，正在酝酿新的变革。 36氪获悉，航空新能源动力系统解决方案供应商「易氢动力」已完成数千万元天使+轮融资，由红鸟启航基金和贵州科创天使基金领投，水木清华校友种子基金，启迪之星创投，楹辉创投，金源合及天使会跟投",
+    "url": "https://36kr.com/p/3913736066028932?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+    "summary": "今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。 过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，",
+    "url": "https://36kr.com/p/3913706151400583?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
+    "summary": "作者 | 乔钰�� 编辑 | 袁斯来 硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。 一思智能成立于2024年1",
+    "url": "https://36kr.com/p/3913490184754313?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
+    "summary": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内",
+    "url": "https://36kr.com/p/3910655616521348?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "恒指开盘涨0.26%，恒生科技指数涨0.64%",
+    "summary": "36氪获悉，恒指开盘涨0.26%，恒生科技指数涨0.64%；零售、电气设备板块领涨，上海电气涨超5%，京东集团涨超2%，阿里巴巴涨超1%；半导体、硬件设备板块跌幅居前，兆易创新跌超8%，剑桥科技跌超5%。",
+    "url": "https://36kr.com/newsflashes/3914624839865736?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "“德塔智能”完成近5亿元天使++轮融资",
+    "summary": "36氪获悉，人形机器人基础模型公司“德塔智能”近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和财务投资机构。资金将主要用于人形机器人基础模型持续迭代，加快自研数采设备的量产与数据闭环建设，扩充核心研发团队，以推动技术在真实",
+    "url": "https://36kr.com/newsflashes/3914610310927746?f=rss",
+    "source": "36氪"
+  },
+  {
+    "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+    "summary": "微信小程序开发大赛在 WAIC 启动，主题强调开发者与 AI 共生的应用创新。",
+    "url": "https://www.qbitai.com/2026/07/461392.html",
+    "source": "量子位"
+  },
+  {
+    "title": "AI最尴尬的短板，中国科学院出手了",
+    "summary": "量子位报道中国科学院围绕 AI 情商能力展开测评和训练，试图补齐情绪理解短板。",
+    "url": "https://www.qbitai.com/2026/07/461160.html",
+    "source": "量子位"
+  },
+  {
+    "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
+    "summary": "飞书深诺推出面向出海企业的可信任 AI 营销产品，关注品牌全球化增长。",
+    "url": "https://www.qbitai.com/2026/07/461226.html",
+    "source": "量子位"
+  },
+  {
+    "title": "DeepSeek被曝主动叫停了第二轮融资签约",
+    "summary": "量子位称 DeepSeek 主动暂停第二轮融资签约，相关融资计划规模至少 100 亿元。",
+    "url": "https://www.qbitai.com/2026/07/461220.html",
+    "source": "量子位"
+  },
+  {
+    "title": "企业出海，被中国信通院和腾讯重新定义了一次",
+    "summary": "腾讯与中国信通院围绕企业出海发布 AI 相关能力，WorkBuddy 等智能体进入实际岗位场景。",
+    "url": "https://www.qbitai.com/2026/07/461153.html",
+    "source": "量子位"
+  },
+  {
+    "title": "阿里云真武超节点Day0适配Kimi K3大模型，双方展开国产算力合作",
+    "summary": "阿里云真武 M890 超节点完成 Kimi K3 适配，展示国产算力承载大模型推理的能力。",
+    "url": "https://www.leiphone.com/category/industrynews/5pnOGYUYk5X19ouf.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "长鑫科技批量造富：12名核心成员身家过亿，碧桂园却卖飞痛失490亿；哈啰电车骑行中断电落锁致博士十级伤残；月之暗面开源Kimi K3模型",
+    "summary": "雷峰网早报汇总长鑫科技上市造富、哈啰电车事故和 Kimi K3 开源等科技热点。",
+    "url": "https://www.leiphone.com/category/zaobao/svkvnl5EftU4Ik34.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Reddit 为何「叫板」Google？",
+    "summary": "雷峰网分析 AI 搜索兴起后，Reddit 等社区内容与 Google 搜索之间的价值重估。",
+    "url": "https://www.leiphone.com/category/ai/04XawISL9c51HVxB.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+    "summary": "超维动力与北大医疗合作，探索具身智能在医疗场景中的数据采集、仿真训练和验证路径。",
+    "url": "https://www.leiphone.com/category/ai/xnczmPtqg4kZNirW.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "8位AI Infra高管复盘WAIC：当堆砌「暴力美学」触顶，AI Infra如何求变？",
+    "summary": "雷峰网采访 AI Infra 高管，讨论 WAIC 后算力基础设施从堆卡转向系统效率和生态协同。",
+    "url": "https://www.leiphone.com/category/chips/WK0j5a76yc5rHeSK.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "12位AI芯片高管复盘WAIC：云端抢做超节点，端侧还在等爆款",
+    "summary": "AI 芯片高管复盘 WAIC，认为云端竞争焦点转向超节点，端侧 AI 仍等待爆款场景。",
+    "url": "https://www.leiphone.com/category/chips/XB7cWxmP9oLjiP2D.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "顶会具身辩论赛实况：徐丹飞激辩，PI连输三轮，谷歌大佬倒戈",
+    "summary": "文章聚焦具身智能数据路线之争，讨论机器人训练到底依赖专用硬件数据还是互联网行为数据。",
+    "url": "https://www.leiphone.com/category/private/MdFedmuSWZGKn7sE.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "现场直击：高昂真机成本锁死具身进化，Google 科学家用视频世界模型破局｜RSS 2026",
+    "summary": "Google 科学家展示视频世界模型用于机器人云端演练，试图缓解真实机器人训练成本高的问题。",
+    "url": "https://www.leiphone.com/category/private/PRwTba7CYAuCGWlY.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "长鑫赶上的是AI风口，还是DRAM又一个周期顶点？",
+    "summary": "钛媒体分析长鑫科技上市与 AI 内存需求之间的关系，讨论其成长性和存储周期风险。",
+    "url": "https://www.tmtpost.com/8081521.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Edge AI Daily 早报（7月28日）",
+    "summary": "钛媒体 Edge AI Daily 汇总 Verizon 与 Google 暗光纤协议、SSI 算力投入等边缘 AI 基础设施动态。",
+    "url": "https://www.tmtpost.com/8081462.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "【钛晨报】《疾病预防控制“十五五”规划》印发，提出重大传染病防控6项任务；中上协：上半年全市场新增首发上市公司71家，首发募资总额705.74亿元；57个国家和3个国际组织确认参加今年进博会国家展",
+    "summary": "钛晨报汇总企业微信 AI 助理、腾讯 WorkBuddy、英伟达韩国 AI 工厂和 OpenAI 融资等动态。",
+    "url": "https://www.tmtpost.com/8081318.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "英灵殿科技完成近5000万美元融资，AI4S赛道又多了一个\"掀桌子\"的｜首发",
+    "summary": "AI4S 公司英灵殿科技完成近 5000 万美元融资，团队背景来自蛋白质设计领域。",
+    "url": "https://www.tmtpost.com/8080916.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "China’s Memory Counterattack: CXMT’s $450 Billion Silicon Gamble",
+    "summary": "钛媒体英文稿分析长鑫科技在 AI 存储需求和行业周期中的扩张机会与风险。",
+    "url": "https://www.tmtpost.com/8081218.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "维谛技术田军：电链与冷链将重构AI算力基础设施",
+    "summary": "维谛技术认为 AI 数据中心建设会推动供电和制冷架构重构，800VDC 和液冷成为关键方向。",
+    "url": "https://www.tmtpost.com/8080820.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "安筱鹏重磅新作 | 一场关于AI变局的深度追问",
+    "summary": "文章介绍安筱鹏新书《智能化生存》，从长期技术周期视角讨论 AI 时代的组织和个人变化。",
+    "url": "https://www.tmtpost.com/8080991.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "重估AI",
+    "summary": "钛媒体讨论科技股回调背景下资本市场对 AI 估值、增长质量和商业回报的重新定价。",
+    "url": "https://www.tmtpost.com/8080655.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "哈啰助力车骑行中断电锁死：在读博士生摔成十级伤残，维权一年获赔 21.5 万元",
+    "summary": "IT之家报道哈啰助力车断电锁死致伤案例，涉及智能硬件安全、平台责任和维权成本。",
+    "url": "https://www.ithome.com/0/982/323.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "电视也开始播放 AI 剧集，安徽卫视成国内首个“吃螃蟹”的上星卫视",
+    "summary": "安徽卫视播出 AI 剧集《桃花潭记》，显示生成式 AI 内容开始进入传统电视渠道。",
+    "url": "https://www.ithome.com/0/982/318.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Cadence AI 驱动参考流程已在英特尔 Intel 18A-P / 14A 节点完成认证",
+    "summary": "Cadence AI 驱动 EDA 流程通过英特尔先进制程认证，服务于芯片设计自动化。",
+    "url": "https://www.ithome.com/0/982/316.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "阿里押注长鑫 76 亿搏出近 1700 亿，小米雷军打新长鑫浮盈 7 亿",
+    "summary": "IT之家报道长鑫科技上市后早期投资方和打新投资人的账面收益，体现 AI 存储资本热度。",
+    "url": "https://www.ithome.com/0/982/314.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "与尊界 V800/V680 同台亮相，鸿蒙智行首款科技豪华硬派 SUV 享界 G9 将于 8 月 5 日开订",
+    "summary": "鸿蒙智行享界 G9 将开启预订，智能汽车继续扩展华为生态产品线。",
+    "url": "https://www.ithome.com/0/982/313.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "纳德拉官宣微软首个 AI 安全模型 MAI-Cyber-1-Flash，跑分超 Mythos 5 和 GPT-5.5 Cyber",
+    "summary": "纳德拉宣布微软首个 AI 安全模型 MAI-Cyber-1-Flash，主打网络安全任务性能。",
+    "url": "https://www.ithome.com/0/982/312.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "小米 REDMI 17 4G 手机曝光：联发科 Helio G91-Ultra 芯片，7500mAh 电池",
+    "summary": "小米 REDMI 17 4G 配置信息曝光，消费电子厂商继续在电池和中端芯片上竞争。",
+    "url": "https://www.ithome.com/0/982/305.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "微软更新 Win11 版计算器、记事本、时钟和媒体播放器应用",
+    "summary": "微软更新 Win11 多款系统应用，涉及计算器、记事本、时钟和媒体播放器体验改进。",
+    "url": "https://www.ithome.com/0/982/303.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "亚马逊要求第三方卖家标记 AI 生成图像",
+    "summary": "Amazon 要求第三方卖家标记含 AI 生成人物的商品图片或视频，以应对透明度法规要求。",
+    "url": "https://www.solidot.org/story?sid=84930",
+    "source": "Solidot"
+  },
+  {
+    "title": "35 名学生有 32 名在历史考试中使用 AI 生成答案",
+    "summary": "Solidot 报道一起课堂作弊案例，显示学生大规模直接使用 AI 生成考试答案带来的教育挑战。",
+    "url": "https://www.solidot.org/story?sid=84929",
+    "source": "Solidot"
+  },
+  {
+    "title": "早报｜雷军解释小米澎程为何无纯电版/腾讯QQ宠物官宣回归/曝三星手机拟采用长鑫内存",
+    "summary": "爱范儿早报汇总小米、腾讯 QQ 宠物和三星采用长鑫内存等消费科技动态。",
+    "url": "https://www.ifanr.com/1673221?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "Opus 5 砍掉超 80% 系统提示词，我们用 AI 的方式也该变了 ｜附指南",
+    "summary": "爱范儿讨论 Opus 5 系统提示词大幅精简后，用户与 AI 协作方式应从命令转向管理。",
+    "url": "https://www.ifanr.com/1673165?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "最直白、最不绕弯子告诉你：为什么到处都是「AI手机」？｜AG&I",
+    "summary": "文章解释 AI 手机热潮背后的产品进化、平台竞争和用户价值重组。",
+    "url": "https://www.ifanr.com/1673151?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  }
+]
