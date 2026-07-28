@@ -1,0 +1,30 @@
+[
+  {
+    "title": "ayghri/i-have-adhd",
+    "link": "https://github.com/ayghri/i-have-adhd",
+    "summary": "[Stars: 11,441] [6,961 stars this week] [Language: Python] A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "published": "2026-07-28",
+    "dedupe_id": "github:ayghri/i-have-adhd"
+  },
+  {
+    "title": "oblien/openship",
+    "link": "https://github.com/oblien/openship",
+    "summary": "[Stars: 8,984] [4,911 stars this week] [Language: TypeScript] Self-hosted deployment platform",
+    "published": "2026-07-28",
+    "dedupe_id": "github:oblien/openship"
+  },
+  {
+    "title": "CoreBunch/Instatic",
+    "link": "https://github.com/CoreBunch/Instatic",
+    "summary": "[Stars: 6,243] [2,523 stars this week] [Language: TypeScript] The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "published": "2026-07-28",
+    "dedupe_id": "github:corebunch/instatic"
+  },
+  {
+    "title": "pingdotgg/t3code",
+    "link": "https://github.com/pingdotgg/t3code",
+    "summary": "[Stars: 15,304] [1,050 stars this week] [Language: TypeScript]",
+    "published": "2026-07-28",
+    "dedupe_id": "github:pingdotgg/t3code"
+  }
+]
