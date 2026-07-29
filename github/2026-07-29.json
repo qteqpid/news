@@ -1,0 +1,30 @@
+[
+  {
+    "title": "block/buzz",
+    "link": "https://github.com/block/buzz",
+    "summary": "[Stars: 16,412] [15,046 stars this week] [Language: Rust] A hive mind communication platform",
+    "published": "2026-07-29",
+    "dedupe_id": "github:block/buzz"
+  },
+  {
+    "title": "citrolabs/ego-lite",
+    "link": "https://github.com/citrolabs/ego-lite",
+    "summary": "[Stars: 5,855] [4,904 stars this week] [Language: JavaScript] The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "published": "2026-07-29",
+    "dedupe_id": "github:citrolabs/ego-lite"
+  },
+  {
+    "title": "UditAkhourii/adhd",
+    "link": "https://github.com/UditAkhourii/adhd",
+    "summary": "[Stars: 2,668] [992 stars this week] [Language: TypeScript] ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "published": "2026-07-29",
+    "dedupe_id": "github:uditakhourii/adhd"
+  },
+  {
+    "title": "alibaba/open-code-review",
+    "link": "https://github.com/alibaba/open-code-review",
+    "summary": "[Stars: 15,740] [4,672 stars this week] [Language: Go] Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "published": "2026-07-29",
+    "dedupe_id": "github:alibaba/open-code-review"
+  }
+]
