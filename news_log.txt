@@ -207,3 +207,11 @@
 2026-08-03 pipeline-marker-stale date=2026-08-03 sources=* state=waiting_for_model_step pid=34809 updated_at=2026-08-03T13:22:27+00:00
 2026-08-04 pipeline-start date=2026-08-04 sources=* state=running pid=86524 updated_at=2026-08-04T04:50:13+00:00
 2026-08-04 pipeline-finish date=2026-08-04 sources=* state=failed pid=86524 updated_at=2026-08-04T04:51:04+00:00
+2026-08-05 pipeline-start date=2026-08-05 sources=* state=running pid=9733 updated_at=2026-08-05T07:46:02+00:00
+2026-08-05 pipeline-waiting-for-model-step date=2026-08-05 sources=* state=waiting_for_model_step pid=9733 updated_at=2026-08-05T07:47:01+00:00
+2026-08-05 pipeline-resume-after-model-step date=2026-08-05 sources=* state=running pid=9970 updated_at=2026-08-05T07:47:18+00:00
+2026-08-05 pipeline-waiting-for-model-step date=2026-08-05 sources=* state=waiting_for_model_step pid=9970 updated_at=2026-08-05T07:47:18+00:00
+2026-08-05 pipeline-resume-after-model-step date=2026-08-05 sources=ai state=running pid=10241 updated_at=2026-08-05T07:50:09+00:00
+2026-08-05 pipeline-finish date=2026-08-05 sources=ai state=finished pid=10241 updated_at=2026-08-05T07:50:09+00:00
+2026-08-05 pipeline-start date=2026-08-05 sources=* state=running pid=10267 updated_at=2026-08-05T07:50:16+00:00
+2026-08-05 pipeline-finish date=2026-08-05 sources=* state=finished pid=10267 updated_at=2026-08-05T07:50:17+00:00
