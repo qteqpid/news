@@ -1,0 +1,23 @@
+[
+  {
+    "title": "esengine/DeepSeek-Reasonix",
+    "link": "https://github.com/esengine/DeepSeek-Reasonix",
+    "summary": "[Stars: 31,587] [3,408 stars this week] [Language: Go] DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "published": "2026-08-06",
+    "dedupe_id": "github:esengine/deepseek-reasonix"
+  },
+  {
+    "title": "woosal1337/blog",
+    "link": "https://github.com/woosal1337/blog",
+    "summary": "[Stars: 398] [160 stars this week] [Language: JavaScript] My blog website.",
+    "published": "2026-08-06",
+    "dedupe_id": "github:woosal1337/blog"
+  },
+  {
+    "title": "DataExpert-io/data-engineer-handbook",
+    "link": "https://github.com/DataExpert-io/data-engineer-handbook",
+    "summary": "[Stars: 43,097] [590 stars this week] [Language: Jupyter Notebook] This is a repo with links to everything you'd ever want to learn about data engineering",
+    "published": "2026-08-06",
+    "dedupe_id": "github:dataexpert-io/data-engineer-handbook"
+  }
+]
