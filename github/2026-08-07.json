@@ -1,0 +1,30 @@
+[
+  {
+    "title": "agavra/tuicr",
+    "link": "https://github.com/agavra/tuicr",
+    "summary": "[Stars: 2,507] [741 stars this week] [Language: Rust] a code review TUI with vim keybindings",
+    "published": "2026-08-07",
+    "dedupe_id": "github:agavra/tuicr"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "link": "https://github.com/deepfakes/faceswap",
+    "summary": "[Stars: 57,330] [618 stars this week] [Language: Python] Deepfakes Software For All",
+    "published": "2026-08-07",
+    "dedupe_id": "github:deepfakes/faceswap"
+  },
+  {
+    "title": "antirez/ds4",
+    "link": "https://github.com/antirez/ds4",
+    "summary": "[Stars: 20,821] [1,319 stars this week] [Language: C] DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+    "published": "2026-08-07",
+    "dedupe_id": "github:antirez/ds4"
+  },
+  {
+    "title": "embabel/embabel-agent",
+    "link": "https://github.com/embabel/embabel-agent",
+    "summary": "[Stars: 3,995] [154 stars this week] [Language: Kotlin] Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+    "published": "2026-08-07",
+    "dedupe_id": "github:embabel/embabel-agent"
+  }
+]
