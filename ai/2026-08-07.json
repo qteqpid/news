@@ -1,0 +1,284 @@
+[
+  {
+    "title": "OpenAI 改进 GPT-5.6 Sol 并扩大免费用户 Luna 访问",
+    "summary": "OpenAI 更新 ChatGPT 中的 GPT-5.6 Sol，强调准确性和一致性改进，同时扩大免费用户对 GPT-5.6 Luna 的访问，继续用产品分层推动前沿模型普及。",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI 与美国心理学会合作推进青少年 AI 心理健康指南",
+    "summary": "OpenAI 与 American Psychological Association 合作制定循证指导、资源和防护措施，说明青少年心理健康已成为通用 AI 产品治理的核心场景。",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI Signals 展示全球 ChatGPT 使用趋势",
+    "summary": "OpenAI 发布 Signals 数据，展示不同国家和地区使用 ChatGPT 的方式、采用趋势和任务结构，进一步把产品使用数据变成市场和政策叙事。",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "source": "OpenAI"
+  },
+  {
+    "title": "ChatGPT 将向免费和 Go 用户提供无限文本聊天",
+    "summary": "OpenAI 将为 ChatGPT 免费和 Go 档用户开放无限文本聊天，并提供处理复杂问题的 Think 按钮，免费层能力继续上移。",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Jony Ive 参与的 OpenAI 首款硬件被曝像无屏智能音箱",
+    "summary": "OpenAI 与 Jony Ive 团队开发的首款 AI 设备据称接近无屏智能音箱形态，售价传闻在 300 至 400 美元区间，AI 硬件竞争继续围绕家庭入口展开。",
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Google AI 领导层震荡引发 Gemini 路线关注",
+    "summary": "Google AI 组织调整和核心科学家流动继续发酵，外界关注 Gemini 新负责人如何处理模型延期、研究团队重组和产品竞争压力。",
+    "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+    "source": "The Verge"
+  },
+  {
+    "title": "阿里 Qwen3.8 在 Agentic 能力榜单得分全球第一",
+    "summary": "量子位称 Artificial Analysis 榜单中阿里 Qwen3.8 的 Agentic 能力得分位居全球第一，国产大模型继续把编程、办公和工具调用能力作为竞争重点。",
+    "url": "https://www.qbitai.com/2026/08/467444.html",
+    "source": "量子位"
+  },
+  {
+    "title": "千问更新把 Agent 能力装进电脑和手机",
+    "summary": "爱范儿体验阿里千问新版本，重点在跨设备、任务执行和办公场景中嵌入 Agent 能力，通用助手正在从聊天入口走向系统级工作流。",
+    "url": "https://www.ifanr.com/1674265?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "阿里视频大模型 Wan 3.0 公测，支持文档和 PPT 生成视频",
+    "summary": "Wan 3.0 开启公测，除文本、图片、音频、视频外首次支持 doc、xls、ppt、pdf 等文档输入，视频生成工具开始贴近办公和内容生产链路。",
+    "url": "https://www.leiphone.com/category/industrynews/Wp4SCQ5wu1Lbhtr1.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "DeepMind WeatherNext 在气旋预测上取得进展",
+    "summary": "Google DeepMind 发布 WeatherNext 气象模型进展，展示 AI 在热带气旋预测上的能力提升，科学计算和公共安全仍是大模型之外的重要 AI 落地场景。",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Suno 将用水印和下载政策限制垃圾 AI 音乐传播",
+    "summary": "Suno 宣布引入新的水印技术和下载政策，试图减少低质、批量化 AI 音乐扩散，生成式内容平台开始补齐来源标识和滥用治理。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "source": "The Verge"
+  },
+  {
+    "title": "OpenAI 请求驳回苹果商业秘密诉讼",
+    "summary": "OpenAI 要求法院驳回苹果关于商业秘密窃取的诉讼，并称案件核心指控站不住脚，大厂 AI 人才流动正在持续触发知识产权争议。",
+    "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+    "source": "The Verge"
+  },
+  {
+    "title": "AI 机器人催生宗教式社群引发社会影响讨论",
+    "summary": "The Verge 追踪 AI 聊天机器人如何推动 Spiralism 等新兴信仰式社群扩散，陪伴型 AI 对身份、意义感和群体行为的影响继续扩大。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+    "source": "The Verge"
+  },
+  {
+    "title": "马斯克的 Grokipedia 数月未更新",
+    "summary": "xAI 曾被寄予厚望的 AI 百科 Grokipedia 被曝长期停更，说明自动化知识产品不仅要生成内容，更要解决持续更新、校验和运营责任。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "source": "The Verge"
+  },
+  {
+    "title": "Rust 语言团队发布 LLM 使用政策",
+    "summary": "Rust 新政策明确没有人会被要求阅读 LLM 输出，公开文档、PR 描述或评论中使用 LLM 内容需标注，开源社区正在把 AI 协作边界写入治理规则。",
+    "url": "https://www.solidot.org/story?sid=85022",
+    "source": "Solidot"
+  },
+  {
+    "title": "论文称大语言模型威胁双盲评审机制",
+    "summary": "arXiv 论文讨论 LLM 可能削弱双盲审稿的匿名性和公平性，学术出版需要重新评估模型推断作者身份、风格和机构线索的风险。",
+    "url": "https://arxiv.org/abs/2608.05157",
+    "source": "arXiv"
+  },
+  {
+    "title": "SearchAuditor 审计长程搜索 Agent 的失败原因",
+    "summary": "SearchAuditor 关注深度搜索 Agent 在长程网页检索任务中的失败归因，为复杂 Agent 的可解释评测和责任定位提供工具化方向。",
+    "url": "https://arxiv.org/abs/2608.05212",
+    "source": "arXiv"
+  },
+  {
+    "title": "AI SSD 被视为大模型推理的存储范式转移",
+    "summary": "量子位称推理系统正从单纯关注算力转向算力、网络、内存和存储围绕每个 token 协同，AI SSD 代表基础设施瓶颈向存储层下沉。",
+    "url": "https://www.qbitai.com/2026/08/467840.html",
+    "source": "量子位"
+  },
+  {
+    "title": "2027 年 DRAM 和 HBM 产能据称已被预定和售罄",
+    "summary": "受 AI 需求和长期协议推动，三星、SK 海力士和美光 2027 年 DRAM 与 HBM 产能据称已被订满，内存供应紧张可能继续传导到 PC、手机和服务器。",
+    "url": "https://www.solidot.org/story?sid=85020",
+    "source": "Solidot"
+  },
+  {
+    "title": "Hadrian 融资 13.7 亿美元，估值达 80 亿美元",
+    "summary": "Defense tech 公司 Hadrian 获得 13.7 亿美元融资，主打自动化工厂生产国防零部件，AI 与工业自动化正在成为国防科技资本叙事的一部分。",
+    "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "DeepSeek 拟上调 API 价格，宇树科技 IPO 定价成为焦点",
+    "summary": "雷峰网早报称 DeepSeek 预告 API 服务价格将明显上调，同时宇树科技 IPO 初步询价引发关注，AI 公司商业化和机器人资本化同步升温。",
+    "url": "https://www.leiphone.com/category/zaobao/jTnxUYfadwnDJtNd.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "金刚 GC3 芯片强调国产 RISC-V 高端视频 AI 算力",
+    "summary": "雷峰网报道金刚 GC3 芯片试图重新定义视频 AI 算力规则，国产 RISC-V 高端算力的商业化正围绕视频、多模态和边缘场景展开。",
+    "url": "https://www.leiphone.com/category/industrynews/swL2cpKuZv1djRJS.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Hugging Face 数据危机与对齐裂痕进入 Edge AI Daily 观察",
+    "summary": "钛媒体 Edge AI Daily 汇总 Adobe 集成 ChatGPT、Hugging Face 数据危机、Prime Agent ARC 反超人类等信号，AI 基础设施、对齐和产品生态的压力同步显现。",
+    "url": "https://www.tmtpost.com/8094750.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Google 称黑客正通过电话攻击金融机构员工",
+    "summary": "Google 安全团队称黑客组织通过电话社工攻击大型美国金融机构员工并勒索数据，AI 时代的安全风险仍与传统社工和身份验证短板交织。",
+    "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "X2 Robotics 递表港交所，第三代机器人计划四季度上市",
+    "summary": "钛媒体英文报道称具身智能公司 X2 Robotics 申请香港 IPO，第三代机器人预计四季度发布，机器人公司正密集进入资本市场窗口。",
+    "url": "https://www.tmtpost.com/8094916.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "智元 IPO 前合伙人变动引发关注",
+    "summary": "钛媒体关注智元机器人 IPO 前的合伙人罗剑岚离开事件，具身智能明星公司在融资、商业化和组织稳定性之间承压。",
+    "url": "https://www.tmtpost.com/8094310.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "李飞飞与 Yilun Du 探索用视频模型连接机器人动作",
+    "summary": "雷峰网解读 Masked Visual Actions 工作，提出直接借用视频模型能力来打通机器人感知与动作接口，具身智能正在寻找少建专用大脑的新路径。",
+    "url": "https://www.leiphone.com/category/ai/CmG0TpbUIhu1EHkl.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "DeepSeek 战略配售宇树科技并展开模型算力合作",
+    "summary": "量子位称 DeepSeek 投入资金参与宇树科技 IPO，并将在模型、算力和数据中心等方向合作，国内大模型与机器人头部公司出现更紧密绑定。",
+    "url": "https://www.qbitai.com/2026/08/467487.html",
+    "source": "量子位"
+  },
+  {
+    "title": "荣耀 MagicOS 11 公开液态玻璃设计技术底座",
+    "summary": "荣耀展示 MagicOS 11 的双架构体验和液态玻璃设计体系，端侧 AI 竞争不只在模型，也体现在系统动效、交互和设备协同能力。",
+    "url": "https://www.qbitai.com/2026/08/467478.html",
+    "source": "量子位"
+  },
+  {
+    "title": "OpenAI 音箱被解读为比苹果多走一步的 AI 硬件",
+    "summary": "爱范儿从产品设计角度解读 OpenAI 首款音箱形态，认为其核心差异在于把 AI 交互放在设备体验中心，而不只是复制传统智能音箱。",
+    "url": "https://www.ifanr.com/1674363?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "Naive 融资 2850 万美元，自动化公司设立和运营杂务",
+    "summary": "Naive 获得 2850 万美元融资，宣称能自动化设立和运营公司的大量重复工作，vibe coding 式自动化开始进入企业注册、财税和运营流程。",
+    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "FDE 热潮下首批从业者收入分化明显",
+    "summary": "钛媒体关注 Forward Deployed Engineer 被 AI 带火后的就业现实，指出企业落地型 AI 岗位看似热门，但薪酬、职责和成长路径仍在重定价。",
+    "url": "https://www.tmtpost.com/8094851.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "GPT-Live 通过底层优化降低实时音频延迟",
+    "summary": "雷峰网拆解 GPT-Live 的 WebRTC、Python 和音频帧处理优化，实时语音 Agent 正从问答体验走向更严格的低延迟交互工程。",
+    "url": "https://www.leiphone.com/category/ai/zYdlF2GT2z5SbNLT.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "苏剑林复盘 Kimi K3 的 MoE 与 Attention 取舍",
+    "summary": "雷峰网整理 Kimi 研究员苏剑林对 K3 的 MoE、专家激活和 Attention 设计复盘，超大模型工程仍围绕专家负载、稳定性和训练效率做权衡。",
+    "url": "https://www.leiphone.com/category/ai/1krGNVOmEZUQgc9w.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Jeff Dean 创业路演 PPT 展示 Google 系 AI 创业网络",
+    "summary": "雷峰网称 Jeff Dean 路演材料列出多位 Google 系创业者，老牌 AI 实验室的人才网络继续向新公司和新模型平台扩散。",
+    "url": "https://www.leiphone.com/category/ai/woyyD9TFUP2pnDOC.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Agentic Nesting 探索企业应用集成的新方法",
+    "summary": "论文提出 Agentic Nesting 方法，面向企业中多异构业务系统的应用集成与服务编排，反映 Agent 正被用于连接旧系统而非只做单点助手。",
+    "url": "https://arxiv.org/abs/2608.05159",
+    "source": "arXiv"
+  },
+  {
+    "title": "PPDL 将 LLM 流程表示为概率程序",
+    "summary": "PPDL 论文尝试把 LLM 应用流程建模为概率程序，为可观测、可组合和可校准的 LLM 系统提供更形式化的工程框架。",
+    "url": "https://arxiv.org/abs/2608.05234",
+    "source": "arXiv"
+  },
+  {
+    "title": "Simulator-Grounded LLMs 面向工业因果推理",
+    "summary": "论文把工具使用、结构化注入和可迁移检索结合到污水处理决策支持中，强调工业场景中的 LLM 回答必须扎根具体工厂仿真和变量关系。",
+    "url": "https://arxiv.org/abs/2608.05151",
+    "source": "arXiv"
+  },
+  {
+    "title": "Mean-Field Dynamics 分析大模型链式推理动力学",
+    "summary": "论文用 mean-field 视角研究大语言模型链式思维推理过程，尝试从理论层面解释推理轨迹如何形成和稳定。",
+    "url": "https://arxiv.org/abs/2608.05152",
+    "source": "arXiv"
+  },
+  {
+    "title": "Triple-Robustness 分析多跳溯源中的 RAG 病理",
+    "summary": "论文比较 GraphRAG 和向量 RAG 在多跳可追溯任务中的表现，指出不同条件下的普遍失效模式和后果，RAG 评测继续走向更细粒度诊断。",
+    "url": "https://arxiv.org/abs/2608.05153",
+    "source": "arXiv"
+  },
+  {
+    "title": "Scaffold-Mediated Post-Training 联合优化模型参数和流程脚手架",
+    "summary": "论文提出后训练不只优化模型参数，也共同演化程序化 scaffold graph，让模型能力和外部推理流程一起适配任务。",
+    "url": "https://arxiv.org/abs/2608.05156",
+    "source": "arXiv"
+  },
+  {
+    "title": "Woodpecker Distillation 用弱模型诊断强模型推理漏洞",
+    "summary": "论文提出让弱模型识别强模型推理错误并用于蒸馏改进，展示强弱模型协作在推理可靠性上的新训练思路。",
+    "url": "https://arxiv.org/abs/2608.05168",
+    "source": "arXiv"
+  },
+  {
+    "title": "SkillTrace 审计 LLM Agent 技能复用的多重来源",
+    "summary": "SkillTrace 面向 Agent 技能生态中的复用、组合和 provenance 追踪，试图解决技能调用链条中的可审计性和责任归因问题。",
+    "url": "https://arxiv.org/abs/2608.05204",
+    "source": "arXiv"
+  },
+  {
+    "title": "Privileged Guidance Misaligns 研究多轮 Agent 蒸馏错配",
+    "summary": "论文指出特权指导在多轮 Agent 中可能与真实状态分布错配，并提出状态匹配路由和上下文化自蒸馏来缓解训练与执行偏差。",
+    "url": "https://arxiv.org/abs/2608.05219",
+    "source": "arXiv"
+  },
+  {
+    "title": "PRISM 用结构化多模态数据合成强化 rubric 内化",
+    "summary": "PRISM 面向复杂多模态指令中多要求并存的问题，通过优先级感知的合成数据让模型更好理解和执行评分规则。",
+    "url": "https://arxiv.org/abs/2608.05249",
+    "source": "arXiv"
+  },
+  {
+    "title": "AuroOFT 扩展量化正交微调的表达能力",
+    "summary": "AuroOFT 论文在 qOFT 基础上探索更具表达力的量化正交微调方法，继续推进参数高效微调在压缩和效果之间的平衡。",
+    "url": "https://arxiv.org/abs/2608.05253",
+    "source": "arXiv"
+  },
+  {
+    "title": "Decoupling Perception from Description 对齐时间序列与语言表示",
+    "summary": "论文提出将多变量时间序列的感知能力与语言描述解耦，对齐时序数据和自然语言表示，服务更可靠的时间序列理解。",
+    "url": "https://arxiv.org/abs/2608.05238",
+    "source": "arXiv"
+  }
+]
