@@ -1,0 +1,30 @@
+[
+  {
+    "title": "usekaneo/kaneo",
+    "link": "https://github.com/usekaneo/kaneo",
+    "summary": "[Stars: 7,627] [2,925 stars this week] [Language: TypeScript] 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+    "published": "2026-08-08",
+    "dedupe_id": "github:usekaneo/kaneo"
+  },
+  {
+    "title": "paperswithbacktest/awesome-systematic-trading",
+    "link": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "summary": "[Stars: 12,957] [1,433 stars this week] [Language: Python] A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "published": "2026-08-08",
+    "dedupe_id": "github:paperswithbacktest/awesome-systematic-trading"
+  },
+  {
+    "title": "unclebob/swarm-forge",
+    "link": "https://github.com/unclebob/swarm-forge",
+    "summary": "[Stars: 1,849] [273 stars this week] [Language: Clojure] A simple tool for coordinating several AI agents.",
+    "published": "2026-08-08",
+    "dedupe_id": "github:unclebob/swarm-forge"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "link": "https://github.com/tailwindlabs/tailwindcss",
+    "summary": "[Stars: 97,100] [997 stars this week] [Language: TypeScript] A utility-first CSS framework for rapid UI development.",
+    "published": "2026-08-08",
+    "dedupe_id": "github:tailwindlabs/tailwindcss"
+  }
+]
