@@ -1,0 +1,58 @@
+[
+  {
+    "title": "huangruiteng/loopx",
+    "link": "https://github.com/huangruiteng/loopx",
+    "summary": "[Stars: 3,879] [3,518 stars this week] [Language: Python] Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+    "published": "2026-08-10",
+    "dedupe_id": "github:huangruiteng/loopx"
+  },
+  {
+    "title": "firecrawl/pdf-inspector",
+    "link": "https://github.com/firecrawl/pdf-inspector",
+    "summary": "[Stars: 14,222] [8,641 stars this week] [Language: Rust] Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "published": "2026-08-10",
+    "dedupe_id": "github:firecrawl/pdf-inspector"
+  },
+  {
+    "title": "semantica-agi/semantica",
+    "link": "https://github.com/semantica-agi/semantica",
+    "summary": "[Stars: 3,748] [1,102 stars this week] [Language: Python] Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "published": "2026-08-10",
+    "dedupe_id": "github:semantica-agi/semantica"
+  },
+  {
+    "title": "google/skills",
+    "link": "https://github.com/google/skills",
+    "summary": "[Stars: 17,526] [1,626 stars this week] [Language: Python] Agent Skills for Google products and technologies",
+    "published": "2026-08-10",
+    "dedupe_id": "github:google/skills"
+  },
+  {
+    "title": "drawdb-io/drawdb",
+    "link": "https://github.com/drawdb-io/drawdb",
+    "summary": "[Stars: 38,710] [331 stars this week] [Language: JavaScript] Free, simple, and intuitive online database diagram editor and SQL generator.",
+    "published": "2026-08-10",
+    "dedupe_id": "github:drawdb-io/drawdb"
+  },
+  {
+    "title": "Comfy-Org/ComfyUI",
+    "link": "https://github.com/Comfy-Org/ComfyUI",
+    "summary": "[Stars: 126,045] [2,018 stars this week] [Language: Python] The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "published": "2026-08-10",
+    "dedupe_id": "github:comfy-org/comfyui"
+  },
+  {
+    "title": "vitali87/code-graph-rag",
+    "link": "https://github.com/vitali87/code-graph-rag",
+    "summary": "[Stars: 3,378] [236 stars this week] [Language: Python] The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "published": "2026-08-10",
+    "dedupe_id": "github:vitali87/code-graph-rag"
+  },
+  {
+    "title": "goauthentik/authentik",
+    "link": "https://github.com/goauthentik/authentik",
+    "summary": "[Stars: 24,458] [1,579 stars this week] [Language: Python] The authentication glue you need.",
+    "published": "2026-08-10",
+    "dedupe_id": "github:goauthentik/authentik"
+  }
+]
