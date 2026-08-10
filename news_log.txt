@@ -233,3 +233,5 @@
 2026-08-08 pipeline-finish date=2026-08-08 sources=* state=failed pid=29051 updated_at=2026-08-08T02:48:28+00:00
 2026-08-10 pipeline-start date=2026-08-10 sources=* state=running pid=98512 updated_at=2026-08-10T13:34:55+00:00
 2026-08-10 pipeline-finish date=2026-08-10 sources=* state=failed pid=98512 updated_at=2026-08-10T13:35:44+00:00
+2026-08-10 pipeline-start date=2026-08-10 sources=* state=running pid=260 updated_at=2026-08-10T13:39:02+00:00
+2026-08-10 pipeline-waiting-for-model-step date=2026-08-10 sources=* state=waiting_for_model_step pid=260 updated_at=2026-08-10T13:39:02+00:00
