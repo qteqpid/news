@@ -1,0 +1,248 @@
+[
+  {
+    "title": "OpenAI 发布企业 agentic AI 落地研究",
+    "summary": "OpenAI 汇总企业采用 ChatGPT、Codex 和 agentic AI 的方式，重点从辅助式工具转向可执行工作流，说明企业 AI 竞争正在进入组织流程重构阶段。",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "source": "OpenAI"
+  },
+  {
+    "title": "RingCentral 用 ChatGPT Work 和 Codex 推进 AI-native 工作方式",
+    "summary": "OpenAI 案例展示 RingCentral 如何把 ChatGPT Work、Codex 用在工程、运营和产品开发中，企业 AI 的落点继续从单点提效走向跨团队协作。",
+    "url": "https://openai.com/index/ringcentral",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI 开始在 ChatGPT 中测试广告",
+    "summary": "OpenAI 表示将在 ChatGPT 中测试带明确标识的广告，并强调答案独立性和隐私保护；这意味着免费访问的商业化路径开始进入产品层验证。",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Google DeepMind 把手语 AI 推向用户侧产品",
+    "summary": "Google DeepMind 介绍 sign-language-to-text 模型和相关用户功能，把多模态 AI 从实验室能力推进到听障用户的实际沟通场景。",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Google AMIE 展示实时临床视频问诊能力",
+    "summary": "Google 研究团队披露 AMIE 医疗 AI 系统在实时临床视频咨询中的研究进展，医疗 AI 正从文本问答扩展到更接近真实诊疗的多模态交互。",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Google 为 Ads 和 Analytics 增加新的 AI 工具",
+    "summary": "Google 推出面向广告和分析产品的新 AI 工具，强化营销建议、数据洞察和自动化执行能力，企业 SaaS 的 AI 化继续向业务入口下沉。",
+    "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "NVIDIA Magpie TTS 开源权重支持低延迟多语言语音 Agent",
+    "summary": "Hugging Face 博客介绍 NVIDIA Magpie TTS 的开放权重和部署控制能力，实时语音 Agent 的关键竞争点继续集中在延迟、多语言和可控部署。",
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "Grok 推出可分配任务的 AI teammate 形态",
+    "summary": "The Verge 报道 Grok Bot 被定位为始终在线、可接收任务的 AI teammate，主流 AI 产品继续从聊天助手向工作代理演进。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "source": "The Verge"
+  },
+  {
+    "title": "ChatGPT 和 Gemini 均跨过 10 亿用户门槛",
+    "summary": "The Verge 报道 ChatGPT 和 Gemini 用户规模都达到 10 亿量级，通用 AI 助手进入超大规模分发阶段，竞争焦点将更多落到留存、入口和任务完成质量。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "source": "The Verge"
+  },
+  {
+    "title": "Manus 将以独立公司形式恢复运营",
+    "summary": "Solidot 报道 Manus 宣布恢复独立运营，部分用户账户会受影响；AI agent 公司在资本、合规和跨司法辖区运营上仍面临复杂约束。",
+    "url": "https://www.solidot.org/story?sid=85072",
+    "source": "Solidot"
+  },
+  {
+    "title": "WorkBuddy 用 AI 重做办公三件套",
+    "summary": "爱范儿体验 WorkBuddy 的 AI 办公产品形态，体现办公软件正在从文档、表格、演示三件套转向以任务和 Agent 为中心的工作流。",
+    "url": "https://www.ifanr.com/1674810?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "OpenAI 说明在得州建设负责任 AI 基础设施的承诺",
+    "summary": "OpenAI 向得州州长 Greg Abbott 致信，说明 AI 基础设施建设中的责任、安全和本地影响议题，算力扩张正在成为公共政策和区域经济议题。",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI 扩大 Daybreak 网络以提供受治理的网络安全能力",
+    "summary": "OpenAI 表示获批合作伙伴可通过 Daybreak 使用前沿网络安全模型，强调授权、可信和受治理的安全服务交付方式。",
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "source": "OpenAI"
+  },
+  {
+    "title": "GPT-5.6-Cyber 通过 Daybreak Red 面向授权漏洞研究开放",
+    "summary": "OpenAI 介绍网络安全专用模型 GPT-5.6-Cyber，面向授权漏洞研究和防御场景，AI 安全能力正在产品化为专门的安全服务栈。",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "source": "OpenAI"
+  },
+  {
+    "title": "Twitch 允许主播退出 Amazon AI 训练",
+    "summary": "The Verge 和 TechCrunch 均报道 Twitch 用户现在可以选择不让自己的内容用于训练 Amazon 生成式 AI，平台内容授权和默认同意机制继续成为争议焦点。",
+    "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "source": "The Verge"
+  },
+  {
+    "title": "D’Addario 承认宣传视频使用 AI 音乐",
+    "summary": "D’Addario 承认推广视频中使用 Suno 生成音乐，音乐行业对 AI 生成内容的披露、授权和品牌信任问题继续升温。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "source": "The Verge"
+  },
+  {
+    "title": "Anthropic 生成内容水印引发用户反弹",
+    "summary": "TechCrunch 报道部分 Claude 用户不满新的水印机制可能暴露其在工作和课堂中使用 AI，AI 内容标识正在同时触及合规、隐私和使用者声誉风险。",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "AI 安全争议中，多位学者为开放路线辩护",
+    "summary": "TechCrunch 报道 Geoffrey Hinton、Fei-Fei Li 和 Andrew Ng 在 Ai4 讨论开放与监管的平衡，模型开放仍是 AI 安全和创新速度之间的核心分歧。",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "MIT Technology Review 记录孩子们如何看待 AI",
+    "summary": "MIT Technology Review 采访儿童对 AI 的真实感受，提醒产品设计和监管讨论不能只围绕企业效率，也需要纳入年轻用户的情绪、信任和依赖问题。",
+    "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "论文称 AI 检测器无法可靠维护学术诚信",
+    "summary": "arXiv 论文讨论商业 AI 检测器在学术诚信场景中的失败原因，说明仅依赖检测分数处理学生写作可能带来误伤和不公平。",
+    "url": "https://arxiv.org/abs/2608.11256",
+    "source": "arXiv"
+  },
+  {
+    "title": "农民听从 AI 建议误用除草剂造成大面积损失",
+    "summary": "Solidot 报道安徽农民因过度相信 AI 农事建议导致芝麻田受损，通用 AI 在高风险现实场景中仍需要边界提示、专业校验和责任设计。",
+    "url": "https://www.solidot.org/story?sid=85077",
+    "source": "Solidot"
+  },
+  {
+    "title": "OpenAI Daybreak 模型登陆 AWS Bedrock",
+    "summary": "OpenAI 和 AWS 将 Daybreak 网络安全能力放到 Amazon Bedrock，前沿模型能力继续通过云平台进入企业采购和治理体系。",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI CFO 复盘 AI-native 财务团队建设经验",
+    "summary": "OpenAI CFO Sarah Friar 总结 AI-native 财务职能的五点经验，从预测自动化到战略工作转型，AI 正深入企业后台函数。",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "source": "OpenAI"
+  },
+  {
+    "title": "OpenAI 支持的 Thrive Holdings 融资 20 亿美元",
+    "summary": "TechCrunch 报道 Thrive Holdings 以 120 亿美元估值融资 20 亿美元，目标是把 AI 带入企业运营，资本继续押注 AI 赋能传统企业控股平台。",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Cognition 被曝寻求以 400 亿美元估值融资",
+    "summary": "TechCrunch 报道 AI coding startup Cognition 已在讨论新一轮融资，估值可能达 400 亿美元，代码 Agent 赛道的资本热度仍在继续上升。",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "联想 Q1 业绩创高，AI 服务器业务进入爆发期",
+    "summary": "量子位报道联想集团当季营收创新高，AI 服务器成为增长重点，AI 基础设施需求继续支撑硬件厂商和供应链业绩。",
+    "url": "https://www.qbitai.com/2026/08/471697.html",
+    "source": "量子位"
+  },
+  {
+    "title": "腾讯 528 亿算力账体现模型优先策略",
+    "summary": "钛媒体分析腾讯资本开支和 AI 算力布局，指出其优先服务混元模型和内部产品，出租算力只是退路，互联网大厂正重估算力资产边界。",
+    "url": "https://www.tmtpost.com/8102187.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Y Combinator CEO 鼓励创业者大胆使用 AI Agent",
+    "summary": "IT之家援引 Garry Tan 建议创业者不要过度担心 AI token 成本，积极使用 Agent 可让团队提前进入更高自动化水平的创业状态。",
+    "url": "https://www.ithome.com/0/989/366.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Google Pixel Watch 5 加深 AI 与健康能力",
+    "summary": "The Verge 上手 Pixel Watch 5，认为新表的重点并非硬件参数，而是更深的 AI 与健康功能整合，可穿戴设备继续向个人健康助手靠拢。",
+    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "source": "The Verge"
+  },
+  {
+    "title": "Google 发布 Pixel 11 系列并强化 AI 卖点",
+    "summary": "The Verge 和 Solidot 报道 Google Pixel 11 系列发布、价格上涨且围绕 AI 功能竞争，端侧 AI 正成为旗舰手机差异化的核心叙事。",
+    "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
+    "source": "The Verge"
+  },
+  {
+    "title": "荣耀 Robot Phone 发布，AI 手机开始长出身体",
+    "summary": "爱范儿报道荣耀 Robot Phone，强调手机与机器人形态的结合，端侧 AI 硬件正在尝试从语音助手走向可运动、可感知的设备形态。",
+    "url": "https://www.ifanr.com/1674938?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "国产机器人被称迎来 DeepSeek 时刻",
+    "summary": "爱范儿关注国产机器人在低成本硬件和具身智能能力上的突破，认为国内机器人公司正用更低成本挑战海外明星公司。",
+    "url": "https://www.ifanr.com/1675007?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "小马智行第四代无人重卡量产",
+    "summary": "雷峰网报道小马智行第四代无人重卡进入量产，并提出未来三年千辆运营目标，自动驾驶商业化继续从 Robotaxi 扩展到干线物流。",
+    "url": "https://www.leiphone.com/category/transportation/aCpxFOdunbeBESUD.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Northrop 机器人太空维修车尝试延长卫星寿命",
+    "summary": "TechCrunch 报道 Northrop 的 Mission Robotic Vehicle 尝试为老化卫星连接新推进器，机器人能力正在进入高价值太空基础设施维护场景。",
+    "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Backtrader-Bench 评测算法交易 LLM Agent",
+    "summary": "论文提出用自生成选择题和交易任务评测算法交易 Agent，试图让金融领域的代码和策略能力评估更可控、更可比较。",
+    "url": "https://arxiv.org/abs/2608.11232",
+    "source": "arXiv"
+  },
+  {
+    "title": "TRACE Bench 用任务驱动清单评测角色扮演 Agent",
+    "summary": "TRACE Bench 不只给角色扮演模型打单一分数，而是按任务清单追踪行为约束和角色一致性，Agent 评测继续走向过程化。",
+    "url": "https://arxiv.org/abs/2608.11236",
+    "source": "arXiv"
+  },
+  {
+    "title": "Lost in Compaction 研究上下文压缩中的约束丢失",
+    "summary": "论文评估 LLM 系统在上下文压力下压缩历史信息时如何丢失 side constraints，对长会话 Agent 和 coding assistant 的可靠性有直接意义。",
+    "url": "https://arxiv.org/abs/2608.11242",
+    "source": "arXiv"
+  },
+  {
+    "title": "Programmatic Skill Learning 可降低 Agent 成本",
+    "summary": "论文认为把技能学习程序化能显著降低 Agent 执行成本，反映复杂 Agent 系统的竞争点不仅是模型能力，也包括技能复用和执行规划。",
+    "url": "https://arxiv.org/abs/2608.11338",
+    "source": "arXiv"
+  },
+  {
+    "title": "AutoWorldModel-Bench 面向自动世界模型研究",
+    "summary": "AutoWorldModel-Bench 以状态为中心评测自动化世界模型研究，服务于需要规划、预测和环境建模的 Agent 系统。",
+    "url": "https://arxiv.org/abs/2608.11216",
+    "source": "arXiv"
+  },
+  {
+    "title": "Weightless Fine-Tuning 用 logit-space transport 个性化 LLM",
+    "summary": "论文提出无需传统参数更新的个性化方式，在 logit 空间进行迁移，探索比 SFT 更轻量的模型适配路径。",
+    "url": "https://arxiv.org/abs/2608.11342",
+    "source": "arXiv"
+  },
+  {
+    "title": "Lifecycle-Optimal Tokenization 重新审视词表规模",
+    "summary": "论文把 tokenizer 词表规模视为部署阶段相关的基础设施参数，提示训练、推理成本和长期维护需要一起纳入 tokenizer 设计。",
+    "url": "https://arxiv.org/abs/2608.11361",
+    "source": "arXiv"
+  }
+]

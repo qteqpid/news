@@ -1,0 +1,23 @@
+[
+  {
+    "title": "cloudflare/computer",
+    "link": "https://github.com/cloudflare/computer",
+    "summary": "[Stars: 7,895] [6,020 stars this week] [Language: TypeScript] Give your agent a computer 👾",
+    "published": "2026-08-13",
+    "dedupe_id": "github:cloudflare/computer"
+  },
+  {
+    "title": "LadybirdBrowser/ladybird",
+    "link": "https://github.com/LadybirdBrowser/ladybird",
+    "summary": "[Stars: 65,511] [743 stars this week] [Language: C++] Truly independent web browser",
+    "published": "2026-08-13",
+    "dedupe_id": "github:ladybirdbrowser/ladybird"
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "link": "https://github.com/addyosmani/agent-skills",
+    "summary": "[Stars: 86,736] [4,817 stars this week] [Language: JavaScript] Production-grade engineering skills for AI coding agents.",
+    "published": "2026-08-13",
+    "dedupe_id": "github:addyosmani/agent-skills"
+  }
+]
