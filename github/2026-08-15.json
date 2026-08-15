@@ -1,0 +1,72 @@
+[
+  {
+    "title": "cathrynlavery/diagram-design",
+    "link": "https://github.com/cathrynlavery/diagram-design",
+    "summary": "[Stars: 18,000] [13,556 stars this week] [Language: HTML] 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "published": "2026-08-15",
+    "dedupe_id": "github:cathrynlavery/diagram-design"
+  },
+  {
+    "title": "PrimeIntellect-ai/prime-agent",
+    "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "summary": "[Stars: 16,119] [10,739 stars this week] [Language: TypeScript] A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "published": "2026-08-15",
+    "dedupe_id": "github:primeintellect-ai/prime-agent"
+  },
+  {
+    "title": "megadose/holehe",
+    "link": "https://github.com/megadose/holehe",
+    "summary": "[Stars: 12,993] [671 stars this week] [Language: Python] holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "published": "2026-08-15",
+    "dedupe_id": "github:megadose/holehe"
+  },
+  {
+    "title": "NVIDIA-NeMo/Switchyard",
+    "link": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "summary": "[Stars: 1,517] [1,195 stars this week] [Language: Rust] Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+    "published": "2026-08-15",
+    "dedupe_id": "github:nvidia-nemo/switchyard"
+  },
+  {
+    "title": "cactus-compute/needle",
+    "link": "https://github.com/cactus-compute/needle",
+    "summary": "[Stars: 5,846] [1,929 stars this week] [Language: Python] 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "published": "2026-08-15",
+    "dedupe_id": "github:cactus-compute/needle"
+  },
+  {
+    "title": "macro-inc/macro",
+    "link": "https://github.com/macro-inc/macro",
+    "summary": "[Stars: 3,185] [2,159 stars this week] [Language: Rust] Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "published": "2026-08-15",
+    "dedupe_id": "github:macro-inc/macro"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "link": "https://github.com/ToolJet/ToolJet",
+    "summary": "[Stars: 39,310] [543 stars this week] [Language: JavaScript] ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "published": "2026-08-15",
+    "dedupe_id": "github:tooljet/tooljet"
+  },
+  {
+    "title": "3b1b/manim",
+    "link": "https://github.com/3b1b/manim",
+    "summary": "[Stars: 91,175] [1,919 stars this week] [Language: Python] Animation engine for explanatory math videos",
+    "published": "2026-08-15",
+    "dedupe_id": "github:3b1b/manim"
+  },
+  {
+    "title": "google-deepmind/weathernext",
+    "link": "https://github.com/google-deepmind/weathernext",
+    "summary": "[Stars: 7,496] [674 stars this week] [Language: Python]",
+    "published": "2026-08-15",
+    "dedupe_id": "github:google-deepmind/weathernext"
+  },
+  {
+    "title": "paperclipai/paperclip",
+    "link": "https://github.com/paperclipai/paperclip",
+    "summary": "[Stars: 78,209] [2,404 stars this week] [Language: TypeScript] The open-source app everyone uses to manage agents at work",
+    "published": "2026-08-15",
+    "dedupe_id": "github:paperclipai/paperclip"
+  }
+]

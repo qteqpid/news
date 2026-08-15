@@ -242,3 +242,5 @@
 2026-08-13 pipeline-finish date=2026-08-13 sources=ai state=finished pid=92801 updated_at=2026-08-13T11:03:48+00:00
 2026-08-13 pipeline-start date=2026-08-13 sources=* state=running pid=3522 updated_at=2026-08-13T13:00:20+00:00
 2026-08-13 pipeline-finish date=2026-08-13 sources=* state=finished pid=3522 updated_at=2026-08-13T13:00:20+00:00
+2026-08-15 pipeline-start date=2026-08-15 sources=* state=running pid=26516 updated_at=2026-08-15T12:45:07+00:00
+2026-08-15 pipeline-finish date=2026-08-15 sources=* state=failed pid=26516 updated_at=2026-08-15T12:45:54+00:00
