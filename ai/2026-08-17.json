@@ -1,0 +1,212 @@
+[
+  {
+    "title": "OpenAI 据称已解散 Preparedness 风险防范团队",
+    "summary": "多家媒体援引《金融时报》称，OpenAI 已在上月底解散负责前沿模型重大风险评估的 Preparedness 团队，并把相关职责分散到生物安全、网络安全等团队；这会让外界继续关注 OpenAI 在快速商业化和安全治理之间的组织取舍。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "source": "The Verge"
+  },
+  {
+    "title": "ChatGPT macOS 版 Computer History 会记录点击和键盘操作",
+    "summary": "The Verge 报道 ChatGPT 桌面端新增 Computer History，可把用户在电脑上的点击和输入转化为模型可利用的上下文；这类能力会提升 Agent 连续执行任务的可用性，也把本地行为数据的隐私边界推到台前。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "source": "The Verge"
+  },
+  {
+    "title": "Stripe 据称将以超 70 亿美元收购 OpenRouter",
+    "summary": "TechCrunch 和多家媒体报道称，Stripe 将收购 AI gateway 初创公司 OpenRouter，金额超过 70 亿美元；OpenRouter 被称作“AI 的 Stripe”，这笔交易显示模型路由、计费和分发层正在成为 AI 应用基础设施的战略入口。",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic CEO 称 AI 反弹本质是信任危机",
+    "summary": "Dario Amodei 在采访中回应外界认为他过度悲观的批评，强调公众对 AI 的不安来自信任缺口；AI 公司接下来不仅要证明模型能力，也要证明部署方式、商业动机和安全承诺值得信任。",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic 解释 Claude 水印机制细节",
+    "summary": "Anthropic 进一步说明 Claude 生成内容水印如何工作、是否会被编辑隐藏，以及对代码生成的影响；水印机制正在从概念讨论进入产品细节，也会影响企业、教育和内容平台如何识别 AI 产物。",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic Claude 出现大规模服务故障",
+    "summary": "IT之家援引外媒称 Claude 出现大规模服务故障，用户反馈无法登录或加载多项服务；随着 Claude 进入更多开发、办公和企业流程，服务稳定性本身也成为 AI 平台竞争力的一部分。",
+    "url": "https://www.ithome.com/0/990/404.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "SpaceX 完成对 Cursor 的收购",
+    "summary": "TechCrunch 报道 AI 编程公司 Cursor 已正式并入 SpaceX；如果交易后的团队和产品继续服务工程体系，AI coding 工具可能从通用 SaaS 更深地嵌入大型硬科技公司的内部研发流程。",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "DeepSeek Harness 入选项目疑似曝光，方向偏向 Agent 基建",
+    "summary": "雷峰网报道称 DeepSeek Harness 入选项目更关注 Agent 基础设施，而不是纯展示型应用；这反映国内大模型生态也在从模型发布转向工具链、评测、执行和工程化基建。",
+    "url": "https://www.leiphone.com/category/yanxishe/RZ78QNjvboOQZhCS.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "金山办公灵犀专业版首批接入 DeepSeek-V4-Pro",
+    "summary": "金山办公宣布灵犀专业版接入 DeepSeek-V4-Pro，用户可直接在产品内切换模型；办公智能体正把模型升级转化为交付能力、文档处理和企业工作流体验。",
+    "url": "https://www.leiphone.com/category/industrynews/a6tI2iy4DnB3jOir.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "WorkSwarm 尝试把 AI 助手升级为办公智能体团队",
+    "summary": "量子位介绍 WorkSwarm 的办公智能体产品形态，强调从单个助手到协同团队的范式变化；企业 AI 的产品叙事继续从聊天窗口走向任务分工、协作和可交付结果。",
+    "url": "https://www.qbitai.com/2026/08/473972.html",
+    "source": "量子位"
+  },
+  {
+    "title": "爱范儿用 161 个新闻源训练 AI 主编工作流",
+    "summary": "爱范儿分享用大量新闻源和 AI 工作流筛选“大新闻”的实践，说明内容行业正在把 AI 用作信息过滤、选题判断和编辑辅助，而不是简单生成文章。",
+    "url": "https://www.ifanr.com/1675326?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "Meta 的 AI 未来叙事继续遭遇质疑",
+    "summary": "TechCrunch Equity 讨论为什么并非所有人都买账 Mark Zuckerberg 的 AI 未来愿景；资本市场和用户对大厂 AI 投入的耐心，正在取决于可见产品、收入和效率改善。",
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "史上最大 IPO 预期下，Anthropic 估值想象升温",
+    "summary": "钛媒体围绕 Anthropic 冲刺超高估值 IPO 的叙事展开分析，指出其增长、资本开支和中美 AI 竞争共同推高市场想象，但商业化和泡沫风险仍需验证。",
+    "url": "https://www.tmtpost.com/8104736.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "中国科技板块资金偏好转向 AI 硬件与算力",
+    "summary": "钛媒体分析中国科技财报季中的资金流向，认为资本正从消费互联网平台转向 AI 硬件和算力基础设施；这代表 AI 产业链的投资重心正在前移到硬件供给侧。",
+    "url": "https://www.tmtpost.com/8104860.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "阿里云 AI 对阿里长期估值的影响被重新讨论",
+    "summary": "钛媒体分析阿里股价回升与阿里云 AI 业务对长期估值的支撑，核心问题从“有没有 AI 叙事”转向“AI 能否打开收入和利润空间”。",
+    "url": "https://www.tmtpost.com/8104764.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Neuralink 420 亿美元估值背后仍需等待 SpaceX 时刻",
+    "summary": "钛媒体讨论 Neuralink 在脑机接口商业化上的进展和瓶颈，指出意念控制轮椅等能力尚未等同于基础设施化，医疗审批、量产和真实需求仍是关键变量。",
+    "url": "https://www.tmtpost.com/8104757.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "杭州 95 后创业者以 5 亿买下硅谷城堡引发关注",
+    "summary": "量子位报道一位离开 xAI 的年轻创业者高价购入硅谷城堡，背后折射硅谷 AI 财富效应和人才流动仍在持续放大。",
+    "url": "https://www.qbitai.com/2026/08/474245.html",
+    "source": "量子位"
+  },
+  {
+    "title": "李飞飞谈 AI：不是替代者，而是能力放大镜",
+    "summary": "量子位整理李飞飞最新访谈，她强调 AI 应该增强人类能力而非简单替代；这类观点继续代表以人为中心 AI 路线对纯自动化叙事的反思。",
+    "url": "https://www.qbitai.com/2026/08/474140.html",
+    "source": "量子位"
+  },
+  {
+    "title": "AI 角色扮演网页游戏用反讽方式让用户体验 chatbot 口吻",
+    "summary": "The Verge 介绍一个让用户扮演 AI 聊天机器人的网页作品，用游戏化方式讽刺 AI 文风和交互模式；大众对 AI 内容风格的疲劳感正在变成文化表达。",
+    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "source": "The Verge"
+  },
+  {
+    "title": "AI 平台账号安全成为普通用户的新风险点",
+    "summary": "TechCrunch 发布如何判断 AI 平台账号是否被入侵的指南，说明聊天记录、API Key、文件和自动化权限让 AI 账号成为更高价值的攻击目标。",
+    "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Grok 被指用于把儿童照片转成露骨图像",
+    "summary": "TechCrunch 报道一名女性称继父使用 Grok 将其童年照片转成露骨图像；生成式 AI 的滥用风险继续推动平台在儿童保护、身份图像和内容审核上承担更高责任。",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "中消协称 AI 客服相关投诉显著增多",
+    "summary": "中消协报告指出 AI 客服投诉增加，问题集中在人工客服难接通、自动回复无法解决实际问题等方面；AI 客服的降本价值正在和用户体验、责任兜底发生冲突。",
+    "url": "https://www.ithome.com/0/990/394.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "年轻美国人日益不信任 AI 及 AI 公司高管",
+    "summary": "Solidot 报道一项针对 18 至 34 岁美国人的调查显示，许多受访者不信任投资 AI 的大公司高管，并担心 AI 影响职业生涯；AI 社会接受度正在出现明显代际和地域差异。",
+    "url": "https://www.solidot.org/story?sid=85103",
+    "source": "Solidot"
+  },
+  {
+    "title": "斯坦福 AI Index 显示中国受访者对 AI 更兴奋",
+    "summary": "IT之家援引斯坦福《AI Index 2026》称，84% 中国受访者对 AI 产品和服务感到兴奋，美国比例为 38%；不同市场的 AI 情绪差异会影响产品扩张、监管压力和商业化节奏。",
+    "url": "https://www.ithome.com/0/990/398.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "“Rogue AI 不再只是科幻”成为 AI 安全讨论焦点",
+    "summary": "The Verge 的专栏讨论失控 AI 从科幻概念进入现实安全议题，尤其是模型可执行工具、访问系统和跨环境行动之后，风险讨论会更接近工程和权限控制。",
+    "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "source": "The Verge"
+  },
+  {
+    "title": "黑盒导航机器人攻击研究 AdvNav 揭示具身智能安全风险",
+    "summary": "雷峰网介绍 AdvNav 在黑盒条件下验证导航智能体安全风险的研究，展示具身 AI 系统在真实空间行动时可能被环境和输入扰动影响。",
+    "url": "https://www.leiphone.com/category/private/yXsTeayhNBwW2ZUH.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "高通完成 Modular 收购，强化端到云 AI 计算平台",
+    "summary": "雷峰网报道高通收购 Modular 后将结合其 AI 原生软件平台，覆盖数据中心、边缘基础设施、个人和工业 AI；芯片公司正在补齐软件栈以争夺 AI 开发者入口。",
+    "url": "https://www.leiphone.com/category/chips/f6iZg80ZvYz2BZmN.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Qwen3.8 发布后多芯片 Day0 适配，FlagOS 推动开放生态",
+    "summary": "雷峰网报道阿里 Qwen3.8-2.4T-A95B 发布后，众智 FlagOS 社区完成多家国产和海外 AI 芯片的同步适配；模型开源竞争正和异构算力生态绑定。",
+    "url": "https://www.leiphone.com/category/ai/rbIV873aEJjUGpyU.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Meta 发布轻量化 AI 模型，单张显卡即可运行",
+    "summary": "钛媒体数智周报汇总称 Meta 发布轻量化 AI 模型，强调单卡运行能力；模型小型化和本地部署继续服务低成本推理、边缘设备和私有化场景。",
+    "url": "https://www.tmtpost.com/8104888.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Edge AI Daily 关注端侧 AI、PSSR 和安全政策",
+    "summary": "钛媒体 Edge AI Daily 汇总索尼 PSSR 图像增强、OpenAI 反官僚化机制和网络私掠许可证框架等信息，端侧 AI 与安全政策正在同时成为行业变量。",
+    "url": "https://www.tmtpost.com/8104869.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "创作者把 2.9MB 歌曲压缩到 21KB 并打印成二维码保存",
+    "summary": "IT之家报道创作者用极端压缩和二维码把音频打印到纸上，虽非纯 AI 新闻，但展示了数据压缩、媒介保存和低技术备份的有趣边界。",
+    "url": "https://www.ithome.com/0/990/400.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "B 站教 AI 爆火后，北航副教授回应 AI 学习现象",
+    "summary": "量子位报道北航副教授何静回应“B站教 AI”走红，背后是大众内容、教育资源和模型学习之间的关系被重新讨论。",
+    "url": "https://www.qbitai.com/2026/08/474064.html",
+    "source": "量子位"
+  },
+  {
+    "title": "IJCAI 2026 前瞻：中国大厂赞助减少但研究仍在场",
+    "summary": "雷峰网预告 IJCAI 2026，关注中国 AI 公司在国际顶会中的参与方式变化；行业从品牌赞助转向论文、开源和工程影响力的竞争。",
+    "url": "https://www.leiphone.com/category/private/s0Uh2zV14wto02c2.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "AI 公司高速增长样本：营收暴涨 1400%",
+    "summary": "量子位报道一家 AI 公司最新季度收入大幅增长，市场将其与大型 IPO 预期相连；AI 基础设施和模型公司的收入兑现速度仍是资本关注核心。",
+    "url": "https://www.qbitai.com/2026/08/473947.html",
+    "source": "量子位"
+  },
+  {
+    "title": "亚马逊试图通过条款更新压低集体诉讼风险",
+    "summary": "The Verge 报道 Amazon 更新服务条款并强化仲裁安排；虽然不是纯 AI 产品新闻，但在平台 AI 服务不断扩张的背景下，用户权利和争议解决机制会影响未来 AI 消费纠纷。",
+    "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+    "source": "The Verge"
+  }
+]

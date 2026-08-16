@@ -1,0 +1,23 @@
+[
+  {
+    "title": "basecamp/omarchy",
+    "link": "https://github.com/basecamp/omarchy",
+    "summary": "[Stars: 25,344] [591 stars this week] [Language: Shell] Beautiful, Modern & Opinionated Linux",
+    "published": "2026-08-17",
+    "dedupe_id": "github:basecamp/omarchy"
+  },
+  {
+    "title": "unslothai/unsloth",
+    "link": "https://github.com/unslothai/unsloth",
+    "summary": "[Stars: 72,531] [2,207 stars this week] [Language: Python] Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "published": "2026-08-17",
+    "dedupe_id": "github:unslothai/unsloth"
+  },
+  {
+    "title": "Lightricks/LTX-2",
+    "link": "https://github.com/Lightricks/LTX-2",
+    "summary": "[Stars: 9,055] [484 stars this week] [Language: Python] Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+    "published": "2026-08-17",
+    "dedupe_id": "github:lightricks/ltx-2"
+  }
+]
