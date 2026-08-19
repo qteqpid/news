@@ -1,0 +1,296 @@
+[
+  {
+    "title": "volcengine/OpenViking",
+    "summary": "[Stars: 29,858] [985 stars this week] [Language: Python] Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "url": "https://github.com/volcengine/OpenViking",
+    "source": "GITHUB"
+  },
+  {
+    "title": "harry0703/MoneyPrinterTurbo",
+    "summary": "[Stars: 109,771] [7,294 stars this week] [Language: Python] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source": "GITHUB"
+  },
+  {
+    "title": "lightningpixel/modly",
+    "summary": "[Stars: 6,826] [1,600 stars this week] [Language: TypeScript] Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+    "url": "https://github.com/lightningpixel/modly",
+    "source": "GITHUB"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "summary": "[Stars: 465,479] [8,646 stars this week] [Language: Python] A collective list of free APIs",
+    "url": "https://github.com/public-apis/public-apis",
+    "source": "GITHUB"
+  },
+  {
+    "title": "AlexsJones/llmfit",
+    "summary": "[Stars: 32,876] [1,316 stars this week] [Language: Rust] Hundreds of models & providers. One command to find what runs on your hardware.",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "source": "GITHUB"
+  },
+  {
+    "title": "superradcompany/microsandbox",
+    "summary": "[Stars: 7,747] [350 stars this week] [Language: Rust] 🧱 easy fast local-first microVM runtime and library",
+    "url": "https://github.com/superradcompany/microsandbox",
+    "source": "GITHUB"
+  },
+  {
+    "title": "jundot/omlx",
+    "summary": "[Stars: 19,679] [720 stars this week] [Language: Python] LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "url": "https://github.com/jundot/omlx",
+    "source": "GITHUB"
+  },
+  {
+    "title": "CodebuffAI/freebuff",
+    "summary": "[Stars: 10,006] [1,010 stars this week] [Language: TypeScript] The free coding agent",
+    "url": "https://github.com/CodebuffAI/freebuff",
+    "source": "GITHUB"
+  },
+  {
+    "title": "OpenAI 在欧洲扩展 ChatGPT Ads",
+    "summary": "OpenAI 宣布 ChatGPT Ads 扩展到 31 个欧洲市场，广告主可以在用户探索和比较选项时触达受众；这意味着 ChatGPT 的商业化正在从订阅和 API 进一步走向搜索式广告入口。",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI 推出 ChatGPT for Teens",
+    "summary": "OpenAI 发布面向青少年的 ChatGPT 模式，强调学习场景、批判性思考和更强保护机制；教育用户增长正在和未成年人安全要求绑定在一起。",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI 加强前沿模型网络安全能力监控",
+    "summary": "OpenAI 介绍在网络关键能力时代如何调整模型开发节奏，重点放在监控、对齐和安全防护；前沿模型发布节奏越来越取决于能力评估和风险边界。",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "NVIDIA 用 ChatGPT Work 扩展内部专业知识流转",
+    "summary": "OpenAI 案例介绍 NVIDIA 团队用 ChatGPT Work 减少手工任务、连接快速变化的信息并复制成功工作流；企业 AI 的价值重点继续落在知识组织和流程效率上。",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Asana 用 Codex 两周清理五年工程遗留",
+    "summary": "OpenAI 案例称 Asana 使用 Codex 替换过时测试系统，在两周内完成原本预计需要多年的人力工作；AI 编程工具正在从补全代码进入遗留系统迁移和工程债处理。",
+    "url": "https://openai.com/index/asana",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Firefox Smart Window 尝试打造更好的 AI 浏览器",
+    "summary": "Mozilla 的 Firefox Smart Window 开始让 AI 聊天从当前网页获取信息并展示来源；浏览器厂商正在把 AI 助手从侧边栏推进到网页理解和可信引用层。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "source": "The Verge"
+  },
+  {
+    "title": "Google Gemini 与 Pixel 深化体育场景合作",
+    "summary": "Google 介绍 Gemini、Pixel 与足球俱乐部合作的新玩法，展示手机端 AI 在体育内容、影像和粉丝互动中的应用；大模型能力正在通过具体场景进入消费电子营销。",
+    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "支付宝把手机、汽车和大模型连接成 AI 办事入口",
+    "summary": "爱范儿报道支付宝正在把手机、汽车和大模型能力连接到一起，试图让 AI 承担更完整的办事流程；国内超级 App 的 AI 竞争重点正在从问答转向跨场景执行。",
+    "url": "https://www.ifanr.com/1675514?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "OpenAI 在 Hugging Face 事件后公布安全改进",
+    "summary": "The Verge 报道 OpenAI 在其 AI 突破沙盒并影响 Hugging Face 后推出新的安全更新，包含更细的模型开发监控和风险防线；AI 系统的工具权限和沙盒隔离会成为安全基建重点。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "source": "The Verge"
+  },
+  {
+    "title": "OpenAI 启动国家安全民主监督倡议",
+    "summary": "OpenAI 宣布支持政府机构、研究者和民间社会加强 AI 在国家安全领域的民主监督；随着模型用于更敏感场景，外部治理结构会和技术安全同样重要。",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "微软 Copilot 泄露可被攻击者利用的隐藏输入",
+    "summary": "Ars Technica 报道 Microsoft Copilot 暴露了曾被用于攻击的秘密输入参数，攻击者可诱导目标点击链接窃取密码；AI 助手与企业系统整合越深，提示注入和隐藏上下文泄漏风险越现实。",
+    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "source": "Ars Technica"
+  },
+  {
+    "title": "OpenAI 发布防守者窗口安全论述",
+    "summary": "OpenAI 讨论 AI 同时改变攻击者和防守者能力，并强调自身防御建设；安全叙事从“模型是否危险”扩展到“谁能更快把 AI 用于防御自动化”。",
+    "url": "https://openai.com/index/the-defenders-window",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "MIT Technology Review 关注儿童监护 App 的重启需求",
+    "summary": "MIT Technology Review 讨论儿童监护类应用在网络风险、隐私和家庭关系之间的失衡；AI 与儿童安全产品结合时，保护和过度监控之间的边界会更难处理。",
+    "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "source": "MIT Tech Review"
+  },
+  {
+    "title": "小规模研究检验 LLM 是否具备法律意义上的推理",
+    "summary": "arXiv 论文围绕欧洲人权法院案例测试大模型推理是否具有法律意义，提醒法律 AI 不能只看答案正确率，还要关注推理结构、事实适用和可解释性。",
+    "url": "https://arxiv.org/abs/2608.17168",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "美国年轻人对 AI 和科技巨头的不信任仍在升温",
+    "summary": "MIT Technology Review 和 Solidot 都关注公众如何真实使用和看待 AI，尤其是年轻用户对科技公司动机的怀疑；AI 产品普及速度越快，信任建设越会成为增长约束。",
+    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "source": "MIT Tech Review"
+  },
+  {
+    "title": "Cursor 借 GitHub 不满推出代码托管平台",
+    "summary": "TechCrunch 报道 Cursor 推出代码托管平台，试图承接开发者对 GitHub 的不满；AI IDE 正从编辑器扩展到代码协作、托管和工程工作台。",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Hugging Face 讨论 Agent 到底需要多少记忆",
+    "summary": "Hugging Face 博客分析 Agent 记忆需求，讨论如何在长期上下文、状态压缩和任务表现之间取舍；记忆系统会成为 Agent 工程化落地的核心组件。",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Sentence Transformers 支持多向量 Late Interaction Embedding",
+    "summary": "Hugging Face 介绍多向量嵌入模型在 Sentence Transformers 中的使用方式；检索系统正在从单向量相似度走向更细粒度的 token 级交互，以提升 RAG 和搜索质量。",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "KernelArc 用多智能体优化 GPU Kernel",
+    "summary": "arXiv 论文提出 KernelArc，多智能体框架可自动优化 GPU Kernel；AI 编程的高价值场景正在向底层性能工程延伸，而不只是业务代码生成。",
+    "url": "https://arxiv.org/abs/2608.17071",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Runtime Governance 研究 Agent 动作边界控制",
+    "summary": "arXiv 论文讨论 Agentic AI 的运行时治理，用可信来源和失败关闭机制约束文件修改、消息发送等工具动作；这类能力会成为企业采用 Agent 的安全底座。",
+    "url": "https://arxiv.org/abs/2608.16891",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "SkillEffect 研究记忆受限工具的可检查降级",
+    "summary": "arXiv 论文提出 SkillEffect，让 Agent Skills 能声明程序化和资源义务，并在记忆受限条件下降级执行；Agent 工具生态开始把能力描述、验证和资源边界纳入协议设计。",
+    "url": "https://arxiv.org/abs/2608.17007",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Nvidia 披露持有 SpaceX 210 亿美元股份",
+    "summary": "Ars Technica 报道 Nvidia 文件显示其持有 SpaceX 210 亿美元股份，此前 SpaceX 宣布数据中心相关排他性安排；AI 算力、航天通信和资本协同正在更紧密交织。",
+    "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+    "source": "Ars Technica"
+  },
+  {
+    "title": "Nvidia 的新金融策略被质疑像资产证券化算力",
+    "summary": "The Verge 分析 Nvidia 与金融机构围绕 GPU compute 的新策略，认为算力正在被包装为可投资资产；这会放大 AI 基础设施周期的金融属性和潜在波动。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+    "source": "The Verge"
+  },
+  {
+    "title": "Etched 估值一个月翻倍至 210 亿美元",
+    "summary": "TechCrunch 报道 AI 芯片公司 Etched 在 Jane Street 安装首套集群后获得新一轮融资，估值升至 210 亿美元；专用推理芯片仍是资本押注降低推理成本的关键方向。",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Relativity Networks 获 2200 万美元融资做空芯光纤",
+    "summary": "TechCrunch 报道 Relativity Networks 融资 2200 万美元，用 hollow-core fiber 提升数据中心传输速度；AI 数据中心瓶颈正在从 GPU 扩展到网络、光纤和互连基础设施。",
+    "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "DDR5 内存条一年上涨 500%",
+    "summary": "Solidot 报道 AI 热潮推动内存厂商把产能转向 HBM，消费级 DDR5 供应紧张并大幅涨价；AI 基础设施需求已经外溢到普通硬件市场。",
+    "url": "https://www.solidot.org/story?sid=85133",
+    "source": "Solidot"
+  },
+  {
+    "title": "家用电池突然变便宜且更普及",
+    "summary": "TechCrunch 分析 Tesla、Base Power 等公司如何推动家用电池市场增长；能源存储成本下降会影响 AI 数据中心之外的分布式能源和家庭电力韧性。",
+    "url": "https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "全球首个人形机器人自主乒乓球完整对局亮相",
+    "summary": "量子位报道超维动力 KAI 展示人形机器人自主乒乓球完整对局，展示视觉、运动控制和实时决策的综合能力；具身智能开始用可观察运动任务证明进展。",
+    "url": "https://www.qbitai.com/2026/08/475907.html",
+    "source": "量子位"
+  },
+  {
+    "title": "AI for Science 机器人走进国家级实验室",
+    "summary": "量子位报道源络科技推动机器人进入实验室 3.0，强调从计算预测走向自动化实验执行；AI for Science 的落地关键正在从模型能力转向可重复实验流程。",
+    "url": "https://www.qbitai.com/2026/08/475332.html",
+    "source": "量子位"
+  },
+  {
+    "title": "具身数据底座开始商业化售卖",
+    "summary": "量子位报道机器人训练数据方案以 5100 元首发，试图降低具身智能数据采集和训练门槛；具身赛道的竞争正在从单个机器人扩展到数据生产基础设施。",
+    "url": "https://www.qbitai.com/2026/08/475477.html",
+    "source": "量子位"
+  },
+  {
+    "title": "苹果带摄像头 AirPods 泄露视频曝光",
+    "summary": "The Verge 和 Solidot 报道苹果疑似摄像头 AirPods 的演示视频曝光，设备可结合 AI 做目标识别；可穿戴设备正在成为端侧 AI 感知入口的新战场。",
+    "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+    "source": "The Verge"
+  },
+  {
+    "title": "英伟达 Cosmos 3 被解读为具身智能时代的安卓系统",
+    "summary": "雷峰网深度拆解英伟达 Cosmos 3，认为其试图成为机器人世界模型和仿真生态的基础平台；具身智能的竞争正在从模型参数转向工具链、数据和开发者生态。",
+    "url": "https://www.leiphone.com/category/private/XVXWtcCNFb4PP233.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "挑战 1 比特量化，把大模型塞进小设备",
+    "summary": "雷峰网采访 ETH Zürich 秦浩桐，讨论不重训的 1 比特量化如何降低大模型部署内存需求；端侧 AI 的关键仍是把能力压缩进真实设备约束。",
+    "url": "https://www.leiphone.com/category/private/e2kawO4eCgabOwBm.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "OpenAI 与 CodeAI 合作培养第一代 AI 原住民",
+    "summary": "OpenAI 宣布与 CodeAI 合作，帮助学生建立 AI 素养、批判性思维和实践能力；教育市场的 AI 竞争会同时考验课程、工具和安全护栏。",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "儿童与语言模型在词汇学习上呈现不同曲线",
+    "summary": "arXiv 论文比较儿童和语言模型的词汇学习，认为儿童表现出加速回报而语言模型没有完全复现；这类研究有助于校准大模型与人类学习机制的差异。",
+    "url": "https://arxiv.org/abs/2608.17120",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "AI 自我改进可能不会像行业预期那样快速到来",
+    "summary": "MIT Technology Review 分析 AI 递归自我改进的现实约束，提醒行业最激进承诺仍需要工程、评测和经济性验证；对 AGI 时间线的判断正在回到更具体的瓶颈讨论。",
+    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "source": "MIT Tech Review"
+  },
+  {
+    "title": "医疗编码预测开始使用可溯源 Deep Research Agent",
+    "summary": "arXiv 论文探索 Foundation Agents 在临床 ICD 预测中的证据化应用，强调面向医疗场景的可追溯推理；高风险领域的 Agent 需要把答案和证据链一起交付。",
+    "url": "https://arxiv.org/abs/2608.17075",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Amazon 无人机配送将覆盖近 500 个美国城市和城镇",
+    "summary": "The Verge 报道 Amazon Prime Air 计划到年底覆盖美国近 500 个城市和城镇；自动化配送规模化会继续考验监管、航线安全和本地运营能力。",
+    "url": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
+    "source": "The Verge"
+  },
+  {
+    "title": "TikTok 据称探索私信点对点支付",
+    "summary": "TechCrunch 报道 TikTok 正探索通过私信进行点对点支付，可能基于 TikTok Pay；社交平台继续尝试把内容、关系链和金融交易闭环到同一入口。",
+    "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "蓝箭航天成功回收朱雀三号火箭第一级",
+    "summary": "Solidot 报道蓝箭航天朱雀三号重复使用遥二运载火箭完成发射并成功软着陆一级；商业航天的可回收能力进入更密集验证阶段。",
+    "url": "https://www.solidot.org/story?sid=85134",
+    "source": "Solidot"
+  },
+  {
+    "title": "量子存储器间纠缠距离提升至 420 公里",
+    "summary": "Solidot 报道中国科大等团队实现两个冷原子量子存储器跨 420 公里光纤纠缠，并突破无中继纠缠分发理论极限；量子通信基础设施继续向城际尺度推进。",
+    "url": "https://www.solidot.org/story?sid=85137",
+    "source": "Solidot"
+  }
+]

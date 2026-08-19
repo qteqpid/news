@@ -1,0 +1,58 @@
+[
+  {
+    "title": "volcengine/OpenViking",
+    "link": "https://github.com/volcengine/OpenViking",
+    "summary": "[Stars: 29,858] [985 stars this week] [Language: Python] Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "published": "2026-08-19",
+    "dedupe_id": "github:volcengine/openviking"
+  },
+  {
+    "title": "harry0703/MoneyPrinterTurbo",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "summary": "[Stars: 109,771] [7,294 stars this week] [Language: Python] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "published": "2026-08-19",
+    "dedupe_id": "github:harry0703/moneyprinterturbo"
+  },
+  {
+    "title": "lightningpixel/modly",
+    "link": "https://github.com/lightningpixel/modly",
+    "summary": "[Stars: 6,826] [1,600 stars this week] [Language: TypeScript] Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+    "published": "2026-08-19",
+    "dedupe_id": "github:lightningpixel/modly"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "link": "https://github.com/public-apis/public-apis",
+    "summary": "[Stars: 465,479] [8,646 stars this week] [Language: Python] A collective list of free APIs",
+    "published": "2026-08-19",
+    "dedupe_id": "github:public-apis/public-apis"
+  },
+  {
+    "title": "AlexsJones/llmfit",
+    "link": "https://github.com/AlexsJones/llmfit",
+    "summary": "[Stars: 32,876] [1,316 stars this week] [Language: Rust] Hundreds of models & providers. One command to find what runs on your hardware.",
+    "published": "2026-08-19",
+    "dedupe_id": "github:alexsjones/llmfit"
+  },
+  {
+    "title": "superradcompany/microsandbox",
+    "link": "https://github.com/superradcompany/microsandbox",
+    "summary": "[Stars: 7,747] [350 stars this week] [Language: Rust] 🧱 easy fast local-first microVM runtime and library",
+    "published": "2026-08-19",
+    "dedupe_id": "github:superradcompany/microsandbox"
+  },
+  {
+    "title": "jundot/omlx",
+    "link": "https://github.com/jundot/omlx",
+    "summary": "[Stars: 19,679] [720 stars this week] [Language: Python] LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "published": "2026-08-19",
+    "dedupe_id": "github:jundot/omlx"
+  },
+  {
+    "title": "CodebuffAI/freebuff",
+    "link": "https://github.com/CodebuffAI/freebuff",
+    "summary": "[Stars: 10,006] [1,010 stars this week] [Language: TypeScript] The free coding agent",
+    "published": "2026-08-19",
+    "dedupe_id": "github:codebuffai/freebuff"
+  }
+]
