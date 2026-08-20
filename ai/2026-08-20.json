@@ -1,0 +1,236 @@
+[
+  {
+    "title": "OpenAI 为前沿模型提供 Zero Data Retention",
+    "summary": "OpenAI 表示将为符合条件的 API 客户继续提供 Zero Data Retention，并预告 Private Safety Processing，用于在更强安全处理和企业隐私之间做平衡；企业采用前沿模型时，数据留存和安全评估会成为采购关键项。",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Replit 用 GPT-5.6 Luna 扩大软件创建入口",
+    "summary": "Replit 推出由 GPT-5.6 Luna 支持的 Free Mode，让更多用户不必先担心成本就能把想法变成可运行软件；AI 编程产品正在继续降低从想法到原型的门槛。",
+    "url": "https://openai.com/index/replit",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI 加入 PORTS-Pike 项目",
+    "summary": "OpenAI 宣布加入 PORTS-Pike 项目，并将其表述为对俄亥俄南部社区和就业的长期投入；AI 公司正更多把基础设施、政策和本地经济影响绑定在一起叙事。",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI 资助 14 个智能时代政策项目",
+    "summary": "OpenAI 公布一组新的政策研究资助，覆盖经济机会、社会韧性和治理设计等方向；前沿 AI 的治理竞争不只发生在模型层，也会发生在政策想象和制度工具层。",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Google Search 增加学习工具",
+    "summary": "Google 在返校季推出多项 Search 学习功能，包括把搜索内容转入 Notebook 和更强的提问式学习入口；搜索正在继续向学习助手和个人知识组织工具演化。",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Google Gemini 推出学生专属入口",
+    "summary": "The Verge 报道 Gemini 将获得 dedicated student hub，集中呈现学习相关能力；大模型厂商正在围绕学生场景做更明确的产品分层和入口运营。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "source": "The Verge"
+  },
+  {
+    "title": "ChatGPT 将推出青少年专属模式",
+    "summary": "OpenAI 准备在 ChatGPT 中加入面向 teens 的模式，叠加现有 youth safeguards 和新的安全功能；教育与未成年人场景会继续推动模型产品把权限、内容和默认保护机制做得更细。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "source": "The Verge"
+  },
+  {
+    "title": "OpenAI 与 Anthropic 企业隐私竞争升温",
+    "summary": "TechCrunch 报道 OpenAI 正用新的客户隐私保护能力追赶或反击 Anthropic；企业 AI 的竞争正在从模型能力扩展到数据使用边界、保留策略和合规承诺。",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "OpenAI 放慢节奏后面临新问题",
+    "summary": "The Verge 分析 OpenAI 在竞争、IPO 预期和安全节奏之间的压力；前沿模型公司需要同时管理发布速度、资本市场叙事和安全可信度。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "source": "The Verge"
+  },
+  {
+    "title": "Meta AI 推出 Mac 应用",
+    "summary": "Meta 发布面向 macOS 的 Meta AI 桌面应用，支持分享屏幕并进行聊天；主流 AI 助手正在从网页和移动端继续进入桌面工作流。",
+    "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "source": "The Verge"
+  },
+  {
+    "title": "Robin Williams 家人重启账号反对 AI 滥用",
+    "summary": "Robin Williams 子女重新接管其 Instagram 账号，并将其用于反对 AI 滥用名人形象；生成式 AI 对逝者肖像、声音和人格权益的冲突仍在升温。",
+    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "source": "The Verge"
+  },
+  {
+    "title": "Flock 争议凸显 AI 监控系统的设计边界",
+    "summary": "MIT Technology Review 继续讨论 Flock 摄像头系统的设计选择和辩护盲点；AI 监控产品的社会风险往往来自默认数据流、权限扩散和执法接入方式。",
+    "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "source": "MIT Tech Review"
+  },
+  {
+    "title": "AI 自我改进问题仍缺少可靠答案",
+    "summary": "MIT Technology Review 关注 AI 递归自我改进的现实约束，提醒行业不要把能力曲线自动外推为无限加速；模型能力、评测和工程闭环之间仍有很长距离。",
+    "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+    "source": "MIT Tech Review"
+  },
+  {
+    "title": "Stripe 收购 OpenRouter 的动机不只是“奇点”叙事",
+    "summary": "TechCrunch 分析 Stripe 收购 OpenRouter 背后的支付、模型路由和企业基础设施逻辑；AI 模型访问层正在成为支付、计费和开发者平台争夺的新位置。",
+    "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Solidot 报道 Stripe 以 75 亿美元收购 OpenRouter",
+    "summary": "Solidot 称 Stripe 以 75 亿美元收购 AI 初创公司 OpenRouter，创始人将获得可观回报；模型中转和路由层的商业价值正在被基础设施公司重新定价。",
+    "url": "https://www.solidot.org/story?sid=85144",
+    "source": "Solidot"
+  },
+  {
+    "title": "Cognition CEO 否认 SpaceX 收购传闻",
+    "summary": "TechCrunch 报道 Cognition CEO 否认 SpaceX 曾尝试收购该 AI coding startup；AI 编程公司仍处在高关注、高估值和高并购想象的交汇处。",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Rillet 两年后以 10 亿美元估值融资",
+    "summary": "AI-native accounting startup Rillet 完成 1 亿美元 C 轮融资并成为独角兽；财务、会计这类高度结构化流程继续成为 AI SaaS 落地的高价值场景。",
+    "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "消费者仍未完全被 AI 说服",
+    "summary": "TechCrunch 讨论 AI 产品持续普及但消费者态度趋于谨慎的问题；当 AI 从新鲜功能变成默认入口，信任、可控和真实价值会比演示效果更重要。",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "华尔街实测 8 款 Agent，千问办公排名第一",
+    "summary": "量子位和雷峰网报道，杰富瑞分析师对多款主流办公 Agent 做真实任务测试，阿里千问办公综合表现突出；Agent 产品竞争正在进入面向具体工作任务的横向评测。",
+    "url": "https://www.qbitai.com/2026/08/476070.html",
+    "source": "量子位"
+  },
+  {
+    "title": "即时零售智能体可信规范发布",
+    "summary": "雷峰网报道中国信通院联合淘宝闪购发布即时零售智能体可信基本要求；垂直行业 Agent 开始从功能试点走向规范、责任和可信评价体系。",
+    "url": "https://www.leiphone.com/category/industrynews/xVJthZockA9RDYB6.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "中科通量推出本地移动 AI 数字员工",
+    "summary": "中科通量发布 OmniMate 移动 AI 数字员工，主打本地智能、低时延和线下服务场景；AI 数字人落地正在从云端展示转向门店、展厅和政务服务等真实空间。",
+    "url": "https://www.leiphone.com/category/industrynews/LvcXHrAYqLNnxcpo.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "支付宝 AI 助手“晓政”接入婚姻登记服务",
+    "summary": "支付宝政务 AI 助手“晓政”联合民政通上线七夕婚姻登记专项服务，依托 MCP 能力连接多省官方服务通道；政务 AI 正在从咨询入口向跨系统办事流程推进。",
+    "url": "https://www.leiphone.com/category/industrynews/pneNGy8qZOpKWkEH.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "九章智算云讨论 GLM-5 强化学习训推一致",
+    "summary": "雷峰网以 GLM-5 为例介绍九章智算云强化学习系统，重点是数学推理、代码生成和长时序 Agent 的后训练落地；强化学习基础设施正在成为大模型后训练竞争核心。",
+    "url": "https://www.leiphone.com/category/ai/Nn76Eez52eSpxeXr.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "LongNovel 关注长篇小说摘要幻觉检测",
+    "summary": "arXiv 论文提出面向长上下文小说摘要幻觉检测的多尺度 benchmark；随着上下文窗口变长，评测重点会从能否读入长文本转向能否稳定追踪事实和叙事细节。",
+    "url": "https://arxiv.org/abs/2608.18082",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "小模型也能出现实体追踪能力",
+    "summary": "arXiv 研究称 sub-billion parameter language models 在自然叙事中出现实体追踪能力，并在部分任务上超过人类表现；这提示语言理解能力并不完全依赖超大参数规模。",
+    "url": "https://arxiv.org/abs/2608.18083",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "LLM Judge 会受到自我标签和他人标签双向偏置",
+    "summary": "arXiv 论文研究 LLM-as-a-judge 场景中的身份标签偏置，指出自我与他人标签都会影响评判；评测系统需要更严肃处理模型裁判的偏差来源。",
+    "url": "https://arxiv.org/abs/2608.18091",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "多智能体系统应优先关注并发控制",
+    "summary": "arXiv position paper 认为 LLM 多智能体系统在协作中会遇到竞态、冲突和一致性问题，应把并发控制作为核心设计对象；Agent 工程化会越来越像分布式系统问题。",
+    "url": "https://arxiv.org/abs/2608.18092",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "FinSkillBench 评估投资管理 Agent 能力",
+    "summary": "arXiv 论文提出 FinSkillBench，用于评估 AI Agent 在投资管理中的领域技能；金融场景的 Agent 评测会更关注任务分解、工具使用和风险控制。",
+    "url": "https://arxiv.org/abs/2608.18099",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "自演化 Agent 被重新建模为动态图转换",
+    "summary": "arXiv survey 从动态图转换视角审视 self-evolving agents，整理其能力扩展、反馈循环和系统风险；Agent 研究正在从单次任务表现转向长期自我修改机制。",
+    "url": "https://arxiv.org/abs/2608.18104",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Data-DPO 研究 LLM 后训练数据选择",
+    "summary": "arXiv 论文提出 Data-DPO，用偏好优化思路为目标模型选择后训练数据；数据选择正在成为提升模型表现和降低训练成本的重要杠杆。",
+    "url": "https://arxiv.org/abs/2608.16926",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "LoRA Adapter 被包装成 Agent 工具",
+    "summary": "arXiv 论文提出 Switching LoRA Adapters as a Tool，让 Agent 可按任务切换能力适配器；未来 Agent 的能力扩展可能更像动态加载工具和模块，而不是一次性固定模型。",
+    "url": "https://arxiv.org/abs/2608.17034",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "宇树科技上市首日大涨引发机器人赛道再定价",
+    "summary": "量子位报道宇树科技上市首日大涨，并追问世界机器人大会中谁可能成为下一个核心玩家；资本市场正在用更高预期重估人形机器人和具身智能公司。",
+    "url": "https://www.qbitai.com/2026/08/476120.html",
+    "source": "量子位"
+  },
+  {
+    "title": "IDC 发布 2026 中国 AI 50 强",
+    "summary": "量子位报道 IDC 发布 2026 中国 AI 50 强，360 凭借智能体和 AI 安全布局入选；国内 AI 产业评价越来越强调应用体系、安全能力和行业落地。",
+    "url": "https://www.qbitai.com/2026/08/475901.html",
+    "source": "量子位"
+  },
+  {
+    "title": "苹果带摄像头 AirPods 再次曝光",
+    "summary": "爱范儿和 Solidot 都报道苹果疑似带摄像头 AirPods 的线索，设备可能用于 AI 目标识别；端侧 AI 的感知入口正在从手机扩展到耳机和可穿戴设备。",
+    "url": "https://www.ifanr.com/1675719?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "网易传媒发布“蜜蜂 AI”",
+    "summary": "爱范儿报道网易传媒推出社区 AI 产品“蜜蜂 AI”，试图探索 AI 与年轻化社区的新连接；内容社区正在把 AI 从工具变成互动、陪伴和创作分发的一部分。",
+    "url": "https://www.ifanr.com/1675521?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "AI 时代电脑形态继续变化",
+    "summary": "爱范儿讨论 AI 时代电脑该如何围绕系统级 AI、跨设备协同和折叠屏重新设计工作流；PC 的竞争点正在从性能参数走向 AI 原生交互和生态协同。",
+    "url": "https://www.ifanr.com/1675518?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "LG OLED 新工艺提升显示寿命",
+    "summary": "The Verge 报道 LG Display 的新 OLED 制造方法可提升亮度和面板寿命；虽然不是纯 AI 新闻，但显示技术进步会继续影响 XR、移动设备和端侧 AI 硬件体验。",
+    "url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+    "source": "The Verge"
+  },
+  {
+    "title": "Google 拍下破产航空公司 Spirit 的数据",
+    "summary": "Solidot 报道 Google 以 1000 万美元拍下 Spirit 航空相关数据；大公司对垂直行业数据资产的争夺，可能继续影响 AI 训练、搜索和出行产品。",
+    "url": "https://www.solidot.org/story?sid=85129",
+    "source": "Solidot"
+  },
+  {
+    "title": "量子存储器间纠缠距离提升至 420 公里",
+    "summary": "Solidot 报道中国科大等团队实现两个冷原子量子存储器跨 420 公里光纤纠缠；量子通信基础设施继续向城际尺度推进。",
+    "url": "https://www.solidot.org/story?sid=85137",
+    "source": "Solidot"
+  }
+]
