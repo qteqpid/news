@@ -1,0 +1,578 @@
+[
+  {
+    "title": "Introducing AI Futures",
+    "summary": "OpenAI 相关动态，关注产品、组织或 AI 未来影响。",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "summary": "OpenAI 相关动态，关注产品、组织或 AI 未来影响。",
+    "url": "https://openai.com/index/stampli",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "summary": "Google/DeepMind 相关动态，关注模型、搜索、游戏 AI 或平台能力。",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "summary": "AI/科技行业动态，关注产品更新、产业变化或用户影响。",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "summary": "AI/科技行业动态，关注产品更新、产业变化或用户影响。",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Transformer Models for Text Summarization: A Comparative Study of BART, BERT, and RoBERTa",
+    "summary": "研究论文：arXiv:2608.19200v1 Announce Type: new Abstract: Text summarization refers to the task of condensing a document",
+    "url": "https://arxiv.org/abs/2608.19200",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Asymmetric Attention Heads: Structured Head-Wise Context Allocation for Transformer Attention",
+    "summary": "研究论文：arXiv:2608.19203v1 Announce Type: new Abstract: Standard multi-head attention (MHA) gives every head the same",
+    "url": "https://arxiv.org/abs/2608.19203",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Hallucination as a Feature, not a Defect: Evaluating a multi-agent architecture to transform speculative language-model outputs into testable scientific hypotheses",
+    "summary": "研究论文：arXiv:2608.19206v1 Announce Type: new Abstract: Contemporary Large Language Models (LLMs) are increasingly ali",
+    "url": "https://arxiv.org/abs/2608.19206",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Compliance, Capability, and Conflict: Benchmarking Multimodal LLMs under System Messages",
+    "summary": "研究论文：arXiv:2608.19207v1 Announce Type: new Abstract: Production deployments of Multimodal Large Language Models (ML",
+    "url": "https://arxiv.org/abs/2608.19207",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "When Irrelevant Text Matters: Affine Margin Shifts in Multimodal Large Language Models",
+    "summary": "研究论文：arXiv:2608.19208v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) are frequently expose",
+    "url": "https://arxiv.org/abs/2608.19208",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Represented but Ignored: A Causal Account of Prosodic Underuse in Audio-Language Models",
+    "summary": "研究论文：arXiv:2608.19211v1 Announce Type: new Abstract: Human speech is richly expressive, with prosody carrying lingu",
+    "url": "https://arxiv.org/abs/2608.19211",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "NepOOC-M: Bilingual Nepali-English Benchmark and Comparative Analysis of Multimodal Architectures for OOC Detection",
+    "summary": "研究论文：arXiv:2608.19212v1 Announce Type: new Abstract: Out-of-context (OOC) misinformation pairs authentic images wit",
+    "url": "https://arxiv.org/abs/2608.19212",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Time-Series Retrieval for Grounding Multimodal Language Models in Remaining Useful Life",
+    "summary": "研究论文：arXiv:2608.19218v1 Announce Type: new Abstract: Large language models (LLMs) and agentic AI systems are increa",
+    "url": "https://arxiv.org/abs/2608.19218",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+    "summary": "研究论文：arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-though",
+    "url": "https://arxiv.org/abs/2608.18078",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+    "summary": "研究论文：arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language mode",
+    "url": "https://arxiv.org/abs/2608.18080",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Position: Behavioral Systems Require Behavioral Tests",
+    "summary": "研究论文：arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral",
+    "url": "https://arxiv.org/abs/2608.18081",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+    "summary": "研究论文：arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompt",
+    "url": "https://arxiv.org/abs/2608.18086",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+    "summary": "研究论文：arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks",
+    "url": "https://arxiv.org/abs/2608.18088",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+    "summary": "研究论文：arXiv:2608.18110v1 Announce Type: new Abstract: Agentic AI is gaining new insights and advancements in the fie",
+    "url": "https://arxiv.org/abs/2608.18110",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry",
+    "summary": "研究论文：arXiv:2608.18111v1 Announce Type: new Abstract: Foundation models such as GPT and Claude now solve olympiad-le",
+    "url": "https://arxiv.org/abs/2608.18111",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India",
+    "summary": "研究论文：arXiv:2608.18117v1 Announce Type: new Abstract: This position paper argues that AI leaderboards are structural",
+    "url": "https://arxiv.org/abs/2608.18117",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Triangular Fuzzy Rescaling Distance",
+    "summary": "研究论文：arXiv:2608.19234v1 Announce Type: new Abstract: Decision-making in complex systems often involves dealing with",
+    "url": "https://arxiv.org/abs/2608.19234",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis",
+    "summary": "研究论文：arXiv:2608.19297v1 Announce Type: new Abstract: While multimodal large language models (MLLMs) excel in medica",
+    "url": "https://arxiv.org/abs/2608.19297",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Improved Confidence Estimates for Black-Box Large Language Models",
+    "summary": "研究论文：arXiv:2608.19323v1 Announce Type: new Abstract: Uncertainty quantification (UQ) is essential for the safe depl",
+    "url": "https://arxiv.org/abs/2608.19323",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Uncovering the Limits of Proof Sharing for Neural Networks",
+    "summary": "研究论文：arXiv:2608.19351v1 Announce Type: new Abstract: Robustness verification of neural networks is increasingly imp",
+    "url": "https://arxiv.org/abs/2608.19351",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Longitudinal Bayesian Learning of Continuous Disease Position across the Alzheimer's Disease Continuum",
+    "summary": "研究论文：arXiv:2608.19436v1 Announce Type: new Abstract: Alzheimer's disease (AD) progresses as a continuous biological",
+    "url": "https://arxiv.org/abs/2608.19436",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "LLM as Detector: An In-context Learning Approach for Tabular Anomaly Detection",
+    "summary": "研究论文：arXiv:2608.19463v1 Announce Type: new Abstract: Anomaly detection in tabular data is challenging because abnor",
+    "url": "https://arxiv.org/abs/2608.19463",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "When to Retrain: An Empirical Study of Retraining Policies for Streaming ML Under Concept Drift, Budget, and Latency Constraints",
+    "summary": "研究论文：arXiv:2608.19488v1 Announce Type: new Abstract: Production machine learning systems degrade under concept drif",
+    "url": "https://arxiv.org/abs/2608.19488",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "In Two Minds about Lifelong Learning: Exploring Hemispheric Redundancy and Specialisation in Neural Models",
+    "summary": "研究论文：arXiv:2608.19514v1 Announce Type: new Abstract: Persistent intelligent systems require the ability to learn co",
+    "url": "https://arxiv.org/abs/2608.19514",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of peo",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Major YouTube creators are facing backlash for accepting AI money",
+    "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kol",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Google Discover is getting an AI chatbot-tuned feed",
+    "summary": "Google/DeepMind 相关动态，关注模型、搜索、游戏 AI 或平台能力。",
+    "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "It’s Greg Brockman’s OpenAI now",
+    "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Welcome to the AI crisis in math",
+    "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing t",
+    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Slack is launching collaborative vibe-coding channels",
+    "summary": "AI Agent 与研发工具动态，关注企业级落地、协作模式和开发效率。",
+    "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "The Download: threats from space mirrors and credit for AI drugs",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on",
+    "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Mother tongue",
+    "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime r",
+    "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "When AI designs a drug, who gets the credit?",
+    "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary",
+    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Debates over AI consciousness are a trap",
+    "summary": "AI Agent 与研发工具动态，关注企业级落地、协作模式和开发效率。",
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on",
+    "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Unlocking hidden revenue streams with market models",
+    "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not st",
+    "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Support networks aim to help kids through the polycrisis",
+    "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-gr",
+    "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "summary": "AI 安全、治理或平台风险相关动态，值得关注潜在合规与产品信任影响。",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "summary": "AI 商业化与资本市场动态，关注融资、算力基础设施或行业竞争。",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+    "summary": "AI 商业化与资本市场动态，关注融资、算力基础设施或行业竞争。",
+    "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+    "summary": "Apple 与消费硬件相关动态，可能影响端侧 AI、生态体验或开发者机会。",
+    "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+    "summary": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of b",
+    "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "summary": "AI 商业化与资本市场动态，关注融资、算力基础设施或行业竞争。",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready",
+    "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Tesla’s solar roof is dead — here’s what went wrong",
+    "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the conce",
+    "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "HoverAir’s transforming modular drone has already been halted in the US",
+    "summary": "具身智能/机器人方向动态，关注真实场景落地、硬件形态或产业合作。",
+    "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+    "source": "The Verge"
+  },
+  {
+    "title": "Apple is laying off staffers working on the Vision Pro and Siri",
+    "summary": "Apple 与消费硬件相关动态，可能影响端侧 AI、生态体验或开发者机会。",
+    "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+    "source": "The Verge"
+  },
+  {
+    "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
+    "summary": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one",
+    "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
+    "source": "The Verge"
+  },
+  {
+    "title": "Walmart is finally adding Apple Pay and Google Pay",
+    "summary": "Google/DeepMind 相关动态，关注模型、搜索、游戏 AI 或平台能力。",
+    "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
+    "source": "The Verge"
+  },
+  {
+    "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
+    "summary": "AI 安全、治理或平台风险相关动态，值得关注潜在合规与产品信任影响。",
+    "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
+    "source": "The Verge"
+  },
+  {
+    "title": "Pixel 11 gets in on the digicam trend",
+    "summary": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it look",
+    "url": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
+    "source": "The Verge"
+  },
+  {
+    "title": "Google’s Pixel 10A is a great deal at 15 percent off",
+    "summary": "Google/DeepMind 相关动态，关注模型、搜索、游戏 AI 或平台能力。",
+    "url": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
+    "source": "The Verge"
+  },
+  {
+    "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+    "summary": "AI Agent 与研发工具动态，关注企业级落地、协作模式和开发效率。",
+    "url": "https://sspai.com/post/113638",
+    "source": "少数派"
+  },
+  {
+    "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+    "summary": "Apple 与消费硬件相关动态，可能影响端侧 AI、生态体验或开发者机会。",
+    "url": "https://sspai.com/post/113618",
+    "source": "少数派"
+  },
+  {
+    "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+    "summary": "具身智能/机器人方向动态，关注真实场景落地、硬件形态或产业合作。",
+    "url": "https://www.qbitai.com/2026/08/476733.html",
+    "source": "量子位"
+  },
+  {
+    "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+    "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会...",
+    "url": "https://www.qbitai.com/2026/08/476628.html",
+    "source": "量子位"
+  },
+  {
+    "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+    "summary": "具身智能/机器人方向动态，关注真实场景落地、硬件形态或产业合作。",
+    "url": "https://www.qbitai.com/2026/08/476596.html",
+    "source": "量子位"
+  },
+  {
+    "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+    "summary": "让科学家的时间回到科学创造...",
+    "url": "https://www.qbitai.com/2026/08/476591.html",
+    "source": "量子位"
+  },
+  {
+    "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
+    "summary": "具身智能/机器人方向动态，关注真实场景落地、硬件形态或产业合作。",
+    "url": "https://www.qbitai.com/2026/08/476525.html",
+    "source": "量子位"
+  },
+  {
+    "title": "2026 WRC | 魔法原子“三大场景”全景亮相，“场景驱动·产需共融”主题论坛共探具身智能落",
+    "summary": "具身智能/机器人方向动态，关注真实场景落地、硬件形态或产业合作。",
+    "url": "https://www.leiphone.com/category/robot/DCljjXT8jddT4PJs.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能硬核登场",
+    "summary": "具身智能/机器人方向动态，关注真实场景落地、硬件形态或产业合作。",
+    "url": "https://www.leiphone.com/category/robot/rlnc7wOi4Q7hymVJ.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "SenseNova U1.5 Lite正式版发布：支持超长指令，解锁原生4K真实视觉创作流",
+    "summary": "今天，商汤科技正式开源轻量级、原生统一多模态大模型 SenseNova U1.5 Lite。与预览版（U1.5 Lite Preview）呈现的原生统一多模态模型能力相比，正式版更关注的是，这些能力能否更准确、更稳定地进",
+    "url": "https://www.leiphone.com/category/industrynews/6sNCkUYytWV6ixlf.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "明略科技吴明辉WRC主论坛演讲：机器人的下半场，需要两个“大脑”",
+    "summary": "具身智能/机器人方向动态，关注真实场景落地、硬件形态或产业合作。",
+    "url": "https://www.leiphone.com/category/industrynews/DdNM82Qy8T8MQyBk.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "亚信×火山引擎：6000+席位，用TRAE 跑通企业级AI研发落地",
+    "summary": "AI Agent 与研发工具动态，关注企业级落地、协作模式和开发效率。",
+    "url": "https://www.leiphone.com/category/industrynews/yh7mXNklbQxa0CLp.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "独家丨程传珂接任阿里云公共云分销生态负责人，李鹏卸任",
+    "summary": "雷峰网独家获悉，阿里云渠道生态业务近期完成人事调整，程传珂已接任渠道生态负责人，原负责人李鹏卸任。程传珂此前担任阿里云新生态华南大区总经理。知情人士告诉雷峰网，程传珂在接手生态业务后，团队有所扩充。李鹏于2024年底加入",
+    "url": "https://www.leiphone.com/category/CorporateServices/HbwCFa5238oNjTO3.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "蔚来汽车 x 火山引擎：TRAE深入座舱研发，从个人效率走向组织智能",
+    "summary": "AI Agent 与研发工具动态，关注企业级落地、协作模式和开发效率。",
+    "url": "https://www.leiphone.com/category/industrynews/CqEqyOVULMky2lE5.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "云大厂“亏钱卖”友商AI，重回21年恶性竞争老路",
+    "summary": "“4.8折？你确定？”看到刚打探到的友商报价，云销售张小雨的第一反应是：不可能。之前有智谱原厂销售跟他说，他们都是卖 8.5 折，现在友商竟然直接报出4.8折，比原厂最低价还低了四成多，而且智谱、DeepSeek、Kim",
+    "url": "https://www.leiphone.com/category/CorporateServices/2OndXI7BTP3zV3vO.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "用AI治疗癌症！背后巨头Moderna，股价暴涨177%",
+    "summary": "Moderna癌症疫苗III期临床成功。...",
+    "url": "https://www.tmtpost.com/8112046.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "“大疆教父”李泽湘，第4个机器人IPO来了",
+    "summary": "具身智能/机器人方向动态，关注真实场景落地、硬件形态或产业合作。",
+    "url": "https://www.tmtpost.com/8112070.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "腾讯“测试中”的Agent钱包，被亚马逊抢先了",
+    "summary": "AI Agent 与研发工具动态，关注企业级落地、协作模式和开发效率。",
+    "url": "https://www.tmtpost.com/8111610.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "具身大佬，为这几个问题“吵翻”了",
+    "summary": "具身智能/机器人方向动态，关注真实场景落地、硬件形态或产业合作。",
+    "url": "https://www.tmtpost.com/8111784.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "微软应用引导 Chrome / Firefox 等浏览器设 Bing 为默认搜索引擎，相关扩展拥有 500 万用户",
+    "summary": "IT之家 8 月 22 日消息，科技媒体 Windows Latest 昨日（8 月 21 日）发布博文，报道称微软推出独立应用程序，引导用户将 Bing 设置为 Edge、Firefox、Chrome 和 Brave",
+    "url": "https://www.ithome.com/0/992/895.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "通过自动化系统封禁司机账户，Uber 优步被荷兰罚款 8.25 亿欧元",
+    "summary": "AI 安全、治理或平台风险相关动态，值得关注潜在合规与产品信任影响。",
+    "url": "https://www.ithome.com/0/992/894.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
+    "summary": "Apple 与消费硬件相关动态，可能影响端侧 AI、生态体验或开发者机会。",
+    "url": "https://www.ithome.com/0/992/892.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
+    "summary": "AI Agent 与研发工具动态，关注企业级落地、协作模式和开发效率。",
+    "url": "https://www.ithome.com/0/992/890.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
+    "summary": "Apple 与消费硬件相关动态，可能影响端侧 AI、生态体验或开发者机会。",
+    "url": "https://www.ithome.com/0/992/887.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "消息称苹果收缩 Vision Pro 相关业务，波及 Siri 等团队裁员共约 200 人",
+    "summary": "Apple 与消费硬件相关动态，可能影响端侧 AI、生态体验或开发者机会。",
+    "url": "https://www.ithome.com/0/992/888.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
+    "summary": "具身智能/机器人方向动态，关注真实场景落地、硬件形态或产业合作。",
+    "url": "https://www.ithome.com/0/992/883.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
+    "summary": "AI 安全、治理或平台风险相关动态，值得关注潜在合规与产品信任影响。",
+    "url": "https://www.ithome.com/0/992/882.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "微软调查部分用户在安装 Windows 11 八月安全更新后遭遇游戏崩溃的报告",
+    "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_V",
+    "url": "https://www.solidot.org/story?sid=85158",
+    "source": "Solidot"
+  },
+  {
+    "title": "Google 通过 Google Drive 提供 Android 特定源代码",
+    "summary": "Google/DeepMind 相关动态，关注模型、搜索、游戏 AI 或平台能力。",
+    "url": "https://www.solidot.org/story?sid=85149",
+    "source": "Solidot"
+  },
+  {
+    "title": "AI 记录员捏造了患者服用迷幻蘑菇的经历",
+    "summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直",
+    "url": "https://www.solidot.org/story?sid=85148",
+    "source": "Solidot"
+  },
+  {
+    "title": "X 算法向民主党用户推送更多激发愤怒的内容",
+    "summary": "AI 安全、治理或平台风险相关动态，值得关注潜在合规与产品信任影响。",
+    "url": "https://www.solidot.org/story?sid=85143",
+    "source": "Solidot"
+  },
+  {
+    "title": "NASA 终止 Swift 天文台的拯救任务",
+    "summary": "NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9",
+    "url": "https://www.solidot.org/story?sid=85142",
+    "source": "Solidot"
+  },
+  {
+    "title": "微信 AI 修图抢先体验：能用够用，但还不够好用",
+    "summary": "小微正在看着你...",
+    "url": "https://www.ifanr.com/1676048?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "苹果 VR 部门再裁 60 人，VisionPro 2 真悬了？",
+    "summary": "Apple 与消费硬件相关动态，可能影响端侧 AI、生态体验或开发者机会。",
+    "url": "https://www.ifanr.com/1675978?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "苹果 Apple Music 不想放过任何一首 AI 音乐",
+    "summary": "Apple 与消费硬件相关动态，可能影响端侧 AI、生态体验或开发者机会。",
+    "url": "https://www.ifanr.com/1675958?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "ChatGPT 可以看短信了，AI 想从你的 App 里拿到你的一切",
+    "summary": "苹果得把门看好了...",
+    "url": "https://www.ifanr.com/1675954?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机",
+    "summary": "Apple 与消费硬件相关动态，可能影响端侧 AI、生态体验或开发者机会。",
+    "url": "https://www.ifanr.com/1675947?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "AI 开始改写癌症治疗，真相是什么？",
+    "summary": "「可编程疫苗」改变世界...",
+    "url": "https://www.ifanr.com/1675934?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  }
+]

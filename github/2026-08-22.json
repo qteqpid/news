@@ -1,0 +1,37 @@
+[
+  {
+    "title": "cordiverse/cordis",
+    "link": "https://github.com/cordiverse/cordis",
+    "summary": "[Stars: 6,945] [3,614 stars this week] [Language: TypeScript] Meta-Framework of Spatiotemporal Composability",
+    "published": "2026-08-22",
+    "dedupe_id": "github:cordiverse/cordis"
+  },
+  {
+    "title": "cursor/plugins",
+    "link": "https://github.com/cursor/plugins",
+    "summary": "[Stars: 4,390] [1,273 stars this week] [Language: TypeScript] Cursor plugin specification and official plugins",
+    "published": "2026-08-22",
+    "dedupe_id": "github:cursor/plugins"
+  },
+  {
+    "title": "modular/modular",
+    "link": "https://github.com/modular/modular",
+    "summary": "[Stars: 28,678] [744 stars this week] [Language: Mojo] The Modular Platform (includes MAX & Mojo)",
+    "published": "2026-08-22",
+    "dedupe_id": "github:modular/modular"
+  },
+  {
+    "title": "AprilNEA/OpenLogi",
+    "link": "https://github.com/AprilNEA/OpenLogi",
+    "summary": "[Stars: 12,897] [2,674 stars this week] [Language: Rust] ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "published": "2026-08-22",
+    "dedupe_id": "github:aprilnea/openlogi"
+  },
+  {
+    "title": "akitaonrails/ai-memory",
+    "link": "https://github.com/akitaonrails/ai-memory",
+    "summary": "[Stars: 3,939] [1,952 stars this week] [Language: Rust] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "published": "2026-08-22",
+    "dedupe_id": "github:akitaonrails/ai-memory"
+  }
+]
