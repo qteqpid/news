@@ -1,0 +1,16 @@
+[
+  {
+    "title": "anthropics/claude-plugins-community",
+    "link": "https://github.com/anthropics/claude-plugins-community",
+    "summary": "[Stars: 1,052] [406 stars this week] [Language: Python] Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "published": "2026-08-24",
+    "dedupe_id": "github:anthropics/claude-plugins-community"
+  },
+  {
+    "title": "apache/maka",
+    "link": "https://github.com/apache/maka",
+    "summary": "[Stars: 2,429] [859 stars this week] [Language: TypeScript] Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "published": "2026-08-24",
+    "dedupe_id": "github:apache/maka"
+  }
+]
