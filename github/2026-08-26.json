@@ -1,0 +1,23 @@
+[
+  {
+    "title": "freestylefly/awesome-gpt-image-2",
+    "link": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "summary": "[Stars: 19,580] [5,329 stars this week] [Language: JavaScript] Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "published": "2026-08-26",
+    "dedupe_id": "github:freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "title": "Tencent/AI-Infra-Guard",
+    "link": "https://github.com/Tencent/AI-Infra-Guard",
+    "summary": "[Stars: 5,944] [1,247 stars this week] [Language: Python] A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+    "published": "2026-08-26",
+    "dedupe_id": "github:tencent/ai-infra-guard"
+  },
+  {
+    "title": "PostHog/posthog",
+    "link": "https://github.com/PostHog/posthog",
+    "summary": "[Stars: 39,192] [1,426 stars this week] [Language: Python] 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "published": "2026-08-26",
+    "dedupe_id": "github:posthog/posthog"
+  }
+]
