@@ -1,0 +1,578 @@
+[
+  {
+    "title": "The full stack behind abundant intelligence",
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful...",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher thr...",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praisi...",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limit...",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performanc...",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background...",
+    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "summary": "Hugging Face 技术博客更新，围绕开源模型、工具链或 AI 工作流实践展开。",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "summary": "Hugging Face 技术博客更新，围绕开源模型、工具链或 AI 工作流实践展开。",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "summary": "Hugging Face 技术博客更新，围绕开源模型、工具链或 AI 工作流实践展开。",
+    "url": "https://huggingface.co/blog/pwc-search",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Taming Visual Neglect: A Variational Information Bottleneck Framework for Adaptive Attention in Multimodal In-Context Learning",
+    "summary": "arXiv:2608.23570v1 Announce Type: new Abstract: Large vision-language models exhibit strong in-context learning (ICL) ca...",
+    "url": "https://arxiv.org/abs/2608.23570",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Contextual Embedding Evidence for Main--Light Verb Distinctions in Urdu",
+    "summary": "arXiv:2608.23645v1 Announce Type: new Abstract: Urdu light verbs contribute schematic event-structural meaning while rem...",
+    "url": "https://arxiv.org/abs/2608.23645",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "The Limits of Automatic Evaluation of Creativity in Large Language Models",
+    "summary": "arXiv:2608.23705v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly capable of generating text...",
+    "url": "https://arxiv.org/abs/2608.23705",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "ADE: Agentic Data Evolution Framework for Human-Centered Objectives",
+    "summary": "arXiv:2608.23719v1 Announce Type: new Abstract: Aligning large language models to human-centered objectives is difficult...",
+    "url": "https://arxiv.org/abs/2608.23719",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "What Reaches Expert Review? Representation, Structural Screening, and Candidate-Form Dependence in AI-Assisted Item Development",
+    "summary": "arXiv:2608.23766v1 Announce Type: new Abstract: Between AI-assisted item generation and expert review sits a computation...",
+    "url": "https://arxiv.org/abs/2608.23766",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk",
+    "summary": "arXiv:2608.23780v1 Announce Type: new Abstract: LLMs are being used increasingly to measure aspects of student discourse...",
+    "url": "https://arxiv.org/abs/2608.23780",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Inter-dimension Dependence for Multi-Dimensional Evaluation of Open-Ended Text",
+    "summary": "arXiv:2608.23783v1 Announce Type: new Abstract: LLM-as-a-judge methods are widely used for evaluating the quality of gen...",
+    "url": "https://arxiv.org/abs/2608.23783",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "From Preferences to Principles: Rubric-Based Alignment for Grounded Knowledge Answers",
+    "summary": "arXiv:2608.23812v1 Announce Type: new Abstract: Designing effective reward signals for open-domain question answering is...",
+    "url": "https://arxiv.org/abs/2608.23812",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+    "summary": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an...",
+    "url": "https://arxiv.org/abs/2608.23568",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+    "summary": "arXiv:2608.23569v1 Announce Type: new Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report executio...",
+    "url": "https://arxiv.org/abs/2608.23569",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+    "summary": "arXiv:2608.23622v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong capabilities in reasoning...",
+    "url": "https://arxiv.org/abs/2608.23622",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+    "summary": "arXiv:2608.23626v1 Announce Type: new Abstract: Foundation models for astronomy are trained on survey pixels together wi...",
+    "url": "https://arxiv.org/abs/2608.23626",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+    "summary": "arXiv:2608.23631v1 Announce Type: new Abstract: Multi-objective materials discovery with LLM agents is often limited not...",
+    "url": "https://arxiv.org/abs/2608.23631",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Function-Level Execution Feedback for Code Preference Optimization",
+    "summary": "arXiv:2608.23632v1 Announce Type: new Abstract: Process supervision has improved mathematical reasoning, where intermedi...",
+    "url": "https://arxiv.org/abs/2608.23632",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+    "summary": "arXiv:2608.23640v1 Announce Type: new Abstract: When a large language model (LLM) is asked to write a person's life, how...",
+    "url": "https://arxiv.org/abs/2608.23640",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "How much of a measured AI preference is the model, and how much is the instrument?",
+    "summary": "arXiv:2608.23641v1 Announce Type: new Abstract: Model welfare research infers what a model prefers from the answers retu...",
+    "url": "https://arxiv.org/abs/2608.23641",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Data Predictability Shapes Weibull Weight-Scale Growth in Transformer Training",
+    "summary": "arXiv:2608.23573v1 Announce Type: new Abstract: A trained transformer's weight magnitudes can be summarized by a two-par...",
+    "url": "https://arxiv.org/abs/2608.23573",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "From Causal Plausibility to Causal Reliability: Evaluating LLMs as Calibrated Direct Causal-Edge Classifiers",
+    "summary": "arXiv:2608.23660v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to provide prior caus...",
+    "url": "https://arxiv.org/abs/2608.23660",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Response Renormalization for Critical Deep Equilibrium Models",
+    "summary": "arXiv:2608.23725v1 Announce Type: new Abstract: Deep Equilibrium Models (DEQs) compute predictions from a hidden represe...",
+    "url": "https://arxiv.org/abs/2608.23725",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Disentangled Skill Representations for Predictive Human Modeling",
+    "summary": "arXiv:2608.23776v1 Announce Type: new Abstract: Understanding human skill is important for AI systems that collaborate w...",
+    "url": "https://arxiv.org/abs/2608.23776",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Mixture of Channel Experts: Static Sparse Supports with Input-Adaptive Mixing for Pointwise Projections",
+    "summary": "arXiv:2608.23794v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) scales language models by routing each input th...",
+    "url": "https://arxiv.org/abs/2608.23794",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Discovering Cross-Language Reasoning Invariance in LLMs with Geometry-Invariant Sparse Autoencoders",
+    "summary": "arXiv:2608.23809v1 Announce Type: new Abstract: Multilingual language models can solve the same mathematical problem in ...",
+    "url": "https://arxiv.org/abs/2608.23809",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring",
+    "summary": "arXiv:2608.23814v1 Announce Type: new Abstract: Large Language Models (LLMs) demonstrate strong capabilities in automate...",
+    "url": "https://arxiv.org/abs/2608.23814",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "AQLoRA: A Zero-Search Recipe for Fast Quantized LoRA Fine-Tuning",
+    "summary": "arXiv:2608.23816v1 Announce Type: new Abstract: Quantized fine-tuning (QLoRA) saves memory but not time. It dequantizes ...",
+    "url": "https://arxiv.org/abs/2608.23816",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI syste...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agen...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The tem...",
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Addressing a sticking point in sustainable adhesives",
+    "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the j...",
+    "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "AgeLab research inspires an A I startup",
+    "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan ...",
+    "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Amping up T cells to target cancer",
+    "summary": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have bee...",
+    "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Seeing through murky waters",
+    "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment th...",
+    "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Your brain on AI",
+    "summary": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the...",
+    "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+    "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes....",
+    "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+    "summary": "The Pan-African venture firm has raised $83 million and plans to invest in startups beyond its home market of Nigeria....",
+    "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension....",
+    "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation....",
+    "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+    "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure org...",
+    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+    "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing...",
+    "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "summary": "The company's new fundraising total now stands at $232 million....",
+    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+    "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston ...",
+    "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join th...",
+    "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Trump is upping the price of Big Tech’s favorite visa",
+    "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee ...",
+    "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+    "source": "The Verge"
+  },
+  {
+    "title": "At just $8, you owe it to yourself to grab Inscryption",
+    "summary": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2:...",
+    "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+    "source": "The Verge"
+  },
+  {
+    "title": "The Witcher 3 is getting a remaster",
+    "summary": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game wi...",
+    "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+    "source": "The Verge"
+  },
+  {
+    "title": "Dreame’s dream of a rocket-powered car is dead",
+    "summary": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automot...",
+    "url": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
+    "source": "The Verge"
+  },
+  {
+    "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
+    "summary": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-or...",
+    "url": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
+    "source": "The Verge"
+  },
+  {
+    "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+    "summary": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was th...",
+    "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+    "source": "The Verge"
+  },
+  {
+    "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等",
+    "summary": "索尼正式发布 Xperia 10 VIII 手机，Apple 钱包上线郑州绿城通交通卡等。...",
+    "url": "https://sspai.com/post/113847",
+    "source": "少数派"
+  },
+  {
+    "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
+    "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ......",
+    "url": "https://sspai.com/post/113813",
+    "source": "少数派"
+  },
+  {
+    "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……",
+    "summary": "把非智能的双电机升降桌，改成我梦想中的智能升降中枢。...",
+    "url": "https://sspai.com/post/113563",
+    "source": "少数派"
+  },
+  {
+    "title": "大厂AI To B大战，这回战场为什么是办公？",
+    "summary": "大厂AI To B商业化的战火，已经烧到AI办公。内部赛马、业务整合、资源重配，过去一个多月，腾讯、阿里、字节三家大厂几乎同时将AI资源砸向办公场景。“AI作为生产力工具，最终还是得企业来买单。”一场围绕AI办公的To B大战，正在升温。前...",
+    "url": "https://www.leiphone.com/category/industrynews/Yb1V9SGtTUdBUamr.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "具身智能走进千行百业，浙江人形 WRC2026 诠释 \"具身在场\"",
+    "summary": "2026 WRC 现场，三台机器人默契配合，正完成工业制造拆垛、分拣、搬运的全流程工作；几步之外，观众在零售舱前下单，等机器人递来饮料；厨房里，一顿饭从食材处理一路做到最后的清洁；在生产线之外的赛博舞台区域，NAVIAI i3 单膝跪地献花...",
+    "url": "https://www.leiphone.com/category/industrynews/fg1r01an843kYNdp.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "基于阿里千问，路透社推出首个自研大模型",
+    "summary": "8月25日，据外媒报道，国际知名新闻机构汤森路透（路透社母公司）近日推出了其自研大模型Thomson-1。该模型基于阿里Qwen大模型开发，旨在降低对Claude等闭源模型的依赖并减少长期使用成本。此前，汤森路透曾推出自己的AI助手，接入的...",
+    "url": "https://www.leiphone.com/category/industrynews/6mR50kUHcFgw5xST.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "将25万级产品力全面打到15万级，荣威家越07首秀亮出“顶格”实力",
+    "summary": "8月13日，荣威与火山引擎深度合作的AI原生第一车——家越07正式迎来全球首秀。作为一款面向中国家庭打造的新能源大五座SUV，家越07以“15万级顶格大五座”的实力，将大空间、长续航、Momenta高阶智能驾驶辅助与豪华舒享配置全面拉满，把...",
+    "url": "https://www.leiphone.com/category/transportation/fbQUsomC9qaa7lsg.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "BIMSA 王雅晴：Scaling Law 触及天花板，「数据高效学习」指向 AI 的下一站｜IJCAI 2026",
+    "summary": "真正的智能，在于能否基于有限的数据，实现可靠的泛化与迁移。 作者丨张璐 编辑丨岑峰 幸丽娟 高质量标注数据快用完了，算力贵得离谱，黑盒依然无解。大模型时代信奉的 Scaling Law，正在面临多重瓶颈。更麻烦的是另一件事：很多任务天生就没...",
+    "url": "https://www.leiphone.com/category/private/cv4bH7VXG4LDHwnT.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "突破具身智能物理死角：IJCAI 2026 具身智能泛化与控制突破",
+    "summary": "告别理想仿真，中国学术团队用物理工程方案回应落地挑战。 作者丨张璐 编辑丨岑峰 过去一年多里，具身智能似乎按下了快进键。从 Physical Intelligence 发布的π₀到开源社区追捧的OpenVLA，VLA大模型一路高歌猛进。在各...",
+    "url": "https://www.leiphone.com/category/private/5YB9zkA19rHTGz0o.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "越疆2026中报：营收翻倍、具身收入激增20倍，Physical AI进入商业化兑现期",
+    "summary": "当机器人行业的大量叙事还停留在融资轮次与概念发布时，越疆科技已经交出了一份由产线验收单写成的中期答卷。8月24日，越疆科技发布2026年上半年中期业绩。报告期内，公司实现营业收入约人民币3.2亿元，同比增长106.6%，经营规模实现翻倍增长...",
+    "url": "https://www.leiphone.com/category/industrynews/dKNT8oYzmw5hsVgL.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Meoo打通AI做App全链路，“一句话”就能做出安卓与iOS应用",
+    "summary": "近日，阿里AI应用搭建产品Meoo（秒悟）打通了自然语言做App的全链路。不懂编程的普通用户只需用自然语言描述想法，Meoo即可自动生成页面与功能，支持真机测试、持续修改与一键打包，最终产出可直接安装使用的原生应用，覆盖安卓与iOS双端。“...",
+    "url": "https://www.leiphone.com/category/industrynews/lMrMgzHoUVOGceOK.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "前剪映负责人张琪智创业，OJO拿下顺为、联想创投近亿元天使轮",
+    "summary": "设计 Agent 团队工作平台...",
+    "url": "https://www.tmtpost.com/8117242.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "估值1000亿，智能戒指冲刺IPO，但官司已经找上门来了",
+    "summary": "AI饰品的智商税，到了该算账的时候。...",
+    "url": "https://www.tmtpost.com/8117149.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "一批商业化Biotech的消亡",
+    "summary": "来自他们的经验和教训。...",
+    "url": "https://www.tmtpost.com/8116930.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "养老社区里的AI试验",
+    "summary": "人工智能进入产业实际场景，需要与业务流程、专业人员和组织体系深度融合。...",
+    "url": "https://www.tmtpost.com/8114556.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "330亿，长江存储背后有高人",
+    "summary": "长江存储科创板IPO获受理，拟募资330亿元创科创板纪录。董事长陈南翔临危受命，率队应对美国制裁与行业低谷，坚持研发与产能扩张，抓住AI机遇实现业绩爆发，2026年一季度净利334亿元，跃居全球NAND第三。但挑战仍在：份额、产品结构距顶尖...",
+    "url": "https://www.tmtpost.com/8116960.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "章建平75亿押注中际旭创，百亿“牛散”们有何底牌",
+    "summary": "卖掉资源股之后，章建平又把目光投向了AI算力。...",
+    "url": "https://www.tmtpost.com/8116287.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Cloudflare 称 AI 智能体已占 60% 互联网流量，同比激增 1700%",
+    "summary": "IT之家 8 月 26 日消息，韩媒 chosun 昨日（8 月 25 日）发布博文，报道称 Cloudflare 亚太区执行副总裁兼董事总经理 Goran Risticsevich 表示，由 AI 智能体产生的流量在过去 1 年中激增逾 ...",
+    "url": "https://www.ithome.com/0/994/571.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "国内算力用电爆发式增长，江苏常熟算力耗电超过空调",
+    "summary": "IT之家 8 月 26 日消息，据央视财经今日报道，7 月份，全社会用电量再次突破 1 万亿千瓦时，互联网数据服务用电量同比增长 40%。算力正在成为新增用电的重要来源。江苏常熟一家智算中心 8 月最大用电负荷较去年同期增长超 70%，算力...",
+    "url": "https://www.ithome.com/0/994/564.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "九成美企高管称过去三年 AI 未影响公司就业情况，且“完全未影响”生产力",
+    "summary": "IT之家 8 月 26 日消息，现如今，AI 一直被包装成提高生产力的利器，理论上可以帮助企业降本增效。而据外媒 Futurism 当地时间 25 日报道，实际情况却相去甚远。越来越多分析发现，AI 对生产率的提升非常有限。美国国家经济研究...",
+    "url": "https://www.ithome.com/0/994/560.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Artificial Analysis 公布苹果 iPhone 17 Pro 跑 8GB 以内本地 AI 性能排名",
+    "summary": "IT之家 8 月 26 日消息，Artificial Analysis 于 8 月 24 日发布博文，宣布携手 Liquid AI，发布面向手机端的 AI 跑分基准，重点关注 AI 模型在苹果 iPhone 17 Pro 上的表现。其中 A...",
+    "url": "https://www.ithome.com/0/994/550.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "AMD 将为 Versal RF 自适应 SoC 导入 UCIe 1.1 互连支持",
+    "summary": "IT之家 8 月 26 日消息，AMD 官方当地时间 25 日宣布将为 Versal RF 自适应 SoC 导入 UCIe 1.1 芯粒互连规范支持。这也是首批支持 UCIe 1.1 的 Versal 自适应 SoC。Versal RF 自...",
+    "url": "https://www.ithome.com/0/994/549.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "腾讯《洛克王国：世界》国际服定档 10 月 27 日首测，登陆 PS5、Xbox、PC 及移动平台",
+    "summary": "IT之家 8 月 26 日消息，在 2026 年科隆游戏展期间，腾讯魔方工作室群宣布旗下开放世界精灵收集游戏《洛克王国：世界》将面向海外市场推出。《洛克王国：世界》国际服首次全球封闭测试（CBT）定于 2026 年 10 月 27 日开启，...",
+    "url": "https://www.ithome.com/0/994/547.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "蓝图 × 索尼 LYTIA610：vivo X500 Pro 手机官宣搭载全新 85mm 蔡司 6400 万 APO 超级长焦",
+    "summary": "IT之家 8 月 26 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，vivo X500 Pro 手机将搭载全新 85mm 蔡司 6400 万 APO 超级长焦。他表示，这个方案不逊于一些非硬件 4×isz 的 2 亿方案。首先...",
+    "url": "https://www.ithome.com/0/994/544.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "海盗船推出 iCUE LINK TITAN II 系列处理器 AIO 液冷，水泵风扇双升级",
+    "summary": "IT之家 8 月 26 日消息，CORSAIR（海盗船）美国加州当地时间 25 日宣布推出水泵与风扇均得到升级的 iCUE LINK TITAN II 系列处理器 AIO 液冷散热器，可选 LCD 和 RGB 版本。▲ iCUE LINK ...",
+    "url": "https://www.ithome.com/0/994/542.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "新西兰提出法案禁止 16 岁以下儿童使用社媒和 AI 陪伴服务",
+    "summary": "新西兰提出了一项法案 The Online Safety (Minimum Age and Child Safety Risk Assessment) Bill，提议禁止 16 岁以下儿童使用社媒和 AI 陪伴服务。总理 Christoph...",
+    "url": "https://www.solidot.org/story?sid=85197",
+    "source": "Solidot"
+  },
+  {
+    "title": "因保安可能罢工 Anthropic 通知员工远程办公",
+    "summary": "因保安可能罢工 Anthropic 通知旧金山办公室的员工本周在家远程办公。Anthropic 上周收到了提供安保服务的 Allied Universal 公司的通知，称该公司的保安可能罢工。Anthropic 随后通知其员工，为以防万一周...",
+    "url": "https://www.solidot.org/story?sid=85194",
+    "source": "Solidot"
+  },
+  {
+    "title": "微软画图和照片应用生成的图像嵌入了看不见的水印",
+    "summary": "Windows 画图（Paint）和照片（Photos）应用都集成了微软的 AI 工具 Copilot，支持通过本地模型和云端生成图像。AI 生成的图像会嵌入两个水印，其一是可见的 Copilot logo，其二是不可见的能跟踪到用户身份的...",
+    "url": "https://www.solidot.org/story?sid=85192",
+    "source": "Solidot"
+  },
+  {
+    "title": "Firefox 和 Chrome 准备启用对 JPEG XL 的支持",
+    "summary": "Firefox 和 Chrome 都宣布准备启用对 JPEG XL 的支持。JPEG XL 是一种免版税的位图文件格式，支持有损和无损压缩。它旨在超越现有的位图格式，并成为它们的通用替代。Google Chrome 在 2023 年 移除了...",
+    "url": "https://www.solidot.org/story?sid=85187",
+    "source": "Solidot"
+  },
+  {
+    "title": "15 年前库克接替乔布斯担任苹果 CEO",
+    "summary": "15 年前的 2011 年 8 月 24 日，蒂姆·库克（Timothy Donald Cook）接替史蒂夫·乔布斯担任苹果 CEO，下周的 9 月 1 日，库克将卸任 CEO 一职，John Ternus 将接替他。Ternus 于 20...",
+    "url": "https://www.solidot.org/story?sid=85185",
+    "source": "Solidot"
+  },
+  {
+    "title": "微软删除了逾 17 万非营利组织的数据",
+    "summary": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年初它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。6 月 11 日前如果没...",
+    "url": "https://www.solidot.org/story?sid=85183",
+    "source": "Solidot"
+  },
+  {
+    "title": "Anthropic 最强模型难以吸引用户",
+    "summary": "Anthropic 的美国客户正使用其最强大 AI 工具的更廉价替代品，引发了外界对其高投入商业模式的质疑，而市场普遍预计 Anthropic 即将进行史上规模最大的 IPO。根据支付服务集团 Ramp 收集的 7 万家公司支出数据，Ant...",
+    "url": "https://www.solidot.org/story?sid=85181",
+    "source": "Solidot"
+  },
+  {
+    "title": "刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
+    "summary": "一台 Mac ，同时为 AI 和人类服务...",
+    "url": "https://www.ifanr.com/1676537?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "OpenAI「亲儿子」反水，认中国模型做「赛博义父」",
+    "summary": "美国的 AI 产品，由中国模型预制...",
+    "url": "https://www.ifanr.com/1676629?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "QQ 宠物靠 AI 在手机复活，可我更想要一只桌宠企鹅",
+    "summary": "下线 8 年的 QQ 宠物，这几天居然在手机 QQ 上官宣回归了。...",
+    "url": "https://www.ifanr.com/1676656?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "Google AI 把「地球」玩坏了，这是对 10 亿人的不负责",
+    "summary": "我想无论是 Google 地球或是 Google 相册，必然也能在入口处、在产品层，做好引导与防护，做好 AI 内容与真实数据的隔离，让娱乐归于娱乐，让真实归于真实。 对 Google 来说这绝非难事，但却依然一次次选择拿公信力去冒险——我...",
+    "url": "https://www.ifanr.com/1676650?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "实测豆包工作：连上飞书后，Agent 终于像个同事了",
+    "summary": "懂人、懂项目、懂上下文、懂工作流...",
+    "url": "https://www.ifanr.com/1676539?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "对话雷鸟创新李宏伟：智能眼镜的终局仍然是「AI + AR」，AI 是我们现在最重要的事丨多样性公司",
+    "summary": "让 AI 「增强人类」，而不是让 AI 取代人类。...",
+    "url": "https://www.ifanr.com/1676571?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "实测小米 AI 手机：性能超 iPhone，端侧 AI 超级快",
+    "summary": "真的很快。...",
+    "url": "https://www.ifanr.com/1676596?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "小米发布玄戒 AI 芯片「全家桶」，还官宣了小米「阔折叠」",
+    "summary": "小米掀桌了...",
+    "url": "https://www.ifanr.com/1676441?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  }
+]
