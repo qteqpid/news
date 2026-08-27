@@ -1,0 +1,23 @@
+[
+  {
+    "title": "chaitanyagiri/munder-difflin",
+    "link": "https://github.com/chaitanyagiri/munder-difflin",
+    "summary": "[Stars: 4,903] [2,192 stars this week] [Language: JavaScript] local multi-agent harness",
+    "published": "2026-08-27",
+    "dedupe_id": "github:chaitanyagiri/munder-difflin"
+  },
+  {
+    "title": "tashfeenahmed/freellmapi",
+    "link": "https://github.com/tashfeenahmed/freellmapi",
+    "summary": "[Stars: 20,811] [1,700 stars this week] [Language: TypeScript] 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "published": "2026-08-27",
+    "dedupe_id": "github:tashfeenahmed/freellmapi"
+  },
+  {
+    "title": "bookorbit/bookorbit",
+    "link": "https://github.com/bookorbit/bookorbit",
+    "summary": "[Stars: 3,315] [895 stars this week] [Language: TypeScript] BookOrbit: Your Reading Space",
+    "published": "2026-08-27",
+    "dedupe_id": "github:bookorbit/bookorbit"
+  }
+]
