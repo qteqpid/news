@@ -1,0 +1,30 @@
+[
+  {
+    "title": "securo-finance/securo",
+    "link": "https://github.com/securo-finance/securo",
+    "summary": "[Stars: 2,404] [617 stars this week] [Language: Python] Open-source personal finance manager. Self-hosted, privacy-first.",
+    "published": "2026-08-28",
+    "dedupe_id": "github:securo-finance/securo"
+  },
+  {
+    "title": "santifer/career-ops",
+    "link": "https://github.com/santifer/career-ops",
+    "summary": "[Stars: 68,882] [3,061 stars this week] [Language: JavaScript] Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+    "published": "2026-08-28",
+    "dedupe_id": "github:santifer/career-ops"
+  },
+  {
+    "title": "tinyhumansai/openhuman",
+    "link": "https://github.com/tinyhumansai/openhuman",
+    "summary": "[Stars: 38,539] [1,818 stars this week] [Language: Rust] Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+    "published": "2026-08-28",
+    "dedupe_id": "github:tinyhumansai/openhuman"
+  },
+  {
+    "title": "Alishahryar1/free-claude-code",
+    "link": "https://github.com/Alishahryar1/free-claude-code",
+    "summary": "[Stars: 50,846] [4,235 stars this week] [Language: Python] Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+    "published": "2026-08-28",
+    "dedupe_id": "github:alishahryar1/free-claude-code"
+  }
+]

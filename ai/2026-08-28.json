@@ -1,0 +1,494 @@
+[
+  {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance...",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support...",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "summary": "",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "summary": "Piloting the world's first double-blind AI evaluations...",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "3 new ways to plan and book travel in Search",
+    "summary": "Graphic depicting new travel features for AI Mode in Search...",
+    "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "source": "Google AI Blog"
+  },
+  {
+    "title": "HealthBench-Psych: A Mental Health Subset of OpenAI's HealthBench",
+    "summary": "arXiv:2608.25071v1 Announce Type: new Abstract: General-purpose health benchmarks increasingly anchor claims about LLM m...",
+    "url": "https://arxiv.org/abs/2608.25071",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "MTDiag: A Multi-Turn Diagnostic Dataset Towards Clinically Meaningful LLM Evaluation",
+    "summary": "arXiv:2608.25085v1 Announce Type: new Abstract: Clinical diagnosis is fundamentally interactive and incremental, yet the...",
+    "url": "https://arxiv.org/abs/2608.25085",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Apples to Apples? Towards Comparable Crosslingual Language Model Evaluation",
+    "summary": "arXiv:2608.25089v1 Announce Type: new Abstract: Crosslingual evaluation of language models that enables fair comparisons...",
+    "url": "https://arxiv.org/abs/2608.25089",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Less can be More: Relieving RAG Bottlenecks via Evidence Frontloading and Pressure-Adaptive Budgeting",
+    "summary": "arXiv:2608.25115v1 Announce Type: new Abstract: Existing methods for improving Retrieval-Augmented Generation (RAG) effi...",
+    "url": "https://arxiv.org/abs/2608.25115",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "SelfGraphRAG: Bridging the Supervision Gap in Graph-Based RAG with Synthetic QA Generation",
+    "summary": "arXiv:2608.25123v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) improves large language models by i...",
+    "url": "https://arxiv.org/abs/2608.25123",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Belief Cascades Drive Persuasion in LLM Agent Networks",
+    "summary": "arXiv:2608.25152v1 Announce Type: new Abstract: Multi-agent LLM systems increasingly debate answers, coordinate research...",
+    "url": "https://arxiv.org/abs/2608.25152",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "The Changing Geometry of Grammar: Dimensionality and Neighborhood Reorganization across Transformer Layers",
+    "summary": "arXiv:2608.25166v1 Announce Type: new Abstract: Transformer representations describe trajectories through high-dimension...",
+    "url": "https://arxiv.org/abs/2608.25166",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "From Memorization to Absorption: Mixed-Policy RL for Continual Knowledge Injection",
+    "summary": "arXiv:2608.25243v1 Announce Type: new Abstract: Continual knowledge injection is essential for keeping large language mo...",
+    "url": "https://arxiv.org/abs/2608.25243",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
+    "summary": "arXiv:2608.23740v1 Announce Type: new Abstract: Concurrent multi-agent coding promises division of labor across modules,...",
+    "url": "https://arxiv.org/abs/2608.23740",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
+    "summary": "arXiv:2608.23807v1 Announce Type: new Abstract: Masked diffusion language models (dLLMs) can in principle generate text ...",
+    "url": "https://arxiv.org/abs/2608.23807",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search",
+    "summary": "arXiv:2608.23811v1 Announce Type: new Abstract: Automated fact-checking is essential for ensuring the reliability of pub...",
+    "url": "https://arxiv.org/abs/2608.23811",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "A Formal Methodological Framework for Auditing Robustness and Fidelity in Explainable AI: From Application to Trust Certification",
+    "summary": "arXiv:2608.23817v1 Announce Type: new Abstract: SHAP and LIME are now standard tools for interpreting black-box predicti...",
+    "url": "https://arxiv.org/abs/2608.23817",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention",
+    "summary": "arXiv:2608.23834v1 Announce Type: new Abstract: The key-value (KV) cache is a primary capacity and bandwidth bottleneck ...",
+    "url": "https://arxiv.org/abs/2608.23834",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "SyPS: Measuring Sycophancy Prompt Sensitivity in Large Language Models",
+    "summary": "arXiv:2608.23837v1 Announce Type: new Abstract: Large language models (LLMs) are known to exhibit social sycophancy, oft...",
+    "url": "https://arxiv.org/abs/2608.23837",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Exploit More, Explore Smarter for Budget-Constrained Agentic Search",
+    "summary": "arXiv:2608.23848v1 Announce Type: new Abstract: Budget-constrained agentic search arises when an LLM agent must refine c...",
+    "url": "https://arxiv.org/abs/2608.23848",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "In-Context Inpainting for Time Series Forecasting",
+    "summary": "arXiv:2608.23855v1 Announce Type: new Abstract: We propose ICI-Time, a novel framework that reframes time series forecas...",
+    "url": "https://arxiv.org/abs/2608.23855",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "AFDBench: A Reasoning-First AI Scientist for NationalWeather Service Forecast Discussions",
+    "summary": "arXiv:2608.24954v1 Announce Type: new Abstract: Large language models (LLMs) hallucinate numerical values when generatin...",
+    "url": "https://arxiv.org/abs/2608.24954",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Why and When Neural Networks Improve Local Approximation in Optimization",
+    "summary": "arXiv:2608.24963v1 Announce Type: new Abstract: Published experience with neural surrogates in derivative-free optimisat...",
+    "url": "https://arxiv.org/abs/2608.24963",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Physics-Informed Error Field Learning: A Post-Training Optimization Framework for Physics-Informed Neural Networks",
+    "summary": "arXiv:2608.24970v1 Announce Type: new Abstract: Physics-Informed Neural Networks (PINNs) have emerged as an important cl...",
+    "url": "https://arxiv.org/abs/2608.24970",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Resource-Efficient Pruning for Transformer via Low-Rank Importance Estimation",
+    "summary": "arXiv:2608.24973v1 Announce Type: new Abstract: With the rapid development of large-scale pre-trained language models ba...",
+    "url": "https://arxiv.org/abs/2608.24973",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Clearing the Underbrush: AI-Enhanced RF Interference Suppression",
+    "summary": "arXiv:2608.24974v1 Announce Type: new Abstract: AI-based structured interference rejection has grown more popular becaus...",
+    "url": "https://arxiv.org/abs/2608.24974",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "MSR-IVA: Masked Structural Residual Independent Vector Analysis for State-Aware Fusion of Structural MRI and Dynamic Functional Network Connectivity",
+    "summary": "arXiv:2608.24978v1 Announce Type: new Abstract: Multimodal fusion of structural MRI (sMRI) and dynamic functional networ...",
+    "url": "https://arxiv.org/abs/2608.24978",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "D$^3$-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation",
+    "summary": "arXiv:2608.24987v1 Announce Type: new Abstract: Multi-teacher on-policy distillation (MOPD) distills several domain-expe...",
+    "url": "https://arxiv.org/abs/2608.24987",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Rollout-Decoded Reconstruction for Long-Horizon Prediction in Latent World Models",
+    "summary": "arXiv:2608.25017v1 Announce Type: new Abstract: A latent world model trains its decoder on latents anchored to observati...",
+    "url": "https://arxiv.org/abs/2608.25017",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Google’s AI note-taking app now allows you to interact with books",
+    "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert ...",
+    "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+    "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "OpenAI’s executive exodus has one big winner",
+    "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endle...",
+    "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+    "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just unde...",
+    "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Plaud is launching AI earbuds",
+    "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only thi...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Adobe is adding more AI to Photoshop",
+    "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools...",
+    "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "A startup claims it’s found a drug to make your blood young",
+    "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to off...",
+    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor...",
+    "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+    "summary": "227 install commands were found in corporate docs pointing at code nobody owns....",
+    "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+    "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test....",
+    "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few ...",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Rivian’s CFO is leaving the company",
+    "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday....",
+    "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+    "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection...",
+    "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+    "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts i...",
+    "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint...",
+    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
+    "summary": "The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its c...",
+    "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurit...",
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
+    "summary": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep ap...",
+    "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The biggest video game of all time looks like a movie",
+    "summary": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately d...",
+    "url": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
+    "source": "The Verge"
+  },
+  {
+    "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+    "summary": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering ...",
+    "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+    "source": "The Verge"
+  },
+  {
+    "title": "Google tells Android app developers to cool it on memory use, or else",
+    "summary": "Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the...",
+    "url": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
+    "source": "The Verge"
+  },
+  {
+    "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
+    "summary": "好能增长，好能商业化啊！...",
+    "url": "https://www.qbitai.com/2026/08/480092.html",
+    "source": "量子位"
+  },
+  {
+    "title": "科技守护！腾讯、百度、阿里、滴滴、等多家公司驰援西藏吉隆受灾地区",
+    "summary": "8月26日，受尼泊尔一侧泥石流灾害影响，西藏日喀则市吉隆县吉隆口岸遭受严重冲击，造成重大人员伤亡和失联。灾情发生后，百度、腾讯、阿里、滴滴等多家科技企业及慈善机构已迅速启动应急响应，积极驰援灾区。 腾讯方面联合爱德基金会、中国红十字基金会、...",
+    "url": "https://www.leiphone.com/category/industrynews/DpAO6CwSWzTO0vKK.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "商汤大装置支撑智谱 GLM-5.3-Flash上线，国产异构助力前沿智能进入普惠时代",
+    "summary": "8月26日晚，智谱正式上线并开源GLM-5.3-Flash(320B-A18B），这是GLM-5系列的首个原生多模态模型。其总参数320B，能力超过GLM-5.2，在全球权威的Artificial Analysis Intelligence...",
+    "url": "https://www.leiphone.com/category/ai/W9ofyn3UJRYRVMC0.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "百度搭子宣布一揽子升级，提出“交付即惊艳”专业办公标准",
+    "summary": "8月27日，“搭子进行时——百度搭子产品发布会”在上海举行。百度搭子围绕“交付即惊艳”宣布个人版、企业版、专业套件及工作台能力一揽子升级，重点面向自媒体、金融等专业场景，覆盖选题策划、资料研究、内容制作、财报分析、行业研究和报告输出等任务，...",
+    "url": "https://www.leiphone.com/category/industrynews/bpzIqEentybmkCVI.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "像素级对标？智谱、Kimi 底层参数「撞衫」背后，藏着线性注意力的黄金窗口",
+    "summary": "国产大模型内卷到算子底层。 作者丨高允毅 编辑丨岑 峰 昨晚，智谱 AI 认领了最近一周在 OpenRouter 盲测榜上风头最盛的“牛来”模型，正式命名GLM-5.3-Flash。这款上线首日就登顶 OpenRouter 调用量榜单，刷新...",
+    "url": "https://www.leiphone.com/category/yanxishe/1zYtnZ1hPi0jc5Ud.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "00后跨境卖家自救，做了一款AI放大镜",
+    "summary": "没毕业的在校生，拿着5000万估值杀进AI硬件赛道。作者丨陈玘凡编辑丨吴优两岁半的小宝宝攥着圆乎乎的放大镜，凑到地面的蚂蚁跟前按下快门。镜片边框的小孔闪了一下，软乎乎的语音随即响起，“宝宝，这是蚂蚁......”小朋友盯着虫子愣了两秒，突然...",
+    "url": "https://www.leiphone.com/category/weiwu/L0uTNvgh6p0tIHZR.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "独家 | 乐聚发布垂域具身模型：一倍工业提效，两项榜单第一",
+    "summary": "如果说，基础模型是具身大脑的“大学”通识课；那么，垂域模型则是机器人在工业领域的“专业课”。 作者丨董子博 编辑丨林觉民 今天要做世界模型，所有人都知道要做预训练，来让具身大脑变得更聪明；也知道要做后训练，让机器人可以在专门的任务下得到锻炼...",
+    "url": "https://www.leiphone.com/category/industrynews/s4P2kDrMcM1yfSYw.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "阿里发布全新Qoder ，面向所有人的智能体工作台来了",
+    "summary": "8月27日，阿里发布全新Qoder，这是一款以Coding为核心能力，面向所有人的智能体工作台。全新Qoder采用更加简洁、以任务为中心的用户界面。用户不必从代码开始，只需用自然语言描述目标，Qoder即可调用Coding和工具能力，完成开...",
+    "url": "https://www.leiphone.com/category/industrynews/KvKr1b6gPOwqZW3f.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "OceanBase以20.2%市场份额居首，中国分布式数据库迈入规模化竞争",
+    "summary": "中国分布式数据库市场正在从“技术可行”走向“规模化竞争”。近日，全球增长咨询公司沙利文发布《2026年中国分布式事务型数据库市场研究报告》，首次从技术标准层面对分布式数据库进行明确界定。报告显示，2025年下半年至2026年上半年，中国分布...",
+    "url": "https://www.leiphone.com/category/industrynews/lMHYJCy1Ib8X9TT5.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Former TV Leader Konka Moves to Delist After Years of Losses",
+    "summary": "Konka Group, once a leading Chinese television maker, plans to voluntarily withdraw its shares from the Shenzhen exchang...",
+    "url": "https://www.tmtpost.com/8119737.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "“全球AI药物递送第一股”的半年考：134倍营收，成色几何",
+    "summary": "美国市场贡献1.379亿元，占总收入89.35%，单一最大客户占比同样高达89.35%。...",
+    "url": "https://www.tmtpost.com/8119542.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "AI办公之争：腾讯、阿里、字节在牌桌上亮出的第一张牌，是各自的组织架构",
+    "summary": "AI办公、组织架构 、腾讯WorkBuddy、阿里千问办公 、字节豆包、飞书、AI产品 、组织变革、互联网巨头...",
+    "url": "https://www.tmtpost.com/8118691.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "营收暴涨106%，却先跌3%：英伟达的超预期，为什么不及格？",
+    "summary": "黄仁勋：AI到了拐点...",
+    "url": "https://www.tmtpost.com/8118750.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "AI开小号骗人，被大学生抓包了",
+    "summary": "你是说跟我吵架的“同行”竟然是AI？！...",
+    "url": "https://www.tmtpost.com/8118757.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "874亿，全球最大AI开源社区要卖了",
+    "summary": "AI圈的“GitHub”要卖了...",
+    "url": "https://www.tmtpost.com/8118864.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "苏讯新材：低研发却维持高毛利，大额分红后再募资补流引争议｜IPO观察",
+    "summary": "能成功过会吗？...",
+    "url": "https://www.tmtpost.com/8117192.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "9亿美元刷新机器人融资纪录，资本开始抢注“物理AI”门票",
+    "summary": "小鹏此次融资背后，资本真正押注的并不是一台机器人，而是一套将人工智能带入现实世界的能力体系。...",
+    "url": "https://www.tmtpost.com/8118268.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "苹果 M6 Mac mini 细节：支持 Thread 智能家居协议，预装 macOS 27 系统",
+    "summary": "IT之家 8 月 28 日消息，科技媒体 9to5Mac 昨日（8 月 27 日）发布博文，针对近期有购买苹果 M6 Mac mini 的用户，分享了 3 个苹果并未在新闻稿中提及的细节。内存带宽根据苹果官方公布的技术规格，基础版 16GB...",
+    "url": "https://www.ithome.com/0/995/348.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "OpenAI、微软、谷歌等 116 家公司发联名信，呼吁高度重视 AI 时代的网络安全",
+    "summary": "IT之家 8 月 28 日消息，当地时间 8 月 27 日，包括 OpenAI、Anthropic、微软、谷歌母公司 Alphabet 和亚马逊在内的 116 家企业与机构共同签署了一封联名信，呼吁各企业与政策制定者将网络安全置于首要位置，...",
+    "url": "https://www.ithome.com/0/995/346.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "苹果在售最便宜官方配件：第二代抛光布反馈，手感接近 Vision Pro 随附款",
+    "summary": "IT之家 8 月 28 日消息，科技媒体 AppleInsider 昨日（8 月 27 日）发布博文，上手体验了苹果第二代抛光布（点此前往苹果官网选购），仍为 6.3 英寸（IT之家注：约 16 厘米）×6.3 英寸（约 16 厘米）双层方...",
+    "url": "https://www.ithome.com/0/995/345.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "宇树宣布无偿赞助“天才少年”：特别优秀的不设限",
+    "summary": "IT之家 8 月 28 日消息，8 月 27 日晚间，宇树科技发文称，公司承诺每年将无偿赞助一部分“天才少年”。每个热爱科技的同学，都可以直接发送项目邮件申请。申请要求包括：高中到硕士研究生毕业前；完全过程导向，不结果导向（尽可能认真完成项...",
+    "url": "https://www.ithome.com/0/995/344.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "规避反垄断审查，消息称英伟达暂停与多家 AI 公司的收益分成协议",
+    "summary": "IT之家 8 月 28 日消息，据华尔街日报消息，知情人士透露，英伟达暂停了一项新融资计划中的部分交易。该计划原本旨在向人工智能云服务商提供信用支持，以此换取一定比例的营收分成。相关人士称，部分英伟达员工已向现有及潜在客户表达了担忧，认为该...",
+    "url": "https://www.ithome.com/0/995/341.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "全球供应链培训已超 10.8 万人，苹果在越南落地首个教育中心",
+    "summary": "IT之家 8 月 28 日消息，科技媒体 MacRumors 昨日（8 月 27 日）发布博文，报道称苹果公司宣布在越南河内建立首个“苹果教育中心”，为组装 Mac、iPhone 和 Apple Vision Pro 等核心产品的当地供应链...",
+    "url": "https://www.ithome.com/0/995/340.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "谷歌出手应对 AI“吃内存”，将为安卓 App 内存占用等指标设立新门槛",
+    "summary": "IT之家 8 月 27 日消息，AI 数据中心快速扩张正引发内存芯片供应紧张，为此，谷歌将着手调整安卓应用的质量标准。本周公布的新要求中，有一项专门针对应用的内存占用和代码优化。谷歌解释称，移动设备行业目前正受到“严重的硬件供应限制”影响，...",
+    "url": "https://www.ithome.com/0/995/320.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "雷鸟 iO 智能眼镜官宣搭载恒玄科技 BES2800 芯片：6nm 工艺，集成双模蓝牙和低功耗 Wi-Fi 6",
+    "summary": "IT之家 8 月 27 日消息，恒玄科技官方宣布，雷鸟 iO 智能眼镜官宣搭载 BES2800 芯片。采用 6nm 工艺，超低功耗集成多核 CPU + 大容量存储，算力大幅提升集成双模蓝牙和低功耗 Wi-Fi 6据IT之家此前报道，雷鸟 i...",
+    "url": "https://www.ithome.com/0/995/309.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "一名微软工程师一个月的 AI 支出高达 2.8 万美元",
+    "summary": "在长时间鼓励之后，本月初微软开始要求员工限制 AI 使用。执行副总裁 Jay Parikh 在一封发给微软员工的邮件中要求工程师专注于业务成果，而非最大化 AI token 的使用量，为了“从 token 投资中获得更大的价值”，微软将比 ...",
+    "url": "https://www.solidot.org/story?sid=85216",
+    "source": "Solidot"
+  },
+  {
+    "title": "Meta将支付 170 亿美元和解儿童隐私保护诉讼，将限制青少年在特定时间访问社媒",
+    "summary": "Meta 与美国多州就儿童隐私和消费者保护案达成和解，同意向各州支付总额将近 167 亿美元和解金，以及对青少年用户施加一系列社媒使用限制，包括每天不能使用超过两小时。最具深远影响的和解条款是 Meta 同意实施一系列新的保障措施。这些措施...",
+    "url": "https://www.solidot.org/story?sid=85215",
+    "source": "Solidot"
+  },
+  {
+    "title": "亚马逊 AI 训练设施员工谈内部工作",
+    "summary": "404 Media 前不久跟踪一本珍本图书到亚马逊位于内华达州拉斯维加斯的一个仓库，在该仓库工作的亚马逊团队被称为 VGT3，其 logo 是一只张着嘴、手里拿着一本书的恐龙。他们的主要工作是拆开书脊扫描图书训练 AI。一名在该仓库的亚马逊...",
+    "url": "https://www.solidot.org/story?sid=85213",
+    "source": "Solidot"
+  },
+  {
+    "title": "LibreOffice 26.8 释出",
+    "summary": "The Document Foundation 宣布释出 LibreOffice 26.8，强调该版本不包含生成式 AI 功能，不会将文档传输到远程服务进行处理，各个组件也不需要网络访问就能运行。LibreOffice 26.8 最大的单项...",
+    "url": "https://www.solidot.org/story?sid=85211",
+    "source": "Solidot"
+  },
+  {
+    "title": "Apple Maps 加入广告",
+    "summary": "苹果的地图服务 Apple Maps 加入了广告。美国和加拿大用户的搜索结果顶部以及“推荐地点（suggested places）”部分会显示付费广告商家的名字。苹果表示，广告可能基于用户的大致位置、搜索词或正在查看的地图区域，但不会与用户...",
+    "url": "https://www.solidot.org/story?sid=85210",
+    "source": "Solidot"
+  },
+  {
+    "title": "机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」",
+    "summary": "具身智能的「ChatGPT 时刻」，看谁能更快走进现实...",
+    "url": "https://www.ifanr.com/1677048?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志",
+    "summary": "算力飞奔，内存掉队...",
+    "url": "https://www.ifanr.com/1676852?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  }
+]

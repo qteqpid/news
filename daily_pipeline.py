@@ -28,6 +28,7 @@ MODEL_STEP_EXIT = 2
 BUSY_EXIT = 3
 RUN_MARKER_DIR = ROOT / ".runtime"
 RUN_MARKER_PATH = RUN_MARKER_DIR / "daily_pipeline_run.json"
+START_MARKER_DIR = RUN_MARKER_DIR / "daily_pipeline_started"
 RUN_LOG_PATH = ROOT / "news_log.txt"
 MODEL_STEP_STALE_SECONDS = 8 * 60 * 60
 
@@ -104,6 +105,22 @@ def clear_run_marker() -> None:
         pass
 
 
+def start_marker_path(date: str) -> Path:
+    return START_MARKER_DIR / date
+
+
+def has_start_marker(date: str) -> bool:
+    return start_marker_path(date).exists()
+
+
+def touch_start_marker(args: argparse.Namespace) -> bool:
+    START_MARKER_DIR.mkdir(parents=True, exist_ok=True)
+    path = start_marker_path(args.date)
+    existed = path.exists()
+    path.touch(exist_ok=True)
+    return not existed
+
+
 def is_active_marker(marker: dict[str, Any]) -> bool:
     state = marker.get("state")
     if state == "running":
@@ -161,6 +178,7 @@ def append_run_log(event: str, marker: dict[str, Any]) -> None:
 
 
 def acquire_run_marker(args: argparse.Namespace) -> tuple[dict[str, Any] | None, dict[str, Any] | None]:
+    touch_start_marker(args)
     existing = current_active_marker()
     if existing and existing.get("state") == "running" and not args.force:
         return None, existing
@@ -255,7 +273,7 @@ def cmd_hook_context(args: argparse.Namespace) -> int:
             state_text = "already running"
         message = (
             f"Daily report pipeline is {state_text}: {format_marker(active_marker)}. "
-            f"Do not start another fetch in this session. Wait for the active run to finish, or inspect "
+            f"Another session is handling it; do not start another fetch in this session. Proceed with the user's request, or inspect "
             f"`{RUN_MARKER_PATH}` if you need to verify whether the marker is stale."
         )
         print(
@@ -282,6 +300,27 @@ def cmd_hook_context(args: argparse.Namespace) -> int:
             continue
         bad = [check["path"] for check in source["checks"] if not check["ok"]]
         missing.append(f"{source['name']} ({', '.join(bad)})")
+
+    marker_path = start_marker_path(args.date)
+    if has_start_marker(args.date):
+        message = (
+            f"Daily report pipeline for {args.date} is already started by another session "
+            f"(marker: `{marker_path}`). Do not start another fetch in this session; proceed with the user's request."
+        )
+        print(
+            json.dumps(
+                {
+                    "hookSpecificOutput": {
+                        "hookEventName": "SessionStart",
+                        "additionalContext": message,
+                    }
+                },
+                ensure_ascii=False,
+            )
+        )
+        return 0
+
+    touch_start_marker(args)
 
     source_args = "".join(f" --source {shlex.quote(source)}" for source in args.source or [])
     run_command_text = f"python3 ~/my_repos/news/daily_pipeline.py run --date {shlex.quote(args.date)}{source_args}"
