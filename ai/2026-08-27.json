@@ -1,0 +1,500 @@
+[
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100...",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that ...",
+    "url": "https://openai.com/index/learning-never-stops",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Hugging Face incident and the road ahead",
+    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model securit...",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams t...",
+    "url": "https://openai.com/index/loveholidays",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Intelligence Age",
+    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the eco...",
+    "url": "https://openai.com/index/introducing-intelligence-age",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe....",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "source": "Google DeepMind"
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "summary": "",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Semantic Variability of Replies Across LLMs: Implications for Designing Conversation-Based Assessment",
+    "summary": "arXiv:2608.24920v1 Announce Type: new Abstract: This study examines whether LLM-generated replies remain semantically co...",
+    "url": "https://arxiv.org/abs/2608.24920",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline",
+    "summary": "arXiv:2608.24952v1 Announce Type: new Abstract: Systematic dialectal performance gaps in language models (LMs) are well ...",
+    "url": "https://arxiv.org/abs/2608.24952",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Unsupervised Post-Training of Foundation Models: A Survey",
+    "summary": "arXiv:2608.24982v1 Announce Type: new Abstract: Foundation-model post-training usually relies on human labels, preferenc...",
+    "url": "https://arxiv.org/abs/2608.24982",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Does Fine-Tuning Undo Activation Steering? Behavioural Recovery Without Weight-Edit Reversal",
+    "summary": "arXiv:2608.24988v1 Announce Type: new Abstract: Activation steering can be embedded directly into a language model's wei...",
+    "url": "https://arxiv.org/abs/2608.24988",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "The Imperfective Paradox Is Not Necessarily in Large Language Models: A Benchmark Failure Before a Model Failure",
+    "summary": "arXiv:2608.25005v1 Announce Type: new Abstract: The imperfective paradox provides a useful test of compositional semanti...",
+    "url": "https://arxiv.org/abs/2608.25005",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "A Primer on Computational Semantics for Artificial Intelligence Systems",
+    "summary": "arXiv:2608.25022v1 Announce Type: new Abstract: As people adopt transformer-based language models (e.g., ChatGPT and Gem...",
+    "url": "https://arxiv.org/abs/2608.25022",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Behind the [MASK]: Disentangling Representation and Faithfulness in DAPF-Based Dementia Detection",
+    "summary": "arXiv:2608.25028v1 Announce Type: new Abstract: Spoken-language analysis via prompt-based domain-adaptive models is a pr...",
+    "url": "https://arxiv.org/abs/2608.25028",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "DataKernelBench: Can LLMs Optimize Database Queries on GPUs?",
+    "summary": "arXiv:2608.25061v1 Announce Type: new Abstract: GPUs increasingly accelerate database systems, but query-specific peak p...",
+    "url": "https://arxiv.org/abs/2608.25061",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "AI Agents Push Humans Out of the Loop",
+    "summary": "arXiv:2608.23642v1 Announce Type: new Abstract: AI agents pose significant risks as they are granted increasing autonomy...",
+    "url": "https://arxiv.org/abs/2608.23642",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
+    "summary": "arXiv:2608.23643v1 Announce Type: new Abstract: Artificial intelligence is increasingly being introduced into healthcare...",
+    "url": "https://arxiv.org/abs/2608.23643",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
+    "summary": "arXiv:2608.23644v1 Announce Type: new Abstract: Large language models (LLMs) are becoming routine instruments of scienti...",
+    "url": "https://arxiv.org/abs/2608.23644",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
+    "summary": "arXiv:2608.23646v1 Announce Type: new Abstract: Molecular embedding models can serve as foundational infrastructure for ...",
+    "url": "https://arxiv.org/abs/2608.23646",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Gated Activation Steering for Reducing Sycophancy & Hallucination in Medical Question Answering",
+    "summary": "arXiv:2608.23666v1 Announce Type: new Abstract: Sycophancy and hallucination are persistent failure modes of Large Langu...",
+    "url": "https://arxiv.org/abs/2608.23666",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
+    "summary": "arXiv:2608.23670v1 Announce Type: new Abstract: LLM-based agents execute multi-step tasks, but their behavioral structur...",
+    "url": "https://arxiv.org/abs/2608.23670",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+    "summary": "arXiv:2608.23691v1 Announce Type: new Abstract: We study autonomous mathematical discovery in the Station, an open-world...",
+    "url": "https://arxiv.org/abs/2608.23691",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Do LLMs Understand Limit Order Book Dynamics?",
+    "summary": "arXiv:2608.23706v1 Announce Type: new Abstract: A large language model (LLM) trained on synthetic limit order book (LOB)...",
+    "url": "https://arxiv.org/abs/2608.23706",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Dynamic Influence-Weighted Distillation for Single-IMU Activity Recognition",
+    "summary": "arXiv:2608.24904v1 Announce Type: new Abstract: Inertial sensors at multiple body locations can improve activity recogni...",
+    "url": "https://arxiv.org/abs/2608.24904",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "GreenLeaf Law Embed Tiny: A Compact Embedding Model for Legal Domain Retrieval",
+    "summary": "arXiv:2608.24936v1 Announce Type: new Abstract: We present GreenLeaf Law Embed Tiny, a 0.6B parameter embedding model fo...",
+    "url": "https://arxiv.org/abs/2608.24936",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "ExFold: Unified Expert Folding for Training-Free MoE Prefill-Decode Acceleration",
+    "summary": "arXiv:2608.24938v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) models scale capacity for strong quality while ...",
+    "url": "https://arxiv.org/abs/2608.24938",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study",
+    "summary": "arXiv:2608.24940v1 Announce Type: new Abstract: Partial differential equations (PDEs) often have high-frequency and mult...",
+    "url": "https://arxiv.org/abs/2608.24940",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "FAMPWQ: Fisher Information-based Adaptive Mixed Precision Weight Quantization for Effective LLM Inference",
+    "summary": "arXiv:2608.24945v1 Announce Type: new Abstract: Recent years have witnessed remarkable achievements of Large Language Mo...",
+    "url": "https://arxiv.org/abs/2608.24945",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "MacroAgent: Regularity-Aware Macro Legalization with LLM-Agent-Designed Contour Algorithms",
+    "summary": "arXiv:2608.24946v1 Announce Type: new Abstract: Macros constitute a large part of the core area in modern very large-sca...",
+    "url": "https://arxiv.org/abs/2608.24946",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "CAT-GS: Balanced Multimodal Learning via Calibrated Gating and Fusion Surgery",
+    "summary": "arXiv:2608.24947v1 Announce Type: new Abstract: End-to-end training of multimodal neural networks often exhibits unstabl...",
+    "url": "https://arxiv.org/abs/2608.24947",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Demystifying Reinforcement Learning Post-Training of Language Models",
+    "summary": "arXiv:2608.24949v1 Announce Type: new Abstract: Reinforcement learning (RL) post-training has emerged as a powerful fram...",
+    "url": "https://arxiv.org/abs/2608.24949",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company t...",
+    "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "OpenAI’s rogue AI model incident was worse than we thought",
+    "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and mor...",
+    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+    "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI op...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to commun...",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor...",
+    "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Raised on AI",
+    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birt...",
+    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smart...",
+    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+    "summary": "Report shows Meta's challenges replacing people with AI agents....",
+    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would...",
+    "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+    "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring pri...",
+    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partn...",
+    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+    "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk....",
+    "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak....",
+    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+    "summary": "Consumer AI apps need to stop making users learn their product architecture....",
+    "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "How do we explain OpenAI’s executive exodus?",
+    "summary": "Was Greg Brockman the right executive all along?...",
+    "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to d...",
+    "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "All the ways Instagram and Facebook are changing for teens",
+    "summary": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general ...",
+    "url": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
+    "source": "The Verge"
+  },
+  {
+    "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
+    "summary": "If you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon...",
+    "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
+    "source": "The Verge"
+  },
+  {
+    "title": "Apple Maps has ads now",
+    "summary": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for ...",
+    "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
+    "source": "The Verge"
+  },
+  {
+    "title": "Apple announces September iPhone launch event",
+    "summary": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and sh...",
+    "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+    "source": "The Verge"
+  },
+  {
+    "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
+    "summary": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。...",
+    "url": "https://sspai.com/post/113873",
+    "source": "少数派"
+  },
+  {
+    "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+    "summary": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。...",
+    "url": "https://www.qbitai.com/2026/08/480079.html",
+    "source": "量子位"
+  },
+  {
+    "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+    "summary": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。...",
+    "url": "https://www.qbitai.com/2026/08/480005.html",
+    "source": "量子位"
+  },
+  {
+    "title": "AI视频应用井喷，美图打开新的增长空间",
+    "summary": "从图像到视频，美图找到了一门更赚钱的生意...",
+    "url": "https://www.qbitai.com/2026/08/479895.html",
+    "source": "量子位"
+  },
+  {
+    "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+    "summary": "AI内容创作者增长187%，相关节目数量增长239%...",
+    "url": "https://www.qbitai.com/2026/08/479811.html",
+    "source": "量子位"
+  },
+  {
+    "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+    "summary": "具身智能迈向GPT时刻...",
+    "url": "https://www.qbitai.com/2026/08/479834.html",
+    "source": "量子位"
+  },
+  {
+    "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
+    "summary": "长乐机场综保区智算中心全栈算电协同服务...",
+    "url": "https://www.qbitai.com/2026/08/479808.html",
+    "source": "量子位"
+  },
+  {
+    "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
+    "summary": "Agnes Video 2.5 Flash...",
+    "url": "https://www.qbitai.com/2026/08/479670.html",
+    "source": "量子位"
+  },
+  {
+    "title": "中科通量推出OmniMate BOX，以\"边缘智算主机+存量屏幕\"模式降低AI数字员工落地门槛",
+    "summary": "线下实体网点正经历一场静默的效率困局。一方面，人力成本刚性攀升，单厅月均运维成本达8至15万元；另一方面，客流波谷时段的人力空转与高频重复咨询造成的隐性浪费，每年可达20至40万元。越来越多网点管理者开始关注AI数字员工这一方案，但受限于云...",
+    "url": "https://www.leiphone.com/category/industrynews/HtkFHzPaTw8MU090.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "吃瓜！苹果为库克举办告别派对：罕见公开同性伴侣；DeepSeek前7个月营收达去年10倍，竟还亏损超7亿；腾讯高管回应「腾讯做AI慢了」质疑",
+    "summary": "要闻提示1.9月1日卸任！苹果为库克举办告别派对，罕见公开同性伴侣2.没想到！DeepSeek前7个月营收达去年10倍，竟还亏损超7亿3.突传裁员30%、降薪过万、校招劝退？中国电信、天翼云员工称「断崖式」收缩4.腾讯高管回应“腾讯做AI慢...",
+    "url": "https://www.leiphone.com/category/zaobao/5ofNaBQ6uGCe1odA.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源",
+    "summary": "8月26日晚，阿里发布并同步开源千问最新模型 Qwen3.8-Flash。该模型采用全新下一代架构，千亿总参数仅激活60亿（6B）即可获得超越Claude Opus4.6的前沿性能，创下模型效率的全球新基准。得益于架构和训练的全面革新，Qw...",
+    "url": "https://www.leiphone.com/category/industrynews/VOpEHzb65rOMv793.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "2026世界机器人大会落幕，谁在物理AI赛道抢跑？",
+    "summary": "物理AI的赛点时刻，是建立人机协同的信任。 作者丨倪 萍 编辑丨王瑞昊 过去几天，北京亦庄经历了一场机器人的狂欢。约6万平方米的展馆内，上千台形态各异的机器人忙着做菜、打球、递咖啡、分拣快递，甚至还有专门铲猫砂、处理猫毛的“机械铲屎官”。从...",
+    "url": "https://www.leiphone.com/category/transportation/D7jJzjiKAFgoKr5U.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "即梦 AI 推出内容厂牌“即梦片场”，探索 AI 影像发行新路径",
+    "summary": "8月26日，即梦AI正式推出影视内容厂牌“即梦片场”，面向电影、剧集项目开放征集，入选项目将获得算力、技术、资金、行业资源等多维支持。依托 “即梦片场” 的分级合作机制，即梦 AI 将携手影视公司、专业影视团队与 AI 内容创作者，共同探索...",
+    "url": "https://www.leiphone.com/category/industrynews/bVlL8Bsgh6GURrf7.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "一台GPU用了三年，为什么租金反而更贵了？",
+    "summary": "在AI芯片快速迭代的今天，上一代GPU并没有像传统硬件一样迅速贬值。“我们2023年部署的那批H100芯片，如今出租价格甚至高于最初上线时。”近日，云服务商Lambda联合创始人兼CTO Stephen Balaban在播客节目The MA...",
+    "url": "https://www.leiphone.com/category/chips/iKmV7NhGx4fLAb4v.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "英伟达Vera Rubin的Agent吞吐暴涨最高提升30倍，却不只靠GPU | Hot Chips 2026",
+    "summary": "在Agent推理上，英伟达又把性能往前推了一大步。Hot Chips 2026期间，英伟达披露了Vera Rubin NVL72最新Agent工作负载测试结果：在DeepSeek V4-Pro、单用户每秒160 Token的测试条件下，相比...",
+    "url": "https://www.leiphone.com/category/chips/LIUBrHLsZcZlyHwv.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "独家丨王云鹤创业估值数亿美元，押注多模型 Harness和 Agent-Native Model",
+    "summary": "雷峰网独家获悉，AI 基础设施公司基元律动（TokenRhythm）近日完成新一轮融资，截至目前累计融资金额达数千万美金。本轮融资由弘晖基金领投，聚合资本、尚势资本等机构参与。此前，公司已完成由 Granite Asia 领投，鼎晖 VGC...",
+    "url": "https://www.leiphone.com/category/yanxishe/HLyK0NtwB0N082Fl.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "以旧换新2.0：1875亿背后，钱流向了哪些新赛道",
+    "summary": "从手机家电到AI眼镜、适老化产品，补贴清单的扩容藏着怎样的产业风向？...",
+    "url": "https://www.tmtpost.com/8117306.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "单季1200亿资本开支，中国互联网的AI千亿豪赌",
+    "summary": "当中国云厂商的ROIC只有13%-20%，而大洋彼岸的美国同行却能赚到25%-50%时，中美AI算力投资的回报差距，最终会以什么形式收敛？...",
+    "url": "https://www.tmtpost.com/8117891.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "从数字化到AI：企业数智跃迁的路径、实践与挑战 | 2026 ITValue Summit前瞻：AI系统落地系列直播②",
+    "summary": "对企业来说，下一阶段更值得关注的，是如何找到真正有价值的场景，在可控范围内不断试验，并让技术、业务和人的角色在实践中重新磨合。...",
+    "url": "https://www.tmtpost.com/8118639.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "AI的账单，不只由科技公司买单",
+    "summary": "AI正在从一个技术变量，变成社会的资源配置变量...",
+    "url": "https://www.tmtpost.com/8118214.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "DeepSeek调价之后，谁走出了斩杀线？",
+    "summary": "一次调价，重新划定了大模型的竞争边界...",
+    "url": "https://www.tmtpost.com/8118102.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "「点头」：一旦执行可以交给AI，人还剩下什么",
+    "summary": "一家路边餐车用了十几年时间，从一辆挤不开身的拖车，变成能同时容纳两位厨师的大卡车。生意越做越大，厨房的朝向却把人和顾客隔得越来越远。真正让一个厨师变成老板的，从来不是生意做大了，而是他终于有机会转过身来，看见站在窗口外的人。这篇文章讲的是同...",
+    "url": "https://www.tmtpost.com/8116759.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "英伟达同意以 129 亿美元收购 Hugging Face",
+    "summary": "The Information 报道，英伟达同意以 129 亿美元收购 Hugging Face。这笔交易仍处于敲定阶段，仍有可能告吹。英伟达是 Hugging Face 的投资者，它在 2023 年参与了 Hugging Face 的 D...",
+    "url": "https://www.solidot.org/story?sid=85206",
+    "source": "Solidot"
+  },
+  {
+    "title": "澳大利亚是地球最安全的地方",
+    "summary": "人类面临无穷无尽的灾难：核战、气候变化、流行病、AI、超级火山喷发……如果发生了全球性灾难，什么地方最安全，能给你保留再见光明的机会？根据发表在《Global Challenges》上的一项研究，澳大利亚是最安全的地方。澳大利亚并不能免于全...",
+    "url": "https://www.solidot.org/story?sid=85204",
+    "source": "Solidot"
+  },
+  {
+    "title": "月之暗面与微软、亚马逊和 Google 协商收益分成协议",
+    "summary": "月之暗面正与微软、亚马逊和 Google 协商收益分成协议，协议将允许美国云巨头托管其旗舰模型 Kimi K3。如果协议达成，这将是中国 AI 公司与美国云巨头之间首个大型收益分成协议。这一协商也凸显了中国领先的、通常比美国同类产品更便宜的...",
+    "url": "https://www.solidot.org/story?sid=85201",
+    "source": "Solidot"
+  },
+  {
+    "title": "OpenAI 首款自研推理芯片 Jalapeño 强于英伟达 Blackwell",
+    "summary": "OpenAI 在 Hot Chips 上演示了其首款自研推理芯片 Jalapeño。该芯片由 OpenAI 与 Broadcom 联合研发，设计工作始于 2024 年，从组建团队到完成芯片流片仅用了约 16 个月。Jalapeño 并非专门...",
+    "url": "https://www.solidot.org/story?sid=85200",
+    "source": "Solidot"
+  },
+  {
+    "title": "OpenAI 的中场战事",
+    "summary": "当领先者不易，当追赶者更不易...",
+    "url": "https://www.ifanr.com/1676929?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的",
+    "summary": "8 亿美元 ARR 背后，MiniMax 的 Agent 基建与效率暗战....",
+    "url": "https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场",
+    "summary": "· ChatGPT Business 开放 Premium 席位，用量提高至 5 倍 · 顺丰回应薪酬结构调整：15% 纳入季度考核，不涉及一、二线员工 · 百度股东会通过双重主要上市相关决议...",
+    "url": "https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+    "summary": "造芯片，是大模型公司的必备素养...",
+    "url": "https://www.ifanr.com/1676824?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？",
+    "summary": "会让英伟达不开心...",
+    "url": "https://www.ifanr.com/1676738?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  }
+]
