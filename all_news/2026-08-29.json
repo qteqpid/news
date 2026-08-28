@@ -1,0 +1,680 @@
+[
+  {
+    "title": "anthropics/claude-plugins-official",
+    "summary": "[Stars: 35,000] [928 stars this week] [Language: Python] Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "source": "GITHUB"
+  },
+  {
+    "title": "VoltAgent/awesome-agent-skills",
+    "summary": "[Stars: 33,049] [2,324 stars this week] A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "source": "GITHUB"
+  },
+  {
+    "title": "Supporting Thailand's next generation of AI startups",
+    "summary": "OpenAI 与泰国高等教育、科学、研究和创新部推出 8 周加速器，支持 10 家健康、教育和生活方式方向的泰国 AI 创业公司。",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Trump's EPA wants to let data centers hide their air pollution",
+    "summary": "美国环保署拟调整空气许可规则，可能让数据中心部分污染排放信息更难被社区和公众追踪，引发围绕 AI 基础设施外部性的讨论。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "summary": "法院裁定特朗普政府早前将 Anthropic 列入供应链风险黑名单的做法违宪，AI 公司与政府采购、安全审查之间的边界继续被司法检验。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+    "summary": "MIT Technology Review 的 The Download 汇总抗衰药物、虚拟电厂等科技议题，呈现 AI 与能源、生命科学交叉的应用脉络。",
+    "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "How to sign up for a virtual power plant-and decide whether you should",
+    "summary": "文章解释用户如何加入虚拟电厂，以及家庭设备、电网调度和能源收益之间的权衡，侧面反映智能化能源系统正在走向普通用户。",
+    "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+    "summary": "执法机构逮捕两名疑似 TeamPCP 成员，该组织曾针对超过 1000 家机构发动供应链攻击，安全风险仍是 AI 代理和企业自动化落地的底层约束。",
+    "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "summary": "AI 云服务商 Lambda 获得 10 亿美元债务融资，用于采购更多 Nvidia AI 芯片并出租给微软，算力租赁继续呈现重资产扩张趋势。",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "summary": "Anthropic 研究者展示自动化系统在 10 个特定不当行为基准上持续提升表现，提示自我改进能力既有效率想象，也带来对齐和评测风险。",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Brave's browser one-ups Chrome with its new support for email aliases",
+    "summary": "Brave 浏览器新增邮箱别名支持，用户可在注册网站时隐藏真实邮箱，浏览器厂商继续把隐私能力产品化。",
+    "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Open-weight AI companies are the Valley's hottest acquisition targets",
+    "summary": "硅谷资本和大厂正在集中关注开放权重 AI 公司，围绕模型分发、生态入口和收购标的的竞争升温。",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "How Sweden built one of Europe's hottest startup ecosystems",
+    "summary": "TechCrunch 访谈解析瑞典创业生态，讨论本地资本、全球市场和人才网络如何支持欧洲创业公司成长。",
+    "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "More Americans oppose police license plate cameras than support them: survey",
+    "summary": "调查显示美国民众对警方车牌识别摄像头的反对超过支持，公共安全、隐私和自动化监控的矛盾继续升温。",
+    "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Friend-focused photo-sharing app Retro snags $21M",
+    "summary": "由前 Instagram 员工创立的熟人照片分享应用 Retro 获得 2100 万美元融资，社交产品继续寻找低噪声、私密关系链的新机会。",
+    "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apple TV is raising its subscription prices again",
+    "summary": "Apple TV 月费从 12.99 美元涨至 14.99 美元，流媒体服务继续通过涨价消化内容成本和增长压力。",
+    "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+    "summary": "The Verge 汇总 TCL mini-LED 电视及 Belkin 扩展坞等折扣，消费电子硬件仍围绕高刷、量子点和连接能力做促销。",
+    "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+    "source": "The Verge"
+  },
+  {
+    "title": "DLSS 5 leaked and modders are putting Nvidia's AI effects on everything",
+    "summary": "Nvidia DLSS 5 非官方版本泄露后，玩家将 AI 图形效果移植到多款游戏中，显示 AI 渲染能力对旧游戏生态也有外溢影响。",
+    "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+    "source": "The Verge"
+  },
+  {
+    "title": "The iPhone Fold could make concerts even worse",
+    "summary": "The Verge 播客讨论折叠 iPhone、M6 Mac mini、Meta 和 GTA 6 等话题，其中折叠屏手机被放入演唱会拍摄体验的消费文化语境。",
+    "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+    "source": "The Verge"
+  },
+  {
+    "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
+    "summary": "Apple TV 四年内第四次涨价，新老订阅用户月费升至 14.99 美元，流媒体业务的定价压力进一步显性化。",
+    "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
+    "source": "The Verge"
+  },
+  {
+    "title": "Apple TV's sci-fi thriller Dark Matter gets even trippier in season 2",
+    "summary": "The Verge 评价 Apple TV 科幻剧《Dark Matter》第二季，延续多重现实与悬疑叙事的复杂度。",
+    "url": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
+    "source": "The Verge"
+  },
+  {
+    "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
+    "summary": "少数派早报关注智谱开源 GLM-5.3-Flash、Perplexity AI Portable Computer 和明基 Creative Pro PV50 系列显示器等消息。",
+    "url": "https://sspai.com/post/113922",
+    "source": "少数派"
+  },
+  {
+    "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+    "summary": "《时代》周刊全球 AI 100 榜单引发关注，量子位聚焦智元机器人相关人物与中国 AI 机器人创业生态。",
+    "url": "https://www.qbitai.com/2026/08/480666.html",
+    "source": "量子位"
+  },
+  {
+    "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+    "summary": "量子位关注港股 AI 公司业绩，Agent 业务和 token 收入成为资本市场衡量 AI 商业化的新指标。",
+    "url": "https://www.qbitai.com/2026/08/480600.html",
+    "source": "量子位"
+  },
+  {
+    "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
+    "summary": "奇点智能技术大会北京站官宣，Łukasz Kaiser 等嘉宾将参与，国内 AI 技术会议继续围绕前沿模型和产业应用组织议程。",
+    "url": "https://www.qbitai.com/2026/08/480482.html",
+    "source": "量子位"
+  },
+  {
+    "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
+    "summary": "文章关注 Claude 与机械臂等物理系统结合的案例，AI 代理从屏幕内任务延伸到现实操作，安全和权限设计变得更关键。",
+    "url": "https://www.qbitai.com/2026/08/480487.html",
+    "source": "量子位"
+  },
+  {
+    "title": "上半年营收增30%，毛利增55%，佑驾创新盈利能力持续改善",
+    "summary": "佑驾创新发布 2026 年中期业绩，营收和毛利增长、亏损收窄，无人车业务放量，汽车智能化公司进入盈利质量考验期。",
+    "url": "https://www.leiphone.com/category/industrynews/813poadxB0Dhb82w.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Anthropic 再定统一标准：MHS，打通 AI 与物理世界的统一接口",
+    "summary": "Anthropic 发布 MHS，试图为 AI 与物理世界交互建立统一接口，继 MCP 之后继续争夺智能体基础协议的话语权。",
+    "url": "https://www.leiphone.com/category/yanxishe/N12vFHlsL2JrdKYR.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "WRC2026 | 别急着给机器人更强「大脑」，先补上更省电的神经系统",
+    "summary": "文章从世界机器人大会切入，讨论类脑计算在机器人感知和低层控制中的价值，指出具身智能规模化必须解决能耗问题。",
+    "url": "https://www.leiphone.com/category/iot/wSd8yNXuuYwSg9hp.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "新云厂商发现，最赚钱的可能不是卖GPU",
+    "summary": "AI 云服务商从单纯出售 GPU 资源转向围绕算力建设、调度和服务能力变现，算力供给能力本身成为商业壁垒。",
+    "url": "https://www.leiphone.com/category/chips/3WOuErnlJ5cLepP7.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Anthropic、Moderna先后引爆舆论场，AI制药到底该奖励什么？",
+    "summary": "围绕 Anthropic 和 Moderna 的 AI 制药案例，文章讨论市场究竟应奖励算法能力、实验验证还是真实药物研发进展。",
+    "url": "https://www.leiphone.com/category/aihealth/rJaUKQDWe0u0pfDt.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "威科集团与蚂蚁健康达成战略合作，JCO等28本医学顶刊上线阿福医生版",
+    "summary": "威科集团与蚂蚁健康合作，将 28 本医学期刊接入阿福医生版，AI 医疗产品继续围绕临床知识和医生工作流扩展。",
+    "url": "https://www.leiphone.com/category/aihealth/KTUmk96pCdHsO4R5.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "首家“碰一下”机器人租赁体验店落地上海徐家汇！支付宝“碰一下”解锁机器人互动与租赁新体验",
+    "summary": "上海徐家汇落地机器人租赁体验店，接入支付宝“碰一下”能力，线下机器人消费和租赁场景开始尝试更低门槛交互。",
+    "url": "https://www.leiphone.com/category/industrynews/gE5Am1JMBQG2AjNJ.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Jalapeño 跑分炸场，GPU 推理路线开始分裂？",
+    "summary": "文章关注 OpenAI 自研推理芯片 Jalapeno 的公开跑分，Token 吞吐、延迟和能耗成为模型硬件竞争的新指标。",
+    "url": "https://www.leiphone.com/category/ai/B0TkvWHMs5AJIym6.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "豆包工作的办公棋局：飞书与豆包的合流",
+    "summary": "钛媒体分析豆包工作与飞书融合，认为字节正在围绕 AI 办公重构生产关系和组织协作入口。",
+    "url": "https://www.tmtpost.com/8121252.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "农夫山泉上半年茶饮料收入增长30.1%；古茗上半年营收增长31.9%，门店超1.4万家；滔搏获Sierra Designs中国市场独家运营权｜消研所周报",
+    "summary": "消费行业周报汇总茶饮、连锁零售和品牌运营动态，展示消费公司在增长、渠道和品类拓展上的最新变化。",
+    "url": "https://www.tmtpost.com/8121016.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "光本位科技完成数十亿元融资，估值达到近200亿元",
+    "summary": "光计算公司光本位科技完成数十亿元融资，估值接近 200 亿元，AI 算力链条上的新型计算路线继续获得资本押注。",
+    "url": "https://www.tmtpost.com/8120301.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "运动会大赢家智元，能复刻宇树4千亿神话吗？",
+    "summary": "钛媒体复盘智元机器人在世界人形机器人运动会后的资本想象，指出长期价值仍取决于量产、场景和生态兑现。",
+    "url": "https://www.tmtpost.com/8120094.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Cheaper AI Inference Drives Record Infrastructure Spending",
+    "summary": "文章指出等效 AI 推理成本下降的同时，科技公司仍在提高基础设施支出，说明需求扩张正在吸收效率改进。",
+    "url": "https://www.tmtpost.com/8120746.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "美图渴望重返青春",
+    "summary": "钛媒体分析美图在 AI 浪潮中的再定位，成熟互联网公司希望借 AI 找回更轻、更快的产品创新节奏。",
+    "url": "https://www.tmtpost.com/8120412.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "微软试图安抚内部员工：数据中心能对社会产生积极影响",
+    "summary": "微软内部文件试图回应员工对数据中心能耗、用水、碳排和社区影响的担忧，AI 基础设施建设面对更强社会沟通压力。",
+    "url": "https://www.ithome.com/0/995/822.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "OpenAI 开发“持久模式”智能体，Codex 将能够主动、长时间干活",
+    "summary": "报道称 OpenAI 正开发更主动、可长时间工作的 Codex 智能体，目标是让 AI 代理从等待指令转向持续推进复杂任务。",
+    "url": "https://www.ithome.com/0/995/818.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "长鑫存储开通微博首个关注小米手机，此前被曝是玄戒 O3 的 LPDDR6 内存核心合作伙伴",
+    "summary": "长鑫存储开通微博并关注小米手机，结合此前小米玄戒 O3 的 LPDDR6 合作传闻，国产存储与手机芯片供应链关系受关注。",
+    "url": "https://www.ithome.com/0/995/817.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "全国算力互联互通区域节点名单出炉，北京上海等 17 省市入围",
+    "summary": "工信部公布国家算力互联互通区域节点建设名单，北京、上海等 17 个省市入围，算力网络基础设施进入区域化推进阶段。",
+    "url": "https://www.ithome.com/0/995/814.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "长鑫科技：下半年全球 DRAM 产品供给紧缺格局仍将持续",
+    "summary": "长鑫科技在半年报中判断 2026 年下半年全球 DRAM 供给紧缺仍将延续，内存供需成为 AI 与终端设备共同面对的变量。",
+    "url": "https://www.ithome.com/0/995/812.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "极摩客 EVO-X5 Pro 迷你主机官宣：锐龙 AI Max+ PRO 495 处理器，IFA 2026 亮相",
+    "summary": "极摩客发布 EVO-X5 Pro 迷你主机预告，面向企业 AI 智能体和端侧 AI 需求，采用 AMD 锐龙 AI Max+ PRO 495 处理器。",
+    "url": "https://www.ithome.com/0/995/811.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "OpenAI 提交新请愿书，要求驳回苹果诉讼",
+    "summary": "OpenAI 向法院申请驳回苹果窃密诉讼，称苹果指控缺乏实际证据，AI 公司之间的人才流动和商业秘密争议继续发酵。",
+    "url": "https://www.ithome.com/0/995/810.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "英伟达 CEO 黄仁勋呼吁 AI 行业加强沟通：想建数据中心就得争取公众支持",
+    "summary": "黄仁勋表示 AI 行业需要更好地与社区沟通数据中心建设影响，算力扩张已从技术和资金问题扩展为公共关系问题。",
+    "url": "https://www.ithome.com/0/995/808.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "德国 Sovereign Tech 基金资助 Flatpak 逾 50 万欧元",
+    "summary": "德国 Sovereign Tech 基金将在两年内资助 Flatpak 超过 50 万欧元，帮助 Linux 应用打包和沙盒生态增强安全性。",
+    "url": "https://www.solidot.org/story?sid=85222",
+    "source": "Solidot"
+  },
+  {
+    "title": "IBM 推出双指令集处理器",
+    "summary": "IBM 在 Hot Chips 2026 上介绍双指令集处理器，将 Arm 生态引入 IBM Z 大型机，传统企业计算平台继续吸收新架构。",
+    "url": "https://www.solidot.org/story?sid=85221",
+    "source": "Solidot"
+  },
+  {
+    "title": "法国法庭认定辐射与空乘罹患乳腺癌相关",
+    "summary": "法国法院首次认定宇宙辐射是一名空乘罹患乳腺癌的职业因素，可能为相关职业健康诉讼提供先例。",
+    "url": "https://www.solidot.org/story?sid=85220",
+    "source": "Solidot"
+  },
+  {
+    "title": "Haiku R1/beta6 释出",
+    "summary": "开源 BeOS 继承项目 Haiku 发布 R1/beta6，距离上一 beta 已两年，桌面开源操作系统生态继续小步演进。",
+    "url": "https://www.solidot.org/story?sid=85219",
+    "source": "Solidot"
+  },
+  {
+    "title": "Google 要求 Android 应用开发商降低内存占用",
+    "summary": "Google 准备将 Android 应用内存占用纳入质量要求，背后是 AI 热潮引发的内存供应紧张和移动设备成本压力。",
+    "url": "https://www.solidot.org/story?sid=85218",
+    "source": "Solidot"
+  },
+  {
+    "title": "早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店",
+    "summary": "爱范儿早报汇总 iPhone 17 销量、GTA 6 实机演示、小鹏 Robotaxi、Anthropic 算力合同和 B 站业绩等科技商业动态。",
+    "url": "https://www.ifanr.com/1677210?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "为什么 AI 手机必须要有 AI 按键？| AG&I",
+    "summary": "文章讨论 AI 手机设置独立 AI 按键的产品逻辑，认为入口设计会影响用户调用 AI 能力的频率和心智。",
+    "url": "https://www.ifanr.com/1677238?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  },
+  {
+    "title": "Canada's economy grew by 3.3% in the second quarter, showing sharp recovery",
+    "summary": "Canada's economy grew by 3.3% in the second quarter, showing sharp recovery，12975 upvotes、656 comments，created: 2026-08-28，rank score: 19.50。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0pn4h/canadas_economy_grew_by_33_in_the_second_quarter/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "King Harald V of Norway has died at age 89",
+    "summary": "King Harald V of Norway has died at age 89，10313 upvotes、573 comments，created: 2026-08-28，rank score: 19.04。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0j859/king_harald_v_of_norway_has_died_at_age_89/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Putin sees U.S. as weakened by Iran war, intelligence reports say",
+    "summary": "Putin sees U.S. as weakened by Iran war, intelligence reports say，5589 upvotes、747 comments，created: 2026-08-27，rank score: 18.75。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w08t6b/putin_sees_us_as_weakened_by_iran_war/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "South Korea leans toward military conscription for women",
+    "summary": "South Korea leans toward military conscription for women，4233 upvotes、768 comments，created: 2026-08-28，rank score: 18.61。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0s9yu/south_korea_leans_toward_military_conscription/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Dolly Parton, country star and philanthropist who founded the book gifting program Dolly Parton's Imagination Library, dies aged 80",
+    "summary": "Dolly Parton, country star and philanthropist who founded the book gifting program Dolly Parton's Imagination Library, dies aged 80，13037 upvotes、174 comments，created: 2026-08-25，rank score: 17.25。",
+    "url": "https://www.reddit.com/r/books/comments/1vy7roi/dolly_parton_country_star_and_philanthropist_who/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Canadian city considers renaming Trump Avenue to \"Taco Avenue\"",
+    "summary": "Canadian city considers renaming Trump Avenue to \"Taco Avenue\"，3805 upvotes、241 comments，created: 2026-08-28，rank score: 16.92。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w13032/canadian_city_considers_renaming_trump_avenue_to/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Saab renews Canadian Gripen production pitch as orders mount",
+    "summary": "Saab renews Canadian Gripen production pitch as orders mount，2182 upvotes、338 comments，created: 2026-08-28，rank score: 16.78。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0ngct/saab_renews_canadian_gripen_production_pitch_as/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "John Grisham warns that publishers could get AI to write novels instead of paying authors as they were \"worried\" about a 30-year decline in the number of books Americans were reading",
+    "summary": "John Grisham warns that publishers could get AI to write novels instead of paying authors as they were \"worried\" about a 30-year decline in the number of books Americans were reading，1951 upvotes、370 comments，created: 2026-08-26，rank score: 16.52。",
+    "url": "https://www.reddit.com/r/books/comments/1vyxhqm/john_grisham_warns_that_publishers_could_get_ai/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Donations to Imagination Library requested in lieu of flowers for Dolly Parton",
+    "summary": "Donations to Imagination Library requested in lieu of flowers for Dolly Parton，13826 upvotes、89 comments，created: 2026-08-26，rank score: 16.48。",
+    "url": "https://www.reddit.com/r/books/comments/1vytvhm/donations_to_imagination_library_requested_in/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "AI-Generated Children's Stories Contain Bizarre Patterns",
+    "summary": "AI-Generated Children's Stories Contain Bizarre Patterns，2839 upvotes、363 comments，created: 2026-08-23，rank score: 16.47。",
+    "url": "https://www.reddit.com/r/books/comments/1vwf7lk/aigenerated_childrens_stories_contain_bizarre/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Full list: Here are the books an advocacy group wants pulled from Texas school libraries",
+    "summary": "Full list: Here are the books an advocacy group wants pulled from Texas school libraries，2072 upvotes、360 comments，created: 2026-08-23，rank score: 16.11。",
+    "url": "https://www.reddit.com/r/books/comments/1vw6ecu/full_list_here_are_the_books_an_advocacy_group/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "'Will send Netanyahu to hell’: Iran warns of ‘confrontation’ if US blockade continues",
+    "summary": "'Will send Netanyahu to hell’: Iran warns of ‘confrontation’ if US blockade continues，1374 upvotes、241 comments，created: 2026-08-28，rank score: 15.79。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0dnv8/will_send_netanyahu_to_hell_iran_warns_of/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Sweden to deploy fighter jets, war ships to Finland. Sweden's military will participate in the surveillance and protection of Finland's territory.",
+    "summary": "Sweden to deploy fighter jets, war ships to Finland. Sweden's military will participate in the surveillance and protection of Finland's territory.，3036 upvotes、111 comments，created: 2026-08-28，rank score: 15.56。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0oors/sweden_to_deploy_fighter_jets_war_ships_to/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Need recs for a lobotomy because I mistakenly read Verity",
+    "summary": "Need recs for a lobotomy because I mistakenly read Verity Ok I am lying. I did not mistakenly read it. I know Colleen Hoover's caliber, I was just curious why an oscar winning actress would produce and star in one of her books. Here is a rage and spoiler fill...，1078 upvotes、282 comments，created: 2026-08-26，rank score: 15.56。",
+    "url": "https://www.reddit.com/r/books/comments/1vyyz4j/need_recs_for_a_lobotomy_because_i_mistakenly/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "'Shocking' book about Putin's private life wins French literary prize",
+    "summary": "'Shocking' book about Putin's private life wins French literary prize，2082 upvotes、143 comments，created: 2026-08-28，rank score: 15.49。",
+    "url": "https://www.reddit.com/r/books/comments/1w0gxow/shocking_book_about_putins_private_life_wins/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "What Books did You Start or Finish Reading this Week?: August 24, 2026",
+    "summary": "Hi everyone! What are you reading? What have you recently finished reading? What do you think of it? We want to know! We're displaying the books found in this thread in the book strip at the top of the page. If you want the books you're reading included, use ...，158 upvotes、937 comments，created: 2026-08-24，rank score: 15.01。",
+    "url": "https://www.reddit.com/r/books/comments/1vwyf06/what_books_did_you_start_or_finish_reading_this/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "CIA chief did not threaten Russia with consequences for continuing war during Moscow visit",
+    "summary": "CIA chief did not threaten Russia with consequences for continuing war during Moscow visit，929 upvotes、165 comments，created: 2026-08-28，rank score: 14.90。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0jd1x/cia_chief_did_not_threaten_russia_with/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Ukraine needs to mobilise at least 30,000 people every month – Head of President's Office",
+    "summary": "Ukraine needs to mobilise at least 30,000 people every month – Head of President's Office，630 upvotes、188 comments，created: 2026-08-28，rank score: 14.75。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0u8pr/ukraine_needs_to_mobilise_at_least_30000_people/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
+    "summary": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato，856 upvotes、148 comments，created: 2026-08-27，rank score: 14.62。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0ahne/russia_says_uk_playing_with_fire_amid_reports_cia/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Iran says return to diplomacy ‘isn’t impossible’ — but all Mideast wars must end to reopen Hormuz",
+    "summary": "Iran says return to diplomacy ‘isn’t impossible’ — but all Mideast wars must end to reopen Hormuz，419 upvotes、184 comments，created: 2026-08-28，rank score: 14.28。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0mfmp/iran_says_return_to_diplomacy_isnt_impossible_but/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Japan births rise 0.8% in January-June, marking the first increase for the January-June period in 11 years",
+    "summary": "Japan births rise 0.8% in January-June, marking the first increase for the January-June period in 11 years，1008 upvotes、96 comments，created: 2026-08-28，rank score: 14.26。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0os7g/japan_births_rise_08_in_januaryjune_marking_the/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Convicted war criminal Ratko Mladic to be buried with full state honors",
+    "summary": "Convicted war criminal Ratko Mladic to be buried with full state honors，378 upvotes、150 comments，created: 2026-08-28，rank score: 13.88。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0kggg/convicted_war_criminal_ratko_mladic_to_be_buried/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "US nears deal to secure long-term access to Venezuela's oil reserves, sources say",
+    "summary": "US nears deal to secure long-term access to Venezuela's oil reserves, sources say，547 upvotes、107 comments，created: 2026-08-28，rank score: 13.82。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0v421/us_nears_deal_to_secure_longterm_access_to/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Report: US told mediators it will not return to terms of understanding with Iran",
+    "summary": "Report: US told mediators it will not return to terms of understanding with Iran，397 upvotes、133 comments，created: 2026-08-28，rank score: 13.79。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0pvgp/report_us_told_mediators_it_will_not_return_to/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Can’t sleep because I’m so angry over Haunting Adeline and Hunting Adeline.",
+    "summary": "Can’t sleep because I’m so angry over Haunting Adeline and Hunting Adeline. These books were just awful. Just terrible awful. But I desperately need to know WHY so many people love them. Why!?!?? To get a few things out of the way to begin with - bits and pie...，344 upvotes、206 comments，created: 2026-08-24，rank score: 13.64。",
+    "url": "https://www.reddit.com/r/books/comments/1vwv4x0/cant_sleep_because_im_so_angry_over_haunting/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Iceland’s Murder Rate Is Off the Charts — in Its Books, at Least",
+    "summary": "Iceland’s Murder Rate Is Off the Charts — in Its Books, at Least，1078 upvotes、77 comments，created: 2026-08-24，rank score: 13.46。",
+    "url": "https://www.reddit.com/r/books/comments/1vx1zff/icelands_murder_rate_is_off_the_charts_in_its/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Ship-to-ship oil transfers in Gulf of Oman reach 7.6M barrels per day as Arab nations bypass Strait of Hormuz",
+    "summary": "Ship-to-ship oil transfers in Gulf of Oman reach 7.6M barrels per day as Arab nations bypass Strait of Hormuz，608 upvotes、74 comments，created: 2026-08-28，rank score: 13.41。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0scjy/shiptoship_oil_transfers_in_gulf_of_oman_reach/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "Syria's top Druze leader calls community 'integral part of Israel'",
+    "summary": "Syria's top Druze leader calls community 'integral part of Israel'，462 upvotes、83 comments，created: 2026-08-28，rank score: 13.30。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0t0pb/syrias_top_druze_leader_calls_community_integral/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "These bookshops let Chinese readers question their country - now the doors are closing",
+    "summary": "These bookshops let Chinese readers question their country - now the doors are closing，1262 upvotes、62 comments，created: 2026-08-22，rank score: 13.03。",
+    "url": "https://www.reddit.com/r/books/comments/1vvcm1c/these_bookshops_let_chinese_readers_question/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "LeBlanc welcomes U.S. decision 'withdrawing positions' on language, culture",
+    "summary": "LeBlanc welcomes U.S. decision 'withdrawing positions' on language, culture，414 upvotes、75 comments，created: 2026-08-28，rank score: 12.96。",
+    "url": "https://www.reddit.com/r/worldnews/comments/1w0ccy1/leblanc_welcomes_us_decision_withdrawing/",
+    "source": "Reddit - News"
+  },
+  {
+    "title": "An app where adult kids manage their elderly parents' passwords",
+    "summary": "My parents are in their 80s and cannot manage passwords. Every tool I've found assumes the person using it is tech-savvy enough to understand what a \"vault\" is What I want: I set up their accounts from REMOTE, I store the passwords; they h...，70 upvotes、38 comments ，类型：讨论信号，评分：7.2/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1vit5w3/an_app_where_adult_kids_manage_their_elderly/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "What do you think about my app idea",
+    "summary": "Almost everyone has a dream in life, right? And that got me thinking: what if I created a social platform where people could start small, achievable missions that bring them closer to their dreams?Within each mission, we can document our p...，27 upvotes、60 comments ，类型：讨论信号，评分：7.1/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vafl01/what_do_you_think_about_my_app_idea/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I'm building an app that shows what your friends are down for on your home screen",
+    "summary": "I'm building an app that shows what your friends are down for on your home screen，25 upvotes、24 comments ，类型：竞品/新工具，评分：7.0/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vqmuv5/im_building_an_app_that_shows_what_your_friends/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "journaling app that turns your phone's data: photos/location/activity into one actual story of your day",
+    "summary": "I like the idea of journaling, but I find it difficult to actually do. When I open Apple Journal, there's basically a blank page staring at me. I can add photos, location, music, mood, and other things — but it all feels separate. The phot...，30 upvotes、16 comments ，类型：竞品/新工具，评分：6.8/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1vcwjf3/journaling_app_that_turns_your_phones_data/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I Have 2 App Ideas. Roast Them.",
+    "summary": "Idea #1: An AI Accountability AppAn AI accountability app that proactively checks in on you to see if you’re actually following through on your goals. It can ask for screenshots and other forms of reliable evidence as proof that you actual...，7 upvotes、33 comments ，类型：竞品/新工具，评分：6.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vkgcpf/i_have_2_app_ideas_roast_them/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "I made a list of App Store apps rated under 3 stars with 30+ reviews",
+    "summary": "I made a list of App Store apps rated under 3 stars with 30+ reviews，9 upvotes、11 comments ，类型：竞品/新工具，评分：6.1/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vqozat/i_made_a_list_of_app_store_apps_rated_under_3/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Looking for fun side quests! :)",
+    "summary": "a few friends and I are tinkering with a little game idea in our free time. The basic idea: you get random, small \"side quests\" for real life. Actual things you can go do, not fantasy quests. We're a bit stuck on the idea-generating part a...，4 upvotes、7 comments ，类型：痛点/需求，评分：5.9/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vuqofu/looking_for_fun_side_quests/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Making this a post instead of replying on the hundreds of \"what should I build next\" threads - just wanted to share",
+    "summary": "I have been freelancing for 10+ years, started well before covid. I see this \"what should i build next\" question everywhere, so instead of replying on each one, here's the one thing that actually worked for me. just my experience, might be...，60 upvotes、9 comments ，类型：讨论信号，评分：5.9/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vbyfm0/making_this_a_post_instead_of_replying_on_the/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Anyone else feel zero emotional connection to notes apps? (Thinking about building my own)",
+    "summary": "I’ve tried pretty much everything—Notion, Day One, Keep, Obsidian. They’re all great tools, but I just feel totally detached using them. To me, writing down thoughts is supposed to feel personal and have some weight to it. But most apps en...，6 upvotes、15 comments ，类型：竞品/新工具，评分：5.8/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vy08mk/anyone_else_feel_zero_emotional_connection_to/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Something I've been kicking around a lot - this is the best time ever to challenge the biggest tech players.",
+    "summary": "Take Amazon. Amazon *really* sucks now, which is a shame because it's a genuinely valuable tool that's been validated like crazy. The little things that I used Amazon for that I can't anymore are really basic: - A place where I can buy a d...，9 upvotes、10 comments ，类型：竞品/新工具，评分：5.7/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1vms4xw/something_ive_been_kicking_around_a_lot_this_is/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Invaders will take over your phone when you exceed your screen-time goal!",
+    "summary": "Invaders will take over your phone when you exceed your screen-time goal!，21 upvotes、15 comments ，类型：讨论信号，评分：5.7/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vfiq78/invaders_will_take_over_your_phone_when_you/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "What do you think of this guys?",
+    "summary": "What do you think of this guys?，27 upvotes、12 comments ，类型：讨论信号，评分：5.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vnvlt7/what_do_you_think_of_this_guys/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Would you use an app that reveals things you and your partner secretly want in common?",
+    "summary": "I'm kicking around an app idea and want some brutally honest opinions before I waste time building it. The basic idea: both partners privately answer a few questions about things they want, hope for, or would like to do in their relationsh...，7 upvotes、10 comments ，类型：竞品/新工具，评分：5.5/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vinurw/would_you_use_an_app_that_reveals_things_you_and/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "An app for collecting photos, videos, and birthday wishes from everyone at a party?",
+    "summary": "An app where people can upload photos, videos, and write a few messages to celebrate someone's birthday. Guests attending the party, or family members, can join and take photos to capture the moments, or leave a few wishes for the birthday...，9 upvotes、19 comments ，类型：讨论信号，评分：5.4/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1votbec/an_app_for_collecting_photos_videos_and_birthday/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Co-Parenting app - A way for divorced or separated parents to communicate about there child",
+    "summary": "There are parents who are separated and feel awkward/uncomfortable talking to each other about their child, or they might feel that their ex-partner doesn't share the information properly about itSo what if there was an app which bridged t...，11 upvotes、15 comments ，类型：讨论信号，评分：5.3/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vsj0vi/coparenting_app_a_way_for_divorced_or_separated/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Scan supermarket reciept for custom recipe suggestions",
+    "summary": "The idea is when you shop for food you can get recipies based on the food you have bought by scanning a code on the receipt on your phone or manually entering in some way. So if you have minced beef and a packet of pasta and tomatoes for e...，12 upvotes、12 comments ，类型：讨论信号，评分：5.2/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1vbcooz/scan_supermarket_reciept_for_custom_recipe/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "How do you keep track of important things in busy WhatsApp group chats?",
+    "summary": "Does anyone else struggle to keep track of important information in busy WhatsApp group chats? Whenever my friends and I plan a trip, event, or group outing, we create a WhatsApp group. At first everything is organized, but after a few day...，10 upvotes、13 comments ，类型：讨论信号，评分：5.1/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vfztv3/how_do_you_keep_track_of_important_things_in_busy/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Lock button on remotes",
+    "summary": "Can we please start making lock buttons on remotes so if you sit on it you don’t accidentally exit the app you’re streaming on ?，14 upvotes、10 comments ，类型：讨论信号，评分：5.1/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1vfqktb/lock_button_on_remotes/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "The 5-star rating system is missing something important: confidence",
+    "summary": "Many platforms use the now-ubiquitous 5-star rating system. But often you have to click around and dig deeper to find out whether that rating is based on 8 reviews, 10,000 reviews, or 1 million reviews — and then dig again to see whether t...，9 upvotes、12 comments ，类型：讨论信号，评分：5.0/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1vn8z81/the_5star_rating_system_is_missing_something/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Would you use a Pokémon GO-style app, but for discovering food?",
+    "summary": "m validating an app idea and would love some honest feedback. The idea is simple: You take a photo of your meal, the app identifies the food with AI, and you unlock a collectible card for that dish. Over time, you build your own food colle...，7 upvotes、14 comments ，类型：讨论信号，评分：5.0/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vgo1up/would_you_use_a_pokémon_gostyle_app_but_for/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "App where you can create anonymous forums for your workplace and coworkers",
+    "summary": "People vent a lot of frustration at work, it would be interesting if people could do that anonymously (or not) on their phone with everyone not just their small group they work with. So you could put up a QR code at work that people could ...，5 upvotes、8 comments ，类型：讨论信号，评分：4.9/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1w08xe9/app_where_you_can_create_anonymous_forums_for/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "build an anti-algorithm ‘Top of the Internet’ dashboard.",
+    "summary": "Why is there no “Top of the Internet this month”? Every major platform gives me a personalized algorithmic feed, but there seems to be no simple website where I can see: the biggest X posts this month the biggest Reddit posts the biggest T...，5 upvotes、13 comments ，类型：讨论信号，评分：4.8/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1vi9yi9/build_an_antialgorithm_top_of_the_internet/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "App idea: Call a friend to unlock your apps",
+    "summary": "I’ve been thinking about how most screen blockers don’t substitute social media with what social media is supposed to be: SOCIAL. Thesis is: instead of just blocking fake social interaction, what if you replaced it with calling real friend...，7 upvotes、10 comments ，类型：讨论信号，评分：4.7/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vsydka/app_idea_call_a_friend_to_unlock_your_apps/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "False Reconstructor?",
+    "summary": "I've always thought about the idea of a website where you'd enter a nonexistent English word, and it would display how earlier forms of that word would be like if the word existed. Like Early Modern English, Middle English, Old English, Pr...，5 upvotes、12 comments ，类型：讨论信号，评分：4.7/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1vq0snc/false_reconstructor/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Collaborative video app",
+    "summary": "I am thinking of developing an app which will let users record a short video of themselves and then invite his friend to add their clip to it. The app will stitch the two and create a combined clip. The sequence can go on and there can be ...，6 upvotes、10 comments ，类型：讨论信号，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vy2gm6/collaborative_video_app/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Idea for restaurants.",
+    "summary": "I'm 19 years old looking for any kind of advice regarding an idea i have for an app and website. My country hasn't really dipped its feet into the digitalization of every day life (especially in cities that aren't the capital) so I'm quest...，5 upvotes、11 comments ，类型：讨论信号，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vvsijh/idea_for_restaurants/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Would you use an app that tells you if people want the stuff around you—even if it isn’t for sale?",
+    "summary": "I’ve been sitting with this idea for a while and I’m curious whether it sounds genuinely useful or just interesting in my own head.The basic thought:There are probably millions of physical things sitting in people’s homes that somebody els...，8 upvotes、3 comments ，类型：竞品/新工具，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/AppIdeas/comments/1vthcxr/would_you_use_an_app_that_tells_you_if_people/",
+    "source": "Reddit - Apps"
+  },
+  {
+    "title": "Browser Plugin or alternative YouTube client to filter videos with sponsorships",
+    "summary": "As a YouTube user, I do not want to watch any video that \"includes paid promotion\". There are ways to skip the sponsored segment while watching videos, and there is at least one plugin that hides the notice that a video includes paid promo...，4 upvotes、12 comments ，类型：讨论信号，评分：4.6/10。",
+    "url": "https://www.reddit.com/r/SomebodyMakeThis/comments/1vdcont/browser_plugin_or_alternative_youtube_client_to/",
+    "source": "Reddit - Apps"
+  }
+]

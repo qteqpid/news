@@ -1,0 +1,16 @@
+[
+  {
+    "title": "anthropics/claude-plugins-official",
+    "link": "https://github.com/anthropics/claude-plugins-official",
+    "summary": "[Stars: 35,000] [928 stars this week] [Language: Python] Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "published": "2026-08-29",
+    "dedupe_id": "github:anthropics/claude-plugins-official"
+  },
+  {
+    "title": "VoltAgent/awesome-agent-skills",
+    "link": "https://github.com/VoltAgent/awesome-agent-skills",
+    "summary": "[Stars: 33,049] [2,324 stars this week] A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+    "published": "2026-08-29",
+    "dedupe_id": "github:voltagent/awesome-agent-skills"
+  }
+]
