@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "summary": "OpenAI 表示，在 Cursor 被 SpaceX 收购后，将停止向其提供 OpenAI 模型服务，原因是相关合同和服务条款边界发生变化。",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "summary": "Sony Music 和 Warner Chappell 在美国加州北区法院起诉 Anthropic，围绕训练数据、歌词版权和生成式 AI 输出展开新一轮音乐版权争议。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "summary": "文章记录音乐人如何追踪疑似 AI 生成音乐和冒名账号，显示音频生成工具成熟后，平台治理、版权识别和创作者信任正在承压。",
+    "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "summary": "TechCrunch 报道 Sony Music、Warner 对 Anthropic 的诉讼，称案件范围较广，并重点指向模型训练中的非法盗版和知识产权侵权指控。",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "summary": "TechBBQ 会议上，欧洲投资人、创业者和运营者围绕 AI 控制权、治理和产业主导权反复讨论，反映欧洲 AI 生态的焦虑与机会。",
+    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "summary": "前 a16z 生物科技负责人 Vijay Pande 介绍新基金 VZVC 的小而精策略，强调在 AI 原生生物科技投资中减少撒网、提高判断密度。",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+    "summary": "Theragun Sense 评测关注日常恢复和健康硬件体验，消费级健康设备继续把传感器、引导式恢复和轻量智能功能包装成高频场景。",
+    "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "summary": "Nvidia 的数据中心优势正从单块 GPU 扩展到网络、流量控制和系统级效率，AI 基础设施竞争进入整机和集群架构层面。",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+    "summary": "中国车企加速押注人形机器人，试图沿用电动车供应链、制造能力和智能化经验，寻找汽车之后的新利润曲线。",
+    "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Is the best way to watch a movie on a pair of sunglasses?",
+    "summary": "围绕 XREAL 智能眼镜的观影体验，文章讨论消费级 AR 眼镜是否能从显示外设走向家庭娱乐入口。",
+    "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+    "summary": "a16z 推出 11 亿美元 Machine Age 基金，重点投向芯片、内存、机器人和 AI 物理基础设施，资本继续从软件层外溢到硬件建设。",
+    "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+    "summary": "The Verge 介绍像素风徒步游戏 A Trail Tale，反映独立游戏在视觉叙事、慢节奏体验和户外题材上的持续探索。",
+    "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+    "source": "The Verge"
+  },
+  {
+    "title": "Google further buries search results under AI mode",
+    "summary": "Google 开始在部分搜索中自动展开页面顶部的 AI 摘要，传统搜索结果进一步被 AI 模式挤压，流量分发格局继续变化。",
+    "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+    "source": "The Verge"
+  },
+  {
+    "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+    "summary": "Xbox CEO Asha Sharma 将 Project Helix 描述为一个设备家族，暗示微软游戏硬件策略可能从单一主机转向更多形态组合。",
+    "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+    "source": "The Verge"
+  },
+  {
+    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+    "summary": "量子位指出，本地推理软件栈中数百个依赖包的微小差异都可能影响输出 token 和模型表现，本地部署稳定性并不只取决于模型权重。",
+    "url": "https://www.qbitai.com/2026/08/481372.html",
+    "source": "量子位"
+  },
+  {
+    "title": "去年归国的徐梦迪，成了清华姚班班主任",
+    "summary": "文章关注徐梦迪回国后成为清华姚班班主任的路径，从车辆工程到 AI 教学，呈现中国顶尖 AI 人才培养体系的新变化。",
+    "url": "https://www.qbitai.com/2026/08/481318.html",
+    "source": "量子位"
+  },
+  {
+    "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+    "summary": "量子位报道 Claude 参与训练和改进 Claude 的案例，低成本自动化研究员表现优于高价人类对照，引发对 AI 自我改进路径的关注。",
+    "url": "https://www.qbitai.com/2026/08/481223.html",
+    "source": "量子位"
+  },
+  {
+    "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+    "summary": "英特尔锐炫 Pro B70 凭借 32GB 显存切入 AI 漫剧创作流程，端侧内容生成硬件正在面向创作者场景做差异化。",
+    "url": "https://www.qbitai.com/2026/08/480787.html",
+    "source": "量子位"
+  },
+  {
+    "title": "从Data到Agent：华为云AI-Ready数据基础设施全链路能力亮相数博会",
+    "summary": "华为云在数博会展示 AI-Ready 数据基础设施，强调从数据治理、高质量数据集到 Agent 应用的全链路能力。",
+    "url": "https://www.leiphone.com/category/industrynews/5HSY98yO7OtW5EGw.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Sora 为什么输给 Codex？",
+    "summary": "雷峰网围绕 OpenAI 内部资源取舍讨论 Sora 与 Codex 的差异，指出 GPU 时间复用能力正在影响 AI 产品扩张速度。",
+    "url": "https://www.leiphone.com/category/ai/aolA6aSnqLoYTm3d.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Claude Code 额度回落：Agent 正在制造新的「祖传代码屎山」？",
+    "summary": "文章借 Claude Code 额度变化讨论 AI 编程代理的上下文断裂、维护责任和代码债务问题，指出 Agent 写代码后续可理解性成为新风险。",
+    "url": "https://www.leiphone.com/category/ai/5weAutjetefMob2a.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Cursor Origin 上线，GitHub 的老玩法还够用吗？",
+    "summary": "雷峰网分析 Cursor Origin 与代码协作入口变化，认为代码仓库正在从以人为中心转向人和 Agent 共同维护的新形态。",
+    "url": "https://www.leiphone.com/category/ai/BkzW0yPibWRl8D7U.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "Anthropic 技术栈里的「五宗罪」由何而来？",
+    "summary": "文章从低熵代码、上下文污染和错误回灌等角度拆解 Anthropic 技术栈争议，关注 AI 编程体验下降背后的工程系统问题。",
+    "url": "https://www.leiphone.com/category/ai/aOdmq7dqZFokTCzh.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "GPT、Claude 遭遇窃听门：换个模型就能让思维链不再隐身？",
+    "summary": "雷峰网报道主流 AI API 隐藏推理被还原的实验争议，提示链路安全、模型输出侧信道和推理隐私仍需更严格验证。",
+    "url": "https://www.leiphone.com/category/ai/SXiTNHh5eeN9ntTt.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "深度拆解 Muse Glimmer，24GB 显存跑 30B Agent，Meta 到底做了什么？",
+    "summary": "文章拆解 Meta Muse Glimmer 的 128K 上下文、30B 多模态 Agent 和推理加速能力，关注本地 Agent 的底层架构变化。",
+    "url": "https://www.leiphone.com/category/ai/88ezT7fiFNPJKWGx.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "【数智周报】OpenAI奥尔特曼：担心AI或被少数人控制，甚至摆脱人类控制；黄仁勋：AI已抵达产业拐点，彻底告别概念阶段；腾讯高管回应“腾讯做AI慢了”质疑",
+    "summary": "钛媒体周报汇总 AI 治理、Token 和机器人征税、内存紧缺、国产 AI 芯片及腾讯 AI 进展等一周关键产业信号。",
+    "url": "https://www.tmtpost.com/8121886.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
+    "summary": "文章梳理八大科技巨头在 AI 基础设施、入口、模型和生态上的投入分工，讨论万亿级 AI 投资到底由谁承担成本、谁捕获价值。",
+    "url": "https://www.tmtpost.com/8121824.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "美图赚到AI的钱了，然后呢",
+    "summary": "钛媒体分析美图 AI 商业化后的下一步，指出旧业务提供现金流，新 AI 产品承担估值和增长想象。",
+    "url": "https://www.tmtpost.com/8121821.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "关停五年后，虾米被阿里用AI“复活”了",
+    "summary": "阿里以 AI 方式重启虾米相关音乐业务，说明生成式 AI 正推动平台从音乐分发进入创作工具和生产入口。",
+    "url": "https://www.tmtpost.com/8121852.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Edge AI Daily 早报（8月30日）",
+    "summary": "早报汇总 WinUI 开源、OpenAI 终止向 SpaceX 旗下 Cursor 提供模型、Meta XR 操作系统等边缘 AI 与平台动态。",
+    "url": "https://www.tmtpost.com/8121865.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "八万亿中国人寿的科技进阶",
+    "summary": "中国人寿通过数智化把总资产规模优势转化为经营效率和风险管理能力，金融机构继续把 AI 与数据能力嵌入核心流程。",
+    "url": "https://www.tmtpost.com/8121809.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "硬科技，开始拯救商场了",
+    "summary": "文章讨论硬科技体验、机器人和智能设备如何为线下商场带来新流量，但真实转化仍要接受消费场景检验。",
+    "url": "https://www.tmtpost.com/8121664.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "收入暴涨20倍，壁仞科技杀疯了",
+    "summary": "壁仞科技收入大幅增长，国产 AI 芯片公司走到扭亏前夜，资本市场继续关注其交付能力和可持续盈利。",
+    "url": "https://www.tmtpost.com/8121667.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "全球仅 3 家能铸：马斯克 SpaceX 突破 AI 供电瓶颈，自产涡轮叶片提前 18 个月投运",
+    "summary": "SpaceX 计划在得州建设燃气轮机叶片制造能力，试图通过自研关键部件加速 AI 数据中心和能源基础设施建设。",
+    "url": "https://www.ithome.com/0/996/179.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "隆基绿能 2026 年上半年归母亏损 36.84 亿元，亏损同比扩大",
+    "summary": "隆基绿能半年报显示营收下滑、亏损扩大，新能源制造企业仍处于价格周期和产能调整压力之中。",
+    "url": "https://www.ithome.com/0/996/173.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "特斯拉车机系统有望接入 Grok Bot，打造移动 AI 工作站",
+    "summary": "特斯拉车机被发现可能接入 Grok Bot 和自主智能体平台，车载系统正在从信息娱乐入口扩展到移动 AI 工作空间。",
+    "url": "https://www.ithome.com/0/996/169.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "硅谷知名风投 a16z 成立新基金：筹集 11 亿美元，布局芯片、内存与机器人赛道",
+    "summary": "IT之家转述 a16z Machine Age 基金消息，重点关注芯片、内存和机器人等 AI 物理基础设施投资方向。",
+    "url": "https://www.ithome.com/0/996/136.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "大我 BIGME 推出 4G 通话阅读本 B6 Pro：6 英寸彩墨屏，到手价 2099 元",
+    "summary": "BIGME 推出支持 4G 通话的 6 英寸彩墨屏 AI 阅读器 B6 Pro，电子纸设备继续向通信、AI 阅读和便携办公融合。",
+    "url": "https://www.ithome.com/0/996/133.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "R 星确认：《GTA 6》发售时不会有微交易和生成式 AI",
+    "summary": "Rockstar 表示《GTA 6》首发不会加入微交易或生成式 AI，显示大型游戏公司对 AI 内容和商业化机制仍保持谨慎边界。",
+    "url": "https://www.ithome.com/0/996/132.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "日均峰值 11.3 起：报告称 2026 年已记录 1664 起 AI 失控事件，7 月环比增 93.76%",
+    "summary": "英国长期韧性中心报告称 2026 年已记录 1664 起 AI 安全事件，7 月数量显著上升，AI 事故监测正在从案例收集走向风险指标化。",
+    "url": "https://www.ithome.com/0/996/124.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "消息称百度智能云分拆平台产品事业部：MaaS 划入基础设施、Agent 独立成军",
+    "summary": "报道称百度智能云调整组织架构，将 MaaS 和千帆相关产品划入基础设施事业部，同时让 Agent 业务独立推进。",
+    "url": "https://www.ithome.com/0/996/123.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "Pixel 11 取消了对硬件 MTE 的支持",
+    "summary": "GrapheneOS 发现 Pixel 11 取消硬件内存标记扩展支持，影响其安全加固适配，也显示终端硬件安全特性可能因产品取舍而倒退。",
+    "url": "https://www.solidot.org/story?sid=85233",
+    "source": "Solidot"
+  },
+  {
+    "title": "中国账户试图悄悄煽动美国反数据中心情绪？",
+    "summary": "X/SpaceX 称约 200 个中国关联账号在社交平台上煽动美国反数据中心情绪，AI 基础设施争议正被纳入地缘政治叙事。",
+    "url": "https://www.solidot.org/story?sid=85232",
+    "source": "Solidot"
+  },
+  {
+    "title": "Debian 项目将允许以负责任的方式使用生成式 AI",
+    "summary": "Debian 社区投票决定允许负责任地使用生成式 AI 参与软件包、文档和维护工作，开源社区开始形成更务实的 AI 使用规则。",
+    "url": "https://www.solidot.org/story?sid=85229",
+    "source": "Solidot"
+  },
+  {
+    "title": "人形机器人的跑步方式与人类不同",
+    "summary": "北京人形机器人天工在机器人运动会上跑出百米 8.64 秒，文章指出机器人运动方式与人类不同，评价指标也应区分机械和生物能力。",
+    "url": "https://www.solidot.org/story?sid=85228",
+    "source": "Solidot"
+  }
+]
