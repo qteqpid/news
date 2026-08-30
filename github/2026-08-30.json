@@ -1,0 +1,30 @@
+[
+  {
+    "title": "omacom/omarchy",
+    "link": "https://github.com/omacom/omarchy",
+    "summary": "[Stars: 35,011] [6,475 stars this week] [Language: Shell] Beautiful, Modern & Opinionated Linux",
+    "published": "2026-08-30",
+    "dedupe_id": "github:omacom/omarchy"
+  },
+  {
+    "title": "ConardLi/garden-skills",
+    "link": "https://github.com/ConardLi/garden-skills",
+    "summary": "[Stars: 11,685] [1,154 stars this week] [Language: CSS] ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "published": "2026-08-30",
+    "dedupe_id": "github:conardli/garden-skills"
+  },
+  {
+    "title": "google/googletest",
+    "link": "https://github.com/google/googletest",
+    "summary": "[Stars: 39,351] [335 stars this week] [Language: C++] GoogleTest - Google Testing and Mocking Framework",
+    "published": "2026-08-30",
+    "dedupe_id": "github:google/googletest"
+  },
+  {
+    "title": "K-Dense-AI/scientific-agent-skills",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "summary": "[Stars: 38,198] [3,642 stars this week] [Language: Python] Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "published": "2026-08-30",
+    "dedupe_id": "github:k-dense-ai/scientific-agent-skills"
+  }
+]
