@@ -1,0 +1,30 @@
+[
+  {
+    "title": "THU-MAIC/OpenMAIC",
+    "link": "https://github.com/THU-MAIC/OpenMAIC",
+    "summary": "[Stars: 25,629] [2,085 stars this week] [Language: TypeScript] Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "published": "2026-08-31",
+    "dedupe_id": "github:thu-maic/openmaic"
+  },
+  {
+    "title": "asciimoo/hister",
+    "link": "https://github.com/asciimoo/hister",
+    "summary": "[Stars: 3,369] [1,006 stars this week] [Language: Go] Your own search engine",
+    "published": "2026-08-31",
+    "dedupe_id": "github:asciimoo/hister"
+  },
+  {
+    "title": "abi/screenshot-to-code",
+    "link": "https://github.com/abi/screenshot-to-code",
+    "summary": "[Stars: 76,577] [1,909 stars this week] [Language: Python] Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "published": "2026-08-31",
+    "dedupe_id": "github:abi/screenshot-to-code"
+  },
+  {
+    "title": "p-e-w/heretic",
+    "link": "https://github.com/p-e-w/heretic",
+    "summary": "[Stars: 29,416] [992 stars this week] [Language: Python] Fully automatic censorship removal for language models",
+    "published": "2026-08-31",
+    "dedupe_id": "github:p-e-w/heretic"
+  }
+]
