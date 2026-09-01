@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "summary": "Polimill 使用 OpenAI GPT 模型和 Codex 帮助日本地方政府检索、整理和复用行政知识，显示公共部门正在把生成式 AI 从试点推进到基础设施层。",
+    "url": "https://openai.com/index/polimill",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "A milestone in expanding access to AI",
+    "summary": "OpenAI 称 ChatGPT Ads 年化收入运行率达到 10 亿美元，并将广告业务扩展到全球；这意味着免费或低价 AI 服务的商业化支撑会进一步依赖广告入口。",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "source": "OpenAI News"
+  },
+  {
+    "title": "INSPIRE: An Internalize-Then-Improve Approach for Example-Driven Mathematical Reasoning",
+    "summary": "论文提出先内化示例、再改进推理的数学推理训练方法，关注如何让大模型从样例中稳定抽象解题策略。",
+    "url": "https://arxiv.org/abs/2608.27501",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "A Survey on Rubric-Guided Reinforcement Learning for Language Models",
+    "summary": "综述梳理基于评分细则的语言模型强化学习，把 RLHF 之后的奖励设计、评价标准和训练流程系统化。",
+    "url": "https://arxiv.org/abs/2608.27505",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "How Do Linear Probes Emerge? A Circuit-Tracing Framework with Concept-Targeted Attribution",
+    "summary": "论文用电路追踪和概念定向归因解释线性探针能力如何出现，试图把模型可解释性从相关性推进到机制层观察。",
+    "url": "https://arxiv.org/abs/2608.27510",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Trajectory-Level Speculative Decoding for Diffusion Language Models",
+    "summary": "研究面向扩散语言模型提出轨迹级 speculative decoding，以提高并行 token 生成场景下的推理效率。",
+    "url": "https://arxiv.org/abs/2608.27514",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages",
+    "summary": "论文指出子词分词会限制低资源语言迁移，并探索字节级分块来提升零样本跨语言泛化。",
+    "url": "https://arxiv.org/abs/2608.27658",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Knowing Before Answering: Decoding Language Models for Reliable RAG",
+    "summary": "研究关注 RAG 中检索信息不足时模型仍强行回答的问题，提出让模型在生成前判断知识是否充分的解码思路。",
+    "url": "https://arxiv.org/abs/2608.27661",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "First Make It Playable, Then Make It Good: Staged Interaction Learning for Small Dialogue-Game Agents",
+    "summary": "论文介绍 Qwen-GuidePlay-2B，通过分阶段交互学习训练小型对话游戏 Agent，先保证可玩性再优化表现。",
+    "url": "https://arxiv.org/abs/2608.27672",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "Below the Noise Floor: Bimodal Seed Collapse and Distinct Failure Modes in Small-Model Knowledge Distillation",
+    "summary": "研究小模型知识蒸馏中的种子坍缩和不同失败模式，提示蒸馏质量可能被随机初始化和任务路由细节显著影响。",
+    "url": "https://arxiv.org/abs/2608.27729",
+    "source": "arXiv cs.CL"
+  },
+  {
+    "title": "CareGraph: An Auditable Hybrid AI Framework for Evidence-Grounded Personalized Longitudinal Health Intelligence",
+    "summary": "CareGraph 提出可审计的混合 AI 健康智能框架，把个性化长期健康分析建立在证据链和可追溯决策之上。",
+    "url": "https://arxiv.org/abs/2608.27484",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Thinking Costs Tokens: When More Structure is Worth the Price",
+    "summary": "论文讨论在推理阶段加入搜索、验证等结构化步骤的 token 成本与收益，为何有些任务值得用更多计算换可靠性。",
+    "url": "https://arxiv.org/abs/2608.27506",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning",
+    "summary": "WM-R1 用强化学习训练 GUI Agent 推理并利用世界模型，目标是提升真实界面任务中的规划和执行能力。",
+    "url": "https://arxiv.org/abs/2608.27508",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "SETU: An Agentic Ecosystem for Multilingual, Persona-Aware Communication Coaching",
+    "summary": "SETU 面向企业培训提出多语言、人物画像感知的沟通教练 Agent 生态，强调可解释和可扩展的训练流程。",
+    "url": "https://arxiv.org/abs/2608.27524",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Nemotron 3.5 Content Safety Moderator: A Compact Multimodal, Multilingual, and Reasoning Enabled Content Safety Moderator",
+    "summary": "NVIDIA Nemotron 3.5 内容安全模型强调小型、多模态、多语言和推理能力，反映安全审核从文本过滤走向复杂上下文判断。",
+    "url": "https://arxiv.org/abs/2608.27548",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "LongGuard: Mechanistic Analysis and Training-Free Mitigation of Long-Context Failure in Safety Guardrails",
+    "summary": "LongGuard 分析长上下文下安全护栏失效的机制，并提出无需训练的缓解方法，适合长文档和 Agent 场景的风险控制。",
+    "url": "https://arxiv.org/abs/2608.27580",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Generative AI Expands the Intellectual Reach of Course Based Undergraduate Research Experiences (CUREs)",
+    "summary": "论文讨论生成式 AI 如何扩展本科生课程型研究体验，让更多学生参与研究设计、资料分析和跨学科探索。",
+    "url": "https://arxiv.org/abs/2608.27638",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "If Agents Were Angels, No Governance Would Be Necessary: Out-of-Band Policy Enforcement at a Trusted Tool Boundary",
+    "summary": "论文主张在可信工具边界执行外部策略，而不是只依赖 Agent 自律，为高权限代理系统提供更工程化的治理思路。",
+    "url": "https://arxiv.org/abs/2608.27646",
+    "source": "arXiv cs.AI"
+  },
+  {
+    "title": "Beyond Non-IID: Learner--Client Distribution Mismatch in Federated Learning",
+    "summary": "研究指出联邦学习中的问题不只是客户端数据非独立同分布，还包括学习器与客户端分布错配，影响部署效果评估。",
+    "url": "https://arxiv.org/abs/2608.27715",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
+    "summary": "论文探索用基础模型处理 EEG 数据辅助阿尔茨海默病诊断，体现医疗 AI 正从影像拓展到神经信号分析。",
+    "url": "https://arxiv.org/abs/2608.27719",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "The Calls are Coming from Inside the Model: Investigating Probe-based Detection of Tool-Calling Errors in LLMs",
+    "summary": "研究用模型内部状态探针检测工具调用错误，希望在 Agent 执行外部操作前提前识别风险。",
+    "url": "https://arxiv.org/abs/2608.27750",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Node-wise Feature Encoding for Neural Performance Prediction",
+    "summary": "论文提出节点级特征编码用于神经网络性能预测，面向资源受限部署时的架构搜索和效率评估。",
+    "url": "https://arxiv.org/abs/2608.27794",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Actionable CBFI: Integrating Structural Decomposition and Causal Counterfactual Recourse for Tabular Machine Learning",
+    "summary": "研究把结构分解和因果反事实建议结合起来，为表格机器学习提供更可执行的解释和改进路径。",
+    "url": "https://arxiv.org/abs/2608.27821",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+    "summary": "FedEHR-Agents 将联邦学习与 Agent 优化结合，用于自动化电子健康记录建模，兼顾数据隐私和模型适配。",
+    "url": "https://arxiv.org/abs/2608.27856",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Beyond Pairwise Graphs in Science: Hypergraph Adaptive Wavelet Operators for Parametric PDEs",
+    "summary": "论文面向参数化偏微分方程提出超图自适应小波算子，试图更好建模科学问题中的高阶关系。",
+    "url": "https://arxiv.org/abs/2608.27883",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "There and Back Again: Bidirectional Diffusion Bridges for Multimodality Translation",
+    "summary": "研究提出双向扩散桥用于多模态翻译，为文本、图像等模态之间的生成转换提供更一致的建模方法。",
+    "url": "https://arxiv.org/abs/2608.27885",
+    "source": "arXiv cs.LG"
+  },
+  {
+    "title": "Debian won't ban AI code from its Linux distribution",
+    "summary": "Debian 社区投票决定不禁止 AI 生成代码进入发行版，但要求开发者对贡献负责；开源社区对 AI 代码的治理开始转向责任制。",
+    "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "New York Governor Kathy Hochul thinks AI should be 'less evil'",
+    "summary": "纽约州州长 Kathy Hochul 在访谈中讨论 AI、数据中心、枪支和公共安全监管，折射地方政府对 AI 基础设施和风险治理的现实拉扯。",
+    "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "summary": "欧盟将把 ChatGPT 纳入更严格的 DSA 监管框架，要求 OpenAI 处理未成年人、心理健康和系统性风险等影响。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "summary": "Instagram 开始打击伪装成人类的 AI 账号，平台内容治理从垃圾内容识别进一步扩展到身份真实性和 AI 标识。",
+    "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+    "source": "AI News - The Verge"
+  },
+  {
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "summary": "MIT Technology Review 认为 Hugging Face 被入侵事件可能暴露 OpenAI 内部文化和安全流程问题，AI 公司安全治理继续受到审视。",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "source": "MIT Tech Review - AI"
+  },
+  {
+    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+    "summary": "印度初创 Alteon 获 Lachy Groom 支持，尝试研发可利用风能长期滞空的自主飞行器，硬科技创业继续与自动化和能源效率结合。",
+    "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI",
+    "summary": "Apple 称掌握前员工在加入 OpenAI 前窃取并销毁公司数据证据，AI 人才流动中的商业秘密和数据边界风险继续上升。",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.'s investment fund",
+    "summary": "报道称 Polymarket 从 1789 Capital 获得 3 亿美元投资，预测市场平台继续吸引政治、金融和加密资本关注。",
+    "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+    "summary": "a16z 在推出 11 亿美元新基金后又将增长基金扩至 85 亿美元，显示顶级风投仍在为 AI 和硬科技周期补充弹药。",
+    "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+    "summary": "由 Andreessen、Horowitz 和 Brockman 资助的组织计划投放数据中心相关政治广告，AI 基础设施正进入选举和公众叙事场。",
+    "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "FTC accuses Amazon of running a 'secret ad surcharge scheme' in new lawsuit",
+    "summary": "FTC 与 22 个州起诉 Amazon 被控通过秘密广告附加费抬高商家成本，平台广告定价透明度成为新一轮监管焦点。",
+    "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "summary": "美国国防部中央 AI 工具门户将接入 ChatGPT、Grok 和 Gemini 等模型，前沿 AI 正加速进入政府和国防工作流。",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+    "summary": "TechCrunch Disrupt 2026 开放 Side Event 申请，创业生态活动继续围绕 AI、硬科技和平台公司聚集社区。",
+    "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "The Google TV Streamer now costs $50 more",
+    "summary": "Google 将 4K Google TV Streamer 在美国涨价 50 美元，消费硬件价格压力继续传导到智能家居和娱乐设备。",
+    "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+    "source": "The Verge"
+  },
+  {
+    "title": "JMGO's very bright all-in-one projector looks ideal for gamers and sports",
+    "summary": "JMGO 推出面向海外市场的高亮度 4K 120Hz Google TV 投影仪，显示家庭娱乐硬件仍在围绕游戏和体育观看做高刷新升级。",
+    "url": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
+    "source": "The Verge"
+  },
+  {
+    "title": "FTC lawsuit alleges Amazon has been 'secretly and systematically' overcharging for ads",
+    "summary": "The Verge 跟进 FTC 对 Amazon 广告定价的诉讼，称平台被指长期系统性抬高广告费用并影响商家竞争。",
+    "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+    "source": "The Verge"
+  },
+  {
+    "title": "I went to the loneliest baseball game on Apple Vision Pro",
+    "summary": "The Verge 体验 Apple Vision Pro 首场沉浸式 MLB 直播，8K 3D 体育内容展示了空间计算的沉浸优势和社交孤独感。",
+    "url": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
+    "source": "The Verge"
+  },
+  {
+    "title": "Car owners want tech they can ignore",
+    "summary": "调查显示车主越来越希望车载科技自然、可靠、不打扰，汽车智能化竞争需要从堆功能转向降低交互负担。",
+    "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
+    "source": "The Verge"
+  },
+  {
+    "title": "Phil Schiller is leaving his biggest jobs at Apple",
+    "summary": "长期 Apple 高管 Phil Schiller 将卸任 App Store 和发布会等关键职责，苹果管理层继续进入新一轮交接周期。",
+    "url": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
+    "source": "The Verge"
+  },
+  {
+    "title": "Read Tim Cook's final message to Apple staff as CEO",
+    "summary": "The Verge 发布 Tim Cook 作为 Apple CEO 给员工的最后内部信，苹果进入最高管理层交接叙事的关键节点。",
+    "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
+    "source": "The Verge"
+  },
+  {
+    "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
+    "summary": "少数派早报汇总 OpenClaw 2.0、网易 CC 直播停运等产品动态，并提到可通过自然语言控制 Quote/0 摘录墨水屏的 DotSkill。",
+    "url": "https://sspai.com/post/114055",
+    "source": "少数派"
+  },
+  {
+    "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+    "summary": "量子位报道 AI 创业活动以高额奖金和实体空间吸引项目，资本正在用更主动的方式组织早期 AI 创业供给。",
+    "url": "https://www.qbitai.com/2026/08/481928.html",
+    "source": "量子位"
+  },
+  {
+    "title": "具身智能规模化落地的解法，鹿明摸索出来了",
+    "summary": "鹿明发布 NexCore，试图打通具身智能规模化落地所需的系统、数据和场景闭环，行业从演示转向持续运行指标。",
+    "url": "https://www.leiphone.com/category/robot/aDmmeg0GHDOQc0yR.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "WRC 上，我们看到的关于灵巧手的真相",
+    "summary": "雷峰网观察 WRC 灵巧手展区，指出混驱成为热门、触觉逐渐标配，而真正落地仍依赖低自由度和成本可控方案。",
+    "url": "https://www.leiphone.com/category/robot/524JbeGS3fgGgQeA.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0",
+    "summary": "瑞金医院与华为云发布 RuiPath 2.0，强化病理诊断、可解释性、罕见病数据训练和轻量部署，医疗 AI 继续走向专科模型。",
+    "url": "https://www.leiphone.com/category/aihealth/MSsFF8sisQuWPkHG.html",
+    "source": "雷峰网"
+  },
+  {
+    "title": "零售电商行业的AI落地困境",
+    "summary": "钛媒体分析零售电商中的 AI 落地难题，提醒企业不能只追工具热度，仍需围绕业务目标、组织流程和 ROI 重构。",
+    "url": "https://www.tmtpost.com/8123378.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "“生产力市场”大博弈",
+    "summary": "文章讨论互联网大厂反思 AI 落地问题后转向生产力市场，商业化竞争从模型发布进入具体工作流和付费场景。",
+    "url": "https://www.tmtpost.com/8123293.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "一周砸出140亿美元，黄仁勋的千亿AI版图",
+    "summary": "钛媒体梳理英伟达近期对 Hugging Face、Perplexity 等方向的密集押注，说明 Nvidia 正把优势从芯片扩展到 AI 生态和分发层。",
+    "url": "https://www.tmtpost.com/8123117.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了",
+    "summary": "文章称 OpenAI 大量采购 Mac mini 用于训练或强化学习相关任务，提示 AI 算力需求可能外溢到传统消费硬件集群。",
+    "url": "https://www.tmtpost.com/8123802.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "Edge AI Daily 早报（9月1日）",
+    "summary": "早报汇总 Hugging Face 机器人开源、苹果管理层交接、AI 能源矛盾、扩散语言模型和 SK 海力士等边缘 AI 与产业动态。",
+    "url": "https://www.tmtpost.com/8123640.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "【钛晨报】七部门打出扩消费“组合拳”：破汽车限购、推适老机器人、建AI消费场景等；华为上半年收入4678亿增9.55%，研发投入1213.8亿创新高；燧原科技发行价确定",
+    "summary": "钛晨报汇总扩消费政策、AI 消费场景建设、华为上半年研发投入、燧原科技发行价等宏观与科技产业信号。",
+    "url": "https://www.tmtpost.com/8123455.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "独家对话江口达雄：芯片涨价与AI热夹击，PlayStation如何守主机阵地",
+    "summary": "访谈讨论芯片涨价和 AI 内容竞争对 PlayStation 的压力，传统主机平台需要在成本、内容体验和年轻用户时间争夺中守住优势。",
+    "url": "https://www.tmtpost.com/8123349.html",
+    "source": "钛媒体"
+  },
+  {
+    "title": "谷歌多款智能家居硬件在美涨价，Google TV Streamer 机顶盒涨幅约 50%",
+    "summary": "Google 在美国上调多款 Nest 和 Google TV Streamer 智能家居硬件价格，称与零部件成本上涨有关。",
+    "url": "https://www.ithome.com/0/996/744.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "创意名人堂设立 65 年首次表彰企业品牌，苹果凭 50 年设计与传播创新入选",
+    "summary": "苹果成为 Creative Hall of Fame 设立 65 年来首个入选品牌，凸显其在设计、营销和品牌传播上的长期影响力。",
+    "url": "https://www.ithome.com/0/996/730.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "英伟达宣布向联发科投资 35 亿美元，在 AI、PC 芯片、汽车三大领域达成合作",
+    "summary": "NVIDIA 向联发科投资 35 亿美元，并在 AI 基础设施、本地 AI 计算和汽车芯片上深化合作，产业链绑定继续增强。",
+    "url": "https://www.ithome.com/0/996/728.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "苹果首款折叠手机 iPhone Ultra 预估本月发售，首批供应“极其有限”",
+    "summary": "报道称苹果首款折叠手机 iPhone Ultra 可能本月发布且首批供货紧张，折叠屏竞争将进入苹果生态观察期。",
+    "url": "https://www.ithome.com/0/996/722.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "亚马逊遭美国 FTC 牵头起诉：被控暗中抬高在线搜索广告价格，不当得利数百亿美元",
+    "summary": "FTC 联合 22 州起诉 Amazon，称其暗中抬高在线搜索广告价格并获取巨额不当利益，平台广告业务监管压力加码。",
+    "url": "https://www.ithome.com/0/996/720.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "华境 S 大六座 SUV 8 月交付 7306 台：连续 4 个月交付增长，售价 15.98 万元起",
+    "summary": "华境 S 大六座 SUV 8 月交付 7306 台并连续 4 个月增长，新能源车市场仍在以价格、空间和智能化配置拉动销量。",
+    "url": "https://www.ithome.com/0/996/718.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "苹果今秋 iPhone 18 Pro / Max 发布会预估下架 11 款设备，iPhone 16 去留存悬念",
+    "summary": "报道称苹果秋季发布会后可能下架多款旧设备，产品线调整将影响 iPhone、Apple Watch 和配件销售节奏。",
+    "url": "https://www.ithome.com/0/996/717.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "苹果 Vision Pro 首场沉浸式 MLB 直播：8K 3D 画面、180 度视野",
+    "summary": "苹果 Vision Pro 首次直播沉浸式 MLB 赛事，提供 8K 3D 和 180 度视野，体育直播成为空间视频的重要试验场。",
+    "url": "https://www.ithome.com/0/996/715.htm",
+    "source": "IT之家"
+  },
+  {
+    "title": "OpenShot 4.0 释出",
+    "summary": "OpenShot 4.0 增加录制视图、新特效和本地大模型对象选择追踪能力，开源视频编辑器开始把 AI 功能纳入创作流程。",
+    "url": "https://www.solidot.org/story?sid=85246",
+    "source": "Solidot"
+  },
+  {
+    "title": "Linux 7.3-rc1 释出",
+    "summary": "Linux 7.3-rc1 关闭合并窗口，新增 Ryzen AI Halo LED/RGB 驱动等特性，内核继续为新硬件和 AI PC 平台做适配。",
+    "url": "https://www.solidot.org/story?sid=85244",
+    "source": "Solidot"
+  },
+  {
+    "title": "Google 改变了其搜索结果的展示方式",
+    "summary": "Solidot 关注 Google 搜索结果链接和 AI Overview 展示变化，搜索分发、透明度和站点流量归因正在受到新的产品形态影响。",
+    "url": "https://www.solidot.org/story?sid=85242",
+    "source": "Solidot"
+  },
+  {
+    "title": "早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试",
+    "summary": "爱范儿早报汇总 Apple 管理层、Codex 活跃用户、OpenAI 额度、智能汽车实测和网易云音乐鸿蒙版等科技动态。",
+    "url": "https://www.ifanr.com/1677753?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿"
+  }
+]
