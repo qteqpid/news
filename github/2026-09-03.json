@@ -1,0 +1,44 @@
+[
+  {
+    "title": "bilawalsidhu/gods-eye-view",
+    "link": "https://github.com/bilawalsidhu/gods-eye-view",
+    "summary": "[Stars: 16,204] [10,679 stars this week] [Language: JavaScript] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "published": "2026-09-03",
+    "dedupe_id": "github:bilawalsidhu/gods-eye-view"
+  },
+  {
+    "title": "zedeus/nitter",
+    "link": "https://github.com/zedeus/nitter",
+    "summary": "[Stars: 14,080] [525 stars this week] [Language: Nim] Alternative Twitter front-end",
+    "published": "2026-09-03",
+    "dedupe_id": "github:zedeus/nitter"
+  },
+  {
+    "title": "jingyaogong/minimind",
+    "link": "https://github.com/jingyaogong/minimind",
+    "summary": "[Stars: 57,864] [2,669 stars this week] [Language: Python] 🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "published": "2026-09-03",
+    "dedupe_id": "github:jingyaogong/minimind"
+  },
+  {
+    "title": "calesthio/OpenMontage",
+    "link": "https://github.com/calesthio/OpenMontage",
+    "summary": "[Stars: 55,719] [5,078 stars this week] [Language: Python] World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "published": "2026-09-03",
+    "dedupe_id": "github:calesthio/openmontage"
+  },
+  {
+    "title": "colinhacks/zod",
+    "link": "https://github.com/colinhacks/zod",
+    "summary": "[Stars: 43,776] [252 stars this week] [Language: TypeScript] TypeScript-first schema validation with static type inference",
+    "published": "2026-09-03",
+    "dedupe_id": "github:colinhacks/zod"
+  },
+  {
+    "title": "punkpeye/awesome-mcp-servers",
+    "link": "https://github.com/punkpeye/awesome-mcp-servers",
+    "summary": "[Stars: 93,888] [1,017 stars this week] A collection of MCP servers.",
+    "published": "2026-09-03",
+    "dedupe_id": "github:punkpeye/awesome-mcp-servers"
+  }
+]
