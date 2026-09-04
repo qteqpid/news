@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Lakr233/vphone-cli",
+    "link": "https://github.com/Lakr233/vphone-cli",
+    "summary": "[Stars: 10,484] [2,137 stars this week] [Language: Swift]",
+    "published": "2026-09-05",
+    "dedupe_id": "github:lakr233/vphone-cli"
+  },
+  {
+    "title": "fmtlib/fmt",
+    "link": "https://github.com/fmtlib/fmt",
+    "summary": "[Stars: 25,455] [993 stars this week] [Language: C++] A modern formatting library",
+    "published": "2026-09-05",
+    "dedupe_id": "github:fmtlib/fmt"
+  },
+  {
+    "title": "majd/ipatool",
+    "link": "https://github.com/majd/ipatool",
+    "summary": "[Stars: 10,860] [847 stars this week] [Language: Go] Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+    "published": "2026-09-05",
+    "dedupe_id": "github:majd/ipatool"
+  },
+  {
+    "title": "MakazhanAlpamys/Soup",
+    "link": "https://github.com/MakazhanAlpamys/Soup",
+    "summary": "[Stars: 5,282] [1,812 stars this week] [Language: Python] Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "published": "2026-09-05",
+    "dedupe_id": "github:makazhanalpamys/soup"
+  },
+  {
+    "title": "OpenWhispr/openwhispr",
+    "link": "https://github.com/OpenWhispr/openwhispr",
+    "summary": "[Stars: 6,741] [642 stars this week] [Language: JavaScript] Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+    "published": "2026-09-05",
+    "dedupe_id": "github:openwhispr/openwhispr"
+  }
+]
