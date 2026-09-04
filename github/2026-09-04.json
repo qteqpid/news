@@ -1,0 +1,37 @@
+[
+  {
+    "title": "JetBrains/go-modern-guidelines",
+    "link": "https://github.com/JetBrains/go-modern-guidelines",
+    "summary": "[Stars: 3,118] [1,213 stars this week] [Language: Go] Help AI coding agents write modern Go",
+    "published": "2026-09-04",
+    "dedupe_id": "github:jetbrains/go-modern-guidelines"
+  },
+  {
+    "title": "Gitlawb/openclaude",
+    "link": "https://github.com/Gitlawb/openclaude",
+    "summary": "[Stars: 32,368] [1,389 stars this week] [Language: TypeScript] runs anywhere. uses anything",
+    "published": "2026-09-04",
+    "dedupe_id": "github:gitlawb/openclaude"
+  },
+  {
+    "title": "google-research/timesfm",
+    "link": "https://github.com/google-research/timesfm",
+    "summary": "[Stars: 30,731] [2,324 stars this week] [Language: Python] TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "published": "2026-09-04",
+    "dedupe_id": "github:google-research/timesfm"
+  },
+  {
+    "title": "debpalash/VoiceStudio",
+    "link": "https://github.com/debpalash/VoiceStudio",
+    "summary": "[Stars: 16,373] [3,902 stars this week] [Language: Python] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "published": "2026-09-04",
+    "dedupe_id": "github:debpalash/voicestudio"
+  },
+  {
+    "title": "handsomestWei/patent-disclosure-skill",
+    "link": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "summary": "[Stars: 7,220] [1,846 stars this week] [Language: Python] 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+    "published": "2026-09-04",
+    "dedupe_id": "github:handsomestwei/patent-disclosure-skill"
+  }
+]

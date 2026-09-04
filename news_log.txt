@@ -333,3 +333,6 @@
 2026-09-01 pipeline-finish date=2026-09-01 sources=* state=finished pid=49945 updated_at=2026-09-01T01:24:18+00:00
 2026-09-03 pipeline-start date=2026-09-03 sources=* state=running pid=97089 updated_at=2026-09-03T03:01:13+00:00
 2026-09-03 pipeline-waiting-for-model-step date=2026-09-03 sources=* state=waiting_for_model_step pid=97089 updated_at=2026-09-03T03:01:46+00:00
+2026-09-03 pipeline-marker-stale date=2026-09-03 sources=* state=waiting_for_model_step pid=97089 updated_at=2026-09-03T03:01:46+00:00
+2026-09-04 pipeline-start date=2026-09-04 sources=* state=running pid=2535 updated_at=2026-09-04T02:37:10+00:00
+2026-09-04 pipeline-waiting-for-model-step date=2026-09-04 sources=* state=waiting_for_model_step pid=2535 updated_at=2026-09-04T02:37:59+00:00
